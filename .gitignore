@@ -12,6 +12,11 @@ __pycache__/
 venv/
 .pytest_cache/
 .mypy_cache/
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
 
 # PHP
 vendor/
@@ -25,3 +30,25 @@ datasets/npz/
 # Talishar upstream clone — pin via README instead of vendoring.
 # Comment this out if you prefer to commit a pinned snapshot.
 talishar/
+
+# ML Models & Serialized Objects
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+*.joblib
+*.onnx
+
+# Environment & Secrets
+.env
+.env.local
+.env.php
+*.key
+*.pem
+
+# Logs & Experiment Tracking
+*.log
+runs/
+lightning_logs/
+wandb/
