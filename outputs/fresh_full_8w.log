@@ -1,0 +1,81 @@
+
+############ ITERATION 0 ############
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  [t_c00060008_ee6ad5_pod000] A vs D: 3-5 (draws=2, games=10) -> D
+  [t_c00060008_ee6ad5_pod000] A vs B: 6-4 (draws=0, games=10) -> A
+  [t_c00060008_ee6ad5_pod000] A vs E: 4-5 (draws=1, games=10) -> E
+  [t_c00060008_ee6ad5_pod000] A vs H: 8-2 (draws=0, games=10) -> A
+  [t_c00060008_ee6ad5_pod000] A vs G: 3-6 (draws=1, games=10) -> G
+  [t_c00060008_ee6ad5_pod000] A vs F: 7-3 (draws=0, games=10) -> A
+  [t_c00060008_ee6ad5_pod000] A vs C: 5-1 (draws=4, games=10) -> A
+  [t_c00060008_ee6ad5_pod000] B vs C: 7-5 (draws=0, games=12) -> B [win-by-2]
+  [t_c00060008_ee6ad5_pod000] B vs D: 2-8 (draws=0, games=10) -> D
+  [t_c00060008_ee6ad5_pod000] B vs E: 4-3 (draws=3, games=10) -> B
+  [t_c00060008_ee6ad5_pod000] B vs F: 4-1 (draws=5, games=10) -> B
+  [t_c00060008_ee6ad5_pod000] B vs H: 4-1 (draws=5, games=10) -> B
+  [t_c00060008_ee6ad5_pod000] B vs G: 0-10 (draws=0, games=10) -> G
+  [t_c00060008_ee6ad5_pod000] C vs D: 0-8 (draws=2, games=10) -> D
+  [t_c00060008_ee6ad5_pod000] C vs E: 0-10 (draws=0, games=10) -> E
+  [t_c00060008_ee6ad5_pod000] D vs E: 6-4 (draws=0, games=10) -> D
+  [t_c00060008_ee6ad5_pod000] D vs F: 10-0 (draws=0, games=10) -> D
+  [t_c00060008_ee6ad5_pod000] D vs G: 3-5 (draws=2, games=10) -> G
+  [t_c00060008_ee6ad5_pod000] C vs G: 0-10 (draws=0, games=10) -> G
+  [t_c00060008_ee6ad5_pod000] D vs H: 10-0 (draws=0, games=10) -> D
+  [t_c00060008_ee6ad5_pod000] C vs F: 8-6 (draws=0, games=14) -> C [win-by-2]
+  [t_c00060008_ee6ad5_pod000] E vs F: 5-1 (draws=4, games=10) -> E
+  [t_c00060008_ee6ad5_pod000] E vs G: 1-8 (draws=1, games=10) -> G
+  [t_c00060008_ee6ad5_pod000] E vs H: 3-2 (draws=5, games=10) -> E
+  [t_c00060008_ee6ad5_pod000] F vs G: 0-10 (draws=0, games=10) -> G
+  [t_c00060008_ee6ad5_pod000] F vs H: 2-3 (draws=5, games=10) -> H
+  [t_c00060008_ee6ad5_pod000] C vs H: 8-2 (draws=0, games=10) -> C
+  [t_c00060008_ee6ad5_pod000] G vs H: 10-0 (draws=0, games=10) -> G
+Round-robin t_c00060008_ee6ad5_pod000 (seed=767128606)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  G     c00060008_ee6ad5_pod000_zyggy_se      7-0-0       59-7-4
+   2  D     c00060008_ee6ad5_pod000_aurora_e      6-1-0      50-14-6
+   3  A     c00060008_ee6ad5_pod000_aurora_e      4-3-0      36-26-8
+   4  E     c00060008_ee6ad5_pod000_oscilio_      4-3-0     31-25-14
+   5  B     c00060008_ee6ad5_pod000_oscilio_      4-3-0     25-34-13
+   6  C     c00060008_ee6ad5_pod000_aurora_e      2-5-0      22-48-6
+   7  H     c00060008_ee6ad5_pod000_oscilio_      1-6-0     10-45-15
+   8  F     c00060008_ee6ad5_pod000_oscilio_      0-7-0     13-47-14
+Round-robin t_c00060008_ee6ad5_pod000 (seed=767128606)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  G     c00060008_ee6ad5_pod000_zyggy_se      7-0-0       59-7-4
+   2  D     c00060008_ee6ad5_pod000_aurora_e      6-1-0      50-14-6
+   3  A     c00060008_ee6ad5_pod000_aurora_e      4-3-0      36-26-8
+   4  E     c00060008_ee6ad5_pod000_oscilio_      4-3-0     31-25-14
+   5  B     c00060008_ee6ad5_pod000_oscilio_      4-3-0     25-34-13
+   6  C     c00060008_ee6ad5_pod000_aurora_e      2-5-0      22-48-6
+   7  H     c00060008_ee6ad5_pod000_oscilio_      1-6-0     10-45-15
+   8  F     c00060008_ee6ad5_pod000_oscilio_      0-7-0     13-47-14
+  champion: c00060008_ee6ad5_pod000_zyggy_seat6
+
+--- training (window=all) after iter 0 ---
+[iql-gameplay] 112897 transitions | |vocab|=167 | shaped=True window=all
+  step      0 loss=0.3577 (v=0.0273 q=0.0485 pi=0.2819)
+  step    400 loss=0.0807 (v=0.0001 q=0.0007 pi=0.0799)
+  step    800 loss=0.0476 (v=0.0004 q=0.0004 pi=0.0468)
+  step   1200 loss=0.0507 (v=0.0001 q=0.0003 pi=0.0503)
+  step   1600 loss=0.0513 (v=0.0001 q=0.0001 pi=0.0511)
+  step   2000 loss=0.0228 (v=0.0004 q=0.0005 pi=0.0219)
+  step   2400 loss=0.0566 (v=0.0001 q=0.0002 pi=0.0564)
+  step   2800 loss=0.0718 (v=0.0002 q=0.0003 pi=0.0713)
+  step   3200 loss=0.0535 (v=0.0002 q=0.0002 pi=0.0531)
+  step   3600 loss=0.0570 (v=0.0001 q=0.0001 pi=0.0568)
+  step   3999 loss=0.0511 (v=0.0001 q=0.0001 pi=0.0509)
+[iql-gameplay] saved -> outputs\models\_staging\iql_gameplay.pt (final loss 0.0511)
+[iql-draft] 504 pick transitions | |vocab|=174 | window=all
+  step      0 loss=1.5042 (v=0.0024 q=0.0089 pi=1.4929)
+  step    300 loss=1.2385 (v=0.0009 q=0.0093 pi=1.2283)
+  step    600 loss=0.3855 (v=0.0005 q=0.0003 pi=0.3848)
+  step    900 loss=0.0876 (v=0.0002 q=0.0001 pi=0.0874)
+  step   1200 loss=0.0150 (v=0.0001 q=0.0000 pi=0.0148)
+  step   1500 loss=0.0263 (v=0.0001 q=0.0000 pi=0.0262)
+  step   1800 loss=0.0056 (v=0.0001 q=0.0000 pi=0.0055)
+  step   2100 loss=0.0247 (v=0.0001 q=0.0000 pi=0.0246)
+  step   2400 loss=0.0026 (v=0.0002 q=0.0001 pi=0.0023)
+  step   2700 loss=0.0018 (v=0.0001 q=0.0000 pi=0.0016)
+  step   2999 loss=0.0122 (v=0.0001 q=0.0001 pi=0.0120)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0122)
+iteration 0 done in 2484s; gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt

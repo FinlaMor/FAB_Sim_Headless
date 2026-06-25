@@ -1,0 +1,524 @@
+{
+  "hero": "kassai_of_the_golden_sand",
+  "comment": "Imported from fabrary: '\ud83d\udcb8KASHAI' [Classic Constructed] deckId=01KTA67A7NHVFG23HWJWKNFEP1",
+  "equipment": [
+    "braveforge_bracers",
+    "cintari_saber",
+    "crown_of_dominion",
+    "grains_of_bloodspill",
+    "hot_streak",
+    "valiant_dynamo"
+  ],
+  "deck": [
+    "blade_flurry_red",
+    "blade_flurry_red",
+    "blade_flurry_red",
+    "blade_runner_red",
+    "blade_runner_red",
+    "blade_runner_red",
+    "blood_follows_blade_yellow",
+    "blood_follows_blade_yellow",
+    "blood_follows_blade_yellow",
+    "draw_swords_red",
+    "draw_swords_red",
+    "draw_swords_red",
+    "draw_swords_yellow",
+    "glint_the_quicksilver_blue",
+    "glint_the_quicksilver_blue",
+    "glint_the_quicksilver_blue",
+    "gorganian_tome",
+    "high_current_currency_blue",
+    "high_current_currency_blue",
+    "hit_and_run_blue",
+    "hit_and_run_blue",
+    "hit_and_run_blue",
+    "outland_skirmish_red",
+    "outland_skirmish_red",
+    "outland_skirmish_red",
+    "provoke_blue",
+    "provoke_blue",
+    "provoke_blue",
+    "sharpened_senses_yellow",
+    "sharpened_senses_yellow",
+    "sharpened_senses_yellow",
+    "slice_and_dice_red",
+    "slice_and_dice_red",
+    "slice_and_dice_red",
+    "slice_and_dice_yellow",
+    "slice_and_dice_yellow",
+    "slice_and_dice_yellow",
+    "spoils_of_war_red",
+    "spoils_of_war_red",
+    "spoils_of_war_red",
+    "trot_along_blue",
+    "trot_along_blue",
+    "trot_along_blue",
+    "unsheathed_red",
+    "unsheathed_red",
+    "unsheathed_red"
+  ],
+  "sideboard": [
+    "authority_of_ataya_blue",
+    "blood_on_her_hands_yellow",
+    "blood_on_her_hands_yellow",
+    "blood_on_her_hands_yellow",
+    "blunten_yellow",
+    "blunten_yellow",
+    "blunten_yellow",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "jagged_edge_red",
+    "jagged_edge_red",
+    "jagged_edge_red",
+    "pilfer_the_tomb_blue",
+    "raise_an_army_yellow",
+    "raise_an_army_yellow",
+    "riches_of_tropal_dhani_yellow",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sink_below_red",
+    "sink_below_red",
+    "take_it_on_the_chin_red",
+    "take_it_on_the_chin_red"
+  ],
+  "sideboard_equipment": [
+    "balance_of_justice",
+    "kabuto_of_imperial_authority",
+    "nullrune_hood"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 46,
+  "matchups": [
+    {
+      "matchupId": "01KTA9S86DKZCB0VZGDMKD0H3T",
+      "heroes": [
+        "arakni_marionette"
+      ],
+      "name": "Arakni, Marionette"
+    },
+    {
+      "matchupId": "01KTCEN50GRTMR3A6MET1HVX9A",
+      "heroes": [
+        "victor_goldmane_high_and_mighty"
+      ],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01KTCQMSXANXWXEH8B8TY9XD3C",
+      "heroes": [
+        "gravy_bones_shipwrecked_looter"
+      ],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KTDPAPN9AYA9R3QF81A4QTBY",
+      "heroes": [
+        "zyggy_starlight"
+      ],
+      "name": "Zyggy"
+    },
+    {
+      "matchupId": "01KTEKWNHYHQ5T93VEN47N6A5R",
+      "heroes": [
+        "oscilio_constella_intelligence"
+      ],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01KTEXK98FAZ5T5FMTJTXYZJ28",
+      "heroes": [
+        "vynnset_iron_maiden"
+      ],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01KTGKZRCTJKBVB5CY84GZV1PS",
+      "heroes": [
+        "rhinar_reckless_rampage"
+      ],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01KTGPM21ZSTBC7F4BP0PMNYCY",
+      "heroes": [
+        "aurora_legacy_of_tempest"
+      ],
+      "name": "Aurora"
+    },
+    {
+      "matchupId": "01KTGRJQR2GCT77S76VS99ZNJX",
+      "heroes": [
+        "fang_dracai_of_blades"
+      ],
+      "name": "Fang"
+    },
+    {
+      "matchupId": "01KTGS6X8RTT8V1FWY79K5C73D",
+      "heroes": [
+        "cindra_dracai_of_retribution"
+      ],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01KTHT59169AVKWH8C5JA061YN",
+      "heroes": [
+        "kassai_of_the_golden_sand"
+      ],
+      "name": "Kassai"
+    },
+    {
+      "matchupId": "01KTK9J4RBVJE0EEV72JM18AFK",
+      "heroes": [
+        "dorinthea_ironsong"
+      ],
+      "name": "Dorinthea"
+    },
+    {
+      "matchupId": "01KTKEE2J5E6HMZ6X52PN07RV4",
+      "heroes": [
+        "betsy_skin_in_the_game"
+      ],
+      "name": "Betsy"
+    },
+    {
+      "matchupId": "01KTKFGTSDCEYTRTVZMZK12Y0M",
+      "heroes": [
+        "kayo_underhanded_cheat"
+      ],
+      "name": "Kayo, RKO"
+    },
+    {
+      "matchupId": "01KTKGGEWX66PYM01BJKEEETKN",
+      "heroes": [
+        "prism_awakener_of_sol"
+      ],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KTPAZ7W7Z1CNHW6SWSD6968D",
+      "heroes": [
+        "puffin_hightail"
+      ],
+      "name": "Puffin"
+    },
+    {
+      "matchupId": "01KVD5G6JZEKDB8SKTMDD70EYP",
+      "heroes": [
+        "dash_io"
+      ],
+      "name": "Dash IO"
+    },
+    {
+      "matchupId": "01KVMW1B7DE5ZB9JXPDPPMJGM0",
+      "heroes": [
+        "marlynn_treasure_hunter"
+      ],
+      "name": "Marlynn"
+    },
+    {
+      "matchupId": "01KVQ13RS1KRFSWQRZE5QRPEH4",
+      "heroes": [
+        "arakni_huntsman"
+      ],
+      "name": "Arakni, Huntsman"
+    },
+    {
+      "matchupId": "01KVQA7VXMAA0GGC2JTTBMW6MK",
+      "heroes": [
+        "lyath_goldmane_vile_savant"
+      ],
+      "name": "Lyath"
+    },
+    {
+      "matchupId": "01KVQKQESAN05EYJNHVAX9PAFP",
+      "heroes": [
+        "katsu_the_wanderer"
+      ],
+      "name": "Katsu"
+    },
+    {
+      "matchupId": "01KVQKQESEQ79PYZKS4XTBG8KG",
+      "heroes": [
+        "fai_rising_rebellion"
+      ],
+      "name": "Fai"
+    }
+  ],
+  "matchup_quantities": {
+    "01KTA9S86DKZCB0VZGDMKD0H3T": {
+      "authority_of_ataya_blue": 0,
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "kabuto_of_imperial_authority": 1,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTHT59169AVKWH8C5JA061YN": {
+      "authority_of_ataya_blue": 1,
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 3,
+      "kabuto_of_imperial_authority": 1,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KVQ13RS1KRFSWQRZE5QRPEH4": {
+      "authority_of_ataya_blue": 1,
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 3,
+      "crown_of_dominion": 1,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 3,
+      "kabuto_of_imperial_authority": 0,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KVD5G6JZEKDB8SKTMDD70EYP": {
+      "authority_of_ataya_blue": 0,
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 0,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "gorganian_tome": 1,
+      "jagged_edge_red": 0,
+      "raise_an_army_yellow": 0,
+      "riches_of_tropal_dhani_yellow": 0,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KVQA7VXMAA0GGC2JTTBMW6MK": {
+      "authority_of_ataya_blue": 1,
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 3,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 3,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTCQMSXANXWXEH8B8TY9XD3C": {
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 1,
+      "pilfer_the_tomb_blue": 1,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTGS6X8RTT8V1FWY79K5C73D": {
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "gorganian_tome": 0,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTKGGEWX66PYM01BJKEEETKN": {
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 3,
+      "raise_an_army_yellow": 0,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 0
+    },
+    "01KTGKZRCTJKBVB5CY84GZV1PS": {
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 0,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 0,
+      "kabuto_of_imperial_authority": 0,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTPAZ7W7Z1CNHW6SWSD6968D": {
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "kabuto_of_imperial_authority": 0,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 1,
+      "sink_below_red": 2
+    },
+    "01KVMW1B7DE5ZB9JXPDPPMJGM0": {
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "raise_an_army_yellow": 1,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 0,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KVQKQESEQ79PYZKS4XTBG8KG": {
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 1,
+      "sink_below_red": 2
+    },
+    "01KVQKQESAN05EYJNHVAX9PAFP": {
+      "balance_of_justice": 1,
+      "blood_on_her_hands_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "riches_of_tropal_dhani_yellow": 0,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTCEN50GRTMR3A6MET1HVX9A": {
+      "blood_on_her_hands_yellow": 2,
+      "blunten_yellow": 0,
+      "crown_of_dominion": 1,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 3,
+      "kabuto_of_imperial_authority": 0,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 0,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTDPAPN9AYA9R3QF81A4QTBY": {
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 2,
+      "crown_of_dominion": 0,
+      "jagged_edge_red": 3,
+      "kabuto_of_imperial_authority": 1,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "sigil_of_solace_red": 1,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTEKWNHYHQ5T93VEN47N6A5R": {
+      "blood_on_her_hands_yellow": 3,
+      "crown_of_dominion": 0,
+      "jagged_edge_red": 3,
+      "nullrune_hood": 1,
+      "pilfer_the_tomb_blue": 0,
+      "raise_an_army_yellow": 0,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTGPM21ZSTBC7F4BP0PMNYCY": {
+      "blood_on_her_hands_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 0,
+      "kabuto_of_imperial_authority": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTEXK98FAZ5T5FMTJTXYZJ28": {
+      "blood_on_her_hands_yellow": 2,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 3,
+      "nullrune_hood": 1,
+      "riches_of_tropal_dhani_yellow": 0,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 0
+    },
+    "01KTK9J4RBVJE0EEV72JM18AFK": {
+      "blood_on_her_hands_yellow": 3,
+      "blunten_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 0,
+      "kabuto_of_imperial_authority": 1,
+      "raise_an_army_yellow": 0,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTKFGTSDCEYTRTVZMZK12Y0M": {
+      "blood_on_her_hands_yellow": 3,
+      "fate_foreseen_red": 2,
+      "jagged_edge_red": 3,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sigil_of_solace_red": 2,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    },
+    "01KTKEE2J5E6HMZ6X52PN07RV4": {
+      "blood_on_her_hands_yellow": 1,
+      "blunten_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "kabuto_of_imperial_authority": 1,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2
+    },
+    "01KTGRJQR2GCT77S76VS99ZNJX": {
+      "blunten_yellow": 3,
+      "crown_of_dominion": 0,
+      "fate_foreseen_red": 2,
+      "kabuto_of_imperial_authority": 1,
+      "raise_an_army_yellow": 2,
+      "riches_of_tropal_dhani_yellow": 1,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2,
+      "take_it_on_the_chin_red": 2
+    }
+  }
+}

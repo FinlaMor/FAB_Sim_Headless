@@ -1,0 +1,238 @@
+[selfplay] game 0000/1 seed=603500 winner=1 steps=346 dt=761.64s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782387120-560b0107.parquet
+[selfplay] game 0000/1 seed=600000 winner=1 steps=352 dt=1272.39s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782387631-9a65062a.parquet
+[selfplay] game 0000/1 seed=600500 winner=2 steps=381 dt=1292.70s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782387651-7089b775.parquet
+[selfplay] game 0000/1 seed=603000 winner=0 steps=800 dt=1657.42s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782388016-7708e945.parquet
+[selfplay] game 0000/1 seed=601000 winner=2 steps=567 dt=2069.86s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782388428-8978b166.parquet
+[selfplay] game 0000/1 seed=601500 winner=2 steps=550 dt=2123.72s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782388482-0ea98301.parquet
+[selfplay] game 0000/1 seed=607500 winner=1 steps=476 dt=1564.38s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782388686-d822006f.parquet
+[selfplay] game 0000/1 seed=607000 winner=1 steps=461 dt=1207.41s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782389223-6ec4a8de.parquet
+[selfplay] game 0000/1 seed=602000 winner=1 steps=537 dt=2893.88s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782389252-f0b986a5.parquet
+[selfplay] game 0000/1 seed=604000 winner=0 steps=800 dt=1703.09s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782389334-a0cc7b56.parquet
+[selfplay] game 0000/1 seed=602500 winner=1 steps=640 dt=3137.49s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782389496-4a8a10fa.parquet
+[selfplay] game 0000/1 seed=608000 winner=2 steps=278 dt=528.22s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782389862-80edf8b5.parquet
+[selfplay] game 0000/1 seed=605500 winner=1 steps=728 dt=1406.94s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782389889-6d7b6ec9.parquet
+[selfplay] game 0000/1 seed=605000 winner=1 steps=662 dt=1547.25s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782389975-9927b8f0.parquet
+[selfplay] game 0000/1 seed=604500 winner=0 steps=800 dt=2632.12s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782390283-adc21307.parquet
+[selfplay] game 0000/1 seed=606500 winner=2 steps=378 dt=1098.56s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782390594-5013c780.parquet
+[selfplay] game 0000/1 seed=611000 winner=2 steps=421 dt=1583.17s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782390807-7231b358.parquet
+[selfplay] game 0000/1 seed=615000 winner=1 steps=232 dt=530.59s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782391337-b07d9334.parquet
+[selfplay] game 0000/1 seed=612000 winner=1 steps=422 dt=1480.56s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782391343-29cb4f7c.parquet
+[selfplay] game 0000/1 seed=606000 winner=0 steps=800 dt=2647.28s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782391900-1dbcca21.parquet
+[selfplay] game 0000/1 seed=608500 winner=0 steps=800 dt=1619.77s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782391903-f1c91c12.parquet
+[selfplay] game 0000/1 seed=609000 winner=0 steps=800 dt=1988.72s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782391964-690ddeee.parquet
+[selfplay] game 0000/1 seed=616000 winner=1 steps=324 dt=638.52s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782391981-b66a7f36.parquet
+[selfplay] game 0000/1 seed=611500 winner=0 steps=800 dt=3599.20s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782392285-f79f33aa.parquet
+[selfplay] game 0000/1 seed=609500 winner=0 steps=800 dt=2410.52s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782392300-2120a118.parquet
+[selfplay] game 0000/1 seed=619000 winner=1 steps=648 dt=982.75s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782392320-410f3fd5.parquet
+[selfplay] game 0000/1 seed=620000 winner=1 steps=271 dt=629.33s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782392611-bda0ec71.parquet
+[selfplay] game 0000/1 seed=610500 winner=1 steps=490 dt=2054.02s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782392649-3d2d62bf.parquet
+[selfplay] game 0000/1 seed=615500 winner=1 steps=334 dt=462.55s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782392748-ef96b14f.parquet
+[selfplay] game 0000/1 seed=612500 winner=1 steps=334 dt=1068.97s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782392972-639020d2.parquet
+[selfplay] game 0000/1 seed=610000 winner=1 steps=314 dt=1280.22s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782393180-0ffe9776.parquet
+[selfplay] game 0000/1 seed=624000 winner=0 steps=800 dt=608.11s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782393219-3eabd6d3.parquet
+[selfplay] game 0000/1 seed=613000 winner=1 steps=566 dt=1303.03s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782393268-25127476.parquet
+[selfplay] game 0000/1 seed=616500 winner=2 steps=264 dt=463.67s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782393436-bc2983e6.parquet
+[selfplay] game 0000/1 seed=614500 winner=1 steps=276 dt=815.70s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782393464-b83c59d0.parquet
+[selfplay] game 0000/1 seed=619500 winner=0 steps=800 dt=793.22s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782393542-4ebf5d4d.parquet
+[selfplay] game 0000/1 seed=618500 winner=0 steps=203 dt=396.09s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782393861-517ddcb1.parquet
+[selfplay] game 0000/1 seed=628000 winner=2 steps=387 dt=703.12s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782393922-49fbe568.parquet
+[selfplay] game 0000/1 seed=613500 winner=0 steps=800 dt=1764.92s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782394065-9b94334c.parquet
+[selfplay] game 0000/1 seed=623000 winner=1 steps=559 dt=1800.41s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782394121-d1c22d6f.parquet
+[selfplay] game 0000/1 seed=620500 winner=1 steps=328 dt=863.23s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782394299-c75c887a.parquet
+[selfplay] game 0000/1 seed=617000 winner=2 steps=340 dt=1137.34s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782394405-f0420327.parquet
+[selfplay] game 0000/1 seed=614000 winner=1 steps=377 dt=1275.52s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782394456-b2329eb4.parquet
+[selfplay] game 0000/1 seed=632000 winner=2 steps=387 dt=873.41s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782394796-5cd20673.parquet
+[selfplay] game 0000/1 seed=624500 winner=0 steps=800 dt=709.28s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782395009-71195268.parquet
+[selfplay] game 0000/1 seed=617500 winner=2 steps=325 dt=1097.86s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782395163-14903176.parquet
+[selfplay] game 0000/1 seed=622500 winner=1 steps=409 dt=1390.38s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782395251-88cac75d.parquet
+[selfplay] game 0000/1 seed=623500 winner=1 steps=590 dt=1830.25s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782395372-50e3d37b.parquet
+[selfplay] game 0000/1 seed=618000 winner=0 steps=800 dt=1095.88s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782395552-cc11e46d.parquet
+[selfplay] game 0000/1 seed=628500 winner=2 steps=378 dt=673.58s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782395683-f417cb08.parquet
+[selfplay] game 0000/1 seed=621000 winner=1 steps=371 dt=1330.31s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782395736-615d2fa4.parquet
+[selfplay] game 0000/1 seed=621500 winner=2 steps=347 dt=1093.48s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782396257-5f28c0fe.parquet
+[selfplay] game 0000/1 seed=627000 winner=0 steps=800 dt=2347.38s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782396468-c1d2ead1.parquet
+[selfplay] game 0000/1 seed=632500 winner=2 steps=392 dt=893.45s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782396576-91b7003d.parquet
+[selfplay] game 0000/1 seed=636000 winner=0 steps=800 dt=1785.27s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782396581-5ffcbd1b.parquet
+[selfplay] game 0000/1 seed=625000 winner=1 steps=542 dt=855.03s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782396591-aaee6f85.parquet
+[selfplay] game 0000/1 seed=625500 winner=2 steps=495 dt=669.64s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782396926-0bcdafbe.parquet
+[selfplay] game 0000/1 seed=629000 winner=1 steps=228 dt=396.50s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782396987-7481a184.parquet
+[selfplay] game 0000/1 seed=626500 winner=1 steps=583 dt=1907.81s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782397159-5194b864.parquet
+[selfplay] game 0 failed: http://localhost:8001/step returned 500: {'error': 'array_splice(): Argument #2 ($offset) must be of type int, string given', 'type': 'TypeError'} (payload={'game_id': '636500153149558', 'action_id': 3})
+[selfplay] game 0000/1 seed=629500 winner=1 steps=242 dt=501.09s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782397428-36e3b31b.parquet
+[selfplay] game 0000/1 seed=622000 winner=2 steps=482 dt=1980.61s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782397533-74ccd78a.parquet
+[selfplay] game 0000/1 seed=630500 winner=1 steps=304 dt=509.98s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782397669-411d1a73.parquet
+[selfplay] game 0000/1 seed=631000 winner=2 steps=546 dt=1444.28s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782397913-41ee3e9e.parquet
+[selfplay] game 0000/1 seed=633000 winner=1 steps=460 dt=1004.23s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782397992-3ae02c87.parquet
+[selfplay] game 0000/1 seed=627500 winner=0 steps=800 dt=2690.59s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782398063-e9291ad9.parquet
+[selfplay] game 0000/1 seed=640000 winner=2 steps=639 dt=1664.56s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782398246-76709633.parquet
+[selfplay] game 0000/1 seed=634500 winner=2 steps=223 dt=606.05s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782398275-0376c9ee.parquet
+[selfplay] game 0000/1 seed=626000 winner=1 steps=293 dt=818.16s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782398351-91f2b46e.parquet
+[selfplay] game 0000/1 seed=630000 winner=1 steps=261 dt=559.59s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782398911-621925fd.parquet
+[selfplay] game 0000/1 seed=638500 winner=0 steps=800 dt=825.97s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782399101-a545288c.parquet
+[selfplay] game 0000/1 seed=637000 winner=1 steps=428 dt=1115.81s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782399108-0e099cdd.parquet
+[selfplay] game 0000/1 seed=633500 winner=0 steps=800 dt=1745.22s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782399173-05de4ace.parquet
+[selfplay] game 0000/1 seed=640500 winner=0 steps=800 dt=2257.55s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782399485-1accbbaf.parquet
+[selfplay] game 0000/1 seed=635000 winner=2 steps=457 dt=1797.91s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782399711-e6dfd6b9.parquet
+[selfplay] game 0000/1 seed=634000 winner=2 steps=247 dt=811.41s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782399722-c1893f24.parquet
+[selfplay] game 0000/1 seed=637500 winner=1 steps=234 dt=581.17s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782399754-23a423aa.parquet
+[selfplay] game 0000/1 seed=642500 winner=1 steps=328 dt=1233.97s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782400336-6c2f973e.parquet
+[selfplay] game 0000/1 seed=644000 winner=2 steps=500 dt=2321.84s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782400568-d7126d75.parquet
+[selfplay] game 0000/1 seed=638000 winner=0 steps=800 dt=1073.53s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782400796-6b07ecdb.parquet
+[selfplay] game 0000/1 seed=641000 winner=1 steps=625 dt=1907.70s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782401016-60a21eca.parquet
+[selfplay] game 0000/1 seed=631500 winner=1 steps=764 dt=3092.75s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782401156-d592eabf.parquet
+[selfplay] game 0000/1 seed=641500 winner=1 steps=573 dt=1543.25s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782401298-7ff0526d.parquet
+[selfplay] game 0000/1 seed=642000 winner=1 steps=235 dt=594.45s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782401391-63964162.parquet
+[selfplay] game 0000/1 seed=644500 winner=2 steps=517 dt=2172.69s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782401659-65640053.parquet
+[selfplay] game 0000/1 seed=645000 winner=2 steps=634 dt=948.73s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782401964-ebd7d7ae.parquet
+[selfplay] game 0000/1 seed=648000 winner=2 steps=667 dt=1550.62s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782402119-a21c6d6e.parquet
+[selfplay] game 0000/1 seed=645500 winner=2 steps=663 dt=1152.16s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782402450-32a0502f.parquet
+[selfplay] game 0 failed: http://localhost:8001/step returned 500: {'error': 'array_splice(): Argument #2 ($offset) must be of type int, string given', 'type': 'TypeError'} (payload={'game_id': '648500511929010', 'action_id': 1})
+[selfplay] game 0000/1 seed=646500 winner=2 steps=661 dt=2488.75s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782402824-85cb8388.parquet
+[selfplay] game 0000/1 seed=635500 winner=2 steps=447 dt=1673.75s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782402830-4541ed03.parquet
+[selfplay] game 0000/1 seed=649000 winner=2 steps=349 dt=1109.84s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782403075-145333a8.parquet
+[selfplay] game 0000/1 seed=652000 winner=0 steps=800 dt=1073.70s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782403193-0b181b28.parquet
+[selfplay] game 0000/1 seed=652500 winner=0 steps=800 dt=1065.61s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782403584-de3ad2be.parquet
+[selfplay] game 0000/1 seed=639000 winner=2 steps=763 dt=3974.84s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782403686-9675fd3f.parquet
+[selfplay] game 0000/1 seed=649500 winner=2 steps=396 dt=1295.20s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782403745-90942c2a.parquet
+[selfplay] game 0000/1 seed=650500 winner=1 steps=359 dt=1002.75s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782403827-a36ff010.parquet
+[selfplay] game 0000/1 seed=646000 winner=2 steps=636 dt=2716.48s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782404107-b520e71f.parquet
+[selfplay] game 0000/1 seed=643000 winner=1 steps=439 dt=1120.88s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782404807-c5653756.parquet
+[selfplay] game 0000/1 seed=653000 winner=0 steps=800 dt=1953.05s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782405028-deca05ba.parquet
+[selfplay] game 0000/1 seed=656000 winner=1 steps=475 dt=2097.86s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782405291-b378603c.parquet
+[selfplay] game 0000/1 seed=650000 winner=1 steps=362 dt=1202.81s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782405310-740ff431.parquet
+[selfplay] game 0000/1 seed=653500 winner=0 steps=800 dt=2007.09s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782405753-5e6fcb21.parquet
+[selfplay] game 0000/1 seed=647000 winner=2 steps=585 dt=1181.33s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782405989-42b60f94.parquet
+[selfplay] game 0000/1 seed=656500 winner=1 steps=522 dt=2426.78s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782406011-1e6fa8f5.parquet
+[selfplay] game 0000/1 seed=654500 winner=0 steps=800 dt=2508.55s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782406336-7a772c71.parquet
+[selfplay] game 0000/1 seed=639500 winner=2 steps=735 dt=3640.89s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782406471-ca97412a.parquet
+[selfplay] game 0000/1 seed=657000 winner=0 steps=800 dt=1804.56s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782406832-fb6a388a.parquet
+[selfplay] game 0000/1 seed=643500 winner=2 steps=352 dt=447.98s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782406919-017841a0.parquet
+[selfplay] game 0000/1 seed=654000 winner=0 steps=800 dt=1826.36s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782407137-ad0d4f4d.parquet
+[selfplay] game 0000/1 seed=658500 winner=1 steps=476 dt=913.88s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782407250-9325eb45.parquet
+[selfplay] game 0000/1 seed=657500 winner=0 steps=800 dt=1655.11s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782407408-d1d11e09.parquet
+[selfplay] game 0000/1 seed=651000 winner=2 steps=606 dt=1486.03s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782407475-b5beb8d9.parquet
+[selfplay] game 0000/1 seed=658000 winner=1 steps=403 dt=630.06s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782407767-9f7b2073.parquet
+[selfplay] game 0000/1 seed=647500 winner=2 steps=620 dt=1072.94s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782407992-cc4f1b9a.parquet
+[selfplay] game 0000/1 seed=655000 winner=0 steps=800 dt=670.69s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782408146-7529d206.parquet
+[selfplay] game 0000/1 seed=659000 winner=1 steps=368 dt=769.66s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782408916-cbc1f65f.parquet
+[selfplay] game 0000/1 seed=651500 winner=1 steps=654 dt=1291.17s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782409284-7849c53b.parquet
+[selfplay] game 0000/1 seed=655500 winner=0 steps=800 dt=657.72s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782409941-9c24f6f1.parquet
+[selfplay] game 0000/1 seed=659500 winner=1 steps=387 dt=811.11s
+[selfplay] flushed batch -> datasets\cc_gp_gate\parquet\games\1782410753-22e5da0b.parquet

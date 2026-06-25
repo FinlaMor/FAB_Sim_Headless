@@ -1,0 +1,39 @@
+{
+  "hero": "zyggy",
+  "equipment": [
+    "aphrodias",
+    "laced_lightning"
+  ],
+  "deck": [
+    "holo_shield_red",
+    "shattering_flowtide_red",
+    "meteoric_rise_red",
+    "cosmic_flare_red",
+    "pulsing_cardia_yellow",
+    "flittering_spike_yellow",
+    "electrolyze_yellow",
+    "static_shelter_yellow",
+    "astral_assault_yellow",
+    "stormshatter_yellow",
+    "auric_shards_yellow",
+    "glide_through_starlight_blue",
+    "rift_breaker_blue",
+    "fleeing_starbreeze_blue",
+    "clear_conscience_blue",
+    "flow_through_blue",
+    "erode_authority_blue",
+    "glide_through_starlight_blue",
+    "ominous_excavation_blue",
+    "clear_conscience_blue",
+    "sigil_of_lightning_blue",
+    "spellbane_sigil_blue",
+    "brush_off_blue",
+    "cosmic_duality_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

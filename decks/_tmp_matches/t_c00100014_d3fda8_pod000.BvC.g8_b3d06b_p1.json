@@ -1,0 +1,40 @@
+{
+  "hero": "oscilio_scion_of_the_third_age",
+  "equipment": [
+    "volzar_meteor_storm",
+    "robe_of_astral_sanctuary",
+    "laced_lightning"
+  ],
+  "deck": [
+    "stellar_glide_red",
+    "astral_strike_red",
+    "leech_memory_red",
+    "calmveil_of_volthaven_red",
+    "chromatic_refinement_red",
+    "meteoric_rise_red",
+    "step_between_red",
+    "starworld_warning_yellow",
+    "rush_of_power_yellow",
+    "starworld_warning_yellow",
+    "voltbound_duality_yellow",
+    "electrolyze_yellow",
+    "electrolyze_yellow",
+    "stellar_glide_yellow",
+    "voltbound_duality_yellow",
+    "voltbound_duality_blue",
+    "spellbane_sigil_blue",
+    "calmveil_of_volthaven_blue",
+    "path_of_same_ends_blue",
+    "glide_through_starlight_blue",
+    "path_of_same_ends_blue",
+    "singeing_flowstride_blue",
+    "glide_through_starlight_blue",
+    "stinging_sprite_blue",
+    "glide_through_starlight_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

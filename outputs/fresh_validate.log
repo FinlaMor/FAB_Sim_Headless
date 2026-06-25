@@ -1,0 +1,51 @@
+
+############ ITERATION 0 ############
+  parallel workers: 4 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003']
+  [t_c00060100_b5696e_pod000] A vs C: 2-0 (draws=0, games=2) -> A
+  [t_c00060100_b5696e_pod000] A vs B: 2-0 (draws=0, games=2) -> A
+  [t_c00060100_b5696e_pod000] A vs D: 2-0 (draws=0, games=2) -> A
+  [t_c00060100_b5696e_pod000] B vs D: 1-0 (draws=1, games=2) -> B
+  [t_c00060100_b5696e_pod000] B vs C: 0-2 (draws=0, games=2) -> C
+  [t_c00060100_b5696e_pod000] C vs D: 2-0 (draws=0, games=2) -> C
+Round-robin t_c00060100_b5696e_pod000 (seed=7925146)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  A     c00060100_b5696e_pod000_zyggy_se      3-0-0        6-0-0
+   2  C     c00060100_b5696e_pod000_aurora_e      2-1-0        4-2-0
+   3  B     c00060100_b5696e_pod000_oscilio_      1-2-0        1-4-1
+   4  D     c00060100_b5696e_pod000_oscilio_      0-3-0        0-5-1
+Round-robin t_c00060100_b5696e_pod000 (seed=7925146)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  A     c00060100_b5696e_pod000_zyggy_se      3-0-0        6-0-0
+   2  C     c00060100_b5696e_pod000_aurora_e      2-1-0        4-2-0
+   3  B     c00060100_b5696e_pod000_oscilio_      1-2-0        1-4-1
+   4  D     c00060100_b5696e_pod000_oscilio_      0-3-0        0-5-1
+  champion: c00060100_b5696e_pod000_zyggy_seat0
+
+--- training (window=all) after iter 0 ---
+[iql-gameplay] 4505 transitions | |vocab|=81 | shaped=True window=all
+  step      0 loss=0.7431 (v=0.1746 q=0.5459 pi=0.0227)
+  step    400 loss=0.0176 (v=0.0005 q=0.0022 pi=0.0149)
+  step    800 loss=0.0077 (v=0.0001 q=0.0009 pi=0.0067)
+  step   1200 loss=0.0090 (v=0.0001 q=0.0002 pi=0.0087)
+  step   1600 loss=0.0049 (v=0.0001 q=0.0002 pi=0.0047)
+  step   2000 loss=0.0004 (v=0.0000 q=0.0003 pi=0.0002)
+  step   2400 loss=0.0024 (v=0.0001 q=0.0002 pi=0.0021)
+  step   2800 loss=0.0002 (v=0.0001 q=0.0000 pi=0.0001)
+  step   3200 loss=0.0020 (v=0.0000 q=0.0001 pi=0.0019)
+  step   3600 loss=0.0010 (v=0.0001 q=0.0001 pi=0.0008)
+  step   3999 loss=0.0015 (v=0.0000 q=0.0000 pi=0.0014)
+[iql-gameplay] saved -> outputs\models\_staging\iql_gameplay.pt (final loss 0.0015)
+[iql-draft] 168 pick transitions | |vocab|=112 | window=all
+  step      0 loss=1.6412 (v=0.0016 q=0.0133 pi=1.6262)
+  step    300 loss=0.3840 (v=0.0011 q=0.0012 pi=0.3818)
+  step    600 loss=0.0147 (v=0.0000 q=0.0000 pi=0.0147)
+  step    900 loss=0.0161 (v=0.0000 q=0.0000 pi=0.0161)
+  step   1200 loss=0.0185 (v=0.0000 q=0.0000 pi=0.0184)
+  step   1500 loss=0.0229 (v=0.0000 q=0.0000 pi=0.0229)
+  step   1800 loss=0.0173 (v=0.0001 q=0.0000 pi=0.0172)
+  step   2100 loss=0.0060 (v=0.0000 q=0.0000 pi=0.0060)
+  step   2400 loss=0.0167 (v=0.0000 q=0.0000 pi=0.0166)
+  step   2700 loss=0.0004 (v=0.0000 q=0.0000 pi=0.0003)
+  step   2999 loss=0.0003 (v=0.0000 q=0.0000 pi=0.0002)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0003)
+iteration 0 done in 174s; gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt

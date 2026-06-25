@@ -1,0 +1,392 @@
+{
+  "hero": "lyath_goldmane_vile_savant",
+  "comment": "Imported from fabrary: 'EVIL LYATH' [Classic Constructed] deckId=01K79PD51R2EZ1GPJNB865VM6D",
+  "equipment": [
+    "crown_of_providence",
+    "fyendals_spring_tunic",
+    "gauntlet_of_might",
+    "rampart_of_the_rams_head",
+    "snapdragon_scalers",
+    "titans_fist"
+  ],
+  "deck": [
+    "battered_beaten_and_broken_yellow",
+    "battered_beaten_and_broken_yellow",
+    "battered_beaten_and_broken_yellow",
+    "booze_blue",
+    "booze_blue",
+    "booze_blue",
+    "buckle_blue",
+    "buckle_blue",
+    "buckle_blue",
+    "concealed_object_blue",
+    "concealed_object_blue",
+    "cruel_ambition_red",
+    "cruel_ambition_red",
+    "cruel_ambition_red",
+    "escalate_violence_blue",
+    "escalate_violence_blue",
+    "escalate_violence_blue",
+    "leave_them_hanging_red",
+    "leave_them_hanging_red",
+    "leave_them_hanging_red",
+    "little_big_foot_blue",
+    "little_big_foot_blue",
+    "little_big_foot_blue",
+    "mocking_blow_blue",
+    "mocking_blow_blue",
+    "mocking_blow_blue",
+    "mocking_blow_red",
+    "mocking_blow_red",
+    "mocking_blow_red",
+    "mocking_blow_yellow",
+    "mocking_blow_yellow",
+    "mocking_blow_yellow",
+    "oasis_respite_red",
+    "oasis_respite_red",
+    "overturn_the_results_blue",
+    "power_play_blue",
+    "power_play_blue",
+    "power_play_blue",
+    "razor_reflex_red",
+    "razor_reflex_red",
+    "revolting_gesture_red",
+    "revolting_gesture_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "thunk_blue"
+  ],
+  "sideboard": [
+    "calming_breeze_red",
+    "calming_breeze_red",
+    "fiddlers_green_red",
+    "fiddlers_green_red",
+    "fiddlers_green_red",
+    "fix_the_match_yellow",
+    "fix_the_match_yellow",
+    "fix_the_match_yellow",
+    "midas_touch_yellow",
+    "midas_touch_yellow",
+    "sadistic_scowl_red",
+    "sadistic_scowl_red",
+    "short_shrift_yellow",
+    "short_shrift_yellow",
+    "short_shrift_yellow",
+    "truth_or_trickery_yellow",
+    "truth_or_trickery_yellow",
+    "truth_or_trickery_yellow",
+    "villainous_pose_red",
+    "villainous_pose_red",
+    "villainous_pose_red",
+    "withstand_red",
+    "withstand_red"
+  ],
+  "sideboard_equipment": [
+    "arcane_lantern",
+    "nullrune_hood"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 49,
+  "matchups": [
+    {
+      "matchupId": "01K7MD5EXB0HVX15E6MFDPB3A0",
+      "heroes": [],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01K7MD73T2ZNM361T009Y7RS96",
+      "heroes": [],
+      "name": "Verdance"
+    },
+    {
+      "matchupId": "01K7MD8870E198M1SVRR03QTV1",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01K7MD9KEXNPP513JPBT3N80ZP",
+      "heroes": [],
+      "name": "Kano"
+    },
+    {
+      "matchupId": "01K7MHA8ER4HJQ81CTCQTGWCAY",
+      "heroes": [],
+      "name": "Fang"
+    },
+    {
+      "matchupId": "01K7MHDNZGF8FMZX0Z2Y41MBYK",
+      "heroes": [],
+      "name": "Riptide"
+    },
+    {
+      "matchupId": "01K7MQ52V8HS3MYS8JRQBC2BNA",
+      "heroes": [],
+      "name": "Kayo"
+    },
+    {
+      "matchupId": "01K7MQ5XJ42682KYAGV4PXNA0Y",
+      "heroes": [],
+      "name": "Huntsman / Jarl / Lyath"
+    },
+    {
+      "matchupId": "01K7MQ74F9H1MMQPBMP5B7YCTD",
+      "heroes": [],
+      "name": "RKO"
+    },
+    {
+      "matchupId": "01K7MT69CP5NSV1ZPMQECPFY5C",
+      "heroes": [],
+      "name": "Dash"
+    },
+    {
+      "matchupId": "01K7MVHZH10HP6MQR6DD7D73AV",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01K7N8EE9Q0V9RNNHCFYQEWNY7",
+      "heroes": [],
+      "name": "Tuffnut"
+    },
+    {
+      "matchupId": "01K7NDNRBRP9WH9J124592J6NK",
+      "heroes": [],
+      "name": "Arakni, Marionette"
+    },
+    {
+      "matchupId": "01K7Q3FRTG04PSG8ACYHKT8TTV",
+      "heroes": [],
+      "name": "Ira"
+    },
+    {
+      "matchupId": "01K7Q3KY77XDTRMQ6HJNC778ZT",
+      "heroes": [],
+      "name": "Kassai"
+    },
+    {
+      "matchupId": "01K7Q3P1KC3YFDV1NDP1Y0M8D7",
+      "heroes": [],
+      "name": "Florian"
+    },
+    {
+      "matchupId": "01K7SQYG0DZ0F5F43EFBYK1WWM",
+      "heroes": [],
+      "name": "Maxx"
+    },
+    {
+      "matchupId": "01K7SR00K8Y9A388QS9NVP9X2T",
+      "heroes": [],
+      "name": "Puffin"
+    },
+    {
+      "matchupId": "01K7SWX08C41RPMXQ05H463W05",
+      "heroes": [],
+      "name": "Dorinthea"
+    },
+    {
+      "matchupId": "01K8M3JS3XSJ3XKZJGHSNKP440",
+      "heroes": [],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01K9E29ZR7RG0DHPE0DDFP7YAJ",
+      "heroes": [],
+      "name": "Uzuri"
+    },
+    {
+      "matchupId": "01K9E2BSG04WFKH1AS9APR3R4S",
+      "heroes": [],
+      "name": "Teklovossen"
+    },
+    {
+      "matchupId": "01K9MR2CZWRGCH3C7KC7MJQSP8",
+      "heroes": [],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01K9MSX2JZPAVB6X5XJ5P64J0V",
+      "heroes": [],
+      "name": "Marlynn"
+    },
+    {
+      "matchupId": "01KB3475WPWYQ66YAXX670AF2Q",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01KBGV2DGT3E23DC062WYS57K5",
+      "heroes": [],
+      "name": "Pleiades"
+    }
+  ],
+  "matchup_quantities": {
+    "01K7MD73T2ZNM361T009Y7RS96": {
+      "arcane_lantern": 1,
+      "crown_of_providence": 0,
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "nullrune_hood": 1,
+      "rampart_of_the_rams_head": 0,
+      "revolting_gesture_red": 2,
+      "sadistic_scowl_red": 2,
+      "short_shrift_yellow": 3,
+      "sigil_of_solace_red": 3,
+      "villainous_pose_red": 3
+    },
+    "01K7MD9KEXNPP513JPBT3N80ZP": {
+      "arcane_lantern": 1,
+      "crown_of_providence": 0,
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "nullrune_hood": 1,
+      "rampart_of_the_rams_head": 0,
+      "revolting_gesture_red": 2
+    },
+    "01K7MVHZH10HP6MQR6DD7D73AV": {
+      "arcane_lantern": 1,
+      "crown_of_providence": 0,
+      "fix_the_match_yellow": 0,
+      "leave_them_hanging_red": 3,
+      "nullrune_hood": 1,
+      "rampart_of_the_rams_head": 0,
+      "revolting_gesture_red": 2,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K7MD5EXB0HVX15E6MFDPB3A0": {
+      "calming_breeze_red": 2,
+      "fiddlers_green_red": 3,
+      "leave_them_hanging_red": 3,
+      "short_shrift_yellow": 3,
+      "snapdragon_scalers": 1,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K7NDNRBRP9WH9J124592J6NK": {
+      "calming_breeze_red": 2,
+      "fiddlers_green_red": 3,
+      "leave_them_hanging_red": 3,
+      "short_shrift_yellow": 3,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K7Q3FRTG04PSG8ACYHKT8TTV": {
+      "calming_breeze_red": 0,
+      "leave_them_hanging_red": 3,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K7Q3P1KC3YFDV1NDP1Y0M8D7": {
+      "crown_of_providence": 0,
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "nullrune_hood": 1,
+      "revolting_gesture_red": 2,
+      "sadistic_scowl_red": 2,
+      "villainous_pose_red": 3
+    },
+    "01KB3475WPWYQ66YAXX670AF2Q": {
+      "crown_of_providence": 1,
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "rampart_of_the_rams_head": 0,
+      "revolting_gesture_red": 2
+    },
+    "01K7MD8870E198M1SVRR03QTV1": {
+      "fix_the_match_yellow": 0,
+      "leave_them_hanging_red": 3,
+      "midas_touch_yellow": 2,
+      "revolting_gesture_red": 0,
+      "short_shrift_yellow": 3,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K7MHA8ER4HJQ81CTCQTGWCAY": {
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2,
+      "truth_or_trickery_yellow": 3,
+      "villainous_pose_red": 3
+    },
+    "01K7MHDNZGF8FMZX0Z2Y41MBYK": {
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2,
+      "truth_or_trickery_yellow": 0
+    },
+    "01K7MQ5XJ42682KYAGV4PXNA0Y": {
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K7MQ74F9H1MMQPBMP5B7YCTD": {
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2
+    },
+    "01K7N8EE9Q0V9RNNHCFYQEWNY7": {
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2
+    },
+    "01K7Q3KY77XDTRMQ6HJNC778ZT": {
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K7SQYG0DZ0F5F43EFBYK1WWM": {
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2,
+      "truth_or_trickery_yellow": 0
+    },
+    "01K7SWX08C41RPMXQ05H463W05": {
+      "fix_the_match_yellow": 0,
+      "leave_them_hanging_red": 3,
+      "short_shrift_yellow": 3,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K8M3JS3XSJ3XKZJGHSNKP440": {
+      "fix_the_match_yellow": 0,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2
+    },
+    "01K7MQ52V8HS3MYS8JRQBC2BNA": {
+      "fix_the_match_yellow": 0,
+      "leave_them_hanging_red": 3,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K9E2BSG04WFKH1AS9APR3R4S": {
+      "fix_the_match_yellow": 3,
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2
+    },
+    "01KBGV2DGT3E23DC062WYS57K5": {
+      "fix_the_match_yellow": 3,
+      "revolting_gesture_red": 2
+    },
+    "01K7MT69CP5NSV1ZPMQECPFY5C": {
+      "leave_them_hanging_red": 3,
+      "short_shrift_yellow": 3,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K7SR00K8Y9A388QS9NVP9X2T": {
+      "leave_them_hanging_red": 3,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K9E29ZR7RG0DHPE0DDFP7YAJ": {
+      "leave_them_hanging_red": 3,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K9MR2CZWRGCH3C7KC7MJQSP8": {
+      "leave_them_hanging_red": 3,
+      "revolting_gesture_red": 2,
+      "truth_or_trickery_yellow": 3
+    },
+    "01K9MSX2JZPAVB6X5XJ5P64J0V": {
+      "leave_them_hanging_red": 3,
+      "truth_or_trickery_yellow": 3
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+ "hero": "aurora_emissary_of_lightning",
+ "equipment": [
+  "scorpio_comet_tail",
+  "seeker_s_gilet"
+ ],
+ "deck": [
+  "meteoric_rise_red",
+  "turn_to_mindfire_red",
+  "stormshard_red",
+  "comet_collision_red",
+  "cosmic_flare_red",
+  "tap_lessons_past_red",
+  "enion_surge_red",
+  "stellar_glide_red",
+  "nebula_duality_red",
+  "flash_bolt_red",
+  "tap_lessons_past_red",
+  "lightning_overload_red",
+  "flittering_forcefield_yellow",
+  "nebula_duality_yellow",
+  "lightning_overload_yellow",
+  "enion_surge_yellow",
+  "meteoric_impact_yellow",
+  "flittering_spike_yellow",
+  "lightning_overload_yellow",
+  "lightning_overload_yellow",
+  "calmveil_of_volthaven_blue",
+  "stellar_glide_blue",
+  "flow_through_blue",
+  "volatile_fluxor_blue",
+  "flow_through_blue",
+  "lightning_overload_blue",
+  "meteoric_impact_blue",
+  "haven_veil_blue",
+  "glide_through_starlight_blue",
+  "nebula_duality_blue"
+ ]
+}

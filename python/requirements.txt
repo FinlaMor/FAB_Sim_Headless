@@ -1,0 +1,10 @@
+# Python dependencies for the FAB_Sim_Headless client.
+#
+# Pin majors only; the env client is small and tolerant of patch bumps.
+requests>=2.31,<3
+pyarrow>=14.0     # parquet writer (recommended path)
+msgpack>=1.0      # alternative output format
+numpy>=1.24       # npz writer + general numerics
+
+# Optional — install only if you intend to use TransformerBot.
+#   torch>=2.1

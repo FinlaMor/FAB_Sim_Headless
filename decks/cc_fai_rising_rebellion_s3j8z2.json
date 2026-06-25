@@ -1,0 +1,473 @@
+{
+  "hero": "fai_rising_rebellion",
+  "comment": "Imported from fabrary: \"Lupinefiasco's HVY Switchblade\" [Classic Constructed] deckId=01H158S183ZB6WQ2TKWKS3J8Z2",
+  "equipment": [
+    "flamescale_furnace",
+    "harmonized_kodachi",
+    "harmonized_kodachi",
+    "mask_of_momentum",
+    "snapdragon_scalers",
+    "tiger_stripe_shuko"
+  ],
+  "deck": [
+    "ancestral_empowerment_red",
+    "ancestral_empowerment_red",
+    "art_of_war_yellow",
+    "art_of_war_yellow",
+    "art_of_war_yellow",
+    "bittering_thorns_red",
+    "bittering_thorns_red",
+    "bittering_thorns_red",
+    "blaze_headlong_red",
+    "blaze_headlong_red",
+    "blaze_headlong_red",
+    "bleed_out_red",
+    "bleed_out_red",
+    "brand_with_cinderclaw_blue",
+    "brand_with_cinderclaw_blue",
+    "brand_with_cinderclaw_blue",
+    "brand_with_cinderclaw_red",
+    "brand_with_cinderclaw_red",
+    "brand_with_cinderclaw_red",
+    "brand_with_cinderclaw_yellow",
+    "brand_with_cinderclaw_yellow",
+    "brand_with_cinderclaw_yellow",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "double_strike_red",
+    "double_strike_red",
+    "double_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "lava_burst_red",
+    "lava_burst_red",
+    "lava_burst_red",
+    "lava_vein_loyalty_blue",
+    "lava_vein_loyalty_blue",
+    "lava_vein_loyalty_blue",
+    "mounting_anger_red",
+    "mounting_anger_red",
+    "mounting_anger_red",
+    "nasty_surprise_blue",
+    "nasty_surprise_blue",
+    "nasty_surprise_blue",
+    "phoenix_flame_red",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "rising_resentment_red",
+    "rising_resentment_red",
+    "rising_resentment_red",
+    "ronin_renegade_red",
+    "ronin_renegade_red",
+    "ronin_renegade_red",
+    "salt_the_wound_yellow",
+    "salt_the_wound_yellow",
+    "snatch_red",
+    "snatch_red",
+    "snatch_red",
+    "tenacity_yellow",
+    "warmongers_diplomacy_blue",
+    "warmongers_diplomacy_blue",
+    "warmongers_diplomacy_blue"
+  ],
+  "sideboard": [
+    "reinforce_the_line_red",
+    "reinforce_the_line_red",
+    "reinforce_the_line_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "spreading_flames_red",
+    "spreading_flames_red",
+    "that_all_you_got_yellow",
+    "that_all_you_got_yellow"
+  ],
+  "sideboard_equipment": [
+    "mask_of_the_pouncing_lynx",
+    "searing_emberblade",
+    "spell_fray_cloak",
+    "spell_fray_gloves"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 60,
+  "matchups": [
+    {
+      "matchupId": "01H158S1F5BM1GACNRTSK6G94Y",
+      "heroes": [],
+      "name": "Azalea, Ace in the Hole"
+    },
+    {
+      "matchupId": "01H158S22P841VCFZ4B6EYXPQ3",
+      "heroes": [],
+      "name": "Uzuri, Switchblade"
+    },
+    {
+      "matchupId": "01H158S2R1P66Z1NJT4QRNQTTZ",
+      "heroes": [],
+      "name": "Bravo, Showstopper"
+    },
+    {
+      "matchupId": "01H1WQF0MZNZBH14PN1P3M746W",
+      "heroes": [],
+      "name": "Katsu, the Wanderer"
+    },
+    {
+      "matchupId": "01H333F8WQ2Y4031DAN007TXWC",
+      "heroes": [],
+      "name": "Dorinthea Ironsong"
+    },
+    {
+      "matchupId": "01H4PVPG8NEGV7FGTV2X8YY3X3",
+      "heroes": [],
+      "name": "Ser Boltyn, Breaker of Dawn"
+    },
+    {
+      "matchupId": "01H8YWHF0ZT5VWMBEXTX5X53P5",
+      "heroes": [],
+      "name": "Kano, Dracai of Aether"
+    },
+    {
+      "matchupId": "01HAWP5G5XMV0KR3ZE0HXEYR1P",
+      "heroes": [],
+      "name": "Arakni, Huntsman"
+    },
+    {
+      "matchupId": "01HAWP7Z3JSBQ7HTV9MZGPJHVX",
+      "heroes": [],
+      "name": "Dash, Inventor Extraordinaire"
+    },
+    {
+      "matchupId": "01HAWP8V5QR90HJE7J3D3FHCXB",
+      "heroes": [],
+      "name": "Dromai, Ash Artist"
+    },
+    {
+      "matchupId": "01HAWP9XA91J69A96HQE175WBK",
+      "heroes": [],
+      "name": "Fai, Rising Rebellion"
+    },
+    {
+      "matchupId": "01HAWPC648N1ND9RBNCHDYN8WS",
+      "heroes": [],
+      "name": "Levia, Shadowborn Abomination"
+    },
+    {
+      "matchupId": "01HAWPEZCWAYTAPK08DWAGQ6P9",
+      "heroes": [],
+      "name": "Viserai, Rune Blood"
+    },
+    {
+      "matchupId": "01HAWPFDGC8RV2GT1FB4T29TBR",
+      "heroes": [],
+      "name": "Vynnset, Iron Maiden"
+    },
+    {
+      "matchupId": "01HBPK4JE6VB4GD00FQ423DEJT",
+      "heroes": [],
+      "name": "Prism, Awakener of Sol"
+    },
+    {
+      "matchupId": "01HC38RXK4B2SAM24DMPQJBPXJ",
+      "heroes": [],
+      "name": "Dash I/O"
+    },
+    {
+      "matchupId": "01HC38SEZ05N8M3PF5Z1QWB127",
+      "heroes": [],
+      "name": "Maxx \"The Hype\" Nitro"
+    },
+    {
+      "matchupId": "01HC38SYXQ9XRK5N5WGBF2RGQX",
+      "heroes": [],
+      "name": "Teklovossen, Esteemed Magnate"
+    },
+    {
+      "matchupId": "01HC81RZ892PT4VX5S0585DDKS",
+      "heroes": [],
+      "name": "Rhinar, Reckless Rampage"
+    },
+    {
+      "matchupId": "01HC827J3ZRTB9DE65PKADSYBV",
+      "heroes": [],
+      "name": "Riptide, Lurker of the Deep"
+    },
+    {
+      "matchupId": "01HNNWVDZ3P9NWVXNYQ7F57Q1G",
+      "heroes": [],
+      "name": "Victor Goldmane, High and Mighty"
+    },
+    {
+      "matchupId": "01HNNWWHQ7908NK0TV2NKM1S5D",
+      "heroes": [],
+      "name": "Betsy, Skin in the Game"
+    },
+    {
+      "matchupId": "01HNNWY31DEHDM2M1AWBE4W2S1",
+      "heroes": [],
+      "name": "Kayo, Armed and Dengerous"
+    },
+    {
+      "matchupId": "01HNNWYXF3A6R6406HTM4WJ05Y",
+      "heroes": [],
+      "name": "Kassai of the Golden Sand"
+    },
+    {
+      "matchupId": "01HNNWZCKQ51MFR7AJ7P139X81",
+      "heroes": [],
+      "name": "Olympia, Prized Fighter"
+    }
+  ],
+  "matchup_quantities": {
+    "01H158S1F5BM1GACNRTSK6G94Y": {
+      "ancestral_empowerment_red": 2,
+      "art_of_war_yellow": 3,
+      "bittering_thorns_red": 3,
+      "bleed_out_red": 0,
+      "brand_with_cinderclaw_blue": 3,
+      "brand_with_cinderclaw_yellow": 3,
+      "command_and_conquer_red": 2,
+      "double_strike_red": 3,
+      "enlightened_strike_red": 3,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 1,
+      "sink_below_red": 0,
+      "snatch_red": 3,
+      "spreading_flames_red": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01H333F8WQ2Y4031DAN007TXWC": {
+      "ancestral_empowerment_red": 2,
+      "double_strike_red": 0,
+      "enlightened_strike_red": 3,
+      "sink_below_red": 3,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01H8YWHF0ZT5VWMBEXTX5X53P5": {
+      "ancestral_empowerment_red": 2,
+      "bleed_out_red": 0,
+      "command_and_conquer_red": 2,
+      "double_strike_red": 3,
+      "enlightened_strike_red": 3,
+      "flamescale_furnace": 0,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 1,
+      "snapdragon_scalers": 1,
+      "spell_fray_cloak": 1,
+      "spell_fray_gloves": 1,
+      "spreading_flames_red": 2,
+      "tiger_stripe_shuko": 0,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HAWPC648N1ND9RBNCHDYN8WS": {
+      "ancestral_empowerment_red": 2,
+      "bittering_thorns_red": 3,
+      "bleed_out_red": 0,
+      "command_and_conquer_red": 2,
+      "double_strike_red": 3,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 1,
+      "spreading_flames_red": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HBPK4JE6VB4GD00FQ423DEJT": {
+      "ancestral_empowerment_red": 2,
+      "bittering_thorns_red": 3,
+      "bleed_out_red": 0,
+      "command_and_conquer_red": 2,
+      "double_strike_red": 3,
+      "flamescale_furnace": 1,
+      "harmonized_kodachi": 2,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 0,
+      "spreading_flames_red": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HC81RZ892PT4VX5S0585DDKS": {
+      "ancestral_empowerment_red": 2,
+      "bittering_thorns_red": 3,
+      "bleed_out_red": 0,
+      "command_and_conquer_red": 2,
+      "double_strike_red": 3,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 1,
+      "spreading_flames_red": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HC827J3ZRTB9DE65PKADSYBV": {
+      "ancestral_empowerment_red": 2,
+      "bittering_thorns_red": 3,
+      "bleed_out_red": 0,
+      "command_and_conquer_red": 2,
+      "double_strike_red": 3,
+      "enlightened_strike_red": 3,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 1,
+      "spreading_flames_red": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01H4PVPG8NEGV7FGTV2X8YY3X3": {
+      "ancestral_empowerment_red": 2,
+      "bittering_thorns_red": 3,
+      "bleed_out_red": 0,
+      "command_and_conquer_red": 2,
+      "double_strike_red": 3,
+      "enlightened_strike_red": 3,
+      "flamescale_furnace": 1,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 1,
+      "spreading_flames_red": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01H158S22P841VCFZ4B6EYXPQ3": {
+      "ancestral_empowerment_red": 2,
+      "art_of_war_yellow": 0,
+      "bittering_thorns_red": 3,
+      "bleed_out_red": 2,
+      "brand_with_cinderclaw_blue": 3,
+      "brand_with_cinderclaw_yellow": 3,
+      "command_and_conquer_red": 0,
+      "double_strike_red": 3,
+      "enlightened_strike_red": 3,
+      "flamescale_furnace": 1,
+      "harmonized_kodachi": 2,
+      "mask_of_momentum": 1,
+      "mask_of_the_pouncing_lynx": 0,
+      "reinforce_the_line_red": 3,
+      "searing_emberblade": 0,
+      "sink_below_red": 3,
+      "spreading_flames_red": 0,
+      "that_all_you_got_yellow": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01H158S2R1P66Z1NJT4QRNQTTZ": {
+      "art_of_war_yellow": 0,
+      "bittering_thorns_red": 3,
+      "bleed_out_red": 2,
+      "brand_with_cinderclaw_blue": 2,
+      "command_and_conquer_red": 0,
+      "double_strike_red": 3,
+      "enlightened_strike_red": 3,
+      "reinforce_the_line_red": 3,
+      "salt_the_wound_yellow": 2,
+      "sink_below_red": 3,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HAWP5G5XMV0KR3ZE0HXEYR1P": {
+      "art_of_war_yellow": 3,
+      "command_and_conquer_red": 2,
+      "flamescale_furnace": 1,
+      "harmonized_kodachi": 2,
+      "mask_of_momentum": 1,
+      "mask_of_the_pouncing_lynx": 0,
+      "reinforce_the_line_red": 0,
+      "searing_emberblade": 0,
+      "sink_below_red": 3,
+      "spreading_flames_red": 2,
+      "that_all_you_got_yellow": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HNNWWHQ7908NK0TV2NKM1S5D": {
+      "art_of_war_yellow": 0,
+      "brand_with_cinderclaw_blue": 2,
+      "command_and_conquer_red": 0,
+      "reinforce_the_line_red": 3,
+      "sink_below_red": 3
+    },
+    "01HC38RXK4B2SAM24DMPQJBPXJ": {
+      "bleed_out_red": 0,
+      "command_and_conquer_red": 2,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "ravenous_rabble_red": 0,
+      "searing_emberblade": 1,
+      "spreading_flames_red": 2,
+      "that_all_you_got_yellow": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HAWP7Z3JSBQ7HTV9MZGPJHVX": {
+      "bleed_out_red": 0,
+      "command_and_conquer_red": 2,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "ravenous_rabble_red": 0,
+      "searing_emberblade": 1,
+      "spreading_flames_red": 2,
+      "that_all_you_got_yellow": 2
+    },
+    "01HAWPFDGC8RV2GT1FB4T29TBR": {
+      "bleed_out_red": 0,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 1,
+      "snapdragon_scalers": 1,
+      "spreading_flames_red": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HNNWY31DEHDM2M1AWBE4W2S1": {
+      "bleed_out_red": 0,
+      "harmonized_kodachi": 0,
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1,
+      "searing_emberblade": 1,
+      "spreading_flames_red": 2
+    },
+    "01H1WQF0MZNZBH14PN1P3M746W": {
+      "brand_with_cinderclaw_blue": 3,
+      "command_and_conquer_red": 2,
+      "double_strike_red": 2,
+      "enlightened_strike_red": 3,
+      "ravenous_rabble_red": 0,
+      "salt_the_wound_yellow": 1,
+      "sink_below_red": 3,
+      "tenacity_yellow": 0,
+      "that_all_you_got_yellow": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HAWP8V5QR90HJE7J3D3FHCXB": {
+      "command_and_conquer_red": 2,
+      "salt_the_wound_yellow": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HAWP9XA91J69A96HQE175WBK": {
+      "command_and_conquer_red": 2,
+      "enlightened_strike_red": 3,
+      "ravenous_rabble_red": 0,
+      "spreading_flames_red": 0,
+      "that_all_you_got_yellow": 2,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HC38SEZ05N8M3PF5Z1QWB127": {
+      "command_and_conquer_red": 2,
+      "double_strike_red": 3,
+      "enlightened_strike_red": 3,
+      "warmongers_diplomacy_blue": 3
+    },
+    "01HC38SYXQ9XRK5N5WGBF2RGQX": {
+      "flamescale_furnace": 1
+    },
+    "01HNNWVDZ3P9NWVXNYQ7F57Q1G": {
+      "mask_of_momentum": 0,
+      "mask_of_the_pouncing_lynx": 1
+    },
+    "01HAWPEZCWAYTAPK08DWAGQ6P9": {
+      "warmongers_diplomacy_blue": 3
+    }
+  }
+}

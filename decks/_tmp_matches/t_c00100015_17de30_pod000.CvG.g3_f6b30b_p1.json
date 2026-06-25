@@ -1,0 +1,41 @@
+{
+  "hero": "zyggy",
+  "equipment": [
+    "aphrodias",
+    "constella_tiara",
+    "seeker_s_gilet",
+    "seeker_s_leggings"
+  ],
+  "deck": [
+    "ebbing_arcstride_red",
+    "fraying_lifeforce_red",
+    "auric_shards_red",
+    "ominous_aggression_red",
+    "astral_assault_red",
+    "static_shelter_yellow",
+    "glide_through_starlight_yellow",
+    "brush_off_yellow",
+    "cosmic_duality_yellow",
+    "auric_shards_yellow",
+    "shattering_flowtide_yellow",
+    "stormshatter_yellow",
+    "circular_flowtide_yellow",
+    "volatile_fluxor_yellow",
+    "crackle_from_afar_blue",
+    "crackle_from_afar_blue",
+    "shattering_flowtide_blue",
+    "crackle_from_afar_blue",
+    "sigil_of_lightning_blue",
+    "astral_assault_blue",
+    "stormwhirl_blue",
+    "spellbane_sigil_blue",
+    "shattering_flowtide_blue",
+    "thunderous_retort_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

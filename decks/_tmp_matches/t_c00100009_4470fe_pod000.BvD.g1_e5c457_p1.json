@@ -1,0 +1,39 @@
+{
+  "hero": "zyggy",
+  "equipment": [
+    "aphrodias",
+    "constella_tiara"
+  ],
+  "deck": [
+    "thunderous_retort_red",
+    "volatile_fluxor_red",
+    "auric_shards_red",
+    "meteoric_rise_red",
+    "auric_shards_red",
+    "flittering_forcefield_red",
+    "cosmic_duality_red",
+    "auric_shards_red",
+    "auric_shards_yellow",
+    "shattering_flowtide_yellow",
+    "elliptical_conflux_yellow",
+    "corrosive_space_dust_yellow",
+    "shattering_flowtide_yellow",
+    "starworld_warning_yellow",
+    "spellbane_sigil_blue",
+    "flow_through_blue",
+    "spellbane_sigil_blue",
+    "flittering_spike_blue",
+    "auric_shards_blue",
+    "auric_shards_blue",
+    "flittering_spike_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

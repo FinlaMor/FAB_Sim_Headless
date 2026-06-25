@@ -1,0 +1,22 @@
+{
+  "hero": "dash",
+  "comment": "Sample deck shell — replace with a real legal Dash decklist before training. Card IDs follow Talishar's lowercase_underscored convention (see talishar/CardDictionaries).",
+  "equipment": [
+    "teklo_plasma_pistol",
+    "teklo_pounder",
+    "teklo_foundry_heart",
+    "induction_chamber"
+  ],
+  "deck": [
+    "dash",
+    "boom_grenade_red", "boom_grenade_red", "boom_grenade_red",
+    "flash_blast_yellow", "flash_blast_yellow", "flash_blast_yellow",
+    "scrap_bot_yellow", "scrap_bot_yellow", "scrap_bot_yellow",
+    "drone_of_brutality_red", "drone_of_brutality_red", "drone_of_brutality_red",
+    "high_octane_red", "high_octane_red", "high_octane_red",
+    "induction_chamber_yellow", "induction_chamber_yellow", "induction_chamber_yellow",
+    "torrential_engine_yellow", "torrential_engine_yellow", "torrential_engine_yellow",
+    "twin_twisters_red", "twin_twisters_red", "twin_twisters_red",
+    "zoom_in_blue", "zoom_in_blue", "zoom_in_blue"
+  ]
+}

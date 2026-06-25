@@ -1,0 +1,190 @@
+[continuous] starting at iteration 12; window=6 explorer=aggressive aggression_weight=0.6
+
+================ CONTINUOUS ITER 12 ================
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5 explorer=aggressive)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\transformer.py:409: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\NestedTensorImpl.cpp:180.)
+  output = torch._nested_tensor_from_mask(output, src_key_padding_mask.logical_not(), mask_check=False)
+  [t_c00100012_846d40_pod000] A vs C: 0-1 (draws=9, games=10) -> C
+  [t_c00100012_846d40_pod000] A vs F: 0-1 (draws=9, games=10) -> F
+  [t_c00100012_846d40_pod000] A vs B: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] A vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] A vs G: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] B vs C: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] A vs D: 0-1 (draws=9, games=10) -> D
+  [t_c00100012_846d40_pod000] B vs F: 0-1 (draws=11, games=12) -> F [win-by-2]
+  [t_c00100012_846d40_pod000] B vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] A vs E: 1-0 (draws=15, games=16) -> A [win-by-2]
+  [t_c00100012_846d40_pod000] B vs D: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] B vs E: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] C vs E: 3-0 (draws=7, games=10) -> C
+  [t_c00100012_846d40_pod000] C vs G: 1-2 (draws=13, games=16) -> G [win-by-2]
+  [t_c00100012_846d40_pod000] C vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] B vs G: 0-1 (draws=9, games=10) -> G
+  [t_c00100012_846d40_pod000] C vs F: 4-0 (draws=6, games=10) -> C
+  [t_c00100012_846d40_pod000] E vs H: 0-1 (draws=9, games=10) -> H
+  [t_c00100012_846d40_pod000] D vs G: 0-1 (draws=9, games=10) -> G
+  [t_c00100012_846d40_pod000] D vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] F vs G: 0-1 (draws=9, games=10) -> G
+  [t_c00100012_846d40_pod000] F vs H: 0-1 (draws=9, games=10) -> H
+  [t_c00100012_846d40_pod000] D vs F: 2-3 (draws=5, games=10) -> F
+  [t_c00100012_846d40_pod000] E vs G: 1-0 (draws=9, games=10) -> E
+  [t_c00100012_846d40_pod000] D vs E: 1-0 (draws=9, games=10) -> D
+  [t_c00100012_846d40_pod000] C vs D: 3-1 (draws=10, games=14) -> C [win-by-2]
+  [t_c00100012_846d40_pod000] G vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100012_846d40_pod000] E vs F: 0-4 (draws=6, games=10) -> F
+Round-robin t_c00100012_846d40_pod000 (seed=87371556)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  C     c00100012_846d40_pod000_zyggy_se      4-1-2      12-3-77
+   2  F     c00100012_846d40_pod000_aurora_e      4-3-0       9-8-55
+   3  G     c00100012_846d40_pod000_zyggy_se      4-1-2       5-2-81
+   4  D     c00100012_846d40_pod000_aurora_e      2-3-2       5-7-74
+   5  H     c00100012_846d40_pod000_oscilio_      2-0-5       2-0-98
+   6  A     c00100012_846d40_pod000_aurora_e      1-3-3       1-3-90
+   7  E     c00100012_846d40_pod000_aurora_e      1-5-1      1-10-71
+   8  B     c00100012_846d40_pod000_oscilio_      0-2-5      0-2-100
+Round-robin t_c00100012_846d40_pod000 (seed=87371556)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  C     c00100012_846d40_pod000_zyggy_se      4-1-2      12-3-77
+   2  F     c00100012_846d40_pod000_aurora_e      4-3-0       9-8-55
+   3  G     c00100012_846d40_pod000_zyggy_se      4-1-2       5-2-81
+   4  D     c00100012_846d40_pod000_aurora_e      2-3-2       5-7-74
+   5  H     c00100012_846d40_pod000_oscilio_      2-0-5       2-0-98
+   6  A     c00100012_846d40_pod000_aurora_e      1-3-3       1-3-90
+   7  E     c00100012_846d40_pod000_aurora_e      1-5-1      1-10-71
+   8  B     c00100012_846d40_pod000_oscilio_      0-2-5      0-2-100
+  champion: c00100012_846d40_pod000_zyggy_seat2
+[iql-gameplay] 114474 transitions | |vocab|=4512 | shaped=True window=6
+[iql-gameplay] card attributes ON (dim=34)
+  step      0 loss=0.9156 (v=0.0007 q=0.0054 pi=0.9096)
+  step    400 loss=0.4329 (v=0.0001 q=0.0007 pi=0.4321)
+  step    800 loss=0.4996 (v=0.0002 q=0.0007 pi=0.4987)
+  step   1200 loss=0.5081 (v=0.0001 q=0.0004 pi=0.5076)
+  step   1600 loss=0.4208 (v=0.0001 q=0.0002 pi=0.4205)
+  step   2000 loss=0.4309 (v=0.0001 q=0.0003 pi=0.4305)
+  step   2400 loss=0.4238 (v=0.0001 q=0.0005 pi=0.4232)
+  step   2800 loss=0.3999 (v=0.0001 q=0.0001 pi=0.3997)
+  step   3200 loss=0.3842 (v=0.0000 q=0.0006 pi=0.3836)
+  step   3600 loss=0.4625 (v=0.0011 q=0.0004 pi=0.4610)
+  step   3999 loss=0.4885 (v=0.0002 q=0.0002 pi=0.4881)
+[iql-gameplay] saved -> outputs\models\_staging\iql_gameplay.pt (final loss 0.4885)
+[iql-draft] 2016 pick transitions | |vocab|=209 | attn(emb=48,heads=4,layers=2) | window=6
+[iql-draft] card attributes ON (dim=34)
+  step      0 loss=1.7948 (v=0.1873 q=0.6002 pi=1.0073)
+  step    300 loss=1.5618 (v=0.0015 q=0.0037 pi=1.5566)
+  step    600 loss=1.3000 (v=0.0013 q=0.0195 pi=1.2792)
+  step    900 loss=0.7984 (v=0.0009 q=0.0063 pi=0.7912)
+  step   1200 loss=0.2996 (v=0.0008 q=0.0061 pi=0.2928)
+  step   1500 loss=0.2311 (v=0.0009 q=0.0096 pi=0.2206)
+  step   1800 loss=0.1397 (v=0.0008 q=0.0060 pi=0.1329)
+  step   2100 loss=0.1018 (v=0.0007 q=0.0106 pi=0.0905)
+  step   2400 loss=0.0254 (v=0.0008 q=0.0045 pi=0.0201)
+  step   2700 loss=0.0357 (v=0.0008 q=0.0054 pi=0.0295)
+  step   2999 loss=0.0307 (v=0.0015 q=0.0165 pi=0.0127)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0307)
+[continuous] iter 12 OK in 9674s | gate: kept champ 0-0 | champ=c00100012_846d40_pod000_zyggy_seat2 | lethal=9.8% draw=90.2%
+
+================ CONTINUOUS ITER 13 ================
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5 explorer=aggressive)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+  [t_c00100013_82a591_pod000] B vs C: 1-0 (draws=9, games=10) -> B
+  [t_c00100013_82a591_pod000] A vs G: 2-0 (draws=8, games=10) -> A
+  [t_c00100013_82a591_pod000] A vs B: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] A vs E: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] A vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] A vs D: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] B vs E: 1-0 (draws=9, games=10) -> B
+  [t_c00100013_82a591_pod000] B vs D: 1-0 (draws=11, games=12) -> B [win-by-2]
+  [t_c00100013_82a591_pod000] B vs G: 0-1 (draws=9, games=10) -> G
+  [t_c00100013_82a591_pod000] B vs F: 1-0 (draws=9, games=10) -> B
+  [t_c00100013_82a591_pod000] B vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] A vs F: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] C vs G: 1-3 (draws=6, games=10) -> G
+  [t_c00100013_82a591_pod000] A vs C: 1-1 (draws=14, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] C vs D: 1-0 (draws=9, games=10) -> C
+  [t_c00100013_82a591_pod000] C vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] D vs F: 0-1 (draws=9, games=10) -> F
+  [t_c00100013_82a591_pod000] D vs G: 0-1 (draws=9, games=10) -> G
+  [t_c00100013_82a591_pod000] D vs E: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] C vs F: 3-2 (draws=7, games=12) -> C [win-by-2]
+  [t_c00100013_82a591_pod000] D vs H: 0-1 (draws=9, games=10) -> H
+  [t_c00100013_82a591_pod000] F vs G: 0-2 (draws=8, games=10) -> G
+  [t_c00100013_82a591_pod000] F vs H: 0-1 (draws=9, games=10) -> H
+  [t_c00100013_82a591_pod000] E vs G: 0-1 (draws=13, games=14) -> G [win-by-2]
+  [t_c00100013_82a591_pod000] E vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] G vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] C vs E: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100013_82a591_pod000] E vs F: 0-1 (draws=9, games=10) -> F
+Round-robin t_c00100013_82a591_pod000 (seed=174600210)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  G     c00100013_82a591_pod000_zyggy_se      5-1-1       8-3-69
+   2  B     c00100013_82a591_pod000_aurora_e      4-1-2       4-1-79
+   3  C     c00100013_82a591_pod000_zyggy_se      2-2-3       6-7-77
+   4  F     c00100013_82a591_pod000_aurora_e      2-4-1       4-7-67
+   5  H     c00100013_82a591_pod000_oscilio_      2-0-5       2-0-98
+   6  A     c00100013_82a591_pod000_zyggy_se      1-0-6      3-1-102
+   7  D     c00100013_82a591_pod000_oscilio_      0-5-2       0-5-79
+   8  E     c00100013_82a591_pod000_oscilio_      0-3-4       0-3-95
+Round-robin t_c00100013_82a591_pod000 (seed=174600210)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  G     c00100013_82a591_pod000_zyggy_se      5-1-1       8-3-69
+   2  B     c00100013_82a591_pod000_aurora_e      4-1-2       4-1-79
+   3  C     c00100013_82a591_pod000_zyggy_se      2-2-3       6-7-77
+   4  F     c00100013_82a591_pod000_aurora_e      2-4-1       4-7-67
+   5  H     c00100013_82a591_pod000_oscilio_      2-0-5       2-0-98
+   6  A     c00100013_82a591_pod000_zyggy_se      1-0-6      3-1-102
+   7  D     c00100013_82a591_pod000_oscilio_      0-5-2       0-5-79
+   8  E     c00100013_82a591_pod000_oscilio_      0-3-4       0-3-95
+  champion: c00100013_82a591_pod000_zyggy_seat6
+[iql-gameplay] 111898 transitions | |vocab|=4439 | shaped=True window=6
+[iql-gameplay] card attributes ON (dim=34)
+  step      0 loss=1.2641 (v=0.0065 q=0.0132 pi=1.2444)
+  step    400 loss=0.4535 (v=0.0001 q=0.0027 pi=0.4507)
+  step    800 loss=0.4476 (v=0.0002 q=0.0029 pi=0.4446)
+  step   1200 loss=0.4319 (v=0.0001 q=0.0002 pi=0.4316)
+  step   1600 loss=0.3441 (v=0.0003 q=0.0006 pi=0.3431)
+  step   2000 loss=0.4615 (v=0.0002 q=0.0010 pi=0.4603)
+  step   2400 loss=0.4393 (v=0.0003 q=0.0017 pi=0.4373)
+  step   2800 loss=0.3974 (v=0.0001 q=0.0002 pi=0.3971)
+  step   3200 loss=0.3815 (v=0.0001 q=0.0001 pi=0.3813)
+  step   3600 loss=0.3735 (v=0.0005 q=0.0031 pi=0.3699)
+  step   3999 loss=0.4616 (v=0.0011 q=0.0010 pi=0.4594)
+[iql-gameplay] saved -> outputs\models\_staging\iql_gameplay.pt (final loss 0.4616)
+[iql-draft] 2016 pick transitions | |vocab|=208 | attn(emb=48,heads=4,layers=2) | window=6
+[iql-draft] card attributes ON (dim=34)
+  step      0 loss=11.1679 (v=0.2079 q=0.3223 pi=10.6377)
+  step    300 loss=1.8197 (v=0.0024 q=0.0083 pi=1.8091)
+  step    600 loss=1.2436 (v=0.0015 q=0.0169 pi=1.2253)
+  step    900 loss=0.9114 (v=0.0009 q=0.0024 pi=0.9080)
+  step   1200 loss=0.5053 (v=0.0011 q=0.0101 pi=0.4941)
+  step   1500 loss=0.2075 (v=0.0010 q=0.0083 pi=0.1982)
+  step   1800 loss=0.1398 (v=0.0012 q=0.0235 pi=0.1151)
+  step   2100 loss=0.0390 (v=0.0010 q=0.0088 pi=0.0292)
+  step   2400 loss=0.0341 (v=0.0013 q=0.0033 pi=0.0295)
+  step   2700 loss=0.0423 (v=0.0009 q=0.0113 pi=0.0301)
+  step   2999 loss=0.0177 (v=0.0010 q=0.0042 pi=0.0125)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0177)
+[continuous] iter 13 OK in 7435s | gate: kept champ 0-0 | champ=c00100013_82a591_pod000_zyggy_seat6 | lethal=7.5% draw=92.5%
+
+================ CONTINUOUS ITER 14 ================
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5 explorer=aggressive)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+  [t_c00100014_27cf6d_pod000] A vs E: 0-1 (draws=9, games=10) -> E
+  [t_c00100014_27cf6d_pod000] A vs G: 0-1 (draws=9, games=10) -> G
+  [t_c00100014_27cf6d_pod000] A vs F: 0-1 (draws=9, games=10) -> F
+  [t_c00100014_27cf6d_pod000] A vs D: 1-0 (draws=9, games=10) -> A
+  [t_c00100014_27cf6d_pod000] A vs C: 0-1 (draws=11, games=12) -> C [win-by-2]
+  [t_c00100014_27cf6d_pod000] A vs H: 0-1 (draws=9, games=10) -> H
+  [t_c00100014_27cf6d_pod000] A vs B: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100014_27cf6d_pod000] B vs C: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100014_27cf6d_pod000] B vs F: 0-1 (draws=9, games=10) -> F
+  [t_c00100014_27cf6d_pod000] B vs D: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100014_27cf6d_pod000] B vs E: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100014_27cf6d_pod000] B vs G: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100014_27cf6d_pod000] C vs F: 0-2 (draws=8, games=10) -> F
+  [t_c00100014_27cf6d_pod000] B vs H: 0-0 (draws=16, games=16) -> TIE [win-by-2]
+  [t_c00100014_27cf6d_pod000] C vs E: 1-2 (draws=13, games=16) -> E [win-by-2]
+  [t_c00100014_27cf6d_pod000] C vs G: 0-1 (draws=13, games=14) -> G [win-by-2]

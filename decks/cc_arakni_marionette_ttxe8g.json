@@ -1,0 +1,302 @@
+{
+  "hero": "arakni_marionette",
+  "comment": "Imported from fabrary: 'Chu Sides to the Blade' [Classic Constructed] deckId=01JSY1631P2ERK9TM72ETTXE8G",
+  "equipment": [
+    "flick_knives",
+    "fyendals_spring_tunic",
+    "mask_of_deceit",
+    "stalkers_steps"
+  ],
+  "deck": [
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "inertia_trap_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "reapers_call_blue",
+    "reapers_call_blue",
+    "reapers_call_blue",
+    "savor_bloodshed_red",
+    "savor_bloodshed_red",
+    "savor_bloodshed_red",
+    "shred_yellow",
+    "stains_of_the_redback_red",
+    "stains_of_the_redback_red",
+    "stains_of_the_redback_red",
+    "take_up_the_mantle_yellow",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "under_the_trap_door_blue",
+    "under_the_trap_door_blue",
+    "unmake_the_underlings_blue",
+    "unmake_the_underlings_blue",
+    "unmake_the_underlings_blue",
+    "up_sticks_and_run_red",
+    "up_sticks_and_run_red",
+    "up_sticks_and_run_red",
+    "whittle_from_bone_blue",
+    "whittle_from_bone_blue",
+    "whittle_from_bone_red",
+    "whittle_from_bone_red"
+  ],
+  "sideboard": [
+    "cut_from_the_same_cloth_red",
+    "cut_from_the_same_cloth_red",
+    "cut_from_the_same_cloth_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "inertia_trap_red",
+    "inertia_trap_red",
+    "lair_of_the_spider_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "meet_madness_red",
+    "meet_madness_red",
+    "overcrowded_blue",
+    "pick_up_the_point_red",
+    "pilfer_the_tomb_blue",
+    "pilfer_the_tomb_blue",
+    "scar_tissue_red",
+    "scar_tissue_red",
+    "scar_tissue_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "shred_yellow",
+    "shred_yellow",
+    "take_up_the_mantle_yellow",
+    "to_the_point_red",
+    "to_the_point_red",
+    "to_the_point_red"
+  ],
+  "sideboard_equipment": [
+    "hunters_klaive",
+    "hunters_klaive",
+    "widow_veil_respirator"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 44,
+  "matchups": [
+    {
+      "matchupId": "01K058YSRMHYASP5FTXYPN008K",
+      "heroes": [
+        "aurora_legacy_of_tempest",
+        "cindra_dracai_of_retribution",
+        "dash_io",
+        "dorinthea_ironsong",
+        "fai_rising_rebellion",
+        "katsu_the_wanderer",
+        "marlynn_treasure_hunter",
+        "puffin_hightail",
+        "rhinar_reckless_rampage",
+        "ser_boltyn_breaker_of_dawn"
+      ],
+      "name": "Aggro"
+    },
+    {
+      "matchupId": "01K05956CG0MTE2E8N9EASP6SX",
+      "heroes": [
+        "gravy_bones_shipwrecked_looter"
+      ],
+      "name": "Gravy"
+    },
+    {
+      "matchupId": "01K0597H2G0JRV1RS7GFH4X7DX",
+      "heroes": [
+        "betsy_skin_in_the_game",
+        "bravo_showstopper",
+        "fang_dracai_of_blades",
+        "hala_bladesaint_of_the_vow",
+        "ira_scarlet_revenger",
+        "jarl_vetreidi",
+        "kassai_of_the_golden_sand",
+        "kayo_underhanded_cheat",
+        "lyath_goldmane_vile_savant",
+        "maxx_the_hype_nitro",
+        "olympia_prized_fighter",
+        "pleiades_superstar",
+        "teklovossen_esteemed_magnate",
+        "tuffnut_bumbling_hulkster",
+        "valda_seismic_impact",
+        "victor_goldmane_high_and_mighty",
+        "zyggy_starlight",
+        "arakni_huntsman"
+      ],
+      "name": "Turtle"
+    },
+    {
+      "matchupId": "01K0N99C3AVD2GM9V1MRE2ZHZB",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01K30KNYC69CB62PY0WBPATRHD",
+      "heroes": [],
+      "name": "Oscilio (GIAF)"
+    },
+    {
+      "matchupId": "01K7B7SXMTVY6D1AQHD16K769N",
+      "heroes": [
+        "oscilio_forked_continuum",
+        "oscilio_constella_intelligence"
+      ],
+      "name": "Wizard"
+    },
+    {
+      "matchupId": "01K7Q4B8A0E9A1HRDRBB0JP2HG",
+      "heroes": [
+        "arakni_5lp3d_7hru_7h3_cr4x",
+        "arakni_marionette"
+      ],
+      "name": "Assassin"
+    },
+    {
+      "matchupId": "01KJ9JSNWMVQSAX8ZSQM9ZSXND",
+      "heroes": [
+        "vynnset_iron_maiden"
+      ],
+      "name": "Vynnset"
+    }
+  ],
+  "matchup_quantities": {
+    "01K0597H2G0JRV1RS7GFH4X7DX": {
+      "cut_from_the_same_cloth_red": 3,
+      "inertia_trap_red": 3,
+      "meet_madness_red": 1,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 1,
+      "savor_bloodshed_red": 3,
+      "scar_tissue_red": 3,
+      "shred_yellow": 3,
+      "take_up_the_mantle_yellow": 2,
+      "to_the_point_red": 3,
+      "up_sticks_and_run_red": 3
+    },
+    "01K30KNYC69CB62PY0WBPATRHD": {
+      "cut_from_the_same_cloth_red": 3,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 1,
+      "savor_bloodshed_red": 3,
+      "scar_tissue_red": 3,
+      "shred_yellow": 1,
+      "take_up_the_mantle_yellow": 2,
+      "to_the_point_red": 3,
+      "up_sticks_and_run_red": 3
+    },
+    "01K05956CG0MTE2E8N9EASP6SX": {
+      "cut_from_the_same_cloth_red": 0,
+      "fate_foreseen_red": 2,
+      "inertia_trap_red": 3,
+      "lair_of_the_spider_red": 0,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 1,
+      "pilfer_the_tomb_blue": 2,
+      "savor_bloodshed_red": 0,
+      "scar_tissue_red": 3,
+      "shelter_from_the_storm_red": 3,
+      "shred_yellow": 1,
+      "take_up_the_mantle_yellow": 2,
+      "to_the_point_red": 3,
+      "up_sticks_and_run_red": 0
+    },
+    "01K7B7SXMTVY6D1AQHD16K769N": {
+      "cut_from_the_same_cloth_red": 3,
+      "flick_knives": 1,
+      "fyendals_spring_tunic": 1,
+      "inertia_trap_red": 0,
+      "mark_of_the_black_widow_red": 3,
+      "mask_of_deceit": 0,
+      "meet_madness_red": 1,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3,
+      "shred_yellow": 3,
+      "take_up_the_mantle_yellow": 2,
+      "to_the_point_red": 3,
+      "up_sticks_and_run_red": 3,
+      "widow_veil_respirator": 1
+    },
+    "01K7Q4B8A0E9A1HRDRBB0JP2HG": {
+      "cut_from_the_same_cloth_red": 3,
+      "fate_foreseen_red": 2,
+      "inertia_trap_red": 3,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 1,
+      "pain_in_the_backside_red": 3,
+      "scar_tissue_red": 0,
+      "shelter_from_the_storm_red": 3,
+      "shred_yellow": 2,
+      "stains_of_the_redback_red": 3,
+      "stalkers_steps": 0,
+      "take_up_the_mantle_yellow": 1,
+      "whittle_from_bone_red": 0
+    },
+    "01K058YSRMHYASP5FTXYPN008K": {
+      "cut_from_the_same_cloth_red": 0,
+      "fate_foreseen_red": 2,
+      "inertia_trap_red": 3,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "mask_of_deceit": 1,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 0,
+      "savor_bloodshed_red": 3,
+      "scar_tissue_red": 2,
+      "shelter_from_the_storm_red": 3,
+      "shred_yellow": 2,
+      "stalkers_steps": 0,
+      "take_up_the_mantle_yellow": 1,
+      "unmake_the_underlings_blue": 3,
+      "up_sticks_and_run_red": 3
+    },
+    "01KJ9JSNWMVQSAX8ZSQM9ZSXND": {
+      "cut_from_the_same_cloth_red": 3,
+      "inertia_trap_red": 1,
+      "mark_of_the_black_widow_red": 0,
+      "meet_madness_red": 0,
+      "overcrowded_blue": 1,
+      "pick_up_the_point_red": 1,
+      "pilfer_the_tomb_blue": 2,
+      "scar_tissue_red": 3,
+      "shelter_from_the_storm_red": 0,
+      "shred_yellow": 3,
+      "take_up_the_mantle_yellow": 2,
+      "to_the_point_red": 3
+    },
+    "01K0N99C3AVD2GM9V1MRE2ZHZB": {
+      "hunters_klaive": 0,
+      "inertia_trap_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3,
+      "up_sticks_and_run_red": 1
+    },
+    "01K0FRKPTZ22M3YE5GVEV3NYR9": {
+      "inertia_trap_red": 1
+    }
+  }
+}

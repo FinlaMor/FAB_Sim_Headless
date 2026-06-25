@@ -1,0 +1,239 @@
+{
+  "hero": "victor_goldmane_high_and_mighty",
+  "comment": "Imported from fabrary: '8-0 RTN Victor' [Classic Constructed] deckId=01HNVGDXJ2G7D7FZ661E1GNF3M",
+  "equipment": [
+    "anothos",
+    "balance_of_justice",
+    "civic_steps",
+    "gauntlets_of_iron_will",
+    "tectonic_plating"
+  ],
+  "deck": [
+    "buckling_blow_blue",
+    "buckling_blow_blue",
+    "buckling_blow_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "chokeslam_red",
+    "chokeslam_red",
+    "chokeslam_red",
+    "clash_of_might_blue",
+    "clash_of_might_blue",
+    "clash_of_might_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "debilitate_blue",
+    "debilitate_blue",
+    "debilitate_blue",
+    "debilitate_red",
+    "debilitate_red",
+    "debilitate_red",
+    "disable_blue",
+    "disable_blue",
+    "disable_blue",
+    "disable_red",
+    "disable_red",
+    "disable_red",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "test_of_strength_red",
+    "test_of_strength_red",
+    "test_of_strength_red",
+    "the_golden_son_yellow",
+    "the_golden_son_yellow",
+    "the_golden_son_yellow",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunder_quake_red",
+    "thunder_quake_red",
+    "thunk_blue",
+    "thunk_blue",
+    "thunk_blue"
+  ],
+  "sideboard": [
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "macho_grande_red",
+    "macho_grande_red",
+    "pummel_red",
+    "pummel_red",
+    "trounce_red",
+    "trounce_red",
+    "trounce_red",
+    "unmovable_red",
+    "unmovable_red",
+    "zealous_belting_red",
+    "zealous_belting_red",
+    "zealous_belting_red"
+  ],
+  "sideboard_equipment": [
+    "fyendals_spring_tunic",
+    "nullrune_boots",
+    "nullrune_gloves",
+    "nullrune_hood"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 53,
+  "matchups": [
+    {
+      "matchupId": "01HNVGDXN1J1FJZW3B51P5800N",
+      "heroes": [],
+      "name": "Fai/ Katsu/ boltyn/maxx"
+    },
+    {
+      "matchupId": "01HNVGDXQYV87CSRV4FNH4QHGK",
+      "heroes": [],
+      "name": "Dromai"
+    },
+    {
+      "matchupId": "01HNVGDXTXEMZ1X37FKB6P51G2",
+      "heroes": [],
+      "name": "Bravo"
+    },
+    {
+      "matchupId": "01HNVGDXXVA4A1WNREDEPV1285",
+      "heroes": [],
+      "name": "Dori"
+    },
+    {
+      "matchupId": "01HNVGDY0T80WA4WZR4TKD2XFQ",
+      "heroes": [],
+      "name": "Betsy"
+    },
+    {
+      "matchupId": "01HNVGDY4CG0MQTKJN97P3MN4C",
+      "heroes": [],
+      "name": "DashIE"
+    },
+    {
+      "matchupId": "01HNVGDY7AS6F3HJR1889PMNBS",
+      "heroes": [],
+      "name": "DashIO"
+    },
+    {
+      "matchupId": "01HNVGDYABGYJN94K4FNZP4S0C",
+      "heroes": [],
+      "name": "Azalea"
+    },
+    {
+      "matchupId": "01HNVGDYDDRN3R27AMGJC8J0Y5",
+      "heroes": [],
+      "name": "Kayo"
+    },
+    {
+      "matchupId": "01HNVGDYGB3D2T75ZJX9R8EYB7",
+      "heroes": [],
+      "name": "Levia/ Rhinar"
+    }
+  ],
+  "matchup_quantities": {
+    "01HNVGDXN1J1FJZW3B51P5800N": {
+      "anothos": 0,
+      "command_and_conquer_red": 3,
+      "macho_grande_red": 1,
+      "test_of_strength_red": 3,
+      "trounce_red": 3
+    },
+    "01HNVGDXTXEMZ1X37FKB6P51G2": {
+      "anothos": 1,
+      "command_and_conquer_red": 0,
+      "enlightened_strike_red": 3,
+      "macho_grande_red": 2,
+      "pummel_red": 2,
+      "rouse_the_ancients_blue": 3,
+      "the_golden_son_yellow": 3,
+      "trounce_red": 0,
+      "unmovable_red": 2,
+      "zealous_belting_red": 3
+    },
+    "01HNVGDY0T80WA4WZR4TKD2XFQ": {
+      "anothos": 1,
+      "disable_red": 0,
+      "enlightened_strike_red": 3,
+      "macho_grande_red": 2,
+      "pummel_red": 2,
+      "rouse_the_ancients_blue": 3,
+      "the_golden_son_yellow": 0,
+      "trounce_red": 3,
+      "unmovable_red": 2,
+      "zealous_belting_red": 3
+    },
+    "01HNVGDY4CG0MQTKJN97P3MN4C": {
+      "chokeslam_red": 0,
+      "clash_of_might_blue": 3,
+      "command_and_conquer_red": 3,
+      "disable_red": 0,
+      "enlightened_strike_red": 3,
+      "macho_grande_red": 2,
+      "pummel_red": 2,
+      "rouse_the_ancients_blue": 3,
+      "test_of_strength_red": 0,
+      "trounce_red": 3,
+      "zealous_belting_red": 3
+    },
+    "01HNVGDXQYV87CSRV4FNH4QHGK": {
+      "civic_steps": 0,
+      "command_and_conquer_red": 3,
+      "enlightened_strike_red": 3,
+      "fyendals_spring_tunic": 1,
+      "nullrune_boots": 1,
+      "pummel_red": 2,
+      "rouse_the_ancients_blue": 3,
+      "tectonic_plating": 0,
+      "test_of_strength_red": 0,
+      "trounce_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HNVGDYABGYJN94K4FNZP4S0C": {
+      "command_and_conquer_red": 3,
+      "pummel_red": 2,
+      "trounce_red": 0,
+      "unmovable_red": 2
+    },
+    "01HNVGDY7AS6F3HJR1889PMNBS": {
+      "command_and_conquer_red": 3,
+      "trounce_red": 3,
+      "unmovable_red": 1
+    },
+    "01HNVGDXXVA4A1WNREDEPV1285": {
+      "command_and_conquer_red": 3,
+      "enlightened_strike_red": 3,
+      "macho_grande_red": 2,
+      "rouse_the_ancients_blue": 0,
+      "trounce_red": 3,
+      "unmovable_red": 2
+    },
+    "01HNVGDYDDRN3R27AMGJC8J0Y5": {
+      "command_and_conquer_red": 3,
+      "enlightened_strike_red": 0,
+      "fyendals_spring_tunic": 1,
+      "macho_grande_red": 2,
+      "pummel_red": 2,
+      "rouse_the_ancients_blue": 3
+    },
+    "01HNVGDYGB3D2T75ZJX9R8EYB7": {
+      "command_and_conquer_red": 3,
+      "enlightened_strike_red": 3,
+      "macho_grande_red": 2,
+      "rouse_the_ancients_blue": 3,
+      "trounce_red": 0
+    }
+  }
+}

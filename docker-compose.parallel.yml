@@ -1,0 +1,149 @@
+# Extra adapter workers for parallel self-play.
+#
+# Game state is file-based on the shared ./talishar/Games and
+# ./datasets/games volumes, so any worker can serve any game — we just
+# address each worker on its own host port and shard matches across them
+# from the Python side (one env per worker).
+#
+# Usage (4 workers on 8000-8003):
+#   docker compose -f docker-compose.yml -f docker-compose.parallel.yml up -d
+#
+# The primary `adapter` (8000) is defined in docker-compose.yml; this file
+# adds 8001-8003. All reuse the already-built image fab-sim-headless-adapter:dev.
+
+services:
+  adapter2:
+    image: fab-sim-headless-adapter:dev
+    environment:
+      ADAPTER_MODE: ${ADAPTER_MODE:-real}
+      ADAPTER_DEBUG: ${ADAPTER_DEBUG:-0}
+    volumes:
+      - ./adapter:/srv/adapter:ro
+      - ./talishar:/srv/talishar:rw
+      - ./decks:/srv/decks:ro
+      - ./datasets:/srv/datasets:rw
+    working_dir: /srv
+    ports:
+      - "8001:8000"
+    restart: unless-stopped
+
+  adapter3:
+    image: fab-sim-headless-adapter:dev
+    environment:
+      ADAPTER_MODE: ${ADAPTER_MODE:-real}
+      ADAPTER_DEBUG: ${ADAPTER_DEBUG:-0}
+    volumes:
+      - ./adapter:/srv/adapter:ro
+      - ./talishar:/srv/talishar:rw
+      - ./decks:/srv/decks:ro
+      - ./datasets:/srv/datasets:rw
+    working_dir: /srv
+    ports:
+      - "8002:8000"
+    restart: unless-stopped
+
+  adapter4:
+    image: fab-sim-headless-adapter:dev
+    environment:
+      ADAPTER_MODE: ${ADAPTER_MODE:-real}
+      ADAPTER_DEBUG: ${ADAPTER_DEBUG:-0}
+    volumes:
+      - ./adapter:/srv/adapter:ro
+      - ./talishar:/srv/talishar:rw
+      - ./decks:/srv/decks:ro
+      - ./datasets:/srv/datasets:rw
+    working_dir: /srv
+    ports:
+      - "8003:8000"
+    restart: unless-stopped
+
+  # Workers 5-8 (ports 8004-8007). Bring all 8 up with the same command;
+  # run the pipeline with --workers 8. The host has 12 cores / 15 GiB and
+  # each worker idles ~12% CPU / ~54 MiB, so 8 (even 12) is well within
+  # budget — the practical ceiling is bind-mount disk I/O, which is best
+  # measured, not assumed.
+  adapter5:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8004:8000"]
+    restart: unless-stopped
+  adapter6:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8005:8000"]
+    restart: unless-stopped
+  adapter7:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8006:8000"]
+    restart: unless-stopped
+  adapter8:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8007:8000"]
+    restart: unless-stopped
+
+  adapter9:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8008:8000"]
+    restart: unless-stopped
+  adapter10:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8009:8000"]
+    restart: unless-stopped
+  adapter11:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8010:8000"]
+    restart: unless-stopped
+  adapter12:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8011:8000"]
+    restart: unless-stopped
+  adapter13:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8012:8000"]
+    restart: unless-stopped
+  adapter14:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8013:8000"]
+    restart: unless-stopped
+  adapter15:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8014:8000"]
+    restart: unless-stopped
+  adapter16:
+    image: fab-sim-headless-adapter:dev
+    environment: {ADAPTER_MODE: "${ADAPTER_MODE:-real}", ADAPTER_DEBUG: "${ADAPTER_DEBUG:-0}"}
+    volumes: ["./adapter:/srv/adapter:ro", "./talishar:/srv/talishar:rw", "./decks:/srv/decks:ro", "./datasets:/srv/datasets:rw"]
+    working_dir: /srv
+    ports: ["8015:8000"]
+    restart: unless-stopped

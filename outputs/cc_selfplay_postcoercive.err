@@ -1,0 +1,384 @@
+[cc-selfplay] sideboard model: outputs/models/sideboard/sideboard_bc.pt
+[cc-selfplay] gameplay policy (acting bot): outputs/models/cc_warm3/iql_gameplay.pt (argmax, eps=0) -- overrides --bot=heuristic
+[cc-selfplay] 64 matchups x 2 games across 8 workers | step_cap=800 | draw_report=ON
+[selfplay] game 0 failed: http://localhost:8003/step returned 500: {'error': 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 139576035991055 bytes)', 'file': None, 'line': None} (payload={'game_id': '200300537352016', 'action_id': 2})
+[selfplay] game 0000/2 seed=200600 winner=1 steps=243 dt=727.00s
+[selfplay] game 0000/2 seed=200100 winner=2 steps=433 dt=969.45s
+[selfplay] game 1 failed: http://localhost:8001/step returned 500: {'error': 'array_splice(): Argument #2 ($offset) must be of type int, string given', 'type': 'TypeError'} (payload={'game_id': '200101696345129', 'action_id': 1})
+[selfplay] final flush -> datasets\cc\parquet\games\1782272475-a9aa0fcb.parquet
+[cc-selfplay] cindra_dracai_of_retribution vs dorinthea_ironsong: 1 games
+[selfplay] game 0000/2 seed=200000 winner=2 steps=600 dt=1198.48s
+[selfplay] game 0000/2 seed=200400 winner=2 steps=548 dt=1325.98s
+[selfplay] game 0000/2 seed=200700 winner=1 steps=333 dt=1350.81s
+[selfplay] game 0000/2 seed=200200 winner=2 steps=517 dt=1386.66s
+[selfplay] game 0001/2 seed=200601 winner=1 steps=293 dt=850.81s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782272889-2be7859c.parquet
+[cc-selfplay] kassai_of_the_golden_sand vs levia_shadowborn_abomination: 2 games
+[selfplay] game 0000/2 seed=200500 winner=1 steps=654 dt=1853.19s
+[selfplay] game 0001/2 seed=200701 winner=1 steps=283 dt=869.62s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782273532-78d8528e.parquet
+[cc-selfplay] arakni_5lp3d_7hru_7h3_cr4x vs victor_goldmane_high_and_mighty: 2 games
+[selfplay] game 0001/2 seed=200401 winner=1 steps=450 dt=993.11s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782273630-3a5dd5ee.parquet
+[cc-selfplay] hala_bladesaint_of_the_vow vs uzuri_switchblade: 2 games
+[selfplay] game 0000/2 seed=200900 winner=2 steps=303 dt=813.38s
+[selfplay] game 0001/2 seed=200501 winner=1 steps=293 dt=597.16s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782273762-498e9cc0.parquet
+[cc-selfplay] uzuri_switchblade vs zyggy_starlight: 2 games
+[selfplay] game 0001/2 seed=200201 winner=2 steps=395 dt=1134.41s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782273832-25712042.parquet
+[cc-selfplay] kayo_underhanded_cheat vs rhinar_reckless_rampage: 2 games
+[selfplay] game 0000/2 seed=200301 winner=0 steps=800 dt=2571.61s
+DRAW jarl_vetreidi vs tuffnut_bumbling_hulkster | steps=800 | life P1=44 P2=36 | life moving | hit step_cap
+  last100 phases: {'P': 24, 'PDECK': 18, 'B': 16, 'INSTANT': 14, 'M': 13, 'A': 6, 'D': 6, 'YESNO': 1, 'CHOOSENUMBER': 1, 'BUTTONINPUT': 1}
+  last100 action-types: {'PLAY_FROM_HAND': 35, 'PASS': 26, 'CHOOSE_PDECK': 18, 'ACTIVATE_HERO_OR_EQUIP': 11, 'PLAY_FROM_ARSENAL': 7, 'DECISION': 3}
+  most-repeated (phase,type,card): [(('PDECK', 'CHOOSE_PDECK', 'unforgetting_unforgiving_red'), 9), (('P', 'PLAY_FROM_HAND', 'unforgetting_unforgiving_red'), 9), (('INSTANT', 'PASS', None), 8), (('M', 'PLAY_FROM_ARSENAL', 'smashing_ground_blue'), 7)]
+[selfplay] final flush -> datasets\cc\parquet\games\1782273966-0d348a2c.parquet
+[cc-selfplay] jarl_vetreidi vs tuffnut_bumbling_hulkster: 1 games
+[selfplay] game 0001/2 seed=200001 winner=1 steps=408 dt=1576.80s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782274087-24ae8a14.parquet
+[cc-selfplay] jarl_vetreidi vs oscilio_forked_continuum: 2 games
+[selfplay] game 0000/2 seed=201000 winner=1 steps=238 dt=728.97s
+[selfplay] game 0000/2 seed=200800 winner=2 steps=527 dt=1847.11s
+[selfplay] game 0000/2 seed=201400 winner=2 steps=295 dt=478.77s
+[selfplay] game 0001/2 seed=201001 winner=1 steps=122 dt=238.77s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782274500-990ad1d7.parquet
+[cc-selfplay] marlynn_treasure_hunter vs vynnset_iron_maiden: 2 games
+[selfplay] game 0001/2 seed=200901 winner=1 steps=335 dt=853.30s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782274556-53c1ad45.parquet
+[cc-selfplay] arakni_5lp3d_7hru_7h3_cr4x vs arakni_huntsman: 2 games
+[selfplay] game 0000/2 seed=201300 winner=1 steps=399 dt=885.27s
+[selfplay] game 0000/2 seed=201100 winner=1 steps=568 dt=1255.22s
+[selfplay] game 0000/2 seed=201200 winner=1 steps=440 dt=1323.95s
+[selfplay] game 0001/2 seed=201401 winner=2 steps=503 dt=916.31s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782275361-d48dc5f8.parquet
+[cc-selfplay] cindra_dracai_of_retribution vs ira_scarlet_revenger: 2 games
+[selfplay] game 0001/2 seed=201301 winner=1 steps=413 dt=923.76s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782275642-e03328b3.parquet
+[cc-selfplay] katsu_the_wanderer vs oscilio_constella_intelligence: 2 games
+[selfplay] game 0001/2 seed=201101 winner=1 steps=563 dt=971.98s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782275868-7bfa619c.parquet
+[cc-selfplay] puffin_hightail vs tuffnut_bumbling_hulkster: 2 games
+[selfplay] game 0000/2 seed=201700 winner=1 steps=574 dt=1359.56s
+[selfplay] game 0001/2 seed=200801 winner=2 steps=506 dt=1694.19s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782276026-856d342f.parquet
+[cc-selfplay] betsy_skin_in_the_game vs hala_bladesaint_of_the_vow: 2 games
+[selfplay] game 0000/2 seed=201500 winner=1 steps=602 dt=2096.33s
+[selfplay] game 0 failed: http://localhost:8005/step returned 500: {'error': 'array_splice(): Argument #2 ($offset) must be of type int, string given', 'type': 'TypeError'} (payload={'game_id': '202100133012407', 'action_id': 1})
+[selfplay] game 0001/2 seed=201201 winner=2 steps=432 dt=1140.70s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782276227-555afa64.parquet
+[cc-selfplay] katsu_the_wanderer vs uzuri_switchblade: 2 games
+[selfplay] game 0000/2 seed=201900 winner=1 steps=431 dt=677.70s
+[selfplay] game 0000/2 seed=201800 winner=2 steps=437 dt=1137.08s
+[selfplay] game 0001/2 seed=201701 winner=2 steps=347 dt=773.55s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782276689-47862f1a.parquet
+[cc-selfplay] arakni_marionette vs tuffnut_bumbling_hulkster: 2 games
+[selfplay] game 0001/2 seed=201901 winner=1 steps=423 dt=427.45s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782276749-80dc4592.parquet
+[cc-selfplay] aurora_legacy_of_tempest vs lyath_goldmane_vile_savant: 2 games
+[selfplay] game 0000/2 seed=202000 winner=0 steps=800 dt=916.88s
+DRAW cindra_dracai_of_retribution vs pleiades_superstar | steps=800 | life P1=40 P2=39 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 75, 'M': 25}
+  last100 action-types: {'PASS': 75, 'PLAY_FROM_HAND': 25}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 50), (('M', 'PASS', None), 25), (('INSTANT', 'PLAY_FROM_HAND', 'hungry_for_more_red'), 25)]
+[selfplay] game 0000/2 seed=202101 winner=2 steps=492 dt=804.97s
+[selfplay] final flush -> datasets\cc\parquet\games\1782277000-4480b4fb.parquet
+[cc-selfplay] bravo_showstopper vs dorinthea_ironsong: 1 games
+[selfplay] game 0001/2 seed=202001 winner=0 steps=800 dt=517.72s
+DRAW cindra_dracai_of_retribution vs pleiades_superstar | steps=800 | life P1=40 P2=37 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 75, 'M': 25}
+  last100 action-types: {'PASS': 75, 'PLAY_FROM_HAND': 25}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 50), (('INSTANT', 'PLAY_FROM_HAND', 'act_of_glory_red'), 25), (('M', 'PASS', None), 25)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782277308-9d5b38b1.parquet
+[cc-selfplay] cindra_dracai_of_retribution vs pleiades_superstar: 2 games
+[selfplay] game 0000/2 seed=202300 winner=1 steps=185 dt=776.98s
+[selfplay] game 0000/2 seed=202200 winner=2 steps=441 dt=1268.67s
+[selfplay] game 0000/2 seed=201600 winner=0 steps=800 dt=3000.53s
+DRAW betsy_skin_in_the_game vs ser_boltyn_breaker_of_dawn | steps=800 | life P1=57 P2=41 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'B': 44, 'M': 23, 'BUTTONINPUT': 11, 'A': 11, 'D': 11}
+  last100 action-types: {'PASS': 45, 'ACTIVATE_HERO_OR_EQUIP': 44, 'DECISION': 11}
+  most-repeated (phase,type,card): [(('M', 'PASS', None), 12), (('M', 'ACTIVATE_HERO_OR_EQUIP', 'raydn_duskbane'), 11), (('B', 'ACTIVATE_HERO_OR_EQUIP', 'nullrune_gloves'), 11), (('B', 'ACTIVATE_HERO_OR_EQUIP', 'nullrune_boots'), 11)]
+[selfplay] game 0000/2 seed=202500 winner=1 steps=408 dt=787.28s
+[selfplay] game 0000/2 seed=202400 winner=1 steps=328 dt=1350.16s
+[selfplay] game 0001/2 seed=202201 winner=1 steps=367 dt=826.55s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782278322-4933752a.parquet
+[cc-selfplay] ser_boltyn_breaker_of_dawn vs uzuri_switchblade: 2 games
+[selfplay] game 0001/2 seed=202301 winner=1 steps=147 dt=975.55s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782278445-ddb50ae9.parquet
+[cc-selfplay] aurora_legacy_of_tempest vs levia_shadowborn_abomination: 2 games
+[selfplay] game 0001/2 seed=202501 winner=1 steps=366 dt=679.22s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782278466-d6596b04.parquet
+[cc-selfplay] aurora_legacy_of_tempest vs kassai_of_the_golden_sand: 2 games
+[selfplay] game 0000/2 seed=202700 winner=1 steps=229 dt=257.52s
+[selfplay] game 0001/2 seed=201501 winner=2 steps=634 dt=2634.22s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782278817-70bddda4.parquet
+[cc-selfplay] betsy_skin_in_the_game vs olympia_prized_fighter: 2 games
+[selfplay] game 0001/2 seed=202701 winner=1 steps=242 dt=304.39s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782278885-cdbb4d7f.parquet
+[cc-selfplay] arakni_5lp3d_7hru_7h3_cr4x vs riptide_lurker_of_the_deep: 2 games
+[selfplay] game 0000/2 seed=202800 winner=0 steps=324 dt=501.89s
+DRAW pleiades_superstar vs valda_seismic_impact | steps=324 | life P1=33 P2=40 | life moving | abort=no_progress_60_steps
+  last100 phases: {'B': 72, 'M': 8, 'P': 8, 'A': 3, 'D': 3, 'PDECK': 2, 'INSTANT': 2, 'CHOOSEMULTIZONE': 1, 'YESNO': 1}
+  last100 action-types: {'BLOCK_WITH_EQUIP': 59, 'PLAY_FROM_HAND': 21, 'PASS': 9, 'ACTIVATE_HERO_OR_EQUIP': 5, 'CHOOSE_PDECK': 2, 'PLAY_FROM_ARSENAL': 2, 'CHOOSE_CHOOSEMULTIZONE': 1, 'DECISION': 1}
+  most-repeated (phase,type,card): [(('B', 'BLOCK_WITH_EQUIP', 'tectonic_plating'), 59), (('B', 'ACTIVATE_HERO_OR_EQUIP', 'nullrune_gloves'), 3), (('B', 'PASS', None), 3), (('A', 'PASS', None), 3)]
+[selfplay] game 0001/2 seed=201801 winner=0 steps=800 dt=2631.92s
+DRAW kassai_of_the_golden_sand vs puffin_hightail | steps=800 | life P1=40 P2=36 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 100}
+  last100 action-types: {'PASS': 50, 'PLAY_FROM_HAND': 50}
+  most-repeated (phase,type,card): [(('M', 'PASS', None), 50), (('M', 'PLAY_FROM_HAND', 'golden_skywarden_yellow'), 50)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782279131-ecc89888.parquet
+[cc-selfplay] kassai_of_the_golden_sand vs puffin_hightail: 2 games
+[selfplay] game 0000/2 seed=202900 winner=2 steps=350 dt=729.25s
+[selfplay] game 0001/2 seed=201601 winner=2 steps=490 dt=2276.55s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782279779-fba4b373.parquet
+[cc-selfplay] betsy_skin_in_the_game vs ser_boltyn_breaker_of_dawn: 2 games
+[selfplay] game 0001/2 seed=202901 winner=2 steps=329 dt=640.80s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782279836-73390787.parquet
+[cc-selfplay] katsu_the_wanderer vs ser_boltyn_breaker_of_dawn: 2 games
+[selfplay] game 0001/2 seed=202401 winner=2 steps=381 dt=1805.81s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782279907-26555e40.parquet
+[cc-selfplay] aurora_legacy_of_tempest vs victor_goldmane_high_and_mighty: 2 games
+[selfplay] game 0000/2 seed=202600 winner=2 steps=584 dt=2663.86s
+[selfplay] game 0000/2 seed=203000 winner=0 steps=800 dt=1205.89s
+DRAW arakni_huntsman vs dash_io | steps=800 | life P1=40 P2=36 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 75, 'M': 25}
+  last100 action-types: {'PASS': 75, 'PLAY_FROM_HAND': 25}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 50), (('M', 'PASS', None), 25), (('INSTANT', 'PLAY_FROM_HAND', 'oasis_respite_red'), 25)]
+[selfplay] game 0000/2 seed=203100 winner=2 steps=484 dt=1318.20s
+[selfplay] game 0000/2 seed=203400 winner=1 steps=183 dt=681.56s
+[selfplay] game 0001/2 seed=202801 winner=1 steps=745 dt=1606.31s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782280554-5ac6d30b.parquet
+[cc-selfplay] pleiades_superstar vs valda_seismic_impact: 2 games
+[selfplay] game 0000/2 seed=203200 winner=2 steps=509 dt=1566.44s
+[selfplay] game 0000/2 seed=203300 winner=2 steps=408 dt=937.38s
+[selfplay] game 0000/2 seed=203500 winner=2 steps=384 dt=986.70s
+[selfplay] game 0001/2 seed=203101 winner=2 steps=425 dt=1059.39s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782281262-bdd0f0ac.parquet
+[cc-selfplay] katsu_the_wanderer vs olympia_prized_fighter: 2 games
+[selfplay] game 0001/2 seed=203401 winner=1 steps=196 dt=846.14s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782281372-c7d94b61.parquet
+[cc-selfplay] katsu_the_wanderer vs vynnset_iron_maiden: 2 games
+[selfplay] game 0000/2 seed=203600 winner=2 steps=412 dt=976.36s
+[selfplay] game 0001/2 seed=203001 winner=1 steps=556 dt=1535.59s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782281559-1c8faea2.parquet
+[cc-selfplay] arakni_huntsman vs dash_io: 2 games
+[selfplay] game 0001/2 seed=203301 winner=2 steps=404 dt=949.11s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782281665-60459993.parquet
+[cc-selfplay] arakni_5lp3d_7hru_7h3_cr4x vs arakni_marionette: 2 games
+[selfplay] game 0001/2 seed=203501 winner=2 steps=410 dt=1130.59s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782282025-2b23bf24.parquet
+[cc-selfplay] kassai_of_the_golden_sand vs katsu_the_wanderer: 2 games
+[selfplay] game 0001/2 seed=203201 winner=0 steps=800 dt=1340.55s
+DRAW betsy_skin_in_the_game vs zyggy_starlight | steps=800 | life P1=41 P2=38 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 50, 'INSTANT': 50}
+  last100 action-types: {'PLAY_FROM_HAND': 100}
+  most-repeated (phase,type,card): [(('M', 'PLAY_FROM_HAND', 'phantasmaclasm_red'), 50), (('INSTANT', 'PLAY_FROM_HAND', 'oasis_respite_red'), 50)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782282039-d1db2ca4.parquet
+[cc-selfplay] betsy_skin_in_the_game vs zyggy_starlight: 2 games
+[selfplay] game 0000/2 seed=203800 winner=0 steps=800 dt=953.59s
+DRAW arakni_marionette vs oscilio_forked_continuum | steps=800 | life P1=37 P2=32 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 50, 'M': 50}
+  last100 action-types: {'PLAY_FROM_HAND': 50, 'PASS': 50}
+  most-repeated (phase,type,card): [(('INSTANT', 'PLAY_FROM_HAND', 'save_the_thought_red'), 50), (('M', 'PASS', None), 50)]
+[selfplay] game 0000/2 seed=204000 winner=1 steps=251 dt=669.55s
+[selfplay] game 0001/2 seed=202601 winner=1 steps=563 dt=2440.33s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782282414-6c484c53.parquet
+[cc-selfplay] olympia_prized_fighter vs rhinar_reckless_rampage: 2 games
+[selfplay] game 0000/2 seed=203700 winner=0 steps=800 dt=1241.31s
+DRAW cindra_dracai_of_retribution vs gravy_bones_shipwrecked_looter | steps=800 | life P1=32 P2=31 | STUCK no-life-change/last100 | hit step_cap  <<GRAVY BONES>>
+  last100 phases: {'INSTANT': 47, 'M': 13, 'P': 10, 'CHOOSEMULTIZONE': 7, 'PDECK': 6, 'B': 5, 'OK': 3, 'A': 3, 'D': 3, 'MAYCHOOSEMULTIZONE': 1, 'MAYCHOOSEHAND': 1, 'ARS': 1}
+  last100 action-types: {'PASS': 51, 'PLAY_FROM_HAND': 20, 'ACTIVATE_HERO_OR_EQUIP': 8, 'CHOOSE_CHOOSEMULTIZONE': 7, 'CHOOSE_PDECK': 6, 'PLAY_FROM_ARSENAL': 5, 'CHOOSE_MAYCHOOSEMULTIZONE': 1, 'CHOOSE_MAYCHOOSEHAND': 1, 'ARSENAL_FROM_HAND': 1}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 39), (('M', 'PLAY_FROM_ARSENAL', 'art_of_the_dragon_scale_red'), 4), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), 4), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'cindra_dracai_of_retribution'), 4)]
+  [gravy P2] end zones: {'graveyard': 62, 'soul': 0, 'banished': 0, 'pitch': 0, 'arsenal': 1, 'hand': 4}
+  [gravy] last 12 actions: [(788, 'P1', 'P', 'PLAY_FROM_HAND', 'wrath_of_retribution_red'), (789, 'P1', 'P', 'PLAY_FROM_HAND', 'burning_blade_dance_red'), (790, 'P1', 'P', 'PLAY_FROM_HAND', 'rising_resentment_red'), (791, 'P2', 'INSTANT', 'PASS', None), (792, 'P2', 'INSTANT', 'PASS', None), (793, 'P2', 'M', 'PASS', None), (794, 'P2', 'INSTANT', 'PASS', None), (795, 'P1', 'PDECK', 'CHOOSE_PDECK', 'wrath_of_retribution_red'), (796, 'P1', 'PDECK', 'CHOOSE_PDECK', 'burning_blade_dance_red'), (797, 'P1', 'M', 'PLAY_FROM_HAND', 'wrath_of_retribution_red'), (798, 'P1', 'CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRALLY-165'), (799, 'P2', 'INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths')]
+[selfplay] game 0000/2 seed=203900 winner=2 steps=456 dt=976.38s
+[selfplay] game 0001/2 seed=203601 winner=2 steps=423 dt=1068.08s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782282598-a4aa904d.parquet
+[cc-selfplay] fang_dracai_of_blades vs ira_scarlet_revenger: 2 games
+[selfplay] game 0001/2 seed=204001 winner=1 steps=278 dt=644.98s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782282981-e2dfe636.parquet
+[cc-selfplay] aurora_legacy_of_tempest vs katsu_the_wanderer: 2 games
+[selfplay] game 0000/2 seed=204100 winner=2 steps=406 dt=1148.53s
+[selfplay] game 0000/2 seed=204400 winner=1 steps=331 dt=732.05s
+[selfplay] game 0000/2 seed=204200 winner=1 steps=497 dt=1377.92s
+[selfplay] game 0001/2 seed=203901 winner=2 steps=436 dt=888.70s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782283424-5c581acc.parquet
+[cc-selfplay] bravo_showstopper vs fang_dracai_of_blades: 2 games
+[selfplay] game 0001/2 seed=203801 winner=0 steps=800 dt=1258.69s
+DRAW arakni_marionette vs oscilio_forked_continuum | steps=800 | life P1=41 P2=20 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 50, 'M': 50}
+  last100 action-types: {'PLAY_FROM_HAND': 50, 'PASS': 50}
+  most-repeated (phase,type,card): [(('INSTANT', 'PLAY_FROM_HAND', 'starworld_warning_yellow'), 50), (('M', 'PASS', None), 50)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782283587-f5121f95.parquet
+[cc-selfplay] arakni_marionette vs oscilio_forked_continuum: 2 games
+[selfplay] game 0001/2 seed=204101 winner=2 steps=335 dt=752.86s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782283926-73f210bd.parquet
+[cc-selfplay] arakni_5lp3d_7hru_7h3_cr4x vs olympia_prized_fighter: 2 games
+[selfplay] game 0001/2 seed=204401 winner=1 steps=324 dt=676.88s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782284007-0e1dcfb9.parquet
+[cc-selfplay] uzuri_switchblade vs valda_seismic_impact: 2 games
+[selfplay] game 0000/2 seed=204300 winner=2 steps=549 dt=1608.27s
+[selfplay] game 0000/2 seed=204600 winner=1 steps=775 dt=653.44s
+[selfplay] game 0000/2 seed=204500 winner=2 steps=371 dt=1418.64s
+[selfplay] game 0000/2 seed=204800 winner=0 steps=800 dt=589.16s
+DRAW pleiades_superstar vs teklovossen_esteemed_magnate | steps=800 | life P1=46 P2=41 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 75, 'M': 25}
+  last100 action-types: {'PASS': 75, 'PLAY_FROM_HAND': 25}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 50), (('M', 'PASS', None), 25), (('INSTANT', 'PLAY_FROM_HAND', 'oasis_respite_red'), 25)]
+[selfplay] game 0000/2 seed=204900 winner=2 steps=466 dt=532.28s
+[selfplay] game 0001/2 seed=204601 winner=1 steps=752 dt=542.66s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782284621-c1624de3.parquet
+[cc-selfplay] hala_bladesaint_of_the_vow vs oscilio_constella_intelligence: 2 games
+[selfplay] game 0001/2 seed=203701 winner=0 steps=800 dt=2137.89s
+DRAW cindra_dracai_of_retribution vs gravy_bones_shipwrecked_looter | steps=800 | life P1=29 P2=40 | STUCK no-life-change/last100 | hit step_cap  <<GRAVY BONES>>
+  last100 phases: {'INSTANT': 45, 'M': 17, 'P': 15, 'PDECK': 7, 'CHOOSEMULTIZONE': 6, 'OK': 4, 'B': 3, 'MAYCHOOSEMULTIZONE': 1, 'A': 1, 'D': 1}
+  last100 action-types: {'PASS': 48, 'PLAY_FROM_HAND': 27, 'ACTIVATE_HERO_OR_EQUIP': 9, 'CHOOSE_PDECK': 7, 'CHOOSE_CHOOSEMULTIZONE': 6, 'PLAY_FROM_ARSENAL': 2, 'CHOOSE_MAYCHOOSEMULTIZONE': 1}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 37), (('CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), 5), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'cindra_dracai_of_retribution'), 4), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), 4)]
+  [gravy P2] end zones: {'graveyard': 54, 'soul': 0, 'banished': 0, 'pitch': 0, 'arsenal': 1, 'hand': 4}
+  [gravy] last 12 actions: [(788, 'P2', 'INSTANT', 'PASS', None), (789, 'P2', 'M', 'PASS', None), (790, 'P2', 'INSTANT', 'PASS', None), (791, 'P1', 'M', 'PLAY_FROM_HAND', 'breaking_point_red'), (792, 'P1', 'CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), (793, 'P1', 'P', 'PLAY_FROM_HAND', 'display_loyalty_red'), (794, 'P1', 'INSTANT', 'PASS', None), (795, 'P2', 'INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), (796, 'P2', 'INSTANT', 'PASS', None), (797, 'P1', 'INSTANT', 'PASS', None), (798, 'P2', 'OK', 'PASS', None), (799, 'P2', 'INSTANT', 'PASS', None)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782284642-47dd4421.parquet
+[cc-selfplay] cindra_dracai_of_retribution vs gravy_bones_shipwrecked_looter: 2 games
+[selfplay] game 0000/2 seed=204700 winner=0 steps=800 dt=1082.09s
+DRAW betsy_skin_in_the_game vs teklovossen_esteemed_magnate | steps=800 | life P1=43 P2=40 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 50, 'INSTANT': 50}
+  last100 action-types: {'PASS': 50, 'PLAY_FROM_HAND': 50}
+  most-repeated (phase,type,card): [(('M', 'PASS', None), 50), (('INSTANT', 'PLAY_FROM_HAND', 'evo_steel_soul_memory_blue'), 50)]
+[selfplay] game 0001/2 seed=204201 winner=1 steps=667 dt=1621.09s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782285040-5d171fb8.parquet
+[cc-selfplay] valda_seismic_impact vs zyggy_starlight: 2 games
+[selfplay] game 0000/2 seed=205200 winner=1 steps=209 dt=429.30s
+[selfplay] game 0001/2 seed=204801 winner=0 steps=800 dt=1028.62s
+DRAW pleiades_superstar vs teklovossen_esteemed_magnate | steps=800 | life P1=44 P2=46 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 50, 'M': 50}
+  last100 action-types: {'PLAY_FROM_HAND': 100}
+  most-repeated (phase,type,card): [(('INSTANT', 'PLAY_FROM_HAND', 'evo_steel_soul_tower_blue'), 50), (('M', 'PLAY_FROM_HAND', 'standing_ovation_blue'), 50)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782285544-14ea30b4.parquet
+[cc-selfplay] pleiades_superstar vs teklovossen_esteemed_magnate: 2 games
+[selfplay] game 0001/2 seed=204901 winner=0 steps=800 dt=1019.62s
+DRAW fai_rising_rebellion vs kayo_underhanded_cheat | steps=800 | life P1=40 P2=20 | life moving | hit step_cap
+  last100 phases: {'M': 25, 'P': 18, 'INSTANT': 15, 'B': 14, 'A': 10, 'PDECK': 9, 'D': 8, 'ARS': 1}
+  last100 action-types: {'PASS': 44, 'PLAY_FROM_HAND': 27, 'ACTIVATE_HERO_OR_EQUIP': 16, 'CHOOSE_PDECK': 9, 'PLAY_FROM_ARSENAL': 4}
+  most-repeated (phase,type,card): [(('B', 'PASS', None), 9), (('A', 'PASS', None), 9), (('INSTANT', 'PASS', None), 9), (('M', 'PLAY_FROM_HAND', 'phoenix_flame_red'), 8)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782285559-f2b80c08.parquet
+[cc-selfplay] fai_rising_rebellion vs kayo_underhanded_cheat: 2 games
+[selfplay] game 0001/2 seed=204701 winner=0 steps=800 dt=988.81s
+DRAW betsy_skin_in_the_game vs teklovossen_esteemed_magnate | steps=800 | life P1=40 P2=42 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 50, 'INSTANT': 50}
+  last100 action-types: {'PASS': 50, 'PLAY_FROM_HAND': 50}
+  most-repeated (phase,type,card): [(('M', 'PASS', None), 50), (('INSTANT', 'PLAY_FROM_HAND', 'evo_steel_soul_tower_blue'), 50)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782285658-0c1a1a4c.parquet
+[cc-selfplay] betsy_skin_in_the_game vs teklovossen_esteemed_magnate: 2 games
+[selfplay] game 0001/2 seed=204301 winner=2 steps=562 dt=1735.83s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782285759-2f16fe97.parquet
+[cc-selfplay] dash_io vs olympia_prized_fighter: 2 games
+[selfplay] game 0000/2 seed=205000 winner=1 steps=500 dt=1155.05s
+[selfplay] game 0001/2 seed=205201 winner=1 steps=224 dt=441.53s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782285911-7c444ccc.parquet
+[cc-selfplay] arakni_marionette vs levia_shadowborn_abomination: 2 games
+[selfplay] game 0000/2 seed=205100 winner=1 steps=426 dt=1540.97s
+[selfplay] game 0001/2 seed=204501 winner=0 steps=800 dt=1996.39s
+DRAW gravy_bones_shipwrecked_looter vs ser_boltyn_breaker_of_dawn | steps=800 | life P1=2 P2=44 | STUCK no-life-change/last100 | hit step_cap  <<GRAVY BONES>>
+  last100 phases: {'INSTANT': 42, 'M': 14, 'B': 14, 'CHOOSEMULTIZONE': 6, 'OK': 6, 'A': 5, 'D': 5, 'P': 5, 'PDECK': 2, 'CHOOSEHAND': 1}
+  last100 action-types: {'PASS': 58, 'PLAY_FROM_HAND': 17, 'ACTIVATE_HERO_OR_EQUIP': 14, 'CHOOSE_CHOOSEMULTIZONE': 6, 'CHOOSE_PDECK': 2, 'CHOOSE_CHOOSEHAND': 1, 'BLOCK_WITH_EQUIP': 1, 'PLAY_FROM_ARSENAL': 1}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 35), (('OK', 'PASS', None), 6), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), 5), (('A', 'PASS', None), 5)]
+  [gravy P1] end zones: {'graveyard': 59, 'soul': 0, 'banished': 0, 'pitch': 0, 'arsenal': 0, 'hand': 3}
+  [gravy] last 12 actions: [(788, 'P1', 'PDECK', 'CHOOSE_PDECK', 'moray_le_fay_yellow'), (789, 'P2', 'M', 'ACTIVATE_HERO_OR_EQUIP', 'raydn_duskbane'), (790, 'P2', 'CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), (791, 'P1', 'INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), (792, 'P1', 'INSTANT', 'PASS', None), (793, 'P1', 'OK', 'PASS', None), (794, 'P1', 'INSTANT', 'PASS', None), (795, 'P1', 'B', 'ACTIVATE_HERO_OR_EQUIP', 'mage_master_boots'), (796, 'P1', 'B', 'PASS', None), (797, 'P2', 'A', 'PASS', None), (798, 'P1', 'D', 'PLAY_FROM_HAND', 'blood_in_the_water_red'), (799, 'P1', 'INSTANT', 'PASS', None)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782286397-3eb05138.parquet
+[cc-selfplay] gravy_bones_shipwrecked_looter vs ser_boltyn_breaker_of_dawn: 2 games
+[selfplay] game 0001/2 seed=205001 winner=1 steps=493 dt=874.48s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782286654-539f063a.parquet
+[cc-selfplay] kayo_underhanded_cheat vs puffin_hightail: 2 games
+[selfplay] game 0000/2 seed=205700 winner=1 steps=362 dt=828.34s
+[selfplay] game 0000/2 seed=205300 winner=2 steps=467 dt=1204.59s
+[selfplay] game 0000/2 seed=205600 winner=0 steps=800 dt=1010.80s
+DRAW marlynn_treasure_hunter vs riptide_lurker_of_the_deep | steps=800 | life P1=25 P2=35 | life moving | hit step_cap
+  last100 phases: {'M': 22, 'INSTANT': 22, 'P': 16, 'BUTTONINPUT': 11, 'B': 8, 'PDECK': 6, 'A': 4, 'D': 4, 'MAYCHOOSEMULTIZONE': 3, 'YESNO': 2, 'CHOOSEMULTIZONE': 1, 'ARS': 1}
+  last100 action-types: {'PLAY_FROM_HAND': 23, 'ACTIVATE_HERO_OR_EQUIP': 21, 'PASS': 17, 'PLAY_FROM_ARSENAL': 15, 'DECISION': 13, 'CHOOSE_PDECK': 6, 'CHOOSE_MAYCHOOSEMULTIZONE': 3, 'CHOOSE_CHOOSEMULTIZONE': 1, 'ARSENAL_FROM_HAND': 1}
+  most-repeated (phase,type,card): [(('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'barbed_castaway'), 18), (('M', 'PLAY_FROM_ARSENAL', 'king_shark_harpoon_red'), 11), (('BUTTONINPUT', 'DECISION', None), 11), (('B', 'PASS', None), 4)]
+[selfplay] game 0000/2 seed=205400 winner=2 steps=570 dt=1387.75s
+[selfplay] game 0001/2 seed=205101 winner=1 steps=407 dt=897.16s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782287083-44b4293b.parquet
+[cc-selfplay] katsu_the_wanderer vs zyggy_starlight: 2 games
+[selfplay] game 0000/2 seed=205500 winner=0 steps=800 dt=1593.12s
+DRAW fai_rising_rebellion vs kassai_of_the_golden_sand | steps=800 | life P1=40 P2=3 | life moving | hit step_cap
+  last100 phases: {'M': 27, 'B': 19, 'P': 17, 'PDECK': 10, 'INSTANT': 10, 'A': 9, 'D': 8}
+  last100 action-types: {'PASS': 46, 'PLAY_FROM_HAND': 24, 'ACTIVATE_HERO_OR_EQUIP': 20, 'CHOOSE_PDECK': 10}
+  most-repeated (phase,type,card): [(('M', 'PASS', None), 20), (('B', 'PASS', None), 8), (('A', 'PASS', None), 8), (('D', 'PASS', None), 8)]
+[selfplay] game 0001/2 seed=205601 winner=0 steps=800 dt=748.53s
+DRAW marlynn_treasure_hunter vs riptide_lurker_of_the_deep | steps=800 | life P1=39 P2=31 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 57, 'M': 18, 'P': 13, 'BUTTONINPUT': 8, 'PDECK': 4}
+  last100 action-types: {'PASS': 49, 'PLAY_FROM_HAND': 25, 'ACTIVATE_HERO_OR_EQUIP': 15, 'DECISION': 8, 'CHOOSE_PDECK': 3}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 43), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'barbed_castaway'), 14), (('M', 'PLAY_FROM_HAND', 'three_of_a_kind_red'), 9), (('BUTTONINPUT', 'DECISION', None), 8)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782287518-091b0b9c.parquet
+[cc-selfplay] marlynn_treasure_hunter vs riptide_lurker_of_the_deep: 2 games
+[selfplay] game 0001/2 seed=205301 winner=2 steps=513 dt=858.89s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782287610-34cb39aa.parquet
+[cc-selfplay] fang_dracai_of_blades vs hala_bladesaint_of_the_vow: 2 games
+[selfplay] game 0001/2 seed=205701 winner=1 steps=451 dt=1194.56s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782287934-013b7124.parquet
+[cc-selfplay] arakni_marionette vs bravo_showstopper: 2 games
+[selfplay] game 0000/2 seed=205900 winner=0 steps=800 dt=1306.45s
+DRAW prism_awakener_of_sol vs teklovossen_esteemed_magnate | steps=800 | life P1=30 P2=42 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 75, 'M': 25}
+  last100 action-types: {'PASS': 75, 'PLAY_FROM_HAND': 25}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 50), (('M', 'PASS', None), 25), (('INSTANT', 'PLAY_FROM_HAND', 'figment_of_rebirth_yellow'), 25)]
+[selfplay] game 0000/2 seed=206000 winner=2 steps=383 dt=880.62s
+[selfplay] game 0000/2 seed=206100 winner=0 steps=800 dt=910.05s
+DRAW lyath_goldmane_vile_savant vs zyggy_starlight | steps=800 | life P1=20 P2=40 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 50, 'M': 50}
+  last100 action-types: {'PLAY_FROM_HAND': 50, 'PASS': 50}
+  most-repeated (phase,type,card): [(('INSTANT', 'PLAY_FROM_HAND', 'act_of_glory_red'), 50), (('M', 'PASS', None), 50)]
+[selfplay] game 0000/2 seed=206200 winner=1 steps=238 dt=1009.41s
+[selfplay] game 0000/2 seed=205800 winner=0 steps=800 dt=2285.97s
+DRAW gravy_bones_shipwrecked_looter vs ira_scarlet_revenger | steps=800 | life P1=1 P2=42 | STUCK no-life-change/last100 | hit step_cap  <<GRAVY BONES>>
+  last100 phases: {'INSTANT': 41, 'B': 20, 'M': 11, 'P': 6, 'CHOOSEMULTIZONE': 5, 'OK': 5, 'A': 4, 'D': 4, 'CHOOSEHAND': 1, 'BUTTONINPUT': 1, 'PDECK': 1, 'MAYCHOOSEMULTIZONE': 1}
+  last100 action-types: {'PASS': 51, 'PLAY_FROM_HAND': 22, 'ACTIVATE_HERO_OR_EQUIP': 18, 'CHOOSE_CHOOSEMULTIZONE': 5, 'CHOOSE_CHOOSEHAND': 1, 'DECISION': 1, 'CHOOSE_PDECK': 1, 'CHOOSE_MAYCHOOSEMULTIZONE': 1}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 33), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), 5), (('OK', 'PASS', None), 5), (('CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), 4)]
+  [gravy P1] end zones: {'graveyard': 61, 'soul': 0, 'banished': 0, 'pitch': 0, 'arsenal': 1, 'hand': 4}
+  [gravy] last 12 actions: [(788, 'P1', 'M', 'PLAY_FROM_HAND', 'chum_friendly_first_mate_yellow'), (789, 'P2', 'M', 'PLAY_FROM_HAND', 'command_and_conquer_red'), (790, 'P2', 'CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), (791, 'P2', 'P', 'PLAY_FROM_HAND', 'sink_below_red'), (792, 'P2', 'P', 'PLAY_FROM_HAND', 'cut_through_red'), (793, 'P2', 'INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'fyendals_spring_tunic'), (794, 'P1', 'INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), (795, 'P1', 'INSTANT', 'PASS', None), (796, 'P1', 'OK', 'PASS', None), (797, 'P1', 'INSTANT', 'PASS', None), (798, 'P1', 'INSTANT', 'PASS', None), (799, 'P1', 'B', 'ACTIVATE_HERO_OR_EQUIP', 'nullrune_hood')]
+[selfplay] game 0001/2 seed=205901 winner=0 steps=800 dt=737.23s
+DRAW prism_awakener_of_sol vs teklovossen_esteemed_magnate | steps=800 | life P1=32 P2=40 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 75, 'M': 25}
+  last100 action-types: {'PASS': 75, 'PLAY_FROM_HAND': 25}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 50), (('M', 'PASS', None), 25), (('INSTANT', 'PLAY_FROM_HAND', 'parable_of_humility_yellow'), 25)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782288698-8268c52b.parquet
+[cc-selfplay] prism_awakener_of_sol vs teklovossen_esteemed_magnate: 2 games
+[selfplay] game 0001/2 seed=206001 winner=2 steps=483 dt=777.47s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782288741-f1665d63.parquet
+[cc-selfplay] marlynn_treasure_hunter vs ser_boltyn_breaker_of_dawn: 2 games
+[selfplay] game 0001/2 seed=205501 winner=0 steps=800 dt=1734.34s
+DRAW fai_rising_rebellion vs kassai_of_the_golden_sand | steps=800 | life P1=40 P2=14 | life moving | hit step_cap
+  last100 phases: {'M': 25, 'B': 18, 'P': 15, 'INSTANT': 14, 'A': 11, 'D': 9, 'PDECK': 8}
+  last100 action-types: {'PASS': 46, 'PLAY_FROM_HAND': 24, 'ACTIVATE_HERO_OR_EQUIP': 15, 'PLAY_FROM_ARSENAL': 8, 'CHOOSE_PDECK': 7}
+  most-repeated (phase,type,card): [(('B', 'PASS', None), 10), (('A', 'PASS', None), 9), (('D', 'PASS', None), 9), (('INSTANT', 'PASS', None), 9)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782288986-e292781a.parquet
+[cc-selfplay] fai_rising_rebellion vs kassai_of_the_golden_sand: 2 games
+[selfplay] game 0000/2 seed=206300 winner=0 steps=800 dt=1427.05s
+DRAW dorinthea_ironsong vs fai_rising_rebellion | steps=800 | life P1=22 P2=38 | life moving | hit step_cap
+  last100 phases: {'INSTANT': 44, 'M': 16, 'B': 10, 'P': 10, 'A': 8, 'D': 6, 'PDECK': 5, 'MAYCHOOSEMULTIZONE': 1}
+  last100 action-types: {'PASS': 70, 'PLAY_FROM_HAND': 14, 'ACTIVATE_HERO_OR_EQUIP': 7, 'CHOOSE_PDECK': 4, 'PLAY_FROM_ARSENAL': 2, 'BLOCK_WITH_EQUIP': 2, 'CHOOSE_MAYCHOOSEMULTIZONE': 1}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 41), (('M', 'PASS', None), 10), (('B', 'PASS', None), 6), (('A', 'PASS', None), 6)]
+[selfplay] game 0001/2 seed=206101 winner=2 steps=781 dt=964.38s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782289395-3ce6763a.parquet
+[cc-selfplay] lyath_goldmane_vile_savant vs zyggy_starlight: 2 games
+[selfplay] game 0001/2 seed=205401 winner=0 steps=800 dt=2560.53s
+DRAW fang_dracai_of_blades vs puffin_hightail | steps=800 | life P1=11 P2=40 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 100}
+  last100 action-types: {'PLAY_FROM_HAND': 50, 'PASS': 50}
+  most-repeated (phase,type,card): [(('M', 'PLAY_FROM_HAND', 'golden_skywarden_yellow'), 50), (('M', 'PASS', None), 50)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782289508-6c8fc4e9.parquet
+[cc-selfplay] fang_dracai_of_blades vs puffin_hightail: 2 games
+[selfplay] game 0001/2 seed=206201 winner=1 steps=303 dt=928.84s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782289554-4624186e.parquet
+[cc-selfplay] oscilio_forked_continuum vs vynnset_iron_maiden: 2 games
+[selfplay] game 0001/2 seed=205801 winner=2 steps=675 dt=1108.36s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782289799-d7839c12.parquet
+[cc-selfplay] gravy_bones_shipwrecked_looter vs ira_scarlet_revenger: 2 games
+[selfplay] game 0001/2 seed=206301 winner=0 steps=800 dt=682.00s
+DRAW dorinthea_ironsong vs fai_rising_rebellion | steps=800 | life P1=37 P2=7 | life moving | hit step_cap
+  last100 phases: {'INSTANT': 33, 'B': 19, 'M': 19, 'P': 14, 'A': 5, 'D': 5, 'PDECK': 5}
+  last100 action-types: {'PASS': 54, 'PLAY_FROM_HAND': 24, 'ACTIVATE_HERO_OR_EQUIP': 8, 'BLOCK_WITH_EQUIP': 5, 'CHOOSE_PDECK': 5, 'PLAY_FROM_ARSENAL': 4}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 29), (('M', 'PASS', None), 10), (('B', 'BLOCK_WITH_EQUIP', 'dragonscaler_flight_path'), 5), (('B', 'PASS', None), 5)]
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782290044-bc1f7523.parquet
+[cc-selfplay] dorinthea_ironsong vs fai_rising_rebellion: 2 games
+[cc-selfplay] DONE: 125 games over 64 matchups

@@ -1,0 +1,216 @@
+{
+  "hero": "oscilio_constella_intelligence",
+  "comment": "Imported from fabrary: 'zappi (RTN)' [Classic Constructed] deckId=01JH0T6YXXXD82Y20XPZ34FD91",
+  "equipment": [
+    "aether_bindings_of_the_third_age",
+    "flash_of_brilliance",
+    "fyendals_spring_tunic",
+    "lightning_greaves",
+    "volzar_the_lightning_rod"
+  ],
+  "deck": [
+    "blast_to_oblivion_red",
+    "blast_to_oblivion_red",
+    "blast_to_oblivion_red",
+    "blast_to_oblivion_yellow",
+    "blast_to_oblivion_yellow",
+    "blink_blue",
+    "blink_blue",
+    "blink_blue",
+    "channel_lightning_valley_yellow",
+    "channel_lightning_valley_yellow",
+    "channel_lightning_valley_yellow",
+    "comet_storm__shock_red",
+    "comet_storm__shock_red",
+    "comet_storm__shock_red",
+    "current_funnel_blue",
+    "current_funnel_blue",
+    "current_funnel_blue",
+    "electromagnetic_somersault_red",
+    "electromagnetic_somersault_red",
+    "electromagnetic_somersault_red",
+    "electrostatic_discharge_red",
+    "electrostatic_discharge_red",
+    "electrostatic_discharge_red",
+    "etchings_of_arcana_red",
+    "etchings_of_arcana_red",
+    "etchings_of_arcana_red",
+    "flittering_charge_red",
+    "flittering_charge_red",
+    "flittering_charge_red",
+    "gone_in_a_flash_red",
+    "gone_in_a_flash_red",
+    "gone_in_a_flash_red",
+    "mind_warp_yellow",
+    "mind_warp_yellow",
+    "mind_warp_yellow",
+    "null__shock_yellow",
+    "null__shock_yellow",
+    "null__shock_yellow",
+    "sigil_of_brilliance_yellow",
+    "sigil_of_brilliance_yellow",
+    "sigil_of_brilliance_yellow",
+    "sigil_of_conductivity_blue",
+    "sigil_of_conductivity_blue",
+    "sigil_of_conductivity_blue",
+    "sigil_of_lightning_blue",
+    "sigil_of_lightning_blue",
+    "sigil_of_lightning_blue",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red"
+  ],
+  "sideboard": [
+    "blast_to_oblivion_blue",
+    "blast_to_oblivion_blue",
+    "calming_breeze_red",
+    "calming_breeze_red",
+    "calming_breeze_red",
+    "destructive_aethertide_blue",
+    "destructive_aethertide_blue",
+    "eclectic_magnetism_red",
+    "eclectic_magnetism_red",
+    "eclectic_magnetism_red",
+    "glyph_overlay_red",
+    "glyph_overlay_red",
+    "lightning_press_red",
+    "lightning_press_red",
+    "scour_blue",
+    "sigil_of_aether_blue",
+    "sigil_of_aether_blue",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "snag_blue",
+    "snag_blue"
+  ],
+  "sideboard_equipment": [
+    "blossom_of_spring",
+    "nullrune_hood",
+    "shock_charmers"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 50,
+  "matchups": [
+    {
+      "matchupId": "01JH5XC7SVJ4DG2ER72Y10F90B",
+      "heroes": [],
+      "name": "Brute"
+    },
+    {
+      "matchupId": "01JH5XEXS3M27WPWC94JF4C0SF",
+      "heroes": [],
+      "name": "Vis/Vyn"
+    },
+    {
+      "matchupId": "01JH5XNAJVDRC60YA6BQF90AS9",
+      "heroes": [],
+      "name": "Kano/Verdance (Arcane)"
+    },
+    {
+      "matchupId": "01JH5XQXV4VPZ1KMVREC2V1CK2",
+      "heroes": [],
+      "name": "Aurora/Dio"
+    },
+    {
+      "matchupId": "01JH5XYYE5B5AZC3YAZQNDQWZX",
+      "heroes": [],
+      "name": "Nuu "
+    },
+    {
+      "matchupId": "01JH5Y259D5SKFJB4RTRHC445T",
+      "heroes": [],
+      "name": "Other Assassins"
+    },
+    {
+      "matchupId": "01JH5Y4V10B74WJ7NWE3CK3H02",
+      "heroes": [],
+      "name": "Fatigue (Guardian, Earth)"
+    },
+    {
+      "matchupId": "01JH7X1KHVC8P4H4XW33542JNV",
+      "heroes": [],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01JH8CQZBJZTMM7B938R3ENJMC",
+      "heroes": [],
+      "name": "Ira (midrange)"
+    }
+  ],
+  "matchup_quantities": {
+    "01JH5XC7SVJ4DG2ER72Y10F90B": {
+      "blast_to_oblivion_yellow": 2,
+      "destructive_aethertide_blue": 1,
+      "eclectic_magnetism_red": 3,
+      "glyph_overlay_red": 2,
+      "sigil_of_aether_blue": 0,
+      "sink_below_red": 3
+    },
+    "01JH5XQXV4VPZ1KMVREC2V1CK2": {
+      "blast_to_oblivion_yellow": 2,
+      "blossom_of_spring": 1,
+      "channel_lightning_valley_yellow": 3,
+      "destructive_aethertide_blue": 1,
+      "fyendals_spring_tunic": 0,
+      "sink_below_red": 0
+    },
+    "01JH5XYYE5B5AZC3YAZQNDQWZX": {
+      "blast_to_oblivion_yellow": 2,
+      "calming_breeze_red": 3,
+      "destructive_aethertide_blue": 0,
+      "eclectic_magnetism_red": 3,
+      "glyph_overlay_red": 2,
+      "sigil_of_aether_blue": 0,
+      "sink_below_red": 3
+    },
+    "01JH7X1KHVC8P4H4XW33542JNV": {
+      "blast_to_oblivion_yellow": 0,
+      "destructive_aethertide_blue": 1,
+      "eclectic_magnetism_red": 3,
+      "flittering_charge_red": 0,
+      "glyph_overlay_red": 2,
+      "sigil_of_aether_blue": 0,
+      "sink_below_red": 3
+    },
+    "01JH8CQZBJZTMM7B938R3ENJMC": {
+      "blast_to_oblivion_yellow": 0,
+      "destructive_aethertide_blue": 0,
+      "eclectic_magnetism_red": 3,
+      "glyph_overlay_red": 2,
+      "sigil_of_aether_blue": 0,
+      "sigil_of_lightning_blue": 3,
+      "sigil_of_solace_red": 3,
+      "sink_below_red": 3
+    },
+    "01JH5Y259D5SKFJB4RTRHC445T": {
+      "calming_breeze_red": 3,
+      "destructive_aethertide_blue": 0,
+      "eclectic_magnetism_red": 3,
+      "sigil_of_aether_blue": 0,
+      "sink_below_red": 3
+    },
+    "01JH5XEXS3M27WPWC94JF4C0SF": {
+      "calming_breeze_red": 3,
+      "destructive_aethertide_blue": 0,
+      "glyph_overlay_red": 0,
+      "lightning_press_red": 2,
+      "null__shock_yellow": 3,
+      "scour_blue": 1,
+      "sigil_of_aether_blue": 2,
+      "sigil_of_solace_red": 0,
+      "sink_below_red": 3
+    },
+    "01JH5XNAJVDRC60YA6BQF90AS9": {
+      "destructive_aethertide_blue": 1,
+      "eclectic_magnetism_red": 2,
+      "flash_of_brilliance": 0,
+      "nullrune_hood": 1,
+      "sigil_of_solace_red": 2
+    },
+    "01JH5Y4V10B74WJ7NWE3CK3H02": {
+      "destructive_aethertide_blue": 1,
+      "glyph_overlay_red": 2
+    }
+  }
+}

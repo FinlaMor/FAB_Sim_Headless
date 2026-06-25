@@ -1,0 +1,42 @@
+{
+ "hero": "aurora_emissary_of_lightning",
+ "equipment": [
+  "scorpio_comet_tail",
+  "seeker_s_hood",
+  "seeker_s_gilet",
+  "constella_waves",
+  "seeker_s_leggings"
+ ],
+ "deck": [
+  "comet_collision_red",
+  "haven_veil_red",
+  "comet_collision_red",
+  "cosmic_suture_red",
+  "enion_surge_red",
+  "comet_collision_red",
+  "cosmic_flare_red",
+  "brush_off_red",
+  "flash_bolt_red",
+  "volatile_fluxor_yellow",
+  "core_reaction_yellow",
+  "constella_contemplation_yellow",
+  "arc_ramp_yellow",
+  "core_reaction_yellow",
+  "ominous_respite_yellow",
+  "haven_veil_yellow",
+  "tap_lessons_past_yellow",
+  "meteoric_impact_yellow",
+  "lightning_overload_blue",
+  "enion_surge_blue",
+  "enion_surge_blue",
+  "enion_surge_blue",
+  "tap_lessons_past_blue",
+  "flittering_forcefield_blue",
+  "comet_collision_blue",
+  "nebula_duality_blue",
+  "flittering_forcefield_yellow",
+  "constella_uplift_yellow",
+  "chromatic_refinement_yellow",
+  "arc_ramp_yellow"
+ ]
+}

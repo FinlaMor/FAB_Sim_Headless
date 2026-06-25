@@ -1,0 +1,140 @@
+{
+  "hero": "valda_seismic_impact",
+  "comment": "Imported from fabrary: '\"Who\\'s the macho grande now?\"' [Classic Constructed] deckId=01K6RB3598NTHS5B313NAAWA83",
+  "equipment": [
+    "balance_of_justice",
+    "ironfist_revelation",
+    "quickdodge_flexors",
+    "tectonic_plating",
+    "testament_of_valahai",
+    "titans_fist"
+  ],
+  "deck": [
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "disable_blue",
+    "disable_blue",
+    "disable_blue",
+    "disable_red",
+    "disable_red",
+    "disable_red",
+    "headbutt_blue",
+    "headbutt_blue",
+    "headbutt_blue",
+    "ley_line_of_the_old_ones_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "overcrowded_blue",
+    "overcrowded_blue",
+    "overcrowded_blue",
+    "promising_terrain_blue",
+    "promising_terrain_blue",
+    "pummel_red",
+    "pummel_red",
+    "put_em_in_their_place_red",
+    "put_em_in_their_place_red",
+    "put_em_in_their_place_red",
+    "ripple_away_blue",
+    "ripple_away_blue",
+    "ripple_away_blue",
+    "seismic_eruption_yellow",
+    "seismic_eruption_yellow",
+    "seismic_eruption_yellow",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "solid_ground_blue",
+    "solid_ground_blue",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "test_of_iron_grip_red",
+    "test_of_iron_grip_red",
+    "test_of_iron_grip_red",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunk_blue",
+    "thunk_blue",
+    "thunk_blue"
+  ],
+  "sideboard": [
+    "boulder_drop_red",
+    "boulder_drop_red",
+    "boulder_drop_red",
+    "cartilage_crush_red",
+    "cartilage_crush_red",
+    "cartilage_crush_red",
+    "chokeslam_red",
+    "chokeslam_red",
+    "chokeslam_red",
+    "clash_of_bravado_yellow",
+    "clash_of_bravado_yellow",
+    "clash_of_bravado_yellow",
+    "debilitate_red",
+    "debilitate_red",
+    "debilitate_red",
+    "midas_touch_yellow",
+    "midas_touch_yellow",
+    "renounce_grandeur_red",
+    "renounce_grandeur_red",
+    "renounce_grandeur_red"
+  ],
+  "sideboard_equipment": [
+    "enclosed_firemind",
+    "time_skippers",
+    "tremorshield_sabatons"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 51,
+  "matchups": [
+    {
+      "matchupId": "01KDMZZTC4PVCPVZ9WSHRK5CHY",
+      "heroes": [],
+      "name": "Aggro"
+    },
+    {
+      "matchupId": "01KDN032ZNPNR9H4FTMW91B7E5",
+      "heroes": [],
+      "name": "Value"
+    },
+    {
+      "matchupId": "01KDN06Z624ZDMHTRX8ECAM2D1",
+      "heroes": [],
+      "name": "Runeblade"
+    },
+    {
+      "matchupId": "01KDN0CX6FX28FB2VS828CEYBA",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KDN0N613WGTA1R8JGJCDA4H1",
+      "heroes": [],
+      "name": "Gravy Bones"
+    }
+  ],
+  "matchup_quantities": {
+    "01KDMZZTC4PVCPVZ9WSHRK5CHY": {
+      "boulder_drop_red": 3
+    },
+    "01KDN0N613WGTA1R8JGJCDA4H1": {
+      "boulder_drop_red": 3,
+      "sink_below_red": 0
+    },
+    "01KDN06Z624ZDMHTRX8ECAM2D1": {
+      "ironfist_revelation": 0,
+      "quickdodge_flexors": 0,
+      "renounce_grandeur_red": 3
+    },
+    "01KDN0CX6FX28FB2VS828CEYBA": {
+      "ironfist_revelation": 0,
+      "renounce_grandeur_red": 3,
+      "sink_below_red": 0
+    }
+  }
+}

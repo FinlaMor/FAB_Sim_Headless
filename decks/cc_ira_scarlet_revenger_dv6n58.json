@@ -1,0 +1,209 @@
+{
+  "hero": "ira_scarlet_revenger",
+  "comment": "Imported from fabrary: 'Edging Your Way to Victory' [Classic Constructed] deckId=01JZ9BPAFRCVVD727QHBDV6N58",
+  "equipment": [
+    "breeze_rider_boots",
+    "edge_of_autumn",
+    "fyendals_spring_tunic",
+    "iris_of_the_blossom",
+    "okana_scar_wraps"
+  ],
+  "deck": [
+    "ancestral_empowerment_red",
+    "ancestral_empowerment_red",
+    "ancestral_empowerment_red",
+    "bittering_thorns_red",
+    "bittering_thorns_red",
+    "bittering_thorns_red",
+    "censor_red",
+    "censor_red",
+    "censor_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "enact_vengeance_red",
+    "enact_vengeance_red",
+    "enact_vengeance_red",
+    "legacy_of_ikaru_blue",
+    "legacy_of_ikaru_blue",
+    "legacy_of_ikaru_blue",
+    "nip_at_the_heels_blue",
+    "nip_at_the_heels_blue",
+    "nip_at_the_heels_blue",
+    "prismatic_leyline_yellow",
+    "prismatic_leyline_yellow",
+    "prismatic_leyline_yellow",
+    "rowdy_locals_blue",
+    "rowdy_locals_blue",
+    "rowdy_locals_blue",
+    "seek_vengeance_blue",
+    "seek_vengeance_blue",
+    "seek_vengeance_blue",
+    "seek_vengeance_red",
+    "seek_vengeance_red",
+    "seek_vengeance_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sirens_of_safe_harbor_red",
+    "sirens_of_safe_harbor_red",
+    "sirens_of_safe_harbor_red",
+    "soulbead_strike_blue",
+    "soulbead_strike_blue",
+    "soulbead_strike_blue",
+    "spinning_wheel_kick_red",
+    "spinning_wheel_kick_red",
+    "spinning_wheel_kick_red",
+    "torrent_of_tempo_blue",
+    "torrent_of_tempo_blue",
+    "torrent_of_tempo_blue",
+    "torrent_of_tempo_red",
+    "torrent_of_tempo_red",
+    "torrent_of_tempo_red",
+    "vengeance_never_rests_blue",
+    "vengeance_never_rests_blue",
+    "vengeance_never_rests_blue",
+    "whirling_mist_blossom_yellow",
+    "whirling_mist_blossom_yellow",
+    "whirling_mist_blossom_yellow"
+  ],
+  "sideboard": [
+    "blanch_red",
+    "blanch_red",
+    "blanch_red",
+    "erase_face_red",
+    "erase_face_red",
+    "erase_face_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "flic_flak_red",
+    "flic_flak_red",
+    "flic_flak_red",
+    "humble_red",
+    "humble_red",
+    "humble_red"
+  ],
+  "sideboard_equipment": [
+    "blazen_yoroi",
+    "robe_of_autumns_fall",
+    "tide_flippers"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 57,
+  "matchups": [
+    {
+      "matchupId": "01JZT57HPJ0FY5WA8GV0DD51KD",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01JZT59F2301889VEEYYK5ZWGQ",
+      "heroes": [],
+      "name": "Gravy"
+    },
+    {
+      "matchupId": "01JZT59TN3YBHRJKGAJEYRVANH",
+      "heroes": [],
+      "name": "Assassin"
+    },
+    {
+      "matchupId": "01JZT5AYE4NWYCY34KV18GTMV6",
+      "heroes": [],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01JZT5CARHB4RY875948KQFP64",
+      "heroes": [],
+      "name": "Guardian"
+    },
+    {
+      "matchupId": "01JZT5DNHJB5JA7X5852G7JSHR",
+      "heroes": [],
+      "name": "Kassai"
+    },
+    {
+      "matchupId": "01JZT5EBD76K72GWGEM0KJ0P26",
+      "heroes": [],
+      "name": "Fang"
+    },
+    {
+      "matchupId": "01JZT5FRN9S18AV3ZBXA58RAR4",
+      "heroes": [],
+      "name": "Earth"
+    },
+    {
+      "matchupId": "01JZT5GP8WTH2ZR2WHZCJ7KQEE",
+      "heroes": [],
+      "name": "Kano"
+    },
+    {
+      "matchupId": "01JZT5HHJQ8DHBXQS95VTV8AF6",
+      "heroes": [],
+      "name": "Mech"
+    }
+  ],
+  "matchup_quantities": {
+    "01JZT57HPJ0FY5WA8GV0DD51KD": {
+      "ancestral_empowerment_red": 0,
+      "blanch_red": 3,
+      "erase_face_red": 3,
+      "fate_foreseen_red": 3,
+      "flic_flak_red": 3,
+      "humble_red": 3,
+      "prismatic_leyline_yellow": 0,
+      "whirling_mist_blossom_yellow": 0
+    },
+    "01JZT59F2301889VEEYYK5ZWGQ": {
+      "blanch_red": 3,
+      "humble_red": 3,
+      "sink_below_red": 0
+    },
+    "01JZT5FRN9S18AV3ZBXA58RAR4": {
+      "breeze_rider_boots": 0,
+      "erase_face_red": 3,
+      "fyendals_spring_tunic": 0,
+      "robe_of_autumns_fall": 1,
+      "tide_flippers": 1
+    },
+    "01JZT5GP8WTH2ZR2WHZCJ7KQEE": {
+      "breeze_rider_boots": 0,
+      "erase_face_red": 3,
+      "fyendals_spring_tunic": 0,
+      "humble_red": 3,
+      "robe_of_autumns_fall": 1,
+      "sink_below_red": 0,
+      "tide_flippers": 1
+    },
+    "01JZT5AYE4NWYCY34KV18GTMV6": {
+      "erase_face_red": 3,
+      "humble_red": 3,
+      "sirens_of_safe_harbor_red": 0
+    },
+    "01JZT5EBD76K72GWGEM0KJ0P26": {
+      "erase_face_red": 3,
+      "flic_flak_red": 3,
+      "humble_red": 3,
+      "sink_below_red": 0
+    },
+    "01JZT5HHJQ8DHBXQS95VTV8AF6": {
+      "erase_face_red": 3,
+      "fate_foreseen_red": 3,
+      "flic_flak_red": 3,
+      "humble_red": 3,
+      "sirens_of_safe_harbor_red": 0
+    },
+    "01JZT59TN3YBHRJKGAJEYRVANH": {
+      "fate_foreseen_red": 3,
+      "flic_flak_red": 3,
+      "humble_red": 3
+    },
+    "01JZT5CARHB4RY875948KQFP64": {
+      "fate_foreseen_red": 3,
+      "flic_flak_red": 3
+    },
+    "01JZT5DNHJB5JA7X5852G7JSHR": {
+      "flic_flak_red": 3
+    }
+  }
+}

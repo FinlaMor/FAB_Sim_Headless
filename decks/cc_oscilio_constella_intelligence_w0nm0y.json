@@ -1,0 +1,294 @@
+{
+  "hero": "oscilio_constella_intelligence",
+  "comment": "Imported from fabrary: 'bilnov calling brizzy 1st place' [Classic Constructed] deckId=01KJJBK8Z45CP3N1ME3ZW0NM0Y",
+  "equipment": [
+    "aether_bindings_of_the_third_age",
+    "flash_of_brilliance",
+    "lightning_greaves",
+    "old_knocker",
+    "volzar_the_lightning_rod"
+  ],
+  "deck": [
+    "blast_to_oblivion_red",
+    "blast_to_oblivion_red",
+    "blast_to_oblivion_red",
+    "blast_to_oblivion_yellow",
+    "blast_to_oblivion_yellow",
+    "blast_to_oblivion_yellow",
+    "blink_blue",
+    "blink_blue",
+    "blink_blue",
+    "channel_lightning_valley_yellow",
+    "channel_lightning_valley_yellow",
+    "channel_lightning_valley_yellow",
+    "comet_storm__shock_red",
+    "comet_storm__shock_red",
+    "comet_storm__shock_red",
+    "consign_to_cosmos__shock_yellow",
+    "consign_to_cosmos__shock_yellow",
+    "consign_to_cosmos__shock_yellow",
+    "electromagnetic_somersault_red",
+    "electromagnetic_somersault_red",
+    "electromagnetic_somersault_red",
+    "electrostatic_discharge_red",
+    "electrostatic_discharge_red",
+    "electrostatic_discharge_red",
+    "etchings_of_arcana_red",
+    "etchings_of_arcana_red",
+    "etchings_of_arcana_red",
+    "flittering_charge_red",
+    "flittering_charge_red",
+    "flittering_charge_red",
+    "gone_in_a_flash_red",
+    "gone_in_a_flash_red",
+    "gone_in_a_flash_red",
+    "lightning_press_red",
+    "lightning_press_red",
+    "lightning_press_red",
+    "mind_warp_yellow",
+    "mind_warp_yellow",
+    "mind_warp_yellow",
+    "sigil_of_aether_blue",
+    "sigil_of_aether_blue",
+    "sigil_of_aether_blue",
+    "sigil_of_brilliance_yellow",
+    "sigil_of_brilliance_yellow",
+    "sigil_of_brilliance_yellow",
+    "sigil_of_conductivity_blue",
+    "sigil_of_conductivity_blue",
+    "sigil_of_conductivity_blue",
+    "sigil_of_lightning_blue",
+    "sigil_of_lightning_blue",
+    "sigil_of_lightning_blue",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red"
+  ],
+  "sideboard": [
+    "burn_bare",
+    "burn_bare",
+    "burn_bare",
+    "cloud_cover_red",
+    "cloud_cover_red",
+    "cloud_cover_red",
+    "current_funnel_blue",
+    "current_funnel_blue",
+    "eclectic_magnetism_red",
+    "glyph_power_spell_red",
+    "glyph_power_spell_red",
+    "null__shock_yellow",
+    "null__shock_yellow",
+    "null__shock_yellow",
+    "seduce_secrets_yellow",
+    "seduce_secrets_yellow",
+    "temporal_wobble_red",
+    "temporal_wobble_red",
+    "temporal_wobble_red"
+  ],
+  "sideboard_equipment": [
+    "cap_of_quick_thinking",
+    "shock_charmers"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 54,
+  "matchups": [
+    {
+      "matchupId": "01KJJBK97BVZ7YJQR9HY73NFQV",
+      "heroes": [],
+      "name": "DIO "
+    },
+    {
+      "matchupId": "01KJJBK9TEHH30JET088H2BRVG",
+      "heroes": [],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01KJJBKADNRWYS56284X36KFRA",
+      "heroes": [],
+      "name": "Dori / Ira / Fang / RKO"
+    },
+    {
+      "matchupId": "01KJJBKB6F1EYSTGZ9W571P4ZE",
+      "heroes": [],
+      "name": "Fai"
+    },
+    {
+      "matchupId": "01KJJBKBSNCXQ2XKGVTG47BXWP",
+      "heroes": [],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01KJJBKCDDRPXT73CQXY3HBJ85",
+      "heroes": [],
+      "name": "Boltyn / Kassai / Levia"
+    },
+    {
+      "matchupId": "01KJJBKD6KGWG4S625TXMNJTQ7",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01KJJBKDE35STEVPZ7GJCJS7T0",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KJJBKEM8VSY9Q00V0HQRRKWG",
+      "heroes": [],
+      "name": "Victor / Valda"
+    },
+    {
+      "matchupId": "01KJJBKEW7PQBM3KSV3CDZJCXB",
+      "heroes": [],
+      "name": "Verdance "
+    },
+    {
+      "matchupId": "01KJJBKG9AS8JF4KTHVKGCEKKG",
+      "heroes": [],
+      "name": "Puffin"
+    },
+    {
+      "matchupId": "01KJJBKH243PG24YNBHVDS8AJ0",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KJJBKHVFH6XA8XJ6NZQYAD7Q",
+      "heroes": [],
+      "name": "Ranger"
+    },
+    {
+      "matchupId": "01KJJBKJPFX7YZEE1SBR6FDPQ1",
+      "heroes": [],
+      "name": "fatigue / blockslop"
+    },
+    {
+      "matchupId": "01KJJBKKGFT3FFM2S17AK9GZ6Z",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01KJJCGXXNXEBKZ39YBB7Q51G5",
+      "heroes": [],
+      "name": "Arakni, Marionette"
+    }
+  ],
+  "matchup_quantities": {
+    "01KJJBKD6KGWG4S625TXMNJTQ7": {
+      "aether_bindings_of_the_third_age": 0,
+      "cloud_cover_red": 3,
+      "electrostatic_discharge_red": 3,
+      "lightning_press_red": 0,
+      "mind_warp_yellow": 3,
+      "null__shock_yellow": 3,
+      "shock_charmers": 1,
+      "sigil_of_aether_blue": 3,
+      "temporal_wobble_red": 3
+    },
+    "01KJJBKDE35STEVPZ7GJCJS7T0": {
+      "burn_bare": 3,
+      "cloud_cover_red": 3,
+      "null__shock_yellow": 1,
+      "seduce_secrets_yellow": 2,
+      "sigil_of_solace_red": 0
+    },
+    "01KJJBKJPFX7YZEE1SBR6FDPQ1": {
+      "burn_bare": 2,
+      "cloud_cover_red": 0,
+      "current_funnel_blue": 2,
+      "eclectic_magnetism_red": 1,
+      "glyph_power_spell_red": 2,
+      "mind_warp_yellow": 2,
+      "null__shock_yellow": 3,
+      "sigil_of_solace_red": 0
+    },
+    "01KJJBKEM8VSY9Q00V0HQRRKWG": {
+      "burn_bare": 0,
+      "current_funnel_blue": 2,
+      "eclectic_magnetism_red": 1,
+      "glyph_power_spell_red": 2,
+      "null__shock_yellow": 0,
+      "old_knocker": 1,
+      "seduce_secrets_yellow": 1
+    },
+    "01KJJBK9TEHH30JET088H2BRVG": {
+      "cap_of_quick_thinking": 1,
+      "cloud_cover_red": 0,
+      "current_funnel_blue": 0,
+      "flash_of_brilliance": 0,
+      "glyph_power_spell_red": 2,
+      "null__shock_yellow": 2,
+      "seduce_secrets_yellow": 2
+    },
+    "01KJJBK97BVZ7YJQR9HY73NFQV": {
+      "cloud_cover_red": 3,
+      "lightning_press_red": 1,
+      "null__shock_yellow": 0,
+      "seduce_secrets_yellow": 2,
+      "temporal_wobble_red": 3
+    },
+    "01KJJBKB6F1EYSTGZ9W571P4ZE": {
+      "cloud_cover_red": 3,
+      "null__shock_yellow": 2,
+      "seduce_secrets_yellow": 1
+    },
+    "01KJJBKADNRWYS56284X36KFRA": {
+      "cloud_cover_red": 3,
+      "current_funnel_blue": 1,
+      "glyph_power_spell_red": 2,
+      "null__shock_yellow": 0
+    },
+    "01KJJBKBSNCXQ2XKGVTG47BXWP": {
+      "cloud_cover_red": 3,
+      "glyph_power_spell_red": 2,
+      "lightning_press_red": 2,
+      "temporal_wobble_red": 2
+    },
+    "01KJJBKCDDRPXT73CQXY3HBJ85": {
+      "cloud_cover_red": 3,
+      "null__shock_yellow": 2,
+      "temporal_wobble_red": 1
+    },
+    "01KJJBKEW7PQBM3KSV3CDZJCXB": {
+      "cloud_cover_red": 0,
+      "current_funnel_blue": 2,
+      "eclectic_magnetism_red": 1,
+      "glyph_power_spell_red": 2,
+      "null__shock_yellow": 0,
+      "seduce_secrets_yellow": 1
+    },
+    "01KJJBKHVFH6XA8XJ6NZQYAD7Q": {
+      "cloud_cover_red": 3,
+      "null__shock_yellow": 0,
+      "seduce_secrets_yellow": 1,
+      "temporal_wobble_red": 2
+    },
+    "01KJJBKG9AS8JF4KTHVKGCEKKG": {
+      "cloud_cover_red": 3,
+      "null__shock_yellow": 3,
+      "temporal_wobble_red": 0
+    },
+    "01KJJBKKGFT3FFM2S17AK9GZ6Z": {
+      "cloud_cover_red": 3,
+      "null__shock_yellow": 0,
+      "seduce_secrets_yellow": 2,
+      "temporal_wobble_red": 1
+    },
+    "01KJJBKH243PG24YNBHVDS8AJ0": {
+      "current_funnel_blue": 2,
+      "eclectic_magnetism_red": 1,
+      "glyph_power_spell_red": 2,
+      "null__shock_yellow": 3,
+      "shock_charmers": 0,
+      "sigil_of_solace_red": 1
+    },
+    "01KJJCGXXNXEBKZ39YBB7Q51G5": {
+      "eclectic_magnetism_red": 0,
+      "electrostatic_discharge_red": 3,
+      "glyph_power_spell_red": 2,
+      "lightning_press_red": 3,
+      "seduce_secrets_yellow": 2,
+      "temporal_wobble_red": 2
+    }
+  }
+}

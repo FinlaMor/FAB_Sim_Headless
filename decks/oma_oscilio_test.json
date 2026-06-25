@@ -1,0 +1,16 @@
+{
+  "hero": "oscilio_scion_of_the_third_age",
+  "equipment": ["volzar_meteor_storm"],
+  "deck": [
+    "blink_of_an_eye_red","blink_of_an_eye_red","blink_of_an_eye_red",
+    "fraying_lifeforce_red","fraying_lifeforce_red","fraying_lifeforce_red",
+    "polarus_pulse_ray_red","polarus_pulse_ray_yellow","polarus_pulse_ray_blue",
+    "nebula_duality_red","nebula_duality_yellow","nebula_duality_blue",
+    "cosmic_duality_red","cosmic_duality_yellow","cosmic_duality_blue",
+    "voltbound_duality_red","voltbound_duality_yellow","voltbound_duality_blue",
+    "stinging_sprite_red","stinging_sprite_yellow","stinging_sprite_blue",
+    "mercurial_skies_red","mercurial_skies_yellow","mercurial_skies_blue",
+    "rift_breaker_red","rift_breaker_yellow","rift_breaker_blue",
+    "haven_veil_red","haven_veil_yellow","haven_veil_blue"
+  ]
+}

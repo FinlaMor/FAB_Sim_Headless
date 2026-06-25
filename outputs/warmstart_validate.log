@@ -1,0 +1,48 @@
+[warm-start] using existing models: gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt
+
+############ ITERATION 0 ############
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+  [t_c00007000_3015fa_pod000] A vs B: 2-0 (draws=0, games=2) -> A
+  [t_c00007000_3015fa_pod000] A vs C: 2-0 (draws=0, games=2) -> A
+  [t_c00007000_3015fa_pod000] B vs C: 4-2 (draws=0, games=6) -> B [win-by-2]
+Round-robin t_c00007000_3015fa_pod000 (seed=1725458888)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  A     c00007000_3015fa_pod000_zyggy_se      2-0-0        4-0-0
+   2  B     c00007000_3015fa_pod000_oscilio_      1-1-0        4-4-0
+   3  C     c00007000_3015fa_pod000_aurora_e      0-2-0        2-6-0
+Round-robin t_c00007000_3015fa_pod000 (seed=1725458888)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  A     c00007000_3015fa_pod000_zyggy_se      2-0-0        4-0-0
+   2  B     c00007000_3015fa_pod000_oscilio_      1-1-0        4-4-0
+   3  C     c00007000_3015fa_pod000_aurora_e      0-2-0        2-6-0
+  champion: c00007000_3015fa_pod000_zyggy_seat0
+
+--- training (window=all) after iter 0 ---
+[iql-gameplay] 116404 transitions | |vocab|=187 | shaped=True window=all
+  step      0 loss=0.7318 (v=0.0283 q=0.0434 pi=0.6601)
+  step    400 loss=0.1020 (v=0.0004 q=0.0005 pi=0.1010)
+  step    800 loss=0.0661 (v=0.0001 q=0.0038 pi=0.0623)
+  step   1200 loss=0.0785 (v=0.0000 q=0.0001 pi=0.0783)
+  step   1600 loss=0.0832 (v=0.0001 q=0.0013 pi=0.0818)
+  step   2000 loss=0.0932 (v=0.0001 q=0.0002 pi=0.0929)
+  step   2400 loss=0.0692 (v=0.0001 q=0.0010 pi=0.0681)
+  step   2800 loss=0.0764 (v=0.0001 q=0.0001 pi=0.0763)
+  step   3200 loss=0.0902 (v=0.0000 q=0.0001 pi=0.0900)
+  step   3600 loss=0.0843 (v=0.0000 q=0.0001 pi=0.0842)
+  step   3999 loss=0.0618 (v=0.0000 q=0.0019 pi=0.0599)
+[iql-gameplay] saved -> outputs\models\_staging\iql_gameplay.pt (final loss 0.0618)
+[iql-draft] 714 pick transitions | |vocab|=190 | window=all
+  step      0 loss=2.7717 (v=0.0164 q=0.0313 pi=2.7240)
+  step    300 loss=1.2654 (v=0.0003 q=0.0008 pi=1.2643)
+  step    600 loss=0.6401 (v=0.0008 q=0.0015 pi=0.6377)
+  step    900 loss=0.2751 (v=0.0007 q=0.0003 pi=0.2741)
+  step   1200 loss=0.0903 (v=0.0007 q=0.0004 pi=0.0892)
+  step   1500 loss=0.0468 (v=0.0003 q=0.0002 pi=0.0463)
+  step   1800 loss=0.0276 (v=0.0003 q=0.0001 pi=0.0271)
+  step   2100 loss=0.0529 (v=0.0002 q=0.0001 pi=0.0527)
+  step   2400 loss=0.0148 (v=0.0002 q=0.0001 pi=0.0145)
+  step   2700 loss=0.0240 (v=0.0002 q=0.0001 pi=0.0237)
+  step   2999 loss=0.0034 (v=0.0002 q=0.0001 pi=0.0031)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0034)
+iteration 0 done in 421s; gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt

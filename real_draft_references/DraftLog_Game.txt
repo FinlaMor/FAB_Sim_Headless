@@ -1,0 +1,4097 @@
+{
+	"version": "2.1",
+	"type": "Draft",
+	"users": {
+		"2ca86059-9d1d-2de1-d3b6-41d358e0a309": {
+			"userID": "2ca86059-9d1d-2de1-d3b6-41d358e0a309",
+			"userName": "gcaperan",
+			"isBot": false,
+			"picks": [],
+			"cards": [],
+			"decklist": {
+				"main": [],
+				"side": [],
+				"lands": {
+					"W": 0,
+					"U": 0,
+					"B": 0,
+					"R": 0,
+					"G": 0
+				}
+			}
+		},
+		"226fb340-6072-11f1-8b0f-25e8d0cc6071": {
+			"userID": "226fb340-6072-11f1-8b0f-25e8d0cc6071",
+			"userName": "FinlaMor",
+			"isBot": false,
+			"picks": [
+				{
+					"packNum": 0,
+					"pickNum": 0,
+					"pick": [
+						5
+					],
+					"burn": [],
+					"booster": [
+						"Nebulus Cycle (yellow)_custom_OMN035",
+						"Fleeing Starbreeze (blue)_custom_OMN037",
+						"Destructive Fleetfoot (blue)_custom_OMN064",
+						"Quick Succession (yellow)_custom_OMN084",
+						"Constella Flowslide (yellow)_custom_OMN131",
+						"Comet Collision (red)_custom_OMN109",
+						"Enion Surge (red)_custom_OMN112",
+						"Electrolyze (yellow)_custom_OMN164",
+						"Sigil of Astral Flow (blue)_custom_OMN199",
+						"Conflicting Thoughts (yellow)_custom_OMN220",
+						"Starflow Robes_custom_OMN143",
+						"Stinging Sprite (blue)_custom_OMN058",
+						"Erode Authority (yellow)_custom_OMN045",
+						"Electrolyze (blue)_custom_OMN165"
+					]
+				}
+			],
+			"cards": [
+				"Comet Collision (red)_custom_OMN109"
+			],
+			"decklist": {
+				"main": [
+					"Comet Collision (red)_custom_OMN109"
+				],
+				"side": [],
+				"lands": {
+					"W": 0,
+					"U": 0,
+					"B": 0,
+					"R": 0,
+					"G": 0
+				},
+				"hashes": {
+					"cockatrice": "kl5gre4v",
+					"mws": "558c8af6"
+				}
+			}
+		},
+		"e45d8baf-918f-f2bb-9f27-dc0cda946bac": {
+			"userID": "e45d8baf-918f-f2bb-9f27-dc0cda946bac",
+			"userName": "xd Banana_Bread",
+			"isBot": false,
+			"picks": [
+				{
+					"packNum": 0,
+					"pickNum": 0,
+					"pick": [
+						11
+					],
+					"burn": [],
+					"booster": [
+						"Ebbing Arcstride (blue)_custom_OMN020",
+						"Holo Shield (red)_custom_OMN030",
+						"Path of Same Ends (blue)_custom_OMN067",
+						"Quick Succession (red)_custom_OMN083",
+						"Enion Surge (blue)_custom_OMN114",
+						"Constella Uplift (yellow)_custom_OMN132",
+						"Stormwhirl (blue)_custom_OMN192",
+						"Stellar Glide (yellow)_custom_OMN176",
+						"Heaven's Claws (red)_custom_OMN172",
+						"Flittering Forcefield (red)_custom_OMN181",
+						"Boots of Astral Sanctuary_custom_OMN212",
+						"Prophetic Quickstep (yellow)_custom_OMN055",
+						"Mercurial Skies (red)_custom_OMN059",
+						"Volatile Fluxor (yellow)_custom_OMN179"
+					]
+				},
+				{
+					"packNum": 0,
+					"pickNum": 1,
+					"pick": [
+						9
+					],
+					"burn": [],
+					"booster": [
+						"Nebulus Cycle (yellow)_custom_OMN035",
+						"Fleeing Starbreeze (blue)_custom_OMN037",
+						"Destructive Fleetfoot (blue)_custom_OMN064",
+						"Quick Succession (yellow)_custom_OMN084",
+						"Constella Flowslide (yellow)_custom_OMN131",
+						"Enion Surge (red)_custom_OMN112",
+						"Electrolyze (yellow)_custom_OMN164",
+						"Sigil of Astral Flow (blue)_custom_OMN199",
+						"Conflicting Thoughts (yellow)_custom_OMN220",
+						"Starflow Robes_custom_OMN143",
+						"Stinging Sprite (blue)_custom_OMN058",
+						"Erode Authority (yellow)_custom_OMN045",
+						"Electrolyze (blue)_custom_OMN165"
+					]
+				}
+			],
+			"cards": [
+				"Prophetic Quickstep (yellow)_custom_OMN055",
+				"Starflow Robes_custom_OMN143"
+			],
+			"decklist": {
+				"main": [
+					"Prophetic Quickstep (yellow)_custom_OMN055",
+					"Starflow Robes_custom_OMN143"
+				],
+				"side": [],
+				"lands": {
+					"W": 0,
+					"U": 0,
+					"B": 0,
+					"R": 0,
+					"G": 0
+				},
+				"hashes": {
+					"cockatrice": "re9qk03b",
+					"mws": "25ecbea7"
+				}
+			}
+		},
+		"7eeca950-6254-11f1-8b0f-25e8d0cc6071": {
+			"userID": "7eeca950-6254-11f1-8b0f-25e8d0cc6071",
+			"userName": "Belcoot",
+			"isBot": false,
+			"picks": [
+				{
+					"packNum": 0,
+					"pickNum": 0,
+					"pick": [
+						12
+					],
+					"burn": [],
+					"booster": [
+						"Auric Shards (red)_custom_OMN027",
+						"Nebulus Cycle (yellow)_custom_OMN035",
+						"Crackle from Afar (blue)_custom_OMN036",
+						"Voltbound Duality (blue)_custom_OMN079",
+						"Quick Succession (red)_custom_OMN083",
+						"Comet Collision (red)_custom_OMN109",
+						"Constella Uplift (yellow)_custom_OMN132",
+						"Flittering Forcefield (yellow)_custom_OMN182",
+						"Flittering Spike (blue)_custom_OMN168",
+						"Stellar Glide (yellow)_custom_OMN176",
+						"Snap Fingers_custom_OMN050",
+						"Polarus Pulse Ray (yellow)_custom_OMN010",
+						"Tempestuous Kiss (red)_custom_OMN051",
+						"Flittering Spike (red)_custom_OMN166"
+					]
+				},
+				{
+					"packNum": 0,
+					"pickNum": 1,
+					"pick": [
+						11
+					],
+					"burn": [],
+					"booster": [
+						"Ebbing Arcstride (blue)_custom_OMN020",
+						"Holo Shield (red)_custom_OMN030",
+						"Path of Same Ends (blue)_custom_OMN067",
+						"Quick Succession (red)_custom_OMN083",
+						"Enion Surge (blue)_custom_OMN114",
+						"Constella Uplift (yellow)_custom_OMN132",
+						"Stormwhirl (blue)_custom_OMN192",
+						"Stellar Glide (yellow)_custom_OMN176",
+						"Heaven's Claws (red)_custom_OMN172",
+						"Flittering Forcefield (red)_custom_OMN181",
+						"Boots of Astral Sanctuary_custom_OMN212",
+						"Mercurial Skies (red)_custom_OMN059",
+						"Volatile Fluxor (yellow)_custom_OMN179"
+					]
+				}
+			],
+			"cards": [
+				"Tempestuous Kiss (red)_custom_OMN051",
+				"Mercurial Skies (red)_custom_OMN059"
+			],
+			"decklist": {
+				"main": [
+					"Tempestuous Kiss (red)_custom_OMN051",
+					"Mercurial Skies (red)_custom_OMN059"
+				],
+				"side": [],
+				"lands": {
+					"W": 0,
+					"U": 0,
+					"B": 0,
+					"R": 0,
+					"G": 0
+				},
+				"hashes": {
+					"cockatrice": "j85m5ia5",
+					"mws": "19871986"
+				}
+			}
+		},
+		"86c07210-6254-11f1-8b0f-25e8d0cc6071": {
+			"userID": "86c07210-6254-11f1-8b0f-25e8d0cc6071",
+			"userName": "Spermophile",
+			"isBot": false,
+			"picks": [],
+			"cards": [],
+			"decklist": {
+				"main": [],
+				"side": [],
+				"lands": {
+					"W": 0,
+					"U": 0,
+					"B": 0,
+					"R": 0,
+					"G": 0
+				}
+			}
+		},
+		"97674b6f-0bf3-0d9e-8ad7-916d684b65f2": {
+			"userID": "97674b6f-0bf3-0d9e-8ad7-916d684b65f2",
+			"userName": "Maylive",
+			"isBot": false,
+			"picks": [],
+			"cards": [],
+			"decklist": {
+				"main": [],
+				"side": [],
+				"lands": {
+					"W": 0,
+					"U": 0,
+					"B": 0,
+					"R": 0,
+					"G": 0
+				}
+			}
+		},
+		"04904468-1329-de0b-7018-633c9cf88a5d": {
+			"userID": "04904468-1329-de0b-7018-633c9cf88a5d",
+			"userName": "Joachimhend",
+			"isBot": false,
+			"picks": [
+				{
+					"packNum": 0,
+					"pickNum": 0,
+					"pick": [
+						10
+					],
+					"burn": [],
+					"booster": [
+						"Holo Shield (yellow)_custom_OMN031",
+						"Cosmic Duality (blue)_custom_OMN017",
+						"Pulsing Cardia (blue)_custom_OMN023",
+						"Singeing Flowstride (yellow)_custom_OMN072",
+						"Lightning Overload (red)_custom_OMN115",
+						"Comet Collision (red)_custom_OMN109",
+						"Flittering Forcefield (blue)_custom_OMN183",
+						"Electrolyze (yellow)_custom_OMN164",
+						"Flittering Forcefield (red)_custom_OMN181",
+						"Flittering Spike (red)_custom_OMN166",
+						"Constella Tiara_custom_OMN142",
+						"Haven Veil (blue)_custom_OMN139",
+						"Haven Veil (yellow)_custom_OMN138",
+						"Tap Lessons Past (red)_custom_OMN124"
+					]
+				}
+			],
+			"cards": [
+				"Constella Tiara_custom_OMN142"
+			],
+			"decklist": {
+				"main": [
+					"Constella Tiara_custom_OMN142"
+				],
+				"side": [],
+				"lands": {
+					"W": 0,
+					"U": 0,
+					"B": 0,
+					"R": 0,
+					"G": 0
+				},
+				"hashes": {
+					"cockatrice": "b6phsb4r",
+					"mws": "2a59d6d1"
+				}
+			}
+		}
+	},
+	"sessionID": "Game",
+	"time": 1780825064285,
+	"lastUpdated": 1780825130885,
+	"setRestriction": [
+		"sos"
+	],
+	"useCustomBoosters": false,
+	"customBoosters": [],
+	"boosters": [
+		[
+			"Elliptical Conflux (yellow)_custom_OMN034",
+			"Ebbing Arcstride (red)_custom_OMN018",
+			"Cosmic Duality (blue)_custom_OMN017",
+			"Electryn Joltstep (blue)_custom_OMN082",
+			"Electryn Joltstep (red)_custom_OMN080",
+			"Meteoric Impact (yellow)_custom_OMN119",
+			"Calmveil of Volthaven (yellow)_custom_OMN185",
+			"Astral Assault (red)_custom_OMN160",
+			"Flittering Forcefield (red)_custom_OMN181",
+			"Heaven's Claws (blue)_custom_OMN174",
+			"Constella Tiara_custom_OMN142",
+			"Rift Breaker (blue)_custom_OMN157",
+			"Caress of the Reaper (red)_custom_OMN087",
+			"Voltbound Duality (yellow)_custom_OMN078"
+		],
+		[
+			"Nebulus Cycle (yellow)_custom_OMN035",
+			"Fleeing Starbreeze (blue)_custom_OMN037",
+			"Destructive Fleetfoot (blue)_custom_OMN064",
+			"Quick Succession (yellow)_custom_OMN084",
+			"Constella Flowslide (yellow)_custom_OMN131",
+			"Comet Collision (red)_custom_OMN109",
+			"Enion Surge (red)_custom_OMN112",
+			"Electrolyze (yellow)_custom_OMN164",
+			"Sigil of Astral Flow (blue)_custom_OMN199",
+			"Conflicting Thoughts (yellow)_custom_OMN220",
+			"Starflow Robes_custom_OMN143",
+			"Stinging Sprite (blue)_custom_OMN058",
+			"Erode Authority (yellow)_custom_OMN045",
+			"Electrolyze (blue)_custom_OMN165"
+		],
+		[
+			"Ebbing Arcstride (blue)_custom_OMN020",
+			"Holo Shield (red)_custom_OMN030",
+			"Path of Same Ends (blue)_custom_OMN067",
+			"Quick Succession (red)_custom_OMN083",
+			"Enion Surge (blue)_custom_OMN114",
+			"Constella Uplift (yellow)_custom_OMN132",
+			"Stormwhirl (blue)_custom_OMN192",
+			"Stellar Glide (yellow)_custom_OMN176",
+			"Heaven's Claws (red)_custom_OMN172",
+			"Flittering Forcefield (red)_custom_OMN181",
+			"Boots of Astral Sanctuary_custom_OMN212",
+			"Prophetic Quickstep (yellow)_custom_OMN055",
+			"Mercurial Skies (red)_custom_OMN059",
+			"Volatile Fluxor (yellow)_custom_OMN179"
+		],
+		[
+			"Auric Shards (red)_custom_OMN027",
+			"Nebulus Cycle (yellow)_custom_OMN035",
+			"Crackle from Afar (blue)_custom_OMN036",
+			"Voltbound Duality (blue)_custom_OMN079",
+			"Quick Succession (red)_custom_OMN083",
+			"Comet Collision (red)_custom_OMN109",
+			"Constella Uplift (yellow)_custom_OMN132",
+			"Flittering Forcefield (yellow)_custom_OMN182",
+			"Flittering Spike (blue)_custom_OMN168",
+			"Stellar Glide (yellow)_custom_OMN176",
+			"Snap Fingers_custom_OMN050",
+			"Polarus Pulse Ray (yellow)_custom_OMN010",
+			"Tempestuous Kiss (red)_custom_OMN051",
+			"Flittering Spike (red)_custom_OMN166"
+		],
+		[
+			"Elliptical Conflux (yellow)_custom_OMN034",
+			"Nebulus Cycle (yellow)_custom_OMN035",
+			"Singeing Flowstride (red)_custom_OMN071",
+			"Path of Same Ends (yellow)_custom_OMN066",
+			"Cosmic Suture (yellow)_custom_OMN128",
+			"Enion Surge (yellow)_custom_OMN113",
+			"Cosmic Suture (blue)_custom_OMN129",
+			"Thunderous Retort (red)_custom_OMN196",
+			"Volatile Fluxor (red)_custom_OMN178",
+			"Conflicting Thoughts (red)_custom_OMN219",
+			"Robe of Astral Sanctuary_custom_OMN210",
+			"Flash Bolt (red)_custom_OMN106",
+			"Lightning Form (red)_custom_OMN150",
+			"Conflicting Thoughts (blue)_custom_OMN221"
+		],
+		[
+			"Auric Shards (yellow)_custom_OMN028",
+			"Shattering Flowtide (red)_custom_OMN024",
+			"Voltbound Duality (blue)_custom_OMN079",
+			"Electryn Joltstep (yellow)_custom_OMN081",
+			"Tap Lessons Past (blue)_custom_OMN126",
+			"Enion Surge (blue)_custom_OMN114",
+			"Starworld Warning (yellow)_custom_OMN188",
+			"Volatile Fluxor (yellow)_custom_OMN179",
+			"Stellar Glide (blue)_custom_OMN177",
+			"Volatile Fluxor (red)_custom_OMN178",
+			"Constella Waves_custom_OMN097",
+			"Clear Conscience (blue)_custom_OMN043",
+			"Rift Breaker (blue)_custom_OMN157",
+			"Quick Succession (red)_custom_OMN083"
+		],
+		[
+			"Holo Shield (yellow)_custom_OMN031",
+			"Cosmic Duality (blue)_custom_OMN017",
+			"Pulsing Cardia (blue)_custom_OMN023",
+			"Singeing Flowstride (yellow)_custom_OMN072",
+			"Lightning Overload (red)_custom_OMN115",
+			"Comet Collision (red)_custom_OMN109",
+			"Flittering Forcefield (blue)_custom_OMN183",
+			"Electrolyze (yellow)_custom_OMN164",
+			"Flittering Forcefield (red)_custom_OMN181",
+			"Flittering Spike (red)_custom_OMN166",
+			"Constella Tiara_custom_OMN142",
+			"Haven Veil (blue)_custom_OMN139",
+			"Haven Veil (yellow)_custom_OMN138",
+			"Tap Lessons Past (red)_custom_OMN124"
+		],
+		[
+			"Shattering Flowtide (blue)_custom_OMN026",
+			"Nourishing Glow (blue)_custom_OMN038",
+			"Electryn Joltstep (red)_custom_OMN080",
+			"Quick Succession (blue)_custom_OMN085",
+			"Singeing Flowstride (red)_custom_OMN071",
+			"Tap Lessons Past (yellow)_custom_OMN125",
+			"Tap Lessons Past (blue)_custom_OMN126",
+			"Electrolyze (yellow)_custom_OMN164",
+			"Heaven's Claws (blue)_custom_OMN174",
+			"Brush Off (red)_custom_OMN222",
+			"Fingers of Fragmentation_custom_OMN039",
+			"Beckoning Brilliance (red)_custom_OMN148",
+			"Leech Vitality (red)_custom_OMN093",
+			"Path of Same Ends (blue)_custom_OMN067"
+		],
+		[
+			"Pulsing Cardia (red)_custom_OMN021",
+			"Cosmic Duality (red)_custom_OMN015",
+			"Stunning Swipe (red)_custom_OMN074",
+			"Electryn Joltstep (red)_custom_OMN080",
+			"Nebula Duality (blue)_custom_OMN123",
+			"Tap Lessons Past (blue)_custom_OMN126",
+			"Electrolyze (red)_custom_OMN163",
+			"Electrolyze (blue)_custom_OMN165",
+			"Astral Assault (blue)_custom_OMN162",
+			"Astral Assault (red)_custom_OMN160",
+			"Helm of Astral Sanctuary_custom_OMN209",
+			"Stinging Sprite (red)_custom_OMN056",
+			"Leech Vitality (red)_custom_OMN093",
+			"Auric Shards (blue)_custom_OMN029"
+		],
+		[
+			"Fleeing Starbreeze (blue)_custom_OMN037",
+			"Ebbing Arcstride (red)_custom_OMN018",
+			"Crackle from Afar (blue)_custom_OMN036",
+			"Rush of Power (red)_custom_OMN068",
+			"Electryn Joltstep (red)_custom_OMN080",
+			"Nebula Duality (red)_custom_OMN121",
+			"Nebula Duality (yellow)_custom_OMN122",
+			"Flittering Forcefield (yellow)_custom_OMN182",
+			"Glide Through Starlight (red)_custom_OMN169",
+			"Brush Off (red)_custom_OMN222",
+			"Robe of Astral Sanctuary_custom_OMN210",
+			"Erode Authority (red)_custom_OMN044",
+			"Rift Breaker (red)_custom_OMN155",
+			"Lightning Overload (yellow)_custom_OMN116"
+		],
+		[
+			"Ebbing Arcstride (yellow)_custom_OMN019",
+			"Shattering Flowtide (blue)_custom_OMN026",
+			"Path of Same Ends (yellow)_custom_OMN066",
+			"Stunning Swipe (red)_custom_OMN074",
+			"Electryn Joltstep (yellow)_custom_OMN081",
+			"Comet Collision (yellow)_custom_OMN110",
+			"Nebula Duality (blue)_custom_OMN123",
+			"Flittering Forcefield (yellow)_custom_OMN182",
+			"Starworld Warning (yellow)_custom_OMN188",
+			"Volatile Fluxor (blue)_custom_OMN180",
+			"Starflow Robes_custom_OMN143",
+			"Clear Conscience (red)_custom_OMN041",
+			"Flow Through (blue)_custom_OMN158",
+			"Chromatic Refinement (red)_custom_OMN193"
+		],
+		[
+			"Pulsing Cardia (yellow)_custom_OMN022",
+			"Nebulus Cycle (yellow)_custom_OMN035",
+			"Quick Succession (blue)_custom_OMN085",
+			"Destructive Fleetfoot (yellow)_custom_OMN063",
+			"Lightning Overload (red)_custom_OMN115",
+			"Meteoric Impact (blue)_custom_OMN120",
+			"Stellar Glide (blue)_custom_OMN177",
+			"Astral Assault (blue)_custom_OMN162",
+			"Stormshard (red)_custom_OMN190",
+			"Brush Off (blue)_custom_OMN224",
+			"Fingers of Fragmentation_custom_OMN039",
+			"Arcanic Cunning (red)_custom_OMN088",
+			"Haven Veil (blue)_custom_OMN139",
+			"Arcanic Reproach (blue)_custom_OMN052"
+		],
+		[
+			"Pulsing Cardia (yellow)_custom_OMN022",
+			"Electryn Joltstep (yellow)_custom_OMN081",
+			"Quick Succession (blue)_custom_OMN085",
+			"Voltbound Duality (red)_custom_OMN077",
+			"Lightning Overload (yellow)_custom_OMN116",
+			"Comet Collision (red)_custom_OMN109",
+			"Calmveil of Volthaven (yellow)_custom_OMN185",
+			"Stellar Glide (blue)_custom_OMN177",
+			"Stormshard (red)_custom_OMN190",
+			"Brush Off (blue)_custom_OMN224",
+			"Boots of Astral Sanctuary_custom_OMN212",
+			"Core Reaction (red)_custom_OMN103",
+			"Livewire Press (red)_custom_OMN159",
+			"Lightning Overload (blue)_custom_OMN117"
+		],
+		[
+			"Pulsing Cardia (blue)_custom_OMN023",
+			"Holo Shield (blue)_custom_OMN032",
+			"Ebbing Arcstride (red)_custom_OMN018",
+			"Electryn Joltstep (red)_custom_OMN080",
+			"Rush of Power (red)_custom_OMN068",
+			"Meteoric Impact (blue)_custom_OMN120",
+			"Constella Contemplation (yellow)_custom_OMN130",
+			"Volatile Fluxor (yellow)_custom_OMN179",
+			"Calmveil of Volthaven (yellow)_custom_OMN185",
+			"Sigil of Lightning (blue)_custom_OMN200",
+			"Constella Waves_custom_OMN097",
+			"Arcanic Cunning (red)_custom_OMN088",
+			"Nucleus Aetherbolt (red)_custom_OMN135",
+			"Enion Surge (yellow)_custom_OMN113"
+		],
+		[
+			"Pulsing Cardia (yellow)_custom_OMN022",
+			"Shattering Flowtide (yellow)_custom_OMN025",
+			"Cosmic Duality (red)_custom_OMN015",
+			"Electryn Joltstep (blue)_custom_OMN082",
+			"Destructive Fleetfoot (blue)_custom_OMN064",
+			"Nebula Duality (blue)_custom_OMN123",
+			"Stormwhirl (blue)_custom_OMN192",
+			"Flittering Spike (yellow)_custom_OMN167",
+			"Glide Through Starlight (red)_custom_OMN169",
+			"Brush Off (yellow)_custom_OMN223",
+			"Seeker's Hood_custom_OMN205",
+			"Corrosive Space Dust (red)_custom_OMN012",
+			"Step Between (red)_custom_OMN214",
+			"Destructive Fleetfoot (yellow)_custom_OMN063"
+		],
+		[
+			"Nebulus Cycle (yellow)_custom_OMN035",
+			"Crackle from Afar (blue)_custom_OMN036",
+			"Electryn Joltstep (yellow)_custom_OMN081",
+			"Path of Same Ends (red)_custom_OMN065",
+			"Comet Collision (blue)_custom_OMN111",
+			"Nebula Duality (yellow)_custom_OMN122",
+			"Sigil of Lightning (blue)_custom_OMN200",
+			"Thunderous Retort (blue)_custom_OMN198",
+			"Starlight Road (blue)_custom_OMN189",
+			"Conflicting Thoughts (blue)_custom_OMN221",
+			"Fingers of Fragmentation_custom_OMN039",
+			"Arcanic Cunning (yellow)_custom_OMN089",
+			"Scattering Conflux (red)_custom_OMN008",
+			"Cosmic Flare (red)_custom_OMN187"
+		],
+		[
+			"Auric Shards (yellow)_custom_OMN028",
+			"Shattering Flowtide (blue)_custom_OMN026",
+			"Singeing Flowstride (blue)_custom_OMN073",
+			"Voltbound Duality (blue)_custom_OMN079",
+			"Lightning Overload (blue)_custom_OMN117",
+			"Enion Surge (yellow)_custom_OMN113",
+			"Cosmic Suture (red)_custom_OMN127",
+			"Astral Assault (blue)_custom_OMN162",
+			"Flittering Forcefield (blue)_custom_OMN183",
+			"Thunderous Retort (yellow)_custom_OMN197",
+			"Gloves of Astral Sanctuary_custom_OMN211",
+			"Dashing Flashfoot (yellow)_custom_OMN053",
+			"Polarus Pulse Ray (yellow)_custom_OMN010",
+			"Voltbound Duality (red)_custom_OMN077"
+		],
+		[
+			"Nourishing Glow (blue)_custom_OMN038",
+			"Ebbing Arcstride (red)_custom_OMN018",
+			"Rush of Power (red)_custom_OMN068",
+			"Lightning Overload (blue)_custom_OMN117",
+			"Nebula Duality (yellow)_custom_OMN122",
+			"Meteoric Impact (red)_custom_OMN118",
+			"Constella Contemplation (yellow)_custom_OMN130",
+			"Stellar Glide (red)_custom_OMN175",
+			"Stormwhirl (blue)_custom_OMN192",
+			"Flittering Spike (red)_custom_OMN166",
+			"Fingers of Fragmentation_custom_OMN039",
+			"Clear Conscience (yellow)_custom_OMN042",
+			"Ominous Excavation (blue)_custom_OMN217",
+			"Cosmic Suture (yellow)_custom_OMN128"
+		],
+		[
+			"Pulsing Cardia (blue)_custom_OMN023",
+			"Cosmic Duality (yellow)_custom_OMN016",
+			"Voltbound Duality (yellow)_custom_OMN078",
+			"Destructive Fleetfoot (yellow)_custom_OMN063",
+			"Nebula Duality (red)_custom_OMN121",
+			"Enion Surge (red)_custom_OMN112",
+			"Sigil of Lightning (blue)_custom_OMN200",
+			"Cosmic Flare (red)_custom_OMN187",
+			"Stellar Glide (blue)_custom_OMN177",
+			"Electrolyze (red)_custom_OMN163",
+			"Boots of Astral Sanctuary_custom_OMN212",
+			"Scattering Conflux (red)_custom_OMN008",
+			"Astral Bridge (red)_custom_OMN098",
+			"Auric Shards (yellow)_custom_OMN028"
+		],
+		[
+			"Holo Shield (blue)_custom_OMN032",
+			"Nebulus Cycle (yellow)_custom_OMN035",
+			"Path of Same Ends (yellow)_custom_OMN066",
+			"Singeing Flowstride (red)_custom_OMN071",
+			"Quick Succession (yellow)_custom_OMN084",
+			"Lightning Overload (red)_custom_OMN115",
+			"Enion Surge (red)_custom_OMN112",
+			"Calmveil of Volthaven (red)_custom_OMN184",
+			"Flittering Spike (red)_custom_OMN166",
+			"Conflicting Thoughts (red)_custom_OMN219",
+			"Seeker's Mitts_custom_OMN207",
+			"Leech Memory (red)_custom_OMN091",
+			"Unwinding Finality (red)_custom_OMN004",
+			"Meteoric Impact (red)_custom_OMN118"
+		],
+		[
+			"Crackle from Afar (blue)_custom_OMN036",
+			"Pulsing Cardia (blue)_custom_OMN023",
+			"Quick Succession (yellow)_custom_OMN084",
+			"Electryn Joltstep (blue)_custom_OMN082",
+			"Nebula Duality (yellow)_custom_OMN122",
+			"Constella Flowslide (yellow)_custom_OMN131",
+			"Electrolyze (yellow)_custom_OMN164",
+			"Calmveil of Volthaven (blue)_custom_OMN186",
+			"Sigil of Lightning (blue)_custom_OMN200",
+			"Glide Through Starlight (yellow)_custom_OMN170",
+			"Boots of Astral Sanctuary_custom_OMN212",
+			"Stinging Sprite (yellow)_custom_OMN057",
+			"Meteoric Rise (red)_custom_OMN153",
+			"Flowing Stormstrike (red)_custom_OMN152"
+		]
+	],
+	"carddata": {
+		"Elliptical Conflux (yellow)_custom_OMN034": {
+			"id": "Elliptical Conflux (yellow)_custom_OMN034",
+			"oracle_id": "",
+			"name": "Elliptical Conflux (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN034",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Elliptical Conflux (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN034.webp"
+			},
+			"is_custom": true
+		},
+		"Ebbing Arcstride (red)_custom_OMN018": {
+			"id": "Ebbing Arcstride (red)_custom_OMN018",
+			"oracle_id": "",
+			"name": "Ebbing Arcstride (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN018",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Ebbing Arcstride (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN018.webp"
+			},
+			"is_custom": true
+		},
+		"Cosmic Duality (blue)_custom_OMN017": {
+			"id": "Cosmic Duality (blue)_custom_OMN017",
+			"oracle_id": "",
+			"name": "Cosmic Duality (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN017",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Cosmic Duality (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN017.webp"
+			},
+			"is_custom": true
+		},
+		"Electryn Joltstep (blue)_custom_OMN082": {
+			"id": "Electryn Joltstep (blue)_custom_OMN082",
+			"oracle_id": "",
+			"name": "Electryn Joltstep (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN082",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Electryn Joltstep (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN082.webp"
+			},
+			"is_custom": true
+		},
+		"Electryn Joltstep (red)_custom_OMN080": {
+			"id": "Electryn Joltstep (red)_custom_OMN080",
+			"oracle_id": "",
+			"name": "Electryn Joltstep (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN080",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Electryn Joltstep (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN080.webp"
+			},
+			"is_custom": true
+		},
+		"Meteoric Impact (yellow)_custom_OMN119": {
+			"id": "Meteoric Impact (yellow)_custom_OMN119",
+			"oracle_id": "",
+			"name": "Meteoric Impact (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN119",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Meteoric Impact (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN119.webp"
+			},
+			"is_custom": true
+		},
+		"Calmveil of Volthaven (yellow)_custom_OMN185": {
+			"id": "Calmveil of Volthaven (yellow)_custom_OMN185",
+			"oracle_id": "",
+			"name": "Calmveil of Volthaven (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN185",
+			"rarity": "common",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Calmveil of Volthaven (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN185.webp"
+			},
+			"is_custom": true
+		},
+		"Astral Assault (red)_custom_OMN160": {
+			"id": "Astral Assault (red)_custom_OMN160",
+			"oracle_id": "",
+			"name": "Astral Assault (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN160",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Astral Assault (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN160.webp"
+			},
+			"is_custom": true
+		},
+		"Flittering Forcefield (red)_custom_OMN181": {
+			"id": "Flittering Forcefield (red)_custom_OMN181",
+			"oracle_id": "",
+			"name": "Flittering Forcefield (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN181",
+			"rarity": "common",
+			"type": "Lightning, Defense, Reaction",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flittering Forcefield (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN181.webp"
+			},
+			"is_custom": true
+		},
+		"Heaven's Claws (blue)_custom_OMN174": {
+			"id": "Heaven's Claws (blue)_custom_OMN174",
+			"oracle_id": "",
+			"name": "Heaven's Claws (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN174",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Heaven's Claws (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN174.webp"
+			},
+			"is_custom": true
+		},
+		"Constella Tiara_custom_OMN142": {
+			"id": "Constella Tiara_custom_OMN142",
+			"oracle_id": "",
+			"name": "Constella Tiara",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN142",
+			"rarity": "common",
+			"type": "Lightning, Equipment, Head",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Constella Tiara"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN142.webp"
+			},
+			"is_custom": true
+		},
+		"Rift Breaker (blue)_custom_OMN157": {
+			"id": "Rift Breaker (blue)_custom_OMN157",
+			"oracle_id": "",
+			"name": "Rift Breaker (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN157",
+			"rarity": "rare",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Rift Breaker (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN157.webp"
+			},
+			"is_custom": true
+		},
+		"Caress of the Reaper (red)_custom_OMN087": {
+			"id": "Caress of the Reaper (red)_custom_OMN087",
+			"oracle_id": "",
+			"name": "Caress of the Reaper (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN087",
+			"rarity": "mythic",
+			"type": "Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Caress of the Reaper (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN087.webp"
+			},
+			"is_custom": true
+		},
+		"Voltbound Duality (yellow)_custom_OMN078": {
+			"id": "Voltbound Duality (yellow)_custom_OMN078",
+			"oracle_id": "",
+			"name": "Voltbound Duality (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN078",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Voltbound Duality (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN078.webp"
+			},
+			"is_custom": true
+		},
+		"Nebulus Cycle (yellow)_custom_OMN035": {
+			"id": "Nebulus Cycle (yellow)_custom_OMN035",
+			"oracle_id": "",
+			"name": "Nebulus Cycle (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN035",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Nebulus Cycle (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN035.webp"
+			},
+			"is_custom": true
+		},
+		"Fleeing Starbreeze (blue)_custom_OMN037": {
+			"id": "Fleeing Starbreeze (blue)_custom_OMN037",
+			"oracle_id": "",
+			"name": "Fleeing Starbreeze (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN037",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Fleeing Starbreeze (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN037.webp"
+			},
+			"is_custom": true
+		},
+		"Destructive Fleetfoot (blue)_custom_OMN064": {
+			"id": "Destructive Fleetfoot (blue)_custom_OMN064",
+			"oracle_id": "",
+			"name": "Destructive Fleetfoot (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN064",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Destructive Fleetfoot (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN064.webp"
+			},
+			"is_custom": true
+		},
+		"Quick Succession (yellow)_custom_OMN084": {
+			"id": "Quick Succession (yellow)_custom_OMN084",
+			"oracle_id": "",
+			"name": "Quick Succession (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN084",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Quick Succession (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN084.webp"
+			},
+			"is_custom": true
+		},
+		"Constella Flowslide (yellow)_custom_OMN131": {
+			"id": "Constella Flowslide (yellow)_custom_OMN131",
+			"oracle_id": "",
+			"name": "Constella Flowslide (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN131",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Constella Flowslide (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN131.webp"
+			},
+			"is_custom": true
+		},
+		"Comet Collision (red)_custom_OMN109": {
+			"id": "Comet Collision (red)_custom_OMN109",
+			"oracle_id": "",
+			"name": "Comet Collision (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN109",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Comet Collision (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN109.webp"
+			},
+			"is_custom": true
+		},
+		"Enion Surge (red)_custom_OMN112": {
+			"id": "Enion Surge (red)_custom_OMN112",
+			"oracle_id": "",
+			"name": "Enion Surge (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN112",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Enion Surge (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN112.webp"
+			},
+			"is_custom": true
+		},
+		"Electrolyze (yellow)_custom_OMN164": {
+			"id": "Electrolyze (yellow)_custom_OMN164",
+			"oracle_id": "",
+			"name": "Electrolyze (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN164",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Electrolyze (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN164.webp"
+			},
+			"is_custom": true
+		},
+		"Sigil of Astral Flow (blue)_custom_OMN199": {
+			"id": "Sigil of Astral Flow (blue)_custom_OMN199",
+			"oracle_id": "",
+			"name": "Sigil of Astral Flow (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN199",
+			"rarity": "common",
+			"type": "Lightning, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Sigil of Astral Flow (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN199.webp"
+			},
+			"is_custom": true
+		},
+		"Conflicting Thoughts (yellow)_custom_OMN220": {
+			"id": "Conflicting Thoughts (yellow)_custom_OMN220",
+			"oracle_id": "",
+			"name": "Conflicting Thoughts (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN220",
+			"rarity": "common",
+			"type": "Generic, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Conflicting Thoughts (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN220.webp"
+			},
+			"is_custom": true
+		},
+		"Starflow Robes_custom_OMN143": {
+			"id": "Starflow Robes_custom_OMN143",
+			"oracle_id": "",
+			"name": "Starflow Robes",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN143",
+			"rarity": "common",
+			"type": "Lightning, Equipment, Chest",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Starflow Robes"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN143.webp"
+			},
+			"is_custom": true
+		},
+		"Stinging Sprite (blue)_custom_OMN058": {
+			"id": "Stinging Sprite (blue)_custom_OMN058",
+			"oracle_id": "",
+			"name": "Stinging Sprite (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN058",
+			"rarity": "rare",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stinging Sprite (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN058.webp"
+			},
+			"is_custom": true
+		},
+		"Erode Authority (yellow)_custom_OMN045": {
+			"id": "Erode Authority (yellow)_custom_OMN045",
+			"oracle_id": "",
+			"name": "Erode Authority (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN045",
+			"rarity": "rare",
+			"type": "Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Erode Authority (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN045.webp"
+			},
+			"is_custom": true
+		},
+		"Electrolyze (blue)_custom_OMN165": {
+			"id": "Electrolyze (blue)_custom_OMN165",
+			"oracle_id": "",
+			"name": "Electrolyze (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN165",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Electrolyze (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN165.webp"
+			},
+			"is_custom": true
+		},
+		"Ebbing Arcstride (blue)_custom_OMN020": {
+			"id": "Ebbing Arcstride (blue)_custom_OMN020",
+			"oracle_id": "",
+			"name": "Ebbing Arcstride (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN020",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Ebbing Arcstride (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN020.webp"
+			},
+			"is_custom": true
+		},
+		"Holo Shield (red)_custom_OMN030": {
+			"id": "Holo Shield (red)_custom_OMN030",
+			"oracle_id": "",
+			"name": "Holo Shield (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN030",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Holo Shield (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN030.webp"
+			},
+			"is_custom": true
+		},
+		"Path of Same Ends (blue)_custom_OMN067": {
+			"id": "Path of Same Ends (blue)_custom_OMN067",
+			"oracle_id": "",
+			"name": "Path of Same Ends (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN067",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Path of Same Ends (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN067.webp"
+			},
+			"is_custom": true
+		},
+		"Quick Succession (red)_custom_OMN083": {
+			"id": "Quick Succession (red)_custom_OMN083",
+			"oracle_id": "",
+			"name": "Quick Succession (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN083",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Quick Succession (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN083.webp"
+			},
+			"is_custom": true
+		},
+		"Enion Surge (blue)_custom_OMN114": {
+			"id": "Enion Surge (blue)_custom_OMN114",
+			"oracle_id": "",
+			"name": "Enion Surge (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN114",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Enion Surge (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN114.webp"
+			},
+			"is_custom": true
+		},
+		"Constella Uplift (yellow)_custom_OMN132": {
+			"id": "Constella Uplift (yellow)_custom_OMN132",
+			"oracle_id": "",
+			"name": "Constella Uplift (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN132",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Constella Uplift (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN132.webp"
+			},
+			"is_custom": true
+		},
+		"Stormwhirl (blue)_custom_OMN192": {
+			"id": "Stormwhirl (blue)_custom_OMN192",
+			"oracle_id": "",
+			"name": "Stormwhirl (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN192",
+			"rarity": "common",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stormwhirl (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN192.webp"
+			},
+			"is_custom": true
+		},
+		"Stellar Glide (yellow)_custom_OMN176": {
+			"id": "Stellar Glide (yellow)_custom_OMN176",
+			"oracle_id": "",
+			"name": "Stellar Glide (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN176",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stellar Glide (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN176.webp"
+			},
+			"is_custom": true
+		},
+		"Heaven's Claws (red)_custom_OMN172": {
+			"id": "Heaven's Claws (red)_custom_OMN172",
+			"oracle_id": "",
+			"name": "Heaven's Claws (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN172",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Heaven's Claws (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN172.webp"
+			},
+			"is_custom": true
+		},
+		"Boots of Astral Sanctuary_custom_OMN212": {
+			"id": "Boots of Astral Sanctuary_custom_OMN212",
+			"oracle_id": "",
+			"name": "Boots of Astral Sanctuary",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN212",
+			"rarity": "common",
+			"type": "Generic, Equipment, Legs",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Boots of Astral Sanctuary"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN212.webp"
+			},
+			"is_custom": true
+		},
+		"Prophetic Quickstep (yellow)_custom_OMN055": {
+			"id": "Prophetic Quickstep (yellow)_custom_OMN055",
+			"oracle_id": "",
+			"name": "Prophetic Quickstep (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN055",
+			"rarity": "rare",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Prophetic Quickstep (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN055.webp"
+			},
+			"is_custom": true
+		},
+		"Mercurial Skies (red)_custom_OMN059": {
+			"id": "Mercurial Skies (red)_custom_OMN059",
+			"oracle_id": "",
+			"name": "Mercurial Skies (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN059",
+			"rarity": "rare",
+			"type": "Lightning, Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Mercurial Skies (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN059.webp"
+			},
+			"is_custom": true
+		},
+		"Volatile Fluxor (yellow)_custom_OMN179": {
+			"id": "Volatile Fluxor (yellow)_custom_OMN179",
+			"oracle_id": "",
+			"name": "Volatile Fluxor (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN179",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Volatile Fluxor (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN179.webp"
+			},
+			"is_custom": true
+		},
+		"Auric Shards (red)_custom_OMN027": {
+			"id": "Auric Shards (red)_custom_OMN027",
+			"oracle_id": "",
+			"name": "Auric Shards (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN027",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Auric Shards (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN027.webp"
+			},
+			"is_custom": true
+		},
+		"Crackle from Afar (blue)_custom_OMN036": {
+			"id": "Crackle from Afar (blue)_custom_OMN036",
+			"oracle_id": "",
+			"name": "Crackle from Afar (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN036",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Crackle from Afar (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN036.webp"
+			},
+			"is_custom": true
+		},
+		"Voltbound Duality (blue)_custom_OMN079": {
+			"id": "Voltbound Duality (blue)_custom_OMN079",
+			"oracle_id": "",
+			"name": "Voltbound Duality (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN079",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Voltbound Duality (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN079.webp"
+			},
+			"is_custom": true
+		},
+		"Flittering Forcefield (yellow)_custom_OMN182": {
+			"id": "Flittering Forcefield (yellow)_custom_OMN182",
+			"oracle_id": "",
+			"name": "Flittering Forcefield (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN182",
+			"rarity": "common",
+			"type": "Lightning, Defense, Reaction",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flittering Forcefield (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN182.webp"
+			},
+			"is_custom": true
+		},
+		"Flittering Spike (blue)_custom_OMN168": {
+			"id": "Flittering Spike (blue)_custom_OMN168",
+			"oracle_id": "",
+			"name": "Flittering Spike (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN168",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flittering Spike (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN168.webp"
+			},
+			"is_custom": true
+		},
+		"Snap Fingers_custom_OMN050": {
+			"id": "Snap Fingers_custom_OMN050",
+			"oracle_id": "",
+			"name": "Snap Fingers",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN050",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Equipment, Arms",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Snap Fingers"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN050.webp"
+			},
+			"is_custom": true
+		},
+		"Polarus Pulse Ray (yellow)_custom_OMN010": {
+			"id": "Polarus Pulse Ray (yellow)_custom_OMN010",
+			"oracle_id": "",
+			"name": "Polarus Pulse Ray (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN010",
+			"rarity": "rare",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Polarus Pulse Ray (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN010.webp"
+			},
+			"is_custom": true
+		},
+		"Tempestuous Kiss (red)_custom_OMN051": {
+			"id": "Tempestuous Kiss (red)_custom_OMN051",
+			"oracle_id": "",
+			"name": "Tempestuous Kiss (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN051",
+			"rarity": "mythic",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Tempestuous Kiss (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN051.webp"
+			},
+			"is_custom": true
+		},
+		"Flittering Spike (red)_custom_OMN166": {
+			"id": "Flittering Spike (red)_custom_OMN166",
+			"oracle_id": "",
+			"name": "Flittering Spike (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN166",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flittering Spike (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN166.webp"
+			},
+			"is_custom": true
+		},
+		"Singeing Flowstride (red)_custom_OMN071": {
+			"id": "Singeing Flowstride (red)_custom_OMN071",
+			"oracle_id": "",
+			"name": "Singeing Flowstride (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN071",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Singeing Flowstride (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN071.webp"
+			},
+			"is_custom": true
+		},
+		"Path of Same Ends (yellow)_custom_OMN066": {
+			"id": "Path of Same Ends (yellow)_custom_OMN066",
+			"oracle_id": "",
+			"name": "Path of Same Ends (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN066",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Path of Same Ends (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN066.webp"
+			},
+			"is_custom": true
+		},
+		"Cosmic Suture (yellow)_custom_OMN128": {
+			"id": "Cosmic Suture (yellow)_custom_OMN128",
+			"oracle_id": "",
+			"name": "Cosmic Suture (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN128",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Cosmic Suture (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN128.webp"
+			},
+			"is_custom": true
+		},
+		"Enion Surge (yellow)_custom_OMN113": {
+			"id": "Enion Surge (yellow)_custom_OMN113",
+			"oracle_id": "",
+			"name": "Enion Surge (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN113",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Enion Surge (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN113.webp"
+			},
+			"is_custom": true
+		},
+		"Cosmic Suture (blue)_custom_OMN129": {
+			"id": "Cosmic Suture (blue)_custom_OMN129",
+			"oracle_id": "",
+			"name": "Cosmic Suture (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN129",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Cosmic Suture (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN129.webp"
+			},
+			"is_custom": true
+		},
+		"Thunderous Retort (red)_custom_OMN196": {
+			"id": "Thunderous Retort (red)_custom_OMN196",
+			"oracle_id": "",
+			"name": "Thunderous Retort (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN196",
+			"rarity": "common",
+			"type": "Lightning, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Thunderous Retort (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN196.webp"
+			},
+			"is_custom": true
+		},
+		"Volatile Fluxor (red)_custom_OMN178": {
+			"id": "Volatile Fluxor (red)_custom_OMN178",
+			"oracle_id": "",
+			"name": "Volatile Fluxor (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN178",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Volatile Fluxor (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN178.webp"
+			},
+			"is_custom": true
+		},
+		"Conflicting Thoughts (red)_custom_OMN219": {
+			"id": "Conflicting Thoughts (red)_custom_OMN219",
+			"oracle_id": "",
+			"name": "Conflicting Thoughts (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN219",
+			"rarity": "common",
+			"type": "Generic, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Conflicting Thoughts (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN219.webp"
+			},
+			"is_custom": true
+		},
+		"Robe of Astral Sanctuary_custom_OMN210": {
+			"id": "Robe of Astral Sanctuary_custom_OMN210",
+			"oracle_id": "",
+			"name": "Robe of Astral Sanctuary",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN210",
+			"rarity": "common",
+			"type": "Generic, Equipment, Chest",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Robe of Astral Sanctuary"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN210.webp"
+			},
+			"is_custom": true
+		},
+		"Flash Bolt (red)_custom_OMN106": {
+			"id": "Flash Bolt (red)_custom_OMN106",
+			"oracle_id": "",
+			"name": "Flash Bolt (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN106",
+			"rarity": "rare",
+			"type": "Lightning, Wizard, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flash Bolt (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN106.webp"
+			},
+			"is_custom": true
+		},
+		"Lightning Form (red)_custom_OMN150": {
+			"id": "Lightning Form (red)_custom_OMN150",
+			"oracle_id": "",
+			"name": "Lightning Form (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN150",
+			"rarity": "rare",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Lightning Form (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN150.webp"
+			},
+			"is_custom": true
+		},
+		"Conflicting Thoughts (blue)_custom_OMN221": {
+			"id": "Conflicting Thoughts (blue)_custom_OMN221",
+			"oracle_id": "",
+			"name": "Conflicting Thoughts (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN221",
+			"rarity": "common",
+			"type": "Generic, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Conflicting Thoughts (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN221.webp"
+			},
+			"is_custom": true
+		},
+		"Auric Shards (yellow)_custom_OMN028": {
+			"id": "Auric Shards (yellow)_custom_OMN028",
+			"oracle_id": "",
+			"name": "Auric Shards (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN028",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Auric Shards (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN028.webp"
+			},
+			"is_custom": true
+		},
+		"Shattering Flowtide (red)_custom_OMN024": {
+			"id": "Shattering Flowtide (red)_custom_OMN024",
+			"oracle_id": "",
+			"name": "Shattering Flowtide (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN024",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Shattering Flowtide (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN024.webp"
+			},
+			"is_custom": true
+		},
+		"Electryn Joltstep (yellow)_custom_OMN081": {
+			"id": "Electryn Joltstep (yellow)_custom_OMN081",
+			"oracle_id": "",
+			"name": "Electryn Joltstep (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN081",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Electryn Joltstep (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN081.webp"
+			},
+			"is_custom": true
+		},
+		"Tap Lessons Past (blue)_custom_OMN126": {
+			"id": "Tap Lessons Past (blue)_custom_OMN126",
+			"oracle_id": "",
+			"name": "Tap Lessons Past (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN126",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Tap Lessons Past (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN126.webp"
+			},
+			"is_custom": true
+		},
+		"Starworld Warning (yellow)_custom_OMN188": {
+			"id": "Starworld Warning (yellow)_custom_OMN188",
+			"oracle_id": "",
+			"name": "Starworld Warning (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN188",
+			"rarity": "common",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Starworld Warning (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN188.webp"
+			},
+			"is_custom": true
+		},
+		"Stellar Glide (blue)_custom_OMN177": {
+			"id": "Stellar Glide (blue)_custom_OMN177",
+			"oracle_id": "",
+			"name": "Stellar Glide (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN177",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stellar Glide (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN177.webp"
+			},
+			"is_custom": true
+		},
+		"Constella Waves_custom_OMN097": {
+			"id": "Constella Waves_custom_OMN097",
+			"oracle_id": "",
+			"name": "Constella Waves",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN097",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Equipment, Arms",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Constella Waves"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN097.webp"
+			},
+			"is_custom": true
+		},
+		"Clear Conscience (blue)_custom_OMN043": {
+			"id": "Clear Conscience (blue)_custom_OMN043",
+			"oracle_id": "",
+			"name": "Clear Conscience (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN043",
+			"rarity": "rare",
+			"type": "Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Clear Conscience (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN043.webp"
+			},
+			"is_custom": true
+		},
+		"Holo Shield (yellow)_custom_OMN031": {
+			"id": "Holo Shield (yellow)_custom_OMN031",
+			"oracle_id": "",
+			"name": "Holo Shield (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN031",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Holo Shield (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN031.webp"
+			},
+			"is_custom": true
+		},
+		"Pulsing Cardia (blue)_custom_OMN023": {
+			"id": "Pulsing Cardia (blue)_custom_OMN023",
+			"oracle_id": "",
+			"name": "Pulsing Cardia (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN023",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Pulsing Cardia (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN023.webp"
+			},
+			"is_custom": true
+		},
+		"Singeing Flowstride (yellow)_custom_OMN072": {
+			"id": "Singeing Flowstride (yellow)_custom_OMN072",
+			"oracle_id": "",
+			"name": "Singeing Flowstride (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN072",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Singeing Flowstride (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN072.webp"
+			},
+			"is_custom": true
+		},
+		"Lightning Overload (red)_custom_OMN115": {
+			"id": "Lightning Overload (red)_custom_OMN115",
+			"oracle_id": "",
+			"name": "Lightning Overload (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN115",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Lightning Overload (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN115.webp"
+			},
+			"is_custom": true
+		},
+		"Flittering Forcefield (blue)_custom_OMN183": {
+			"id": "Flittering Forcefield (blue)_custom_OMN183",
+			"oracle_id": "",
+			"name": "Flittering Forcefield (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN183",
+			"rarity": "common",
+			"type": "Lightning, Defense, Reaction",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flittering Forcefield (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN183.webp"
+			},
+			"is_custom": true
+		},
+		"Haven Veil (blue)_custom_OMN139": {
+			"id": "Haven Veil (blue)_custom_OMN139",
+			"oracle_id": "",
+			"name": "Haven Veil (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN139",
+			"rarity": "rare",
+			"type": "Wizard, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Haven Veil (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN139.webp"
+			},
+			"is_custom": true
+		},
+		"Haven Veil (yellow)_custom_OMN138": {
+			"id": "Haven Veil (yellow)_custom_OMN138",
+			"oracle_id": "",
+			"name": "Haven Veil (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN138",
+			"rarity": "rare",
+			"type": "Wizard, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Haven Veil (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN138.webp"
+			},
+			"is_custom": true
+		},
+		"Tap Lessons Past (red)_custom_OMN124": {
+			"id": "Tap Lessons Past (red)_custom_OMN124",
+			"oracle_id": "",
+			"name": "Tap Lessons Past (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN124",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Tap Lessons Past (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN124.webp"
+			},
+			"is_custom": true
+		},
+		"Shattering Flowtide (blue)_custom_OMN026": {
+			"id": "Shattering Flowtide (blue)_custom_OMN026",
+			"oracle_id": "",
+			"name": "Shattering Flowtide (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN026",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Shattering Flowtide (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN026.webp"
+			},
+			"is_custom": true
+		},
+		"Nourishing Glow (blue)_custom_OMN038": {
+			"id": "Nourishing Glow (blue)_custom_OMN038",
+			"oracle_id": "",
+			"name": "Nourishing Glow (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN038",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Nourishing Glow (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN038.webp"
+			},
+			"is_custom": true
+		},
+		"Quick Succession (blue)_custom_OMN085": {
+			"id": "Quick Succession (blue)_custom_OMN085",
+			"oracle_id": "",
+			"name": "Quick Succession (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN085",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Quick Succession (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN085.webp"
+			},
+			"is_custom": true
+		},
+		"Tap Lessons Past (yellow)_custom_OMN125": {
+			"id": "Tap Lessons Past (yellow)_custom_OMN125",
+			"oracle_id": "",
+			"name": "Tap Lessons Past (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN125",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Tap Lessons Past (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN125.webp"
+			},
+			"is_custom": true
+		},
+		"Brush Off (red)_custom_OMN222": {
+			"id": "Brush Off (red)_custom_OMN222",
+			"oracle_id": "",
+			"name": "Brush Off (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN222",
+			"rarity": "common",
+			"type": "Generic, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Brush Off (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN222.webp"
+			},
+			"is_custom": true
+		},
+		"Fingers of Fragmentation_custom_OMN039": {
+			"id": "Fingers of Fragmentation_custom_OMN039",
+			"oracle_id": "",
+			"name": "Fingers of Fragmentation",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN039",
+			"rarity": "common",
+			"type": "Illusionist, Equipment, Arms",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Fingers of Fragmentation"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN039.webp"
+			},
+			"is_custom": true
+		},
+		"Beckoning Brilliance (red)_custom_OMN148": {
+			"id": "Beckoning Brilliance (red)_custom_OMN148",
+			"oracle_id": "",
+			"name": "Beckoning Brilliance (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN148",
+			"rarity": "rare",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Beckoning Brilliance (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN148.webp"
+			},
+			"is_custom": true
+		},
+		"Leech Vitality (red)_custom_OMN093": {
+			"id": "Leech Vitality (red)_custom_OMN093",
+			"oracle_id": "",
+			"name": "Leech Vitality (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN093",
+			"rarity": "rare",
+			"type": "Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Leech Vitality (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN093.webp"
+			},
+			"is_custom": true
+		},
+		"Pulsing Cardia (red)_custom_OMN021": {
+			"id": "Pulsing Cardia (red)_custom_OMN021",
+			"oracle_id": "",
+			"name": "Pulsing Cardia (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN021",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Pulsing Cardia (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN021.webp"
+			},
+			"is_custom": true
+		},
+		"Cosmic Duality (red)_custom_OMN015": {
+			"id": "Cosmic Duality (red)_custom_OMN015",
+			"oracle_id": "",
+			"name": "Cosmic Duality (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN015",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Cosmic Duality (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN015.webp"
+			},
+			"is_custom": true
+		},
+		"Stunning Swipe (red)_custom_OMN074": {
+			"id": "Stunning Swipe (red)_custom_OMN074",
+			"oracle_id": "",
+			"name": "Stunning Swipe (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN074",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stunning Swipe (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN074.webp"
+			},
+			"is_custom": true
+		},
+		"Nebula Duality (blue)_custom_OMN123": {
+			"id": "Nebula Duality (blue)_custom_OMN123",
+			"oracle_id": "",
+			"name": "Nebula Duality (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN123",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Nebula Duality (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN123.webp"
+			},
+			"is_custom": true
+		},
+		"Electrolyze (red)_custom_OMN163": {
+			"id": "Electrolyze (red)_custom_OMN163",
+			"oracle_id": "",
+			"name": "Electrolyze (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN163",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Electrolyze (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN163.webp"
+			},
+			"is_custom": true
+		},
+		"Astral Assault (blue)_custom_OMN162": {
+			"id": "Astral Assault (blue)_custom_OMN162",
+			"oracle_id": "",
+			"name": "Astral Assault (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN162",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Astral Assault (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN162.webp"
+			},
+			"is_custom": true
+		},
+		"Helm of Astral Sanctuary_custom_OMN209": {
+			"id": "Helm of Astral Sanctuary_custom_OMN209",
+			"oracle_id": "",
+			"name": "Helm of Astral Sanctuary",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN209",
+			"rarity": "common",
+			"type": "Generic, Equipment, Head",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Helm of Astral Sanctuary"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN209.webp"
+			},
+			"is_custom": true
+		},
+		"Stinging Sprite (red)_custom_OMN056": {
+			"id": "Stinging Sprite (red)_custom_OMN056",
+			"oracle_id": "",
+			"name": "Stinging Sprite (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN056",
+			"rarity": "rare",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stinging Sprite (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN056.webp"
+			},
+			"is_custom": true
+		},
+		"Auric Shards (blue)_custom_OMN029": {
+			"id": "Auric Shards (blue)_custom_OMN029",
+			"oracle_id": "",
+			"name": "Auric Shards (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN029",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Auric Shards (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN029.webp"
+			},
+			"is_custom": true
+		},
+		"Rush of Power (red)_custom_OMN068": {
+			"id": "Rush of Power (red)_custom_OMN068",
+			"oracle_id": "",
+			"name": "Rush of Power (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN068",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Rush of Power (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN068.webp"
+			},
+			"is_custom": true
+		},
+		"Nebula Duality (red)_custom_OMN121": {
+			"id": "Nebula Duality (red)_custom_OMN121",
+			"oracle_id": "",
+			"name": "Nebula Duality (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN121",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Nebula Duality (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN121.webp"
+			},
+			"is_custom": true
+		},
+		"Nebula Duality (yellow)_custom_OMN122": {
+			"id": "Nebula Duality (yellow)_custom_OMN122",
+			"oracle_id": "",
+			"name": "Nebula Duality (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN122",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Nebula Duality (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN122.webp"
+			},
+			"is_custom": true
+		},
+		"Glide Through Starlight (red)_custom_OMN169": {
+			"id": "Glide Through Starlight (red)_custom_OMN169",
+			"oracle_id": "",
+			"name": "Glide Through Starlight (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN169",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Glide Through Starlight (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN169.webp"
+			},
+			"is_custom": true
+		},
+		"Erode Authority (red)_custom_OMN044": {
+			"id": "Erode Authority (red)_custom_OMN044",
+			"oracle_id": "",
+			"name": "Erode Authority (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN044",
+			"rarity": "rare",
+			"type": "Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Erode Authority (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN044.webp"
+			},
+			"is_custom": true
+		},
+		"Rift Breaker (red)_custom_OMN155": {
+			"id": "Rift Breaker (red)_custom_OMN155",
+			"oracle_id": "",
+			"name": "Rift Breaker (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN155",
+			"rarity": "rare",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Rift Breaker (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN155.webp"
+			},
+			"is_custom": true
+		},
+		"Lightning Overload (yellow)_custom_OMN116": {
+			"id": "Lightning Overload (yellow)_custom_OMN116",
+			"oracle_id": "",
+			"name": "Lightning Overload (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN116",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Lightning Overload (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN116.webp"
+			},
+			"is_custom": true
+		},
+		"Ebbing Arcstride (yellow)_custom_OMN019": {
+			"id": "Ebbing Arcstride (yellow)_custom_OMN019",
+			"oracle_id": "",
+			"name": "Ebbing Arcstride (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN019",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Ebbing Arcstride (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN019.webp"
+			},
+			"is_custom": true
+		},
+		"Comet Collision (yellow)_custom_OMN110": {
+			"id": "Comet Collision (yellow)_custom_OMN110",
+			"oracle_id": "",
+			"name": "Comet Collision (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN110",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Comet Collision (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN110.webp"
+			},
+			"is_custom": true
+		},
+		"Volatile Fluxor (blue)_custom_OMN180": {
+			"id": "Volatile Fluxor (blue)_custom_OMN180",
+			"oracle_id": "",
+			"name": "Volatile Fluxor (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN180",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Volatile Fluxor (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN180.webp"
+			},
+			"is_custom": true
+		},
+		"Clear Conscience (red)_custom_OMN041": {
+			"id": "Clear Conscience (red)_custom_OMN041",
+			"oracle_id": "",
+			"name": "Clear Conscience (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN041",
+			"rarity": "rare",
+			"type": "Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Clear Conscience (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN041.webp"
+			},
+			"is_custom": true
+		},
+		"Flow Through (blue)_custom_OMN158": {
+			"id": "Flow Through (blue)_custom_OMN158",
+			"oracle_id": "",
+			"name": "Flow Through (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN158",
+			"rarity": "rare",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flow Through (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN158.webp"
+			},
+			"is_custom": true
+		},
+		"Chromatic Refinement (red)_custom_OMN193": {
+			"id": "Chromatic Refinement (red)_custom_OMN193",
+			"oracle_id": "",
+			"name": "Chromatic Refinement (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN193",
+			"rarity": "common",
+			"type": "Lightning, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Chromatic Refinement (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN193.webp"
+			},
+			"is_custom": true
+		},
+		"Pulsing Cardia (yellow)_custom_OMN022": {
+			"id": "Pulsing Cardia (yellow)_custom_OMN022",
+			"oracle_id": "",
+			"name": "Pulsing Cardia (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN022",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Pulsing Cardia (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN022.webp"
+			},
+			"is_custom": true
+		},
+		"Destructive Fleetfoot (yellow)_custom_OMN063": {
+			"id": "Destructive Fleetfoot (yellow)_custom_OMN063",
+			"oracle_id": "",
+			"name": "Destructive Fleetfoot (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN063",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Destructive Fleetfoot (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN063.webp"
+			},
+			"is_custom": true
+		},
+		"Meteoric Impact (blue)_custom_OMN120": {
+			"id": "Meteoric Impact (blue)_custom_OMN120",
+			"oracle_id": "",
+			"name": "Meteoric Impact (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN120",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Meteoric Impact (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN120.webp"
+			},
+			"is_custom": true
+		},
+		"Stormshard (red)_custom_OMN190": {
+			"id": "Stormshard (red)_custom_OMN190",
+			"oracle_id": "",
+			"name": "Stormshard (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN190",
+			"rarity": "common",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stormshard (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN190.webp"
+			},
+			"is_custom": true
+		},
+		"Brush Off (blue)_custom_OMN224": {
+			"id": "Brush Off (blue)_custom_OMN224",
+			"oracle_id": "",
+			"name": "Brush Off (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN224",
+			"rarity": "common",
+			"type": "Generic, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Brush Off (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN224.webp"
+			},
+			"is_custom": true
+		},
+		"Arcanic Cunning (red)_custom_OMN088": {
+			"id": "Arcanic Cunning (red)_custom_OMN088",
+			"oracle_id": "",
+			"name": "Arcanic Cunning (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN088",
+			"rarity": "rare",
+			"type": "Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Arcanic Cunning (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN088.webp"
+			},
+			"is_custom": true
+		},
+		"Arcanic Reproach (blue)_custom_OMN052": {
+			"id": "Arcanic Reproach (blue)_custom_OMN052",
+			"oracle_id": "",
+			"name": "Arcanic Reproach (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN052",
+			"rarity": "mythic",
+			"type": "Lightning, Runeblade, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Arcanic Reproach (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN052.webp"
+			},
+			"is_custom": true
+		},
+		"Voltbound Duality (red)_custom_OMN077": {
+			"id": "Voltbound Duality (red)_custom_OMN077",
+			"oracle_id": "",
+			"name": "Voltbound Duality (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN077",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Voltbound Duality (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN077.webp"
+			},
+			"is_custom": true
+		},
+		"Core Reaction (red)_custom_OMN103": {
+			"id": "Core Reaction (red)_custom_OMN103",
+			"oracle_id": "",
+			"name": "Core Reaction (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN103",
+			"rarity": "rare",
+			"type": "Lightning, Wizard, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Core Reaction (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN103.webp"
+			},
+			"is_custom": true
+		},
+		"Livewire Press (red)_custom_OMN159": {
+			"id": "Livewire Press (red)_custom_OMN159",
+			"oracle_id": "",
+			"name": "Livewire Press (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN159",
+			"rarity": "rare",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Livewire Press (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN159.webp"
+			},
+			"is_custom": true
+		},
+		"Lightning Overload (blue)_custom_OMN117": {
+			"id": "Lightning Overload (blue)_custom_OMN117",
+			"oracle_id": "",
+			"name": "Lightning Overload (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN117",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Lightning Overload (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN117.webp"
+			},
+			"is_custom": true
+		},
+		"Holo Shield (blue)_custom_OMN032": {
+			"id": "Holo Shield (blue)_custom_OMN032",
+			"oracle_id": "",
+			"name": "Holo Shield (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN032",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Holo Shield (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN032.webp"
+			},
+			"is_custom": true
+		},
+		"Constella Contemplation (yellow)_custom_OMN130": {
+			"id": "Constella Contemplation (yellow)_custom_OMN130",
+			"oracle_id": "",
+			"name": "Constella Contemplation (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN130",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Constella Contemplation (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN130.webp"
+			},
+			"is_custom": true
+		},
+		"Sigil of Lightning (blue)_custom_OMN200": {
+			"id": "Sigil of Lightning (blue)_custom_OMN200",
+			"oracle_id": "",
+			"name": "Sigil of Lightning (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN200",
+			"rarity": "common",
+			"type": "Lightning, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Sigil of Lightning (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN200.webp"
+			},
+			"is_custom": true
+		},
+		"Nucleus Aetherbolt (red)_custom_OMN135": {
+			"id": "Nucleus Aetherbolt (red)_custom_OMN135",
+			"oracle_id": "",
+			"name": "Nucleus Aetherbolt (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN135",
+			"rarity": "rare",
+			"type": "Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Nucleus Aetherbolt (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN135.webp"
+			},
+			"is_custom": true
+		},
+		"Shattering Flowtide (yellow)_custom_OMN025": {
+			"id": "Shattering Flowtide (yellow)_custom_OMN025",
+			"oracle_id": "",
+			"name": "Shattering Flowtide (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN025",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Shattering Flowtide (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN025.webp"
+			},
+			"is_custom": true
+		},
+		"Flittering Spike (yellow)_custom_OMN167": {
+			"id": "Flittering Spike (yellow)_custom_OMN167",
+			"oracle_id": "",
+			"name": "Flittering Spike (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN167",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flittering Spike (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN167.webp"
+			},
+			"is_custom": true
+		},
+		"Brush Off (yellow)_custom_OMN223": {
+			"id": "Brush Off (yellow)_custom_OMN223",
+			"oracle_id": "",
+			"name": "Brush Off (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN223",
+			"rarity": "common",
+			"type": "Generic, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Brush Off (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN223.webp"
+			},
+			"is_custom": true
+		},
+		"Seeker's Hood_custom_OMN205": {
+			"id": "Seeker's Hood_custom_OMN205",
+			"oracle_id": "",
+			"name": "Seeker's Hood",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN205",
+			"rarity": "common",
+			"type": "Generic, Equipment, Head",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Seeker's Hood"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN205.webp"
+			},
+			"is_custom": true
+		},
+		"Corrosive Space Dust (red)_custom_OMN012": {
+			"id": "Corrosive Space Dust (red)_custom_OMN012",
+			"oracle_id": "",
+			"name": "Corrosive Space Dust (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN012",
+			"rarity": "rare",
+			"type": "Lightning, Illusionist, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Corrosive Space Dust (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN012.webp"
+			},
+			"is_custom": true
+		},
+		"Step Between (red)_custom_OMN214": {
+			"id": "Step Between (red)_custom_OMN214",
+			"oracle_id": "",
+			"name": "Step Between (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN214",
+			"rarity": "mythic",
+			"type": "Generic, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Step Between (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN214.webp"
+			},
+			"is_custom": true
+		},
+		"Path of Same Ends (red)_custom_OMN065": {
+			"id": "Path of Same Ends (red)_custom_OMN065",
+			"oracle_id": "",
+			"name": "Path of Same Ends (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN065",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Path of Same Ends (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN065.webp"
+			},
+			"is_custom": true
+		},
+		"Comet Collision (blue)_custom_OMN111": {
+			"id": "Comet Collision (blue)_custom_OMN111",
+			"oracle_id": "",
+			"name": "Comet Collision (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN111",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Comet Collision (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN111.webp"
+			},
+			"is_custom": true
+		},
+		"Thunderous Retort (blue)_custom_OMN198": {
+			"id": "Thunderous Retort (blue)_custom_OMN198",
+			"oracle_id": "",
+			"name": "Thunderous Retort (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN198",
+			"rarity": "common",
+			"type": "Lightning, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Thunderous Retort (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN198.webp"
+			},
+			"is_custom": true
+		},
+		"Starlight Road (blue)_custom_OMN189": {
+			"id": "Starlight Road (blue)_custom_OMN189",
+			"oracle_id": "",
+			"name": "Starlight Road (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN189",
+			"rarity": "common",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Starlight Road (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN189.webp"
+			},
+			"is_custom": true
+		},
+		"Arcanic Cunning (yellow)_custom_OMN089": {
+			"id": "Arcanic Cunning (yellow)_custom_OMN089",
+			"oracle_id": "",
+			"name": "Arcanic Cunning (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN089",
+			"rarity": "rare",
+			"type": "Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Arcanic Cunning (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN089.webp"
+			},
+			"is_custom": true
+		},
+		"Scattering Conflux (red)_custom_OMN008": {
+			"id": "Scattering Conflux (red)_custom_OMN008",
+			"oracle_id": "",
+			"name": "Scattering Conflux (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN008",
+			"rarity": "rare",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Scattering Conflux (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN008.webp"
+			},
+			"is_custom": true
+		},
+		"Cosmic Flare (red)_custom_OMN187": {
+			"id": "Cosmic Flare (red)_custom_OMN187",
+			"oracle_id": "",
+			"name": "Cosmic Flare (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN187",
+			"rarity": "common",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Cosmic Flare (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN187.webp"
+			},
+			"is_custom": true
+		},
+		"Singeing Flowstride (blue)_custom_OMN073": {
+			"id": "Singeing Flowstride (blue)_custom_OMN073",
+			"oracle_id": "",
+			"name": "Singeing Flowstride (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN073",
+			"rarity": "common",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Singeing Flowstride (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN073.webp"
+			},
+			"is_custom": true
+		},
+		"Cosmic Suture (red)_custom_OMN127": {
+			"id": "Cosmic Suture (red)_custom_OMN127",
+			"oracle_id": "",
+			"name": "Cosmic Suture (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN127",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Cosmic Suture (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN127.webp"
+			},
+			"is_custom": true
+		},
+		"Thunderous Retort (yellow)_custom_OMN197": {
+			"id": "Thunderous Retort (yellow)_custom_OMN197",
+			"oracle_id": "",
+			"name": "Thunderous Retort (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN197",
+			"rarity": "common",
+			"type": "Lightning, Instant, Aura",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Thunderous Retort (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN197.webp"
+			},
+			"is_custom": true
+		},
+		"Gloves of Astral Sanctuary_custom_OMN211": {
+			"id": "Gloves of Astral Sanctuary_custom_OMN211",
+			"oracle_id": "",
+			"name": "Gloves of Astral Sanctuary",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN211",
+			"rarity": "common",
+			"type": "Generic, Equipment, Arms",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Gloves of Astral Sanctuary"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN211.webp"
+			},
+			"is_custom": true
+		},
+		"Dashing Flashfoot (yellow)_custom_OMN053": {
+			"id": "Dashing Flashfoot (yellow)_custom_OMN053",
+			"oracle_id": "",
+			"name": "Dashing Flashfoot (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN053",
+			"rarity": "rare",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Dashing Flashfoot (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN053.webp"
+			},
+			"is_custom": true
+		},
+		"Meteoric Impact (red)_custom_OMN118": {
+			"id": "Meteoric Impact (red)_custom_OMN118",
+			"oracle_id": "",
+			"name": "Meteoric Impact (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN118",
+			"rarity": "common",
+			"type": "Lightning, Wizard, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Meteoric Impact (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN118.webp"
+			},
+			"is_custom": true
+		},
+		"Stellar Glide (red)_custom_OMN175": {
+			"id": "Stellar Glide (red)_custom_OMN175",
+			"oracle_id": "",
+			"name": "Stellar Glide (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN175",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stellar Glide (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN175.webp"
+			},
+			"is_custom": true
+		},
+		"Clear Conscience (yellow)_custom_OMN042": {
+			"id": "Clear Conscience (yellow)_custom_OMN042",
+			"oracle_id": "",
+			"name": "Clear Conscience (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN042",
+			"rarity": "rare",
+			"type": "Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Clear Conscience (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN042.webp"
+			},
+			"is_custom": true
+		},
+		"Ominous Excavation (blue)_custom_OMN217": {
+			"id": "Ominous Excavation (blue)_custom_OMN217",
+			"oracle_id": "",
+			"name": "Ominous Excavation (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN217",
+			"rarity": "rare",
+			"type": "Generic, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Ominous Excavation (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN217.webp"
+			},
+			"is_custom": true
+		},
+		"Cosmic Duality (yellow)_custom_OMN016": {
+			"id": "Cosmic Duality (yellow)_custom_OMN016",
+			"oracle_id": "",
+			"name": "Cosmic Duality (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN016",
+			"rarity": "common",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Cosmic Duality (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN016.webp"
+			},
+			"is_custom": true
+		},
+		"Astral Bridge (red)_custom_OMN098": {
+			"id": "Astral Bridge (red)_custom_OMN098",
+			"oracle_id": "",
+			"name": "Astral Bridge (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN098",
+			"rarity": "mythic",
+			"type": "Lightning, Wizard, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Astral Bridge (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN098.webp"
+			},
+			"is_custom": true
+		},
+		"Calmveil of Volthaven (red)_custom_OMN184": {
+			"id": "Calmveil of Volthaven (red)_custom_OMN184",
+			"oracle_id": "",
+			"name": "Calmveil of Volthaven (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN184",
+			"rarity": "common",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Calmveil of Volthaven (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN184.webp"
+			},
+			"is_custom": true
+		},
+		"Seeker's Mitts_custom_OMN207": {
+			"id": "Seeker's Mitts_custom_OMN207",
+			"oracle_id": "",
+			"name": "Seeker's Mitts",
+			"mana_cost": "{0}",
+			"cmc": 0,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN207",
+			"rarity": "common",
+			"type": "Generic, Equipment, Arms",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Seeker's Mitts"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN207.webp"
+			},
+			"is_custom": true
+		},
+		"Leech Memory (red)_custom_OMN091": {
+			"id": "Leech Memory (red)_custom_OMN091",
+			"oracle_id": "",
+			"name": "Leech Memory (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN091",
+			"rarity": "rare",
+			"type": "Runeblade, Action",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Leech Memory (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN091.webp"
+			},
+			"is_custom": true
+		},
+		"Unwinding Finality (red)_custom_OMN004": {
+			"id": "Unwinding Finality (red)_custom_OMN004",
+			"oracle_id": "",
+			"name": "Unwinding Finality (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN004",
+			"rarity": "mythic",
+			"type": "Lightning, Illusionist, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Unwinding Finality (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN004.webp"
+			},
+			"is_custom": true
+		},
+		"Calmveil of Volthaven (blue)_custom_OMN186": {
+			"id": "Calmveil of Volthaven (blue)_custom_OMN186",
+			"oracle_id": "",
+			"name": "Calmveil of Volthaven (blue)",
+			"mana_cost": "{3}",
+			"cmc": 3,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN186",
+			"rarity": "common",
+			"type": "Lightning, Instant",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Calmveil of Volthaven (blue)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN186.webp"
+			},
+			"is_custom": true
+		},
+		"Glide Through Starlight (yellow)_custom_OMN170": {
+			"id": "Glide Through Starlight (yellow)_custom_OMN170",
+			"oracle_id": "",
+			"name": "Glide Through Starlight (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN170",
+			"rarity": "common",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Glide Through Starlight (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN170.webp"
+			},
+			"is_custom": true
+		},
+		"Stinging Sprite (yellow)_custom_OMN057": {
+			"id": "Stinging Sprite (yellow)_custom_OMN057",
+			"oracle_id": "",
+			"name": "Stinging Sprite (yellow)",
+			"mana_cost": "{2}",
+			"cmc": 2,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN057",
+			"rarity": "rare",
+			"type": "Lightning, Runeblade, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Stinging Sprite (yellow)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN057.webp"
+			},
+			"is_custom": true
+		},
+		"Meteoric Rise (red)_custom_OMN153": {
+			"id": "Meteoric Rise (red)_custom_OMN153",
+			"oracle_id": "",
+			"name": "Meteoric Rise (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN153",
+			"rarity": "rare",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Meteoric Rise (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN153.webp"
+			},
+			"is_custom": true
+		},
+		"Flowing Stormstrike (red)_custom_OMN152": {
+			"id": "Flowing Stormstrike (red)_custom_OMN152",
+			"oracle_id": "",
+			"name": "Flowing Stormstrike (red)",
+			"mana_cost": "{1}",
+			"cmc": 1,
+			"colors": [],
+			"set": "custom",
+			"collector_number": "OMN152",
+			"rarity": "rare",
+			"type": "Lightning, Action, Attack",
+			"subtypes": [],
+			"rating": 0,
+			"in_booster": true,
+			"printed_names": {
+				"en": "Flowing Stormstrike (red)"
+			},
+			"image_uris": {
+				"en": "https://prod-content.fabrary.io/cards/OMN152.webp"
+			},
+			"is_custom": true
+		}
+	},
+	"delayed": false,
+	"personalLogs": true,
+	"teamDraft": false
+}

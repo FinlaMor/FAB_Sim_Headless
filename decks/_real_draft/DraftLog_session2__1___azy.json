@@ -1,0 +1,41 @@
+{
+ "hero": "oscilio_scion_of_the_third_age",
+ "equipment": [
+  "volzar_meteor_storm",
+  "seeker_s_hood",
+  "starflow_robes",
+  "snap_fingers"
+ ],
+ "deck": [
+  "electryn_joltstep_red",
+  "meteoric_rise_red",
+  "conflicting_thoughts_red",
+  "brush_off_red",
+  "beckoning_brilliance_red",
+  "beckoning_brilliance_red",
+  "stormshard_red",
+  "electryn_joltstep_red",
+  "leech_memory_red",
+  "livewire_press_red",
+  "stormshard_red",
+  "path_of_same_ends_red",
+  "singeing_flowstride_yellow",
+  "path_of_same_ends_yellow",
+  "quick_succession_yellow",
+  "electryn_joltstep_yellow",
+  "thunderous_retort_yellow",
+  "voltbound_duality_yellow",
+  "stellar_glide_yellow",
+  "dashing_flashfoot_yellow",
+  "path_of_same_ends_blue",
+  "spellbane_sigil_blue",
+  "rush_of_power_blue",
+  "flittering_spike_blue",
+  "electryn_joltstep_blue",
+  "rush_of_power_blue",
+  "singeing_flowstride_blue",
+  "leech_vitality_red",
+  "voltbound_duality_red",
+  "electryn_joltstep_red"
+ ]
+}

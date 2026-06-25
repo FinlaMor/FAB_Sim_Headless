@@ -1,0 +1,238 @@
+
+> crimson-haze@0.1.0 dev
+> vite
+
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m495[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Browserslist: browsers data (caniuse-lite) is 8 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+    ╷
+208 │ @import '@picocss/pico/scss/pico';
+    │         ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ╵
+    src\index.scss 208:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+7 │ @import "variables";
+  │         ^^^^^^^^^^^
+  ╵
+    node_modules\@picocss\pico\scss\pico.scss 7:9  @import
+    src\index.scss 208:9                           root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+10 │ @import "themes/default";
+   │         ^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\pico.scss 10:9  @import
+    src\index.scss 208:9                            root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+13 │ @import "layout/document"; // html
+   │         ^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\pico.scss 13:9  @import
+    src\index.scss 208:9                            root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │ @import "layout/sectioning"; // body, header, main, footer
+   │         ^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\pico.scss 14:9  @import
+    src\index.scss 208:9                            root stylesheet
+
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+13 │     @if map-get($breakpoints, "sm") {
+   │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\themes\default\_styles.scss 13:9  @import
+    node_modules\@picocss\pico\scss\themes\default.scss 10:9          @import
+    node_modules\@picocss\pico\scss\pico.scss 10:9                    @import
+    src\index.scss 208:9                                              root stylesheet
+
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+14 │       @media (min-width: map-get($breakpoints, "sm")) {
+   │                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\themes\default\_styles.scss 14:26  @import
+    node_modules\@picocss\pico\scss\themes\default.scss 10:9           @import
+    node_modules\@picocss\pico\scss\pico.scss 10:9                     @import
+    src\index.scss 208:9                                               root stylesheet
+
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+19 │     @if map-get($breakpoints, "md") {
+   │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\themes\default\_styles.scss 19:9  @import
+    node_modules\@picocss\pico\scss\themes\default.scss 10:9          @import
+    node_modules\@picocss\pico\scss\pico.scss 10:9                    @import
+    src\index.scss 208:9                                              root stylesheet
+
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+20 │       @media (min-width: map-get($breakpoints, "md")) {
+   │                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\themes\default\_styles.scss 20:26  @import
+    node_modules\@picocss\pico\scss\themes\default.scss 10:9           @import
+    node_modules\@picocss\pico\scss\pico.scss 10:9                     @import
+    src\index.scss 208:9                                               root stylesheet
+
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use map.get instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+25 │     @if map-get($breakpoints, "lg") {
+   │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\themes\default\_styles.scss 25:9  @import
+    node_modules\@picocss\pico\scss\themes\default.scss 10:9          @import
+    node_modules\@picocss\pico\scss\pico.scss 10:9                    @import
+    src\index.scss 208:9                                              root stylesheet
+
+DEPRECATION WARNING [color-functions]: red() is deprecated. Suggestion:
+
+color.channel($color, "red", $space: rgb)
+
+More info: https://sass-lang.com/d/color-functions
+
+  ╷
+3 │   @return unquote("rgb(#{red($color)}, #{green($color)}, #{blue($color)})");
+  │                          ^^^^^^^^^^^
+  ╵
+    node_modules\@picocss\pico\scss\_functions.scss 3:26                to-rgb()
+    node_modules\@picocss\pico\scss\themes\default\_light.scss 145:151  @import
+    node_modules\@picocss\pico\scss\themes\default.scss 14:9            @import
+    node_modules\@picocss\pico\scss\pico.scss 10:9                      @import
+    src\index.scss 208:9                                                root stylesheet
+
+DEPRECATION WARNING [color-functions]: green() is deprecated. Suggestion:
+
+color.channel($color, "green", $space: rgb)
+
+More info: https://sass-lang.com/d/color-functions
+
+  ╷
+3 │   @return unquote("rgb(#{red($color)}, #{green($color)}, #{blue($color)})");
+  │                                          ^^^^^^^^^^^^^
+  ╵
+    node_modules\@picocss\pico\scss\_functions.scss 3:42                to-rgb()
+    node_modules\@picocss\pico\scss\themes\default\_light.scss 145:151  @import
+    node_modules\@picocss\pico\scss\themes\default.scss 14:9            @import
+    node_modules\@picocss\pico\scss\pico.scss 10:9                      @import
+    src\index.scss 208:9                                                root stylesheet
+
+DEPRECATION WARNING [color-functions]: blue() is deprecated. Suggestion:
+
+color.channel($color, "blue", $space: rgb)
+
+More info: https://sass-lang.com/d/color-functions
+
+  ╷
+3 │   @return unquote("rgb(#{red($color)}, #{green($color)}, #{blue($color)})");
+  │                                                            ^^^^^^^^^^^^
+  ╵
+    node_modules\@picocss\pico\scss\_functions.scss 3:60                to-rgb()
+    node_modules\@picocss\pico\scss\themes\default\_light.scss 145:151  @import
+    node_modules\@picocss\pico\scss\themes\default.scss 14:9            @import
+    node_modules\@picocss\pico\scss\pico.scss 10:9                      @import
+    src\index.scss 208:9                                                root stylesheet
+
+DEPRECATION WARNING [if-function]: The Sass if() syntax is deprecated in favor of the modern CSS syntax.
+
+Suggestion: if(sass($enable-classes): ".close"; else: "a[rel='prev']")
+
+More info: https://sass-lang.com/d/if-function
+
+   ╷
+31 │     $close-selector: if($enable-classes, ".close", "a[rel='prev']");
+   │                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    node_modules\@picocss\pico\scss\components\_modal.scss 31:22  @import
+    node_modules\@picocss\pico\scss\pico.scss 34:9                @import
+    src\index.scss 208:9                                          root stylesheet
+
+WARNING: 105 repetitive deprecation warnings omitted.
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+

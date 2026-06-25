@@ -1,0 +1,40 @@
+{
+  "hero": "zyggy",
+  "equipment": [
+    "aphrodias",
+    "seeker_s_mitts",
+    "laced_lightning"
+  ],
+  "deck": [
+    "shattering_flowtide_red",
+    "polarus_pulse_ray_red",
+    "flittering_forcefield_red",
+    "auric_shards_red",
+    "stormshard_red",
+    "livewire_press_red",
+    "calmveil_of_volthaven_red",
+    "pulsing_cardia_red",
+    "cosmic_duality_red",
+    "fraying_lifeforce_red",
+    "electrolyze_red",
+    "cosmic_duality_yellow",
+    "auric_shards_yellow",
+    "ebbing_arcstride_yellow",
+    "conflicting_thoughts_yellow",
+    "ebbing_arcstride_yellow",
+    "elliptical_conflux_yellow",
+    "circular_flowtide_yellow",
+    "ebbing_arcstride_yellow",
+    "circular_flowtide_yellow",
+    "shattering_flowtide_blue",
+    "auric_shards_blue",
+    "fleeing_starbreeze_blue",
+    "chromatic_refinement_blue",
+    "thunderous_retort_blue",
+    "ebbing_arcstride_blue",
+    "auric_shards_blue",
+    "auric_shards_blue",
+    "stellar_glide_blue",
+    "calmveil_of_volthaven_blue"
+  ]
+}

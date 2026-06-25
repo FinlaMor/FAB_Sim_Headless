@@ -1,0 +1,39 @@
+{
+  "hero": "oscilio_scion_of_the_third_age",
+  "equipment": [
+    "volzar_meteor_storm",
+    "seeker_s_gilet"
+  ],
+  "deck": [
+    "step_between_red",
+    "path_of_same_ends_red",
+    "astral_assault_red",
+    "volatile_fluxor_red",
+    "astral_assault_red",
+    "arcanic_cunning_yellow",
+    "stunning_swipe_yellow",
+    "path_of_same_ends_yellow",
+    "flittering_forcefield_yellow",
+    "flittering_spike_yellow",
+    "chromatic_refinement_blue",
+    "volatile_fluxor_blue",
+    "spellbane_sigil_blue",
+    "sigil_of_lightning_blue",
+    "voltbound_duality_blue",
+    "chromatic_refinement_blue",
+    "rush_of_power_blue",
+    "singeing_flowstride_blue",
+    "rift_breaker_blue",
+    "electrolyze_blue",
+    "arcanic_reproach_blue",
+    "brush_off_blue",
+    "electryn_joltstep_blue",
+    "stormwhirl_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

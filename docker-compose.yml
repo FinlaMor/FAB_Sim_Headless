@@ -1,0 +1,24 @@
+# Bring up a single adapter worker on port 8000.
+# Scale to N workers with:  docker compose up --scale adapter=N
+#
+# Per project memory: cap at 32 workers on this machine (RAM/MySQL limit).
+version: "3.9"
+
+services:
+  adapter:
+    build:
+      context: .
+      dockerfile: adapter/Dockerfile
+    image: fab-sim-headless-adapter:dev
+    environment:
+      ADAPTER_MODE: ${ADAPTER_MODE:-stub}   # "stub" or "real"
+      ADAPTER_DEBUG: ${ADAPTER_DEBUG:-0}
+    volumes:
+      - ./adapter:/srv/adapter:ro
+      - ./talishar:/srv/talishar:rw         # writable so Games/{id}/ can be created
+      - ./decks:/srv/decks:ro
+      - ./datasets:/srv/datasets:rw
+    working_dir: /srv
+    ports:
+      - "${ADAPTER_PORT:-8000}:8000"
+    restart: unless-stopped

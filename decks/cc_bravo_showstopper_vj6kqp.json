@@ -1,0 +1,397 @@
+{
+  "hero": "bravo_showstopper",
+  "comment": "Imported from fabrary: 'YouTube Boast Bravo' [Classic Constructed] deckId=01HQ17TJAC3MBP04KF56VJ6KQP",
+  "equipment": [
+    "balance_of_justice",
+    "civic_steps",
+    "fyendals_spring_tunic",
+    "gauntlets_of_iron_will",
+    "millers_grindstone",
+    "stonewall_impasse"
+  ],
+  "deck": [
+    "boast_blue",
+    "boast_blue",
+    "boast_blue",
+    "buckling_blow_blue",
+    "buckling_blow_blue",
+    "buckling_blow_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "chokeslam_red",
+    "chokeslam_red",
+    "chokeslam_red",
+    "clash_of_vigor_blue",
+    "clash_of_vigor_blue",
+    "clash_of_vigor_blue",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "crippling_crush_red",
+    "crippling_crush_red",
+    "crippling_crush_red",
+    "debilitate_blue",
+    "debilitate_blue",
+    "debilitate_blue",
+    "debilitate_red",
+    "debilitate_red",
+    "debilitate_red",
+    "disable_blue",
+    "disable_blue",
+    "disable_blue",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "star_struck_yellow",
+    "star_struck_yellow",
+    "star_struck_yellow",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "test_of_vigor_red",
+    "test_of_vigor_red",
+    "test_of_vigor_red",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunk_blue",
+    "thunk_blue",
+    "thunk_blue"
+  ],
+  "sideboard": [
+    "pummel_red",
+    "pummel_red",
+    "pummel_red",
+    "unmovable_red",
+    "unmovable_red",
+    "unmovable_red",
+    "zealous_belting_red",
+    "zealous_belting_red",
+    "zealous_belting_red"
+  ],
+  "sideboard_equipment": [
+    "arcane_lantern",
+    "crown_of_providence",
+    "nullrune_boots",
+    "nullrune_gloves",
+    "sledge_of_anvilheim"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 60,
+  "matchups": [
+    {
+      "matchupId": "01HQ17TJNG4EB82VMX6JB5DZCZ",
+      "heroes": [],
+      "name": "Dromai"
+    },
+    {
+      "matchupId": "01HQ17TJTM7JT775X021QB139D",
+      "heroes": [],
+      "name": "Dash IE"
+    },
+    {
+      "matchupId": "01HQ17TK61B817D9W2PYRZEEA0",
+      "heroes": [],
+      "name": "Azalea"
+    },
+    {
+      "matchupId": "01HQ17TKHKZ9FMBK4A4N5JDSQE",
+      "heroes": [],
+      "name": "Bravo"
+    },
+    {
+      "matchupId": "01HQ17TKX01N87NZPT1PBRXCBK",
+      "heroes": [],
+      "name": "Uzuri"
+    },
+    {
+      "matchupId": "01HQ17TMBHXXG8P0GK4WKMCYC2",
+      "heroes": [],
+      "name": "Dorinthea"
+    },
+    {
+      "matchupId": "01HQ17TMGHQTHZNPQPXYFJG5W5",
+      "heroes": [],
+      "name": "Levia"
+    },
+    {
+      "matchupId": "01HQ17TMYS0H0E7GJATFP9DQ6C",
+      "heroes": [],
+      "name": "Viserai"
+    },
+    {
+      "matchupId": "01HQ17TNCZ0ACCQQWDXQQ65V36",
+      "heroes": [],
+      "name": "Fai"
+    },
+    {
+      "matchupId": "01HQ17TNJ4KJSXZB9Q67V0D88N",
+      "heroes": [],
+      "name": "Katsu"
+    },
+    {
+      "matchupId": "01HQ17TNQ0WFVZFE6Y4PM9J1R3",
+      "heroes": [],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01HQ17TNWCGFZ661VKJ1ZP9DXN",
+      "heroes": [],
+      "name": "Boltyn"
+    },
+    {
+      "matchupId": "01HQ17TP1SDXAXW34HAA82T6MF",
+      "heroes": [],
+      "name": "Arakni"
+    },
+    {
+      "matchupId": "01HQ17TP75M1E0T3ABJX856YZN",
+      "heroes": [],
+      "name": "Riptide"
+    },
+    {
+      "matchupId": "01HQ17TPCKTT6Q72HNW0J2EM81",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01HQ17TPHSMEJT3YDWSC21NKD8",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01HQ17TPPZFXT4RP4HTECQD0V2",
+      "heroes": [],
+      "name": "Kano"
+    },
+    {
+      "matchupId": "01HQ17TPVV97ZM4HCESBXRRBRR",
+      "heroes": [],
+      "name": "DIO"
+    },
+    {
+      "matchupId": "01HQ17TQ0Z7Z6C426RXEQGPXW1",
+      "heroes": [],
+      "name": "Maxx"
+    },
+    {
+      "matchupId": "01HQ17TQ60EWSXYQ5Q564EH054",
+      "heroes": [],
+      "name": "Teklovossen"
+    },
+    {
+      "matchupId": "01HQ17TQB9PA13GC4H2CC1D9MH",
+      "heroes": [],
+      "name": "Kayo"
+    },
+    {
+      "matchupId": "01HQ17TQGKX127E1SK33WFC8SP",
+      "heroes": [],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01HQ17TQNS58X88BH756CSXMV9",
+      "heroes": [],
+      "name": "Kassai"
+    }
+  ],
+  "matchup_quantities": {
+    "01HQ17TJNG4EB82VMX6JB5DZCZ": {
+      "arcane_lantern": 1,
+      "boast_blue": 0,
+      "civic_steps": 1,
+      "nullrune_boots": 0,
+      "pummel_red": 3,
+      "stonewall_impasse": 0,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TPPZFXT4RP4HTECQD0V2": {
+      "arcane_lantern": 1,
+      "chokeslam_red": 3,
+      "civic_steps": 0,
+      "gauntlets_of_iron_will": 0,
+      "nullrune_boots": 1,
+      "nullrune_gloves": 1,
+      "pummel_red": 3,
+      "spinal_crush_red": 0,
+      "stonewall_impasse": 0,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TP1SDXAXW34HAA82T6MF": {
+      "balance_of_justice": 0,
+      "crown_of_providence": 1,
+      "millers_grindstone": 0,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "stonewall_impasse": 0,
+      "unmovable_red": 3,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TK61B817D9W2PYRZEEA0": {
+      "balance_of_justice": 0,
+      "crippling_crush_red": 3,
+      "crown_of_providence": 1,
+      "debilitate_red": 0,
+      "enlightened_strike_red": 0,
+      "pummel_red": 3,
+      "unmovable_red": 3
+    },
+    "01HQ17TNWCGFZ661VKJ1ZP9DXN": {
+      "balance_of_justice": 0,
+      "crown_of_providence": 1,
+      "enlightened_strike_red": 0,
+      "pummel_red": 3,
+      "zealous_belting_red": 0
+    },
+    "01HQ17TKHKZ9FMBK4A4N5JDSQE": {
+      "balance_of_justice": 0,
+      "chokeslam_red": 0,
+      "command_and_conquer_red": 3,
+      "crown_of_providence": 1,
+      "debilitate_red": 0,
+      "millers_grindstone": 0,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "spinal_crush_red": 0,
+      "stonewall_impasse": 0,
+      "unmovable_red": 3,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TJTM7JT775X021QB139D": {
+      "balance_of_justice": 0,
+      "chokeslam_red": 0,
+      "crown_of_providence": 1,
+      "millers_grindstone": 0,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "stonewall_impasse": 0,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TMBHXXG8P0GK4WKMCYC2": {
+      "balance_of_justice": 0,
+      "chokeslam_red": 0,
+      "crown_of_providence": 1,
+      "debilitate_red": 3,
+      "enlightened_strike_red": 0,
+      "millers_grindstone": 0,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "stonewall_impasse": 0,
+      "unmovable_red": 3,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TQ0Z7Z6C426RXEQGPXW1": {
+      "balance_of_justice": 0,
+      "chokeslam_red": 0,
+      "crown_of_providence": 1,
+      "debilitate_red": 3,
+      "millers_grindstone": 0,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "spinal_crush_red": 3,
+      "stonewall_impasse": 0,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TP75M1E0T3ABJX856YZN": {
+      "balance_of_justice": 0,
+      "crown_of_providence": 1,
+      "pummel_red": 3,
+      "test_of_vigor_red": 0,
+      "thunder_quake_blue": 3,
+      "zealous_belting_red": 0
+    },
+    "01HQ17TQ60EWSXYQ5Q564EH054": {
+      "balance_of_justice": 0,
+      "chokeslam_red": 0,
+      "crown_of_providence": 1,
+      "millers_grindstone": 0,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "stonewall_impasse": 0,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TKX01N87NZPT1PBRXCBK": {
+      "balance_of_justice": 0,
+      "crown_of_providence": 1,
+      "zealous_belting_red": 0
+    },
+    "01HQ17TMYS0H0E7GJATFP9DQ6C": {
+      "balance_of_justice": 0,
+      "chokeslam_red": 0,
+      "civic_steps": 0,
+      "crown_of_providence": 1,
+      "millers_grindstone": 0,
+      "nullrune_boots": 1,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "stonewall_impasse": 0,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TPHSMEJT3YDWSC21NKD8": {
+      "balance_of_justice": 0,
+      "civic_steps": 0,
+      "command_and_conquer_red": 3,
+      "crown_of_providence": 1,
+      "nullrune_boots": 1
+    },
+    "01HQ17TQGKX127E1SK33WFC8SP": {
+      "balance_of_justice": 0,
+      "chokeslam_red": 0,
+      "crown_of_providence": 1,
+      "millers_grindstone": 0,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "spinal_crush_red": 3,
+      "stonewall_impasse": 0,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TPCKTT6Q72HNW0J2EM81": {
+      "boast_blue": 0,
+      "civic_steps": 0,
+      "millers_grindstone": 0,
+      "nullrune_boots": 1,
+      "pummel_red": 3,
+      "sledge_of_anvilheim": 1,
+      "stonewall_impasse": 0,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01HQ17TNQ0WFVZFE6Y4PM9J1R3": {
+      "chokeslam_red": 3,
+      "pummel_red": 3,
+      "test_of_vigor_red": 0,
+      "zealous_belting_red": 0
+    },
+    "01HQ17TQNS58X88BH756CSXMV9": {
+      "chokeslam_red": 0,
+      "pummel_red": 3
+    },
+    "01HQ17TMGHQTHZNPQPXYFJG5W5": {
+      "command_and_conquer_red": 0,
+      "pummel_red": 3,
+      "spinal_crush_red": 0,
+      "unmovable_red": 3,
+      "zealous_belting_red": 0
+    }
+  }
+}

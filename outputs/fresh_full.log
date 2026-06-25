@@ -1,0 +1,75 @@
+
+############ ITERATION 0 ############
+  parallel workers: 4 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003']
+  [t_c00060001_ae90c6_pod000] A vs B: 6-2 (draws=2, games=10) -> A
+  [t_c00060001_ae90c6_pod000] A vs E: 8-1 (draws=1, games=10) -> A
+  [t_c00060001_ae90c6_pod000] A vs C: 5-3 (draws=2, games=10) -> A
+  [t_c00060001_ae90c6_pod000] A vs F: 4-5 (draws=1, games=10) -> F
+  [t_c00060001_ae90c6_pod000] A vs H: 8-1 (draws=1, games=10) -> A
+  [t_c00060001_ae90c6_pod000] A vs G: 5-3 (draws=2, games=10) -> A
+  [t_c00060001_ae90c6_pod000] B vs D: 7-3 (draws=0, games=10) -> B
+  [t_c00060001_ae90c6_pod000] B vs F: 1-9 (draws=0, games=10) -> F
+  [t_c00060001_ae90c6_pod000] B vs E: 1-2 (draws=7, games=10) -> E
+  [t_c00060001_ae90c6_pod000] B vs C: 2-7 (draws=1, games=10) -> C
+  [t_c00060001_ae90c6_pod000] B vs G: 3-7 (draws=0, games=10) -> G
+  [t_c00060001_ae90c6_pod000] C vs E: 7-1 (draws=2, games=10) -> C
+  [t_c00060001_ae90c6_pod000] C vs D: 6-3 (draws=1, games=10) -> C
+  [t_c00060001_ae90c6_pod000] C vs F: 3-5 (draws=2, games=10) -> F
+  [t_c00060001_ae90c6_pod000] C vs G: 3-6 (draws=1, games=10) -> G
+  [t_c00060001_ae90c6_pod000] C vs H: 5-4 (draws=1, games=10) -> C
+  [t_c00060001_ae90c6_pod000] D vs E: 2-6 (draws=2, games=10) -> E
+  [t_c00060001_ae90c6_pod000] B vs H: 5-7 (draws=0, games=12) -> H [win-by-2]
+  [t_c00060001_ae90c6_pod000] D vs F: 3-5 (draws=2, games=10) -> F
+  [t_c00060001_ae90c6_pod000] E vs F: 2-7 (draws=1, games=10) -> F
+  [t_c00060001_ae90c6_pod000] E vs H: 3-6 (draws=1, games=10) -> H
+  [t_c00060001_ae90c6_pod000] E vs G: 7-5 (draws=0, games=12) -> E [win-by-2]
+  [t_c00060001_ae90c6_pod000] D vs G: 0-10 (draws=0, games=10) -> G
+  [t_c00060001_ae90c6_pod000] F vs G: 7-1 (draws=2, games=10) -> F
+  [t_c00060001_ae90c6_pod000] F vs H: 3-2 (draws=5, games=10) -> F
+  [t_c00060001_ae90c6_pod000] D vs H: 2-4 (draws=4, games=10) -> H
+  [t_c00060001_ae90c6_pod000] G vs H: 9-1 (draws=0, games=10) -> G
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\examples\self_play_loop.py", line 166, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\examples\self_play_loop.py", line 157, in main
+    run_one_cycle(args, it, cube, gp_ckpt, dr_ckpt)
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\examples\self_play_loop.py", line 69, in run_one_cycle
+    result = LimitedPipeline(cfg).run_cycle()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\pipeline.py", line 331, in run_cycle
+    tour = runner.run()
+           ^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\parallel_round_robin.py", line 85, in run
+    pair, matches = fut.result()
+                    ^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\parallel_round_robin.py", line 76, in work
+    return self._play_pair(env, pa, pb)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\parallel_round_robin.py", line 147, in _play_pair
+    play_game(g)
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\parallel_round_robin.py", line 134, in play_game
+    m = run_match(
+        ^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\match.py", line 146, in run_match
+    result = env.step(decision.action_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\gameplay\env.py", line 168, in step
+    resp = self._post("/step", {"game_id": self.game_id, "action_id": int(action_id)})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\gameplay\env.py", line 232, in _post
+    return self._parse(r, url, body)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\gameplay\env.py", line 248, in _parse
+    raise RuntimeError(
+RuntimeError: http://localhost:8002/step returned 409: {'error': 'action_id 3 is not in the current legal action set', 'legal_action_ids': [1]} (payload={'game_id': '1900930954468641860', 'action_id': 3})

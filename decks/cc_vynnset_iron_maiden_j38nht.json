@@ -1,0 +1,155 @@
+{
+  "hero": "vynnset_iron_maiden",
+  "comment": "Imported from fabrary: \"Runaway's Pummel Vynnset\" [Classic Constructed] deckId=01H5SXY5M0G5SHHVZQHXJ38NHT",
+  "equipment": [
+    "crown_of_providence",
+    "dyadic_carapace",
+    "flail_of_agony",
+    "scepter_of_pain",
+    "spellbound_creepers",
+    "vexing_quillhand"
+  ],
+  "deck": [
+    "deathly_delight_red",
+    "deathly_delight_red",
+    "deathly_wail_blue",
+    "deathly_wail_blue",
+    "deathly_wail_blue",
+    "deathly_wail_red",
+    "deathly_wail_red",
+    "deathly_wail_red",
+    "deathly_wail_yellow",
+    "deathly_wail_yellow",
+    "deathly_wail_yellow",
+    "dread_triptych_blue",
+    "dread_triptych_blue",
+    "dread_triptych_blue",
+    "envelop_in_darkness_blue",
+    "envelop_in_darkness_blue",
+    "envelop_in_darkness_blue",
+    "envelop_in_darkness_red",
+    "envelop_in_darkness_red",
+    "envelop_in_darkness_red",
+    "envelop_in_darkness_yellow",
+    "envelop_in_darkness_yellow",
+    "mauvrion_skies_blue",
+    "mauvrion_skies_blue",
+    "mauvrion_skies_red",
+    "mauvrion_skies_red",
+    "mauvrion_skies_red",
+    "mauvrion_skies_yellow",
+    "mauvrion_skies_yellow",
+    "oath_of_the_arknight_blue",
+    "oath_of_the_arknight_blue",
+    "oath_of_the_arknight_blue",
+    "pummel_red",
+    "pummel_red",
+    "pummel_red",
+    "pummel_yellow",
+    "pummel_yellow",
+    "reduce_to_runechant_red",
+    "reduce_to_runechant_red",
+    "reduce_to_runechant_red",
+    "runeblood_incantation_red",
+    "runeblood_incantation_red",
+    "runeblood_incantation_red",
+    "shadow_puppetry_red",
+    "shadow_puppetry_red",
+    "shadow_puppetry_red",
+    "vantom_wraith_blue",
+    "vantom_wraith_blue",
+    "vantom_wraith_red",
+    "vantom_wraith_red",
+    "vantom_wraith_red",
+    "widespread_annihilation_blue",
+    "widespread_annihilation_blue",
+    "widespread_annihilation_blue",
+    "widespread_destruction_yellow",
+    "widespread_destruction_yellow",
+    "widespread_destruction_yellow",
+    "widespread_ruin_red",
+    "widespread_ruin_red",
+    "widespread_ruin_red"
+  ],
+  "sideboard": [
+    "down_and_dirty_red",
+    "down_and_dirty_red",
+    "down_and_dirty_red",
+    "envelop_in_darkness_yellow",
+    "mauvrion_skies_blue",
+    "mauvrion_skies_yellow",
+    "oblivion_blue",
+    "pummel_blue",
+    "pummel_blue",
+    "read_the_runes_red",
+    "runeblood_incantation_yellow"
+  ],
+  "sideboard_equipment": [
+    "carrion_husk",
+    "ebon_fold",
+    "grimoire_of_the_haunt"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 60,
+  "matchups": [
+    {
+      "matchupId": "01H66TBFC67JDB1QDCA33PWJ9M",
+      "heroes": [],
+      "name": "Wizards"
+    },
+    {
+      "matchupId": "01H66TGT77TBXTAS8Y303DW17M",
+      "heroes": [],
+      "name": "Runeblades"
+    },
+    {
+      "matchupId": "01H66THTY1V3DEVZ9XBNF31MK0",
+      "heroes": [],
+      "name": "Dromai"
+    },
+    {
+      "matchupId": "01H66TN9AK6W1BGDBCAQ62XB8X",
+      "heroes": [],
+      "name": "Slow/Long Matchups"
+    },
+    {
+      "matchupId": "01H66TQ8FQJ5HAXP9ERDFEK1DR",
+      "heroes": [],
+      "name": "Default"
+    }
+  ],
+  "matchup_quantities": {
+    "01H66TBFC67JDB1QDCA33PWJ9M": {
+      "crown_of_providence": 0,
+      "deathly_delight_red": 1,
+      "ebon_fold": 1,
+      "grimoire_of_the_haunt": 1,
+      "mauvrion_skies_blue": 3,
+      "oblivion_blue": 1,
+      "pummel_blue": 2,
+      "read_the_runes_red": 0,
+      "reduce_to_runechant_red": 0,
+      "scepter_of_pain": 0
+    },
+    "01H66THTY1V3DEVZ9XBNF31MK0": {
+      "down_and_dirty_red": 3,
+      "envelop_in_darkness_blue": 3,
+      "envelop_in_darkness_yellow": 0,
+      "mauvrion_skies_blue": 3,
+      "mauvrion_skies_yellow": 3,
+      "reduce_to_runechant_red": 0
+    },
+    "01H66TN9AK6W1BGDBCAQ62XB8X": {
+      "envelop_in_darkness_yellow": 3,
+      "mauvrion_skies_blue": 3,
+      "mauvrion_skies_yellow": 3,
+      "oblivion_blue": 1,
+      "read_the_runes_red": 1,
+      "runeblood_incantation_yellow": 1
+    },
+    "01H66TGT77TBXTAS8Y303DW17M": {
+      "grimoire_of_the_haunt": 1,
+      "scepter_of_pain": 0
+    }
+  }
+}

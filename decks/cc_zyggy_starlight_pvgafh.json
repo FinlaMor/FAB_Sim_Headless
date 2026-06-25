@@ -1,0 +1,134 @@
+{
+  "hero": "zyggy_starlight",
+  "comment": "Imported from fabrary: '[play it like a guardian] Guardian with go again' [Classic Constructed] deckId=01KTPB2JXVYQQW05WJJRPVGAFH",
+  "equipment": [
+    "calming_gesture",
+    "flash_of_brilliance",
+    "fyendals_spring_tunic",
+    "quickdodge_flexors",
+    "reality_refractor"
+  ],
+  "deck": [
+    "clear_conscience_blue",
+    "clear_conscience_blue",
+    "clear_conscience_blue",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "corrosive_space_dust_red",
+    "corrosive_space_dust_red",
+    "corrosive_space_dust_red",
+    "cosmic_duality_blue",
+    "cosmic_duality_blue",
+    "cosmic_duality_blue",
+    "cosmic_duality_yellow",
+    "dissolve_reality_yellow",
+    "dissolve_reality_yellow",
+    "elliptical_conflux_yellow",
+    "elliptical_conflux_yellow",
+    "elliptical_conflux_yellow",
+    "fleeing_starbreeze_blue",
+    "fleeing_starbreeze_blue",
+    "fleeing_starbreeze_blue",
+    "fractal_replication_red",
+    "fractal_replication_red",
+    "gone_in_a_flash_red",
+    "gone_in_a_flash_red",
+    "gone_in_a_flash_red",
+    "haze_bending_blue",
+    "looking_for_a_scrap_red",
+    "looking_for_a_scrap_red",
+    "looking_for_a_scrap_red",
+    "overcharge_blue",
+    "overcharge_blue",
+    "overcharge_blue",
+    "overcharge_red",
+    "overcharge_red",
+    "overcharge_red",
+    "overcrowded_blue",
+    "overcrowded_blue",
+    "overcrowded_blue",
+    "passing_mirage_blue",
+    "passing_mirage_blue",
+    "phantasmaclasm_red",
+    "phantasmaclasm_red",
+    "phantasmaclasm_red",
+    "pummel_red",
+    "sigil_of_conductivity_blue",
+    "sigil_of_conductivity_blue",
+    "sigil_of_conductivity_blue",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "stardust_spike_red",
+    "stardust_spike_red",
+    "stardust_spike_red",
+    "static_shelter_yellow",
+    "static_shelter_yellow",
+    "static_shelter_yellow",
+    "voltaris_blue"
+  ],
+  "sideboard": [
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "lunar_mirage_red",
+    "lunar_mirage_red",
+    "mind_meets_might_red",
+    "mind_meets_might_red",
+    "miraging_metamorph_red",
+    "remembrance_yellow",
+    "remembrance_yellow",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "unmovable_red",
+    "unmovable_red"
+  ],
+  "sideboard_equipment": [
+    "crown_of_providence",
+    "crown_of_reflection",
+    "lightning_greaves"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 58,
+  "matchups": [
+    {
+      "matchupId": "01KTQFSYN45NKAX9P7E6S3HFK8",
+      "heroes": [],
+      "name": "Slow deck"
+    },
+    {
+      "matchupId": "01KTQFW6T9X3RZAZ7CAN0SWPA4",
+      "heroes": [],
+      "name": "Guardian/Brute"
+    },
+    {
+      "matchupId": "01KTQFYA2F3BF6XP4FDK64AXYN",
+      "heroes": [],
+      "name": "AGGRO"
+    }
+  ],
+  "matchup_quantities": {
+    "01KTQFYA2F3BF6XP4FDK64AXYN": {
+      "haze_bending_blue": 1,
+      "passing_mirage_blue": 0
+    },
+    "01KTQFSYN45NKAX9P7E6S3HFK8": {
+      "lightning_greaves": 1,
+      "lunar_mirage_red": 2,
+      "quickdodge_flexors": 0,
+      "remembrance_yellow": 1,
+      "unmovable_red": 2
+    },
+    "01KTQFW6T9X3RZAZ7CAN0SWPA4": {
+      "lightning_greaves": 1,
+      "lunar_mirage_red": 2,
+      "mind_meets_might_red": 2,
+      "miraging_metamorph_red": 0,
+      "quickdodge_flexors": 0,
+      "remembrance_yellow": 1,
+      "shelter_from_the_storm_red": 2,
+      "unmovable_red": 2
+    }
+  }
+}

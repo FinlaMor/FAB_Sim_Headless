@@ -1,0 +1,39 @@
+{
+ "hero": "zyggy",
+ "equipment": [
+  "aphrodias",
+  "gloves_of_astral_sanctuary"
+ ],
+ "deck": [
+  "scattering_conflux_red",
+  "auric_shards_red",
+  "auric_shards_red",
+  "holo_shield_red",
+  "blink_of_an_eye_red",
+  "shattering_flowtide_red",
+  "ebbing_arcstride_red",
+  "pulsing_cardia_red",
+  "conflicting_thoughts_red",
+  "static_shelter_yellow",
+  "auric_shards_yellow",
+  "ominous_respite_yellow",
+  "erode_authority_yellow",
+  "pulsing_cardia_yellow",
+  "flittering_forcefield_yellow",
+  "starworld_warning_yellow",
+  "holo_shield_blue",
+  "brush_off_blue",
+  "pulsing_cardia_blue",
+  "holo_shield_blue",
+  "glide_through_starlight_blue",
+  "rift_breaker_blue",
+  "fleeing_starbreeze_blue",
+  "crackle_from_afar_blue",
+  "auric_shards_blue",
+  "brush_off_blue",
+  "crackle_from_afar_blue",
+  "cracked_bauble_yellow",
+  "cracked_bauble_yellow",
+  "cracked_bauble_yellow"
+ ]
+}

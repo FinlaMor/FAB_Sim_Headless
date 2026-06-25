@@ -1,0 +1,340 @@
+{
+  "hero": "hala_bladesaint_of_the_vow",
+  "comment": "Imported from fabrary: '\ud83c\udf87\ud83d\udde1\ufe0f girl just quit swordplay already \ud83d\udde1\ufe0f\ud83c\udf87' [Classic Constructed] deckId=01KPEE4EWM7Y4R7ZJEY76AX569",
+  "equipment": [
+    "crown_of_providence",
+    "fyendals_spring_tunic",
+    "ironsong_versus",
+    "valiant_dynamo",
+    "zenith_blade"
+  ],
+  "deck": [
+    "beckon_steel_blue",
+    "beckon_steel_blue",
+    "beckon_steel_blue",
+    "blade_flurry_red",
+    "blade_flurry_red",
+    "blade_flurry_red",
+    "brimming_blade_red",
+    "brimming_blade_red",
+    "brimming_blade_red",
+    "cut_n_carve_blue",
+    "cut_n_carve_blue",
+    "cut_n_carve_blue",
+    "deadly_display_red",
+    "deadly_display_red",
+    "deadly_display_red",
+    "display_of_craftsmanship_blue",
+    "display_of_craftsmanship_blue",
+    "display_of_craftsmanship_blue",
+    "edict_of_steel_blue",
+    "edict_of_steel_blue",
+    "edict_of_steel_blue",
+    "edict_of_steel_red",
+    "edict_of_steel_red",
+    "edict_of_steel_red",
+    "edict_of_steel_yellow",
+    "edict_of_steel_yellow",
+    "edict_of_steel_yellow",
+    "heart_of_fyendal_blue",
+    "indefensibly_honed_blue",
+    "indefensibly_honed_blue",
+    "indefensibly_honed_blue",
+    "nourishing_emptiness_red",
+    "oath_of_steel_red",
+    "oath_of_steel_red",
+    "oath_of_steel_red",
+    "provoke_blue",
+    "provoke_blue",
+    "provoke_blue",
+    "rend_flesh_blue",
+    "shuck_blue",
+    "shuck_blue",
+    "shuck_blue",
+    "swordmasters_path_blue",
+    "swordmasters_path_blue",
+    "swordmasters_path_blue",
+    "swordmasters_shine_red",
+    "swordmasters_shine_red",
+    "swordmasters_shine_red",
+    "toe_the_line_red",
+    "toe_the_line_red",
+    "toe_the_line_red"
+  ],
+  "sideboard": [
+    "blunten_yellow",
+    "blunten_yellow",
+    "commanding_performance_red",
+    "commanding_performance_red",
+    "commanding_performance_red",
+    "cut_n_carve_red",
+    "cut_n_carve_red",
+    "cut_n_carve_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "gravekeeping_red",
+    "gravekeeping_red",
+    "jagged_edge_red",
+    "jagged_edge_red",
+    "oasis_respite_red",
+    "oasis_respite_red",
+    "remembrance_yellow",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red"
+  ],
+  "sideboard_equipment": [
+    "arcanite_skullcap",
+    "kabuto_of_imperial_authority",
+    "nullrune_boots"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 51,
+  "matchups": [
+    {
+      "matchupId": "01KPHD4CMH1FC2KGPTS9WR9JEK",
+      "heroes": [],
+      "name": "Arakni, Slippy"
+    },
+    {
+      "matchupId": "01KPHD6736QBY64TRY9NQR3R1R",
+      "heroes": [],
+      "name": "Arakni, Marionette"
+    },
+    {
+      "matchupId": "01KPHD7DFDSCR2Y2JZB09XDRMW",
+      "heroes": [],
+      "name": "Non-Victor Guardians"
+    },
+    {
+      "matchupId": "01KPHD85PFT8EMEV6H8ABYKF9T",
+      "heroes": [],
+      "name": "Cindra/Fai"
+    },
+    {
+      "matchupId": "01KPHD9DZQWXGQSG8BEFZ5Y3KH",
+      "heroes": [],
+      "name": "Arakni, Huntsman"
+    },
+    {
+      "matchupId": "01KPHDAK7N3WFPT6GENZKXSZ0V",
+      "heroes": [],
+      "name": "Dash IO"
+    },
+    {
+      "matchupId": "01KPHDDC5H78B21Q2N0524PJ5W",
+      "heroes": [],
+      "name": "Warriors"
+    },
+    {
+      "matchupId": "01KPHDFZCAFX7T97ETW0HWJJZ5",
+      "heroes": [],
+      "name": "Teklovossen"
+    },
+    {
+      "matchupId": "01KPHDJFB6F29D629A9ZM2RPAC",
+      "heroes": [],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01KPHDM1V4PYSCQTY470F7KGEX",
+      "heroes": [],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01KPHDNQ5DTQVYPXQV0ZZFE1QE",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01KPHDQ7SKMY8AD5C972WH09W5",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01KPHDT5HW726HAAS6AAHG7592",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KPHJDF85BG22F0QHTFRVVHDY",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KPWJPAYQF39VHAGC1H1S7YM6",
+      "heroes": [],
+      "name": "Tuffnut"
+    },
+    {
+      "matchupId": "01KS94KFVHG72AX41R6W7H7Q0H",
+      "heroes": [
+        "marlynn_treasure_hunter"
+      ],
+      "name": "Marlynn"
+    },
+    {
+      "matchupId": "01KTDQKY9Z3296BT2VNGTSDC9A",
+      "heroes": [
+        "zyggy_starlight"
+      ],
+      "name": "Zyggy"
+    }
+  ],
+  "matchup_quantities": {
+    "01KPHDQ7SKMY8AD5C972WH09W5": {
+      "arcanite_skullcap": 1,
+      "commanding_performance_red": 3,
+      "crown_of_providence": 0,
+      "cut_n_carve_red": 3,
+      "fate_foreseen_red": 0,
+      "nullrune_boots": 1,
+      "oasis_respite_red": 2,
+      "remembrance_yellow": 0,
+      "sink_below_red": 1,
+      "valiant_dynamo": 0
+    },
+    "01KPHDNQ5DTQVYPXQV0ZZFE1QE": {
+      "arcanite_skullcap": 0,
+      "blade_flurry_red": 3,
+      "commanding_performance_red": 3,
+      "fate_foreseen_red": 3,
+      "gravekeeping_red": 0,
+      "nullrune_boots": 1,
+      "remembrance_yellow": 0,
+      "sink_below_red": 3,
+      "valiant_dynamo": 0
+    },
+    "01KS94KFVHG72AX41R6W7H7Q0H": {
+      "blade_flurry_red": 2,
+      "brimming_blade_red": 2,
+      "commanding_performance_red": 3,
+      "fate_foreseen_red": 3,
+      "oasis_respite_red": 2,
+      "sink_below_red": 3
+    },
+    "01KPHD4CMH1FC2KGPTS9WR9JEK": {
+      "blunten_yellow": 0,
+      "brimming_blade_red": 3,
+      "commanding_performance_red": 3,
+      "deadly_display_red": 3,
+      "fate_foreseen_red": 3,
+      "remembrance_yellow": 0,
+      "sink_below_red": 3
+    },
+    "01KPHD6736QBY64TRY9NQR3R1R": {
+      "blunten_yellow": 2,
+      "brimming_blade_red": 2,
+      "deadly_display_red": 3,
+      "fate_foreseen_red": 3,
+      "oasis_respite_red": 2,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    },
+    "01KPHD85PFT8EMEV6H8ABYKF9T": {
+      "blunten_yellow": 2,
+      "brimming_blade_red": 3,
+      "commanding_performance_red": 0,
+      "cut_n_carve_red": 3,
+      "deadly_display_red": 0,
+      "fate_foreseen_red": 3,
+      "gravekeeping_red": 2,
+      "heart_of_fyendal_blue": 0,
+      "oasis_respite_red": 2,
+      "sink_below_red": 3
+    },
+    "01KPHD9DZQWXGQSG8BEFZ5Y3KH": {
+      "blunten_yellow": 2,
+      "commanding_performance_red": 3,
+      "cut_n_carve_red": 3,
+      "fate_foreseen_red": 3,
+      "gravekeeping_red": 2,
+      "jagged_edge_red": 2,
+      "oasis_respite_red": 2,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    },
+    "01KPHDDC5H78B21Q2N0524PJ5W": {
+      "blunten_yellow": 2,
+      "crown_of_providence": 0,
+      "fate_foreseen_red": 3,
+      "kabuto_of_imperial_authority": 1,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    },
+    "01KPHDM1V4PYSCQTY470F7KGEX": {
+      "blunten_yellow": 2,
+      "brimming_blade_red": 0,
+      "commanding_performance_red": 3,
+      "cut_n_carve_red": 1,
+      "fate_foreseen_red": 3,
+      "sink_below_red": 3
+    },
+    "01KPHDFZCAFX7T97ETW0HWJJZ5": {
+      "blunten_yellow": 2,
+      "commanding_performance_red": 0,
+      "fate_foreseen_red": 3,
+      "gravekeeping_red": 2,
+      "oasis_respite_red": 2,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    },
+    "01KPHJDF85BG22F0QHTFRVVHDY": {
+      "brimming_blade_red": 3,
+      "cut_n_carve_red": 3,
+      "fate_foreseen_red": 3,
+      "gravekeeping_red": 2,
+      "oasis_respite_red": 2,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    },
+    "01KPHD7DFDSCR2Y2JZB09XDRMW": {
+      "commanding_performance_red": 3,
+      "fate_foreseen_red": 3,
+      "oasis_respite_red": 2,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    },
+    "01KPHDAK7N3WFPT6GENZKXSZ0V": {
+      "commanding_performance_red": 2,
+      "deadly_display_red": 3,
+      "fate_foreseen_red": 3,
+      "gravekeeping_red": 1,
+      "heart_of_fyendal_blue": 1,
+      "sink_below_red": 3
+    },
+    "01KPHDJFB6F29D629A9ZM2RPAC": {
+      "commanding_performance_red": 3,
+      "deadly_display_red": 0,
+      "fate_foreseen_red": 3,
+      "gravekeeping_red": 2,
+      "oasis_respite_red": 2,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    },
+    "01KPHDT5HW726HAAS6AAHG7592": {
+      "commanding_performance_red": 3,
+      "deadly_display_red": 0,
+      "fate_foreseen_red": 3,
+      "gravekeeping_red": 1,
+      "oasis_respite_red": 2,
+      "sink_below_red": 3
+    },
+    "01KPWJPAYQF39VHAGC1H1S7YM6": {
+      "crown_of_providence": 0,
+      "cut_n_carve_red": 3,
+      "fate_foreseen_red": 3,
+      "kabuto_of_imperial_authority": 1,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    },
+    "01KTDQKY9Z3296BT2VNGTSDC9A": {
+      "fate_foreseen_red": 3,
+      "jagged_edge_red": 2,
+      "oasis_respite_red": 2,
+      "remembrance_yellow": 1,
+      "sink_below_red": 3
+    }
+  }
+}

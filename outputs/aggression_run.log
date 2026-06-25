@@ -1,0 +1,88 @@
+[warm-start] using existing models: gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt
+
+############ ITERATION 0 ############
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5 explorer=aggressive)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\transformer.py:409: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\NestedTensorImpl.cpp:180.)
+  output = torch._nested_tensor_from_mask(output, src_key_padding_mask.logical_not(), mask_check=False)
+  [t_c00084000_da56d7_pod000] B vs C: 3-6 (draws=1, games=10) -> C
+  [t_c00084000_da56d7_pod000] A vs D: 6-3 (draws=1, games=10) -> A
+  [t_c00084000_da56d7_pod000] A vs B: 8-2 (draws=0, games=10) -> A
+  [pair FAILED] A vs E: ConnectionError: HTTPConnectionPool(host='localhost', port=8003): Max retries exceeded with url: /new_game (Caused by ReadTimeoutError("HTTPConnectionPool(host='localhost', port=8003): Read timed out. (read timeout=30.0)"))
+  [t_c00084000_da56d7_pod000] A vs C: 0-6 (draws=4, games=10) -> C
+  [pair FAILED] B vs G: ConnectionError: HTTPConnectionPool(host='localhost', port=8003): Max retries exceeded with url: /new_game (Caused by ReadTimeoutError("HTTPConnectionPool(host='localhost', port=8003): Read timed out. (read timeout=30.0)"))
+  [t_c00084000_da56d7_pod000] A vs G: 5-3 (draws=2, games=10) -> A
+  [t_c00084000_da56d7_pod000] A vs H: 6-2 (draws=2, games=10) -> A
+  [t_c00084000_da56d7_pod000] B vs E: 6-4 (draws=0, games=10) -> B
+  [t_c00084000_da56d7_pod000] B vs D: 7-5 (draws=2, games=14) -> B [win-by-2]
+  [t_c00084000_da56d7_pod000] C vs D: 6-3 (draws=1, games=10) -> C
+  [t_c00084000_da56d7_pod000] B vs H: 3-7 (draws=0, games=10) -> H
+  [t_c00084000_da56d7_pod000] A vs F: 7-6 (draws=3, games=16) -> A [win-by-2]
+  [t_c00084000_da56d7_pod000] C vs F: 7-2 (draws=1, games=10) -> C
+  [t_c00084000_da56d7_pod000] C vs H: 8-1 (draws=1, games=10) -> C
+  [t_c00084000_da56d7_pod000] C vs G: 5-3 (draws=2, games=10) -> C
+  [t_c00084000_da56d7_pod000] B vs F: 9-1 (draws=0, games=10) -> B
+  [t_c00084000_da56d7_pod000] D vs F: 6-4 (draws=0, games=10) -> D
+  [t_c00084000_da56d7_pod000] C vs E: 7-2 (draws=1, games=10) -> C
+  [t_c00084000_da56d7_pod000] D vs E: 9-1 (draws=0, games=10) -> D
+  [t_c00084000_da56d7_pod000] D vs G: 1-9 (draws=0, games=10) -> G
+  [t_c00084000_da56d7_pod000] D vs H: 3-6 (draws=1, games=10) -> H
+  [t_c00084000_da56d7_pod000] E vs G: 0-7 (draws=3, games=10) -> G
+  [t_c00084000_da56d7_pod000] G vs H: 4-2 (draws=4, games=10) -> G
+  [t_c00084000_da56d7_pod000] F vs G: 4-5 (draws=3, games=12) -> G [win-by-2]
+  [t_c00084000_da56d7_pod000] F vs H: 4-6 (draws=0, games=10) -> H
+  [t_c00084000_da56d7_pod000] E vs F: 7-3 (draws=0, games=10) -> E
+  [t_c00084000_da56d7_pod000] E vs H: 3-7 (draws=0, games=10) -> H
+Round-robin t_c00084000_da56d7_pod000 (seed=1841954988)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  C     c00084000_da56d7_pod000_zyggy_se      7-0-0     45-14-11
+   2  A     c00084000_da56d7_pod000_zyggy_se      5-1-0     32-22-12
+   3  G     c00084000_da56d7_pod000_aurora_e      4-2-0     31-17-14
+   4  H     c00084000_da56d7_pod000_aurora_e      4-3-0      31-31-8
+   5  B     c00084000_da56d7_pod000_oscilio_      3-3-0      30-31-3
+   6  D     c00084000_da56d7_pod000_oscilio_      2-5-0      30-39-5
+   7  E     c00084000_da56d7_pod000_aurora_e      1-5-0      17-39-4
+   8  F     c00084000_da56d7_pod000_aurora_e      0-7-0      24-47-7
+Round-robin t_c00084000_da56d7_pod000 (seed=1841954988)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  C     c00084000_da56d7_pod000_zyggy_se      7-0-0     45-14-11
+   2  A     c00084000_da56d7_pod000_zyggy_se      5-1-0     32-22-12
+   3  G     c00084000_da56d7_pod000_aurora_e      4-2-0     31-17-14
+   4  H     c00084000_da56d7_pod000_aurora_e      4-3-0      31-31-8
+   5  B     c00084000_da56d7_pod000_oscilio_      3-3-0      30-31-3
+   6  D     c00084000_da56d7_pod000_oscilio_      2-5-0      30-39-5
+   7  E     c00084000_da56d7_pod000_aurora_e      1-5-0      17-39-4
+   8  F     c00084000_da56d7_pod000_aurora_e      0-7-0      24-47-7
+  champion: c00084000_da56d7_pod000_zyggy_seat2
+
+--- training (window=all) after iter 0 ---
+[iql-gameplay] 86199 transitions | |vocab|=253 | shaped=True window=all
+[iql-gameplay] card attributes ON (dim=22)
+  step      0 loss=0.8904 (v=0.0010 q=0.0031 pi=0.8864)
+  step    400 loss=0.3551 (v=0.0000 q=0.0002 pi=0.3548)
+  step    800 loss=0.3533 (v=0.0001 q=0.0023 pi=0.3509)
+  step   1200 loss=0.2919 (v=0.0000 q=0.0001 pi=0.2918)
+  step   1600 loss=0.3304 (v=0.0001 q=0.0003 pi=0.3300)
+  step   2000 loss=0.2573 (v=0.0001 q=0.0002 pi=0.2570)
+  step   2400 loss=0.4696 (v=0.0000 q=0.0003 pi=0.4693)
+  step   2800 loss=0.2961 (v=0.0000 q=0.0002 pi=0.2959)
+  step   3200 loss=0.3483 (v=0.0000 q=0.0002 pi=0.3481)
+  step   3600 loss=0.3581 (v=0.0000 q=0.0002 pi=0.3579)
+  step   3999 loss=0.3091 (v=0.0000 q=0.0002 pi=0.3088)
+[iql-gameplay] saved -> outputs\models\_staging\iql_gameplay.pt (final loss 0.3091)
+[iql-draft] 1344 pick transitions | |vocab|=205 | attn(emb=48,heads=4,layers=2) | window=all
+[iql-draft] card attributes ON (dim=22)
+  step      0 loss=2.4706 (v=0.0788 q=0.2318 pi=2.1600)
+  step    300 loss=1.4405 (v=0.0016 q=0.0034 pi=1.4355)
+  step    600 loss=0.7234 (v=0.0015 q=0.0055 pi=0.7164)
+  step    900 loss=0.3854 (v=0.0013 q=0.0143 pi=0.3697)
+  step   1200 loss=0.0868 (v=0.0007 q=0.0179 pi=0.0682)
+  step   1500 loss=0.0278 (v=0.0009 q=0.0046 pi=0.0223)
+  step   1800 loss=0.0259 (v=0.0006 q=0.0076 pi=0.0176)
+  step   2100 loss=0.0460 (v=0.0011 q=0.0026 pi=0.0423)
+  step   2400 loss=0.0308 (v=0.0022 q=0.0053 pi=0.0233)
+  step   2700 loss=0.0585 (v=0.0016 q=0.0197 pi=0.0372)
+  step   2999 loss=0.0387 (v=0.0018 q=0.0052 pi=0.0317)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0387)
+iteration 0 done in 4274s; gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt

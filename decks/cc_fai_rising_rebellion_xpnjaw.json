@@ -1,0 +1,223 @@
+{
+  "hero": "fai_rising_rebellion",
+  "comment": "Imported from fabrary: '9-3 Calling Copenhaguen 2025 ' [Classic Constructed] deckId=01K19YNM3EFHB71Q24GGXPNJAW",
+  "equipment": [
+    "dragonscaler_flight_path",
+    "flamescale_furnace",
+    "fyendals_spring_tunic",
+    "mask_of_momentum",
+    "mask_of_the_pouncing_lynx",
+    "searing_emberblade",
+    "tide_flippers",
+    "tiger_stripe_shuko"
+  ],
+  "deck": [
+    "blaze_headlong_red",
+    "blaze_headlong_red",
+    "blaze_headlong_red",
+    "brand_with_cinderclaw_blue",
+    "brand_with_cinderclaw_blue",
+    "brand_with_cinderclaw_blue",
+    "brand_with_cinderclaw_red",
+    "brand_with_cinderclaw_red",
+    "brand_with_cinderclaw_red",
+    "brand_with_cinderclaw_yellow",
+    "brand_with_cinderclaw_yellow",
+    "cinderskin_devotion_blue",
+    "cinderskin_devotion_blue",
+    "compounding_anger_red",
+    "display_loyalty_red",
+    "display_loyalty_red",
+    "display_loyalty_red",
+    "dragon_power_blue",
+    "dragon_power_blue",
+    "dragon_power_blue",
+    "hot_on_their_heels_red",
+    "hot_on_their_heels_red",
+    "hot_on_their_heels_red",
+    "hunt_to_the_ends_of_rathe_red",
+    "ignite_red",
+    "ignite_red",
+    "ignite_red",
+    "lava_burst_red",
+    "lava_burst_red",
+    "lava_burst_red",
+    "lava_vein_loyalty_blue",
+    "lava_vein_loyalty_blue",
+    "mounting_anger_red",
+    "mounting_anger_red",
+    "oath_of_loyalty_red",
+    "oath_of_loyalty_red",
+    "oath_of_loyalty_red",
+    "phoenix_flame_red",
+    "rising_resentment_red",
+    "rising_resentment_red",
+    "rising_resentment_red",
+    "ronin_renegade_red",
+    "ronin_renegade_red",
+    "ronin_renegade_red",
+    "salt_the_wound_yellow",
+    "spreading_flames_red",
+    "spreading_flames_red",
+    "spreading_flames_red",
+    "warmongers_diplomacy_blue",
+    "warmongers_diplomacy_blue",
+    "warmongers_diplomacy_blue"
+  ],
+  "sideboard": [
+    "call_for_backup_red",
+    "call_for_backup_red",
+    "energy_potion_blue",
+    "fire_tenet_strike_first_red",
+    "fire_tenet_strike_first_red",
+    "fire_tenet_strike_first_red",
+    "flamecall_awakening_red",
+    "flamecall_awakening_red",
+    "loyalty_beyond_the_grave_red",
+    "loyalty_beyond_the_grave_red",
+    "loyalty_beyond_the_grave_red",
+    "phoenix_flame_red",
+    "rake_over_the_coals_red",
+    "rake_over_the_coals_red",
+    "salt_the_wound_yellow",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "snag_blue",
+    "snag_blue",
+    "tenacity_yellow"
+  ],
+  "sideboard_equipment": [],
+  "registered_total": 80,
+  "maindeck_count": 51,
+  "matchups": [
+    {
+      "matchupId": "01K3G5BHZ1JZM3YSXKX99WMQD7",
+      "heroes": [],
+      "name": "Arakni, Slippy"
+    },
+    {
+      "matchupId": "01K3G5DRYY63M056ZKMQ5XWZX0",
+      "heroes": [],
+      "name": "Fang"
+    },
+    {
+      "matchupId": "01K3G5G8GJFE1ZDD81SMTFSKR1",
+      "heroes": [],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01K3G5PVFHCJKX8DNDZEN7JXJ8",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01K3G5SSGDN64277NM47Y6JN88",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01K3G60X8MEQ16NCRGSC97SVHN",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01K3P4VY175EWYHSD7EE8ZAWGB",
+      "heroes": [],
+      "name": "Jarl"
+    },
+    {
+      "matchupId": "01K3P5GHWAHBKAG207GRTX4243",
+      "heroes": [],
+      "name": "Victor"
+    }
+  ],
+  "matchup_quantities": {
+    "01K3G5SSGDN64277NM47Y6JN88": {
+      "call_for_backup_red": 2,
+      "fyendals_spring_tunic": 0,
+      "loyalty_beyond_the_grave_red": 3,
+      "mask_of_momentum": 0,
+      "salt_the_wound_yellow": 2,
+      "shelter_from_the_storm_red": 3,
+      "tide_flippers": 0
+    },
+    "01K3P4VY175EWYHSD7EE8ZAWGB": {
+      "call_for_backup_red": 2,
+      "energy_potion_blue": 1,
+      "fire_tenet_strike_first_red": 3,
+      "flamecall_awakening_red": 2,
+      "flamescale_furnace": 0,
+      "loyalty_beyond_the_grave_red": 3,
+      "mask_of_momentum": 0,
+      "phoenix_flame_red": 2,
+      "rake_over_the_coals_red": 2,
+      "salt_the_wound_yellow": 2,
+      "snag_blue": 2,
+      "tenacity_yellow": 1,
+      "tide_flippers": 0
+    },
+    "01K3P5GHWAHBKAG207GRTX4243": {
+      "call_for_backup_red": 2,
+      "fire_tenet_strike_first_red": 3,
+      "hunt_to_the_ends_of_rathe_red": 0,
+      "loyalty_beyond_the_grave_red": 3,
+      "mask_of_momentum": 0,
+      "rake_over_the_coals_red": 2,
+      "snag_blue": 2,
+      "tenacity_yellow": 1,
+      "tide_flippers": 0
+    },
+    "01K3G5DRYY63M056ZKMQ5XWZX0": {
+      "fire_tenet_strike_first_red": 3,
+      "fyendals_spring_tunic": 0,
+      "hunt_to_the_ends_of_rathe_red": 0,
+      "mask_of_momentum": 0,
+      "rake_over_the_coals_red": 2,
+      "salt_the_wound_yellow": 2,
+      "shelter_from_the_storm_red": 3,
+      "tenacity_yellow": 1,
+      "tide_flippers": 0
+    },
+    "01K3G5G8GJFE1ZDD81SMTFSKR1": {
+      "fire_tenet_strike_first_red": 3,
+      "fyendals_spring_tunic": 0,
+      "hunt_to_the_ends_of_rathe_red": 0,
+      "loyalty_beyond_the_grave_red": 3,
+      "mask_of_momentum": 0,
+      "salt_the_wound_yellow": 2,
+      "shelter_from_the_storm_red": 3,
+      "tide_flippers": 0
+    },
+    "01K3G5PVFHCJKX8DNDZEN7JXJ8": {
+      "fire_tenet_strike_first_red": 3,
+      "flamecall_awakening_red": 2,
+      "flamescale_furnace": 0,
+      "loyalty_beyond_the_grave_red": 3,
+      "mask_of_the_pouncing_lynx": 0,
+      "phoenix_flame_red": 2,
+      "rake_over_the_coals_red": 2,
+      "salt_the_wound_yellow": 2,
+      "tide_flippers": 0
+    },
+    "01K3G60X8MEQ16NCRGSC97SVHN": {
+      "fire_tenet_strike_first_red": 3,
+      "flamecall_awakening_red": 2,
+      "flamescale_furnace": 0,
+      "mask_of_momentum": 0,
+      "phoenix_flame_red": 2,
+      "rake_over_the_coals_red": 2,
+      "salt_the_wound_yellow": 2,
+      "tide_flippers": 0
+    },
+    "01K3G5BHZ1JZM3YSXKX99WMQD7": {
+      "fyendals_spring_tunic": 0,
+      "loyalty_beyond_the_grave_red": 3,
+      "mask_of_momentum": 0,
+      "salt_the_wound_yellow": 2,
+      "shelter_from_the_storm_red": 3,
+      "snag_blue": 2,
+      "tide_flippers": 0
+    }
+  }
+}

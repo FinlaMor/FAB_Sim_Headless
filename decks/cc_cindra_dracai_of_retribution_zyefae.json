@@ -1,0 +1,401 @@
+{
+  "hero": "cindra_dracai_of_retribution",
+  "comment": "Imported from fabrary: '\ud83d\udd25 Red One \ud83d\udd25' [Classic Constructed] deckId=01JZ5Y0QRHNM5JTQ54Z8ZYEFAE",
+  "equipment": [
+    "blood_splattered_vest",
+    "dragonscaler_flight_path",
+    "flick_knives",
+    "kunai_of_retribution",
+    "kunai_of_retribution",
+    "mask_of_momentum"
+  ],
+  "deck": [
+    "ancestral_empowerment_red",
+    "ancestral_empowerment_red",
+    "ancestral_empowerment_red",
+    "art_of_the_dragon_blood_red",
+    "art_of_the_dragon_blood_red",
+    "art_of_the_dragon_blood_red",
+    "blaze_headlong_red",
+    "blaze_headlong_red",
+    "blaze_headlong_red",
+    "burning_blade_dance_red",
+    "burning_blade_dance_red",
+    "burning_blade_dance_red",
+    "cut_through_red",
+    "cut_through_red",
+    "cut_through_red",
+    "demonstrate_devotion_red",
+    "demonstrate_devotion_red",
+    "display_loyalty_red",
+    "display_loyalty_red",
+    "display_loyalty_red",
+    "draco_fire_red",
+    "draco_fire_red",
+    "draco_fire_red",
+    "enflame_the_firebrand_red",
+    "enflame_the_firebrand_red",
+    "enflame_the_firebrand_red",
+    "fire_tenet_strike_first_red",
+    "fire_tenet_strike_first_red",
+    "fire_tenet_strike_first_red",
+    "hot_on_their_heels_red",
+    "hot_on_their_heels_red",
+    "hot_on_their_heels_red",
+    "hunt_the_hunter_red",
+    "hunt_the_hunter_red",
+    "hunt_the_hunter_red",
+    "ignite_red",
+    "ignite_red",
+    "ignite_red",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "rising_resentment_red",
+    "rising_resentment_red",
+    "rising_resentment_red",
+    "ronin_renegade_red",
+    "ronin_renegade_red",
+    "ronin_renegade_red"
+  ],
+  "sideboard": [
+    "blood_runs_deep_red",
+    "breaking_point_red",
+    "breaking_point_red",
+    "hunt_to_the_ends_of_rathe_red",
+    "hunt_to_the_ends_of_rathe_red",
+    "lava_burst_red",
+    "lava_burst_red",
+    "lava_burst_red",
+    "oath_of_loyalty_red",
+    "oath_of_loyalty_red",
+    "oath_of_loyalty_red",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "snatch_red",
+    "snatch_red",
+    "throw_dagger_blue",
+    "throw_dagger_blue",
+    "warmongers_diplomacy_blue",
+    "warmongers_diplomacy_blue"
+  ],
+  "sideboard_equipment": [
+    "boots_of_omnis_ward",
+    "claw_of_vynserakai"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 47,
+  "matchups": [
+    {
+      "matchupId": "01JZ5Y0RW2TTAFM2SQ19917JST",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01JZ5Y0T1H54VFDE1CDT7X9328",
+      "heroes": [],
+      "name": "Guardians"
+    },
+    {
+      "matchupId": "01JZ5Y0VS140KH2068N31415ZC",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01JZ5Y0W42VK5WDP90FBX77GK0",
+      "heroes": [],
+      "name": "Verdance"
+    },
+    {
+      "matchupId": "01JZ5Y0WKERFAQT9GJWQ6FQMDF",
+      "heroes": [
+        "cindra_dracai_of_retribution"
+      ],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01K7F6ZN220VP93JWM8FW7YQD4",
+      "heroes": [],
+      "name": "Kassai"
+    },
+    {
+      "matchupId": "01K7F806GGDMG2PMQT1DXRW4TM",
+      "heroes": [],
+      "name": "Dorinthea"
+    },
+    {
+      "matchupId": "01K7F84YS627A9CAJV7Y4D6AN9",
+      "heroes": [],
+      "name": "Assassin"
+    },
+    {
+      "matchupId": "01K7F8VPBBPZSMP10GQTY29GZ8",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01K7FBPKM9G230QSW4H94JAD7A",
+      "heroes": [
+        "gravy_bones_shipwrecked_looter"
+      ],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KFKNE76CKG0ZJQAXYH4VF07S",
+      "heroes": [],
+      "name": "Dash IO"
+    },
+    {
+      "matchupId": "01KGAFE51Q8RR7XFRGY095P95Y",
+      "heroes": [],
+      "name": "Kayo"
+    },
+    {
+      "matchupId": "01KT4GTRQDBCZ6K6BXTZZPDPRH",
+      "heroes": [],
+      "name": "Aggro"
+    },
+    {
+      "matchupId": "01KTHP937DR8K5VWNCA02V156D",
+      "heroes": [
+        "zyggy_starlight"
+      ],
+      "name": "Zyggy Starlight"
+    },
+    {
+      "matchupId": "01KTTKV7SBE65B535FWT125PGB",
+      "heroes": [
+        "arakni_marionette"
+      ],
+      "name": "Arakni, Marionette"
+    },
+    {
+      "matchupId": "01KTTM485XKTKEZ5DQZJ5VYM93",
+      "heroes": [
+        "victor_goldmane_high_and_mighty"
+      ],
+      "name": "Victor Goldmane, High and Mighty"
+    },
+    {
+      "matchupId": "01KV638XNTSPGF87MABE39RBX3",
+      "heroes": [
+        "jarl_vetreidi"
+      ],
+      "name": "Jarl Vetrei\u00f0i"
+    },
+    {
+      "matchupId": "01KVE2TS9712107EAWF8M3NPK1",
+      "heroes": [
+        "fang_dracai_of_blades"
+      ],
+      "name": "Fang"
+    }
+  ],
+  "matchup_quantities": {
+    "01JZ5Y0T1H54VFDE1CDT7X9328": {
+      "ancestral_empowerment_red": 3,
+      "kunai_of_retribution": 2,
+      "mask_of_momentum": 1,
+      "shelter_from_the_storm_red": 0
+    },
+    "01JZ5Y0VS140KH2068N31415ZC": {
+      "ancestral_empowerment_red": 3,
+      "claw_of_vynserakai": 1,
+      "dragonscaler_flight_path": 1,
+      "hunt_the_hunter_red": 2,
+      "kunai_of_retribution": 1,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "ronin_renegade_red": 3,
+      "shelter_from_the_storm_red": 0,
+      "snatch_red": 2,
+      "throw_dagger_blue": 2,
+      "warmongers_diplomacy_blue": 2
+    },
+    "01JZ5Y0W42VK5WDP90FBX77GK0": {
+      "ancestral_empowerment_red": 3,
+      "claw_of_vynserakai": 1,
+      "dragonscaler_flight_path": 1,
+      "hunt_the_hunter_red": 3,
+      "kunai_of_retribution": 1,
+      "lava_burst_red": 2,
+      "mask_of_momentum": 1,
+      "oath_of_loyalty_red": 2,
+      "ronin_renegade_red": 3,
+      "shelter_from_the_storm_red": 0,
+      "snatch_red": 2,
+      "throw_dagger_blue": 2
+    },
+    "01JZ5Y0RW2TTAFM2SQ19917JST": {
+      "ancestral_empowerment_red": 3,
+      "art_of_the_dragon_blood_red": 3,
+      "burning_blade_dance_red": 3,
+      "demonstrate_devotion_red": 2,
+      "hunt_the_hunter_red": 2,
+      "kunai_of_retribution": 2,
+      "lava_burst_red": 2,
+      "rising_resentment_red": 3,
+      "ronin_renegade_red": 3,
+      "shelter_from_the_storm_red": 0,
+      "sink_below_red": 2,
+      "snatch_red": 2,
+      "throw_dagger_blue": 0
+    },
+    "01KT4GTRQDBCZ6K6BXTZZPDPRH": {
+      "blood_runs_deep_red": 0,
+      "breaking_point_red": 2,
+      "cut_through_red": 3,
+      "demonstrate_devotion_red": 2,
+      "enflame_the_firebrand_red": 3,
+      "hunt_the_hunter_red": 2,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "shelter_from_the_storm_red": 0,
+      "sink_below_red": 0,
+      "snatch_red": 2,
+      "throw_dagger_blue": 2,
+      "warmongers_diplomacy_blue": 0
+    },
+    "01KTHP937DR8K5VWNCA02V156D": {
+      "blood_runs_deep_red": 0,
+      "breaking_point_red": 2,
+      "cut_through_red": 0,
+      "draco_fire_red": 3,
+      "hunt_the_hunter_red": 3,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "snatch_red": 2,
+      "throw_dagger_blue": 2,
+      "warmongers_diplomacy_blue": 2
+    },
+    "01K7FBPKM9G230QSW4H94JAD7A": {
+      "blood_runs_deep_red": 1,
+      "enflame_the_firebrand_red": 3,
+      "hunt_the_hunter_red": 3,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "snatch_red": 2,
+      "throw_dagger_blue": 0,
+      "warmongers_diplomacy_blue": 2
+    },
+    "01KTTM485XKTKEZ5DQZJ5VYM93": {
+      "blood_runs_deep_red": 1,
+      "breaking_point_red": 2,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "snatch_red": 0,
+      "throw_dagger_blue": 2
+    },
+    "01JZ5Y0WKERFAQT9GJWQ6FQMDF": {
+      "blood_runs_deep_red": 0,
+      "boots_of_omnis_ward": 1,
+      "breaking_point_red": 1,
+      "burning_blade_dance_red": 3,
+      "cut_through_red": 3,
+      "demonstrate_devotion_red": 2,
+      "dragonscaler_flight_path": 0,
+      "hunt_the_hunter_red": 3,
+      "lava_burst_red": 2,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "shelter_from_the_storm_red": 3,
+      "snatch_red": 2,
+      "throw_dagger_blue": 0
+    },
+    "01K7F8VPBBPZSMP10GQTY29GZ8": {
+      "blood_runs_deep_red": 1,
+      "claw_of_vynserakai": 1,
+      "hunt_the_hunter_red": 3,
+      "kunai_of_retribution": 1,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "snatch_red": 2,
+      "throw_dagger_blue": 2
+    },
+    "01KV638XNTSPGF87MABE39RBX3": {
+      "blood_runs_deep_red": 1,
+      "breaking_point_red": 2,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2,
+      "throw_dagger_blue": 2
+    },
+    "01KTTKV7SBE65B535FWT125PGB": {
+      "boots_of_omnis_ward": 1,
+      "demonstrate_devotion_red": 0,
+      "dragonscaler_flight_path": 0,
+      "hunt_the_hunter_red": 2,
+      "hunt_to_the_ends_of_rathe_red": 2,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2,
+      "snatch_red": 2
+    },
+    "01KVE2TS9712107EAWF8M3NPK1": {
+      "breaking_point_red": 2,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "sink_below_red": 3
+    },
+    "01K7F84YS627A9CAJV7Y4D6AN9": {
+      "cut_through_red": 3,
+      "demonstrate_devotion_red": 2,
+      "hunt_the_hunter_red": 2,
+      "lava_burst_red": 2,
+      "oath_of_loyalty_red": 2,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2,
+      "snatch_red": 2,
+      "throw_dagger_blue": 0
+    },
+    "01K7F806GGDMG2PMQT1DXRW4TM": {
+      "demonstrate_devotion_red": 2,
+      "lava_burst_red": 0,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 2,
+      "snatch_red": 1,
+      "throw_dagger_blue": 0
+    },
+    "01K7F6ZN220VP93JWM8FW7YQD4": {
+      "hunt_the_hunter_red": 3,
+      "lava_burst_red": 3,
+      "oath_of_loyalty_red": 3,
+      "pain_in_the_backside_red": 2,
+      "shelter_from_the_storm_red": 0,
+      "sink_below_red": 2,
+      "snatch_red": 0,
+      "throw_dagger_blue": 0,
+      "warmongers_diplomacy_blue": 2
+    },
+    "01KGAFE51Q8RR7XFRGY095P95Y": {
+      "lava_burst_red": 2,
+      "sink_below_red": 2,
+      "snatch_red": 0,
+      "throw_dagger_blue": 2
+    },
+    "01KFKNE76CKG0ZJQAXYH4VF07S": {
+      "lava_burst_red": 2,
+      "sink_below_red": 2
+    },
+    "01JYHKH6MKGAFPS6Z0Q8ME3RQE": {
+      "mask_of_momentum": 0,
+      "oath_of_loyalty_red": 0
+    }
+  }
+}

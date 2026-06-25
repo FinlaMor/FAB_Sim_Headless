@@ -1,0 +1,41 @@
+{
+  "hero": "zyggy",
+  "equipment": [
+    "aphrodias",
+    "constella_tiara",
+    "starflow_robes",
+    "fingers_of_fragmentation"
+  ],
+  "deck": [
+    "stormshard_red",
+    "flowshard_elemental_red",
+    "conflicting_thoughts_blue",
+    "auric_shards_blue",
+    "electrolyze_blue",
+    "auric_shards_blue",
+    "flittering_forcefield_blue",
+    "ominous_excavation_blue",
+    "ebbing_arcstride_blue",
+    "ebbing_arcstride_blue",
+    "crackle_from_afar_blue",
+    "cosmic_duality_blue",
+    "fleeing_starbreeze_blue",
+    "clear_conscience_blue",
+    "volatile_fluxor_blue",
+    "rift_breaker_blue",
+    "brush_off_blue",
+    "thunderous_retort_blue",
+    "stellar_glide_blue",
+    "auric_shards_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

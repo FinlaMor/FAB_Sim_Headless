@@ -1,0 +1,169 @@
+{
+  "hero": "jarl_vetreidi",
+  "comment": "Imported from fabrary: 'Global Cooling' [Classic Constructed] deckId=01JCK8S7JHCPGGBZK8SZAPRN4A",
+  "equipment": [
+    "civic_steps",
+    "crown_of_providence",
+    "fyendals_spring_tunic",
+    "gauntlets_of_the_boreal_domain",
+    "sledge_of_anvilheim"
+  ],
+  "deck": [
+    "channel_lake_frigid_blue",
+    "channel_lake_frigid_blue",
+    "channel_lake_frigid_blue",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "crumble_to_eternity_blue",
+    "crumble_to_eternity_blue",
+    "crumble_to_eternity_blue",
+    "frost_fang_red",
+    "frost_fang_red",
+    "frost_fang_red",
+    "frozen_to_death_blue",
+    "frozen_to_death_blue",
+    "frozen_to_death_blue",
+    "fruits_of_the_forest_blue",
+    "fruits_of_the_forest_blue",
+    "fruits_of_the_forest_blue",
+    "glacial_footsteps_blue",
+    "glacial_footsteps_blue",
+    "glacial_footsteps_blue",
+    "ice_quake_red",
+    "ice_quake_red",
+    "ice_quake_red",
+    "imposing_visage_blue",
+    "imposing_visage_blue",
+    "imposing_visage_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "oaken_old_red",
+    "oaken_old_red",
+    "oaken_old_red",
+    "pummel_red",
+    "pummel_red",
+    "pummel_red",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "winters_bite_blue",
+    "winters_bite_blue",
+    "winters_bite_blue",
+    "winters_bite_red",
+    "winters_bite_red",
+    "winters_bite_red"
+  ],
+  "sideboard": [
+    "blizzard_blue",
+    "blizzard_blue",
+    "blizzard_blue",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "mangle_red",
+    "mangle_red",
+    "mangle_red",
+    "unforgetting_unforgiving_red",
+    "unforgetting_unforgiving_red",
+    "unforgetting_unforgiving_red"
+  ],
+  "sideboard_equipment": [
+    "nullrune_boots",
+    "stalagmite_bastion_of_isenloft",
+    "titans_fist"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 60,
+  "matchups": [
+    {
+      "matchupId": "01JD5DXZNRTBJFKFCE4Y2RAP83",
+      "heroes": [],
+      "name": "prism/enigma"
+    },
+    {
+      "matchupId": "01JD5E0TWGWDE5TV64Y7D24YP7",
+      "heroes": [],
+      "name": "nuu (if going 2nd)"
+    },
+    {
+      "matchupId": "01JD5E378EGSNKDJGZCK5Q6B2E",
+      "heroes": [],
+      "name": "nuu (if going 1st)"
+    },
+    {
+      "matchupId": "01JD5E4EQC1QDJ7VCM927CABPS",
+      "heroes": [],
+      "name": "aurora"
+    },
+    {
+      "matchupId": "01JD5E5ZMWY8GCQXVQX5FN881V",
+      "heroes": [],
+      "name": "viserai"
+    },
+    {
+      "matchupId": "01JD5E82HB85HZVX4N8BAPD2RD",
+      "heroes": [],
+      "name": "dio"
+    }
+  ],
+  "matchup_quantities": {
+    "01JD5E4EQC1QDJ7VCM927CABPS": {
+      "crown_of_providence": 0,
+      "enlightened_strike_red": 0,
+      "nullrune_boots": 1,
+      "sink_below_red": 3,
+      "sledge_of_anvilheim": 0,
+      "stalagmite_bastion_of_isenloft": 1
+    },
+    "01JD5E82HB85HZVX4N8BAPD2RD": {
+      "crown_of_providence": 0,
+      "frost_fang_red": 0,
+      "ice_quake_red": 0,
+      "oaken_old_red": 3,
+      "pummel_red": 3,
+      "sink_below_red": 3,
+      "sledge_of_anvilheim": 0,
+      "stalagmite_bastion_of_isenloft": 1
+    },
+    "01JD5E0TWGWDE5TV64Y7D24YP7": {
+      "enlightened_strike_red": 3,
+      "oaken_old_red": 3,
+      "sink_below_red": 0,
+      "spinal_crush_red": 0,
+      "stalagmite_bastion_of_isenloft": 1
+    },
+    "01JD5DXZNRTBJFKFCE4Y2RAP83": {
+      "frost_fang_red": 0,
+      "oaken_old_red": 3
+    },
+    "01JD5E5ZMWY8GCQXVQX5FN881V": {
+      "frost_fang_red": 0,
+      "nullrune_boots": 1,
+      "oaken_old_red": 3
+    },
+    "01JD5E378EGSNKDJGZCK5Q6B2E": {
+      "pummel_red": 2,
+      "sink_below_red": 3,
+      "sledge_of_anvilheim": 0,
+      "spinal_crush_red": 0,
+      "stalagmite_bastion_of_isenloft": 1
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+ "hero": "zyggy",
+ "equipment": [
+  "aphrodias",
+  "helm_of_astral_sanctuary",
+  "seeker_s_leggings"
+ ],
+ "deck": [
+  "pulsing_cardia_red",
+  "holo_shield_red",
+  "stormshard_red",
+  "shattering_flowtide_red",
+  "auric_shards_red",
+  "astral_strike_red",
+  "flittering_spike_red",
+  "shattering_flowtide_red",
+  "ebbing_arcstride_red",
+  "flowstate_embodiment_red",
+  "pulsing_cardia_red",
+  "shattering_flowtide_red",
+  "nebulus_cycle_yellow",
+  "circular_flowtide_yellow",
+  "ebbing_arcstride_yellow",
+  "ebbing_arcstride_yellow",
+  "elliptical_conflux_yellow",
+  "elliptical_conflux_yellow",
+  "cosmic_duality_yellow",
+  "cosmic_duality_yellow",
+  "ebbing_arcstride_blue",
+  "erode_authority_blue",
+  "clear_conscience_blue",
+  "cosmic_duality_blue",
+  "cosmic_duality_blue",
+  "cosmic_duality_blue",
+  "holo_shield_blue",
+  "holo_shield_blue",
+  "pulsing_cardia_blue",
+  "crackle_from_afar_blue"
+ ]
+}

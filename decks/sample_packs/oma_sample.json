@@ -1,0 +1,722 @@
+[
+  {
+    "pack_id": 0,
+    "cards": [
+      "oscilio_scion_of_the_third_age",
+      "oma_energy_blade_blue",
+      "oma_energy_blade_yellow",
+      "oma_big_freeze_red",
+      "oma_phase_shift_blue",
+      "aurora_emissary_of_lightning",
+      "oma_dimensional_rift_red",
+      "oma_temporal_flux_red",
+      "oma_particle_storm_blue",
+      "aphrodias",
+      "oma_spin_state_yellow",
+      "scorpio_comet_tails",
+      "oma_grand_unified_yellow"
+    ]
+  },
+  {
+    "pack_id": 1,
+    "cards": [
+      "zyggy",
+      "oma_photon_strike_red",
+      "oma_event_horizon_yellow",
+      "aurora_emissary_of_lightning",
+      "volzar_meteor_storm",
+      "oma_heat_death_yellow",
+      "oma_temporal_flux_red",
+      "oma_time_skip_red",
+      "oma_energy_blade_red",
+      "aphrodias",
+      "oma_arc_lightning_red",
+      "oma_field_collapse_blue",
+      "oma_dark_matter_red"
+    ]
+  },
+  {
+    "pack_id": 2,
+    "cards": [
+      "oma_vacuum_decay_red",
+      "oma_neutron_pulse_red",
+      "oma_particle_storm_red",
+      "zyggy",
+      "oma_time_skip_red",
+      "oma_warp_drive_red",
+      "oma_grand_unified_red",
+      "volzar_meteor_storm",
+      "oma_gluon_bond_red",
+      "oma_quantum_leap_blue",
+      "oma_comet_trail_yellow",
+      "aphrodias",
+      "aurora_emissary_of_lightning"
+    ]
+  },
+  {
+    "pack_id": 3,
+    "cards": [
+      "aurora_emissary_of_lightning",
+      "oma_neutron_pulse_red",
+      "oma_phase_shift_yellow",
+      "aphrodias",
+      "scorpio_comet_tails",
+      "oma_big_freeze_yellow",
+      "oscilio_scion_of_the_third_age",
+      "oma_electric_aura_red",
+      "oma_field_collapse_yellow",
+      "oma_field_collapse_red",
+      "oma_time_skip_red",
+      "oma_standard_model_blue",
+      "oma_star_fall_blue"
+    ]
+  },
+  {
+    "pack_id": 4,
+    "cards": [
+      "oma_solar_burst_blue",
+      "oma_storm_call_blue",
+      "volzar_meteor_storm",
+      "oma_tachyon_burst_blue",
+      "oma_thunder_clap_yellow",
+      "oma_warp_drive_red",
+      "oma_nebula_burst_red",
+      "oma_tachyon_burst_red",
+      "oma_energy_blade_red",
+      "zyggy",
+      "aurora_emissary_of_lightning",
+      "oma_quark_split_red",
+      "aphrodias"
+    ]
+  },
+  {
+    "pack_id": 5,
+    "cards": [
+      "oma_tachyon_burst_red",
+      "oma_temporal_flux_red",
+      "oma_singularity_red",
+      "oma_photon_strike_blue",
+      "volzar_meteor_storm",
+      "zyggy",
+      "oma_spin_state_blue",
+      "scorpio_comet_tails",
+      "oma_storm_call_yellow",
+      "oma_flux_capacitor_yellow",
+      "aurora_emissary_of_lightning",
+      "oma_big_freeze_red",
+      "oma_particle_storm_red"
+    ]
+  },
+  {
+    "pack_id": 6,
+    "cards": [
+      "scorpio_comet_tails",
+      "volzar_meteor_storm",
+      "oma_standard_model_blue",
+      "oma_arc_lightning_red",
+      "oma_meteor_shower_yellow",
+      "oma_solar_burst_yellow",
+      "oma_spin_state_yellow",
+      "aurora_emissary_of_lightning",
+      "zyggy",
+      "oma_thunder_clap_blue",
+      "oma_volt_charge_red",
+      "oma_photon_strike_blue",
+      "oma_dark_matter_yellow"
+    ]
+  },
+  {
+    "pack_id": 7,
+    "cards": [
+      "oma_electric_aura_red",
+      "volzar_meteor_storm",
+      "oma_plasma_jet_blue",
+      "aphrodias",
+      "oma_star_fall_blue",
+      "oma_solar_burst_yellow",
+      "oma_standard_model_red",
+      "oma_star_fall_red",
+      "zyggy",
+      "oma_neutron_pulse_yellow",
+      "oma_energy_blade_yellow",
+      "aurora_emissary_of_lightning",
+      "oma_gluon_bond_red"
+    ]
+  },
+  {
+    "pack_id": 8,
+    "cards": [
+      "oma_heat_death_yellow",
+      "oma_nebula_burst_red",
+      "oma_chronal_gate_blue",
+      "oma_thunder_clap_blue",
+      "oscilio_scion_of_the_third_age",
+      "oma_space_fold_yellow",
+      "oma_arc_lightning_red",
+      "zyggy",
+      "scorpio_comet_tails",
+      "volzar_meteor_storm",
+      "oma_star_fall_yellow",
+      "oma_photon_strike_blue",
+      "oma_temporal_flux_red"
+    ]
+  },
+  {
+    "pack_id": 9,
+    "cards": [
+      "aurora_emissary_of_lightning",
+      "oma_gravity_well_red",
+      "oma_dimensional_rift_yellow",
+      "aphrodias",
+      "zyggy",
+      "oma_particle_storm_blue",
+      "oma_heat_death_yellow",
+      "volzar_meteor_storm",
+      "oma_big_freeze_red",
+      "oma_photon_strike_red",
+      "oma_energy_blade_red",
+      "oma_vacuum_decay_red",
+      "oma_lightning_strike_yellow"
+    ]
+  },
+  {
+    "pack_id": 10,
+    "cards": [
+      "zyggy",
+      "scorpio_comet_tails",
+      "oma_space_fold_red",
+      "oma_tachyon_burst_blue",
+      "aurora_emissary_of_lightning",
+      "oma_comet_trail_red",
+      "oma_energy_blade_yellow",
+      "oma_temporal_flux_red",
+      "oma_quark_split_yellow",
+      "oma_electric_aura_blue",
+      "volzar_meteor_storm",
+      "oma_warp_drive_red",
+      "oma_phase_shift_red"
+    ]
+  },
+  {
+    "pack_id": 11,
+    "cards": [
+      "oma_neutron_pulse_red",
+      "oma_meteor_shower_yellow",
+      "oma_flux_capacitor_red",
+      "aphrodias",
+      "oma_chronal_gate_red",
+      "volzar_meteor_storm",
+      "aurora_emissary_of_lightning",
+      "oma_gravity_well_red",
+      "oma_tachyon_burst_blue",
+      "oma_vacuum_decay_yellow",
+      "oma_vacuum_decay_red",
+      "oscilio_scion_of_the_third_age",
+      "oma_singularity_red"
+    ]
+  },
+  {
+    "pack_id": 12,
+    "cards": [
+      "oma_grand_unified_blue",
+      "oma_vacuum_decay_blue",
+      "oma_solar_burst_red",
+      "oma_quantum_leap_blue",
+      "oma_thunder_clap_yellow",
+      "oma_singularity_blue",
+      "aurora_emissary_of_lightning",
+      "volzar_meteor_storm",
+      "oscilio_scion_of_the_third_age",
+      "oma_quantum_leap_red",
+      "aphrodias",
+      "oma_particle_storm_red",
+      "oma_standard_model_yellow"
+    ]
+  },
+  {
+    "pack_id": 13,
+    "cards": [
+      "oma_electric_aura_red",
+      "oma_star_fall_yellow",
+      "oma_star_fall_red",
+      "oma_vacuum_decay_red",
+      "oma_phase_shift_blue",
+      "aphrodias",
+      "oma_photon_strike_yellow",
+      "zyggy",
+      "oma_nebula_burst_blue",
+      "oma_space_fold_blue",
+      "oma_flux_capacitor_blue",
+      "oscilio_scion_of_the_third_age",
+      "volzar_meteor_storm"
+    ]
+  },
+  {
+    "pack_id": 14,
+    "cards": [
+      "oma_heat_death_blue",
+      "oma_field_collapse_blue",
+      "aphrodias",
+      "oma_star_fall_blue",
+      "oscilio_scion_of_the_third_age",
+      "oma_thunder_clap_blue",
+      "scorpio_comet_tails",
+      "oma_photon_strike_red",
+      "oma_temporal_flux_yellow",
+      "oma_nebula_burst_red",
+      "oma_quantum_leap_yellow",
+      "oma_gravity_well_red",
+      "zyggy"
+    ]
+  },
+  {
+    "pack_id": 15,
+    "cards": [
+      "oma_spin_state_blue",
+      "oma_temporal_flux_blue",
+      "oma_thunder_clap_yellow",
+      "oma_storm_call_blue",
+      "oscilio_scion_of_the_third_age",
+      "oma_neutron_pulse_yellow",
+      "scorpio_comet_tails",
+      "oma_time_skip_yellow",
+      "oma_warp_drive_yellow",
+      "oma_spin_state_red",
+      "aphrodias",
+      "oma_time_skip_red",
+      "zyggy"
+    ]
+  },
+  {
+    "pack_id": 16,
+    "cards": [
+      "oma_time_skip_red",
+      "oma_grand_unified_yellow",
+      "oma_phase_shift_blue",
+      "oscilio_scion_of_the_third_age",
+      "oma_dark_matter_yellow",
+      "aphrodias",
+      "scorpio_comet_tails",
+      "oma_gluon_bond_red",
+      "oma_storm_call_red",
+      "oma_dimensional_rift_red",
+      "zyggy",
+      "oma_wave_function_red",
+      "oma_plasma_jet_yellow"
+    ]
+  },
+  {
+    "pack_id": 17,
+    "cards": [
+      "scorpio_comet_tails",
+      "aphrodias",
+      "oma_phase_shift_blue",
+      "oscilio_scion_of_the_third_age",
+      "oma_plasma_jet_red",
+      "oma_time_skip_red",
+      "oma_photon_strike_red",
+      "oma_heat_death_red",
+      "oma_warp_drive_blue",
+      "aurora_emissary_of_lightning",
+      "oma_big_freeze_red",
+      "oma_gluon_bond_yellow",
+      "oma_volt_charge_yellow"
+    ]
+  },
+  {
+    "pack_id": 18,
+    "cards": [
+      "oma_spin_state_yellow",
+      "oma_tachyon_burst_blue",
+      "oma_meteor_shower_red",
+      "oma_neutron_pulse_yellow",
+      "zyggy",
+      "oma_gravity_well_blue",
+      "oma_event_horizon_red",
+      "oma_energy_blade_blue",
+      "volzar_meteor_storm",
+      "oma_singularity_red",
+      "scorpio_comet_tails",
+      "oma_big_freeze_red",
+      "aurora_emissary_of_lightning"
+    ]
+  },
+  {
+    "pack_id": 19,
+    "cards": [
+      "oma_meteor_shower_red",
+      "oma_particle_storm_red",
+      "oma_star_fall_blue",
+      "oscilio_scion_of_the_third_age",
+      "oma_thunder_clap_blue",
+      "oma_electric_aura_red",
+      "oma_standard_model_red",
+      "oma_chronal_gate_blue",
+      "oma_comet_trail_blue",
+      "aphrodias",
+      "aurora_emissary_of_lightning",
+      "volzar_meteor_storm",
+      "oma_flux_capacitor_yellow"
+    ]
+  },
+  {
+    "pack_id": 20,
+    "cards": [
+      "aurora_emissary_of_lightning",
+      "oma_flux_capacitor_red",
+      "oma_tachyon_burst_blue",
+      "oma_vacuum_decay_yellow",
+      "oma_particle_storm_red",
+      "oma_wave_function_red",
+      "volzar_meteor_storm",
+      "zyggy",
+      "oma_grand_unified_yellow",
+      "oma_vacuum_decay_blue",
+      "oma_big_freeze_red",
+      "scorpio_comet_tails",
+      "oma_quantum_leap_blue"
+    ]
+  },
+  {
+    "pack_id": 21,
+    "cards": [
+      "oma_energy_blade_red",
+      "oma_neutron_pulse_red",
+      "oma_standard_model_yellow",
+      "oma_wave_function_red",
+      "oma_standard_model_red",
+      "oma_storm_call_yellow",
+      "oma_solar_burst_blue",
+      "oma_neutron_pulse_yellow",
+      "oma_vacuum_decay_red",
+      "scorpio_comet_tails",
+      "volzar_meteor_storm",
+      "zyggy",
+      "aurora_emissary_of_lightning"
+    ]
+  },
+  {
+    "pack_id": 22,
+    "cards": [
+      "oma_wave_function_red",
+      "volzar_meteor_storm",
+      "aurora_emissary_of_lightning",
+      "oscilio_scion_of_the_third_age",
+      "oma_storm_call_blue",
+      "oma_quark_split_yellow",
+      "oma_spin_state_blue",
+      "oma_storm_call_red",
+      "oma_standard_model_yellow",
+      "oma_gravity_well_yellow",
+      "aphrodias",
+      "oma_tachyon_burst_blue",
+      "oma_space_fold_yellow"
+    ]
+  },
+  {
+    "pack_id": 23,
+    "cards": [
+      "oma_time_skip_red",
+      "zyggy",
+      "oma_dark_matter_blue",
+      "oma_phase_shift_blue",
+      "oma_quark_split_blue",
+      "oma_solar_burst_blue",
+      "oma_nebula_burst_red",
+      "volzar_meteor_storm",
+      "oma_grand_unified_red",
+      "scorpio_comet_tails",
+      "oscilio_scion_of_the_third_age",
+      "oma_dimensional_rift_yellow",
+      "oma_particle_storm_red"
+    ]
+  },
+  {
+    "pack_id": 24,
+    "cards": [
+      "oma_photon_strike_blue",
+      "aphrodias",
+      "oma_temporal_flux_red",
+      "oma_dimensional_rift_yellow",
+      "oma_tachyon_burst_blue",
+      "oma_singularity_blue",
+      "oma_thunder_clap_yellow",
+      "scorpio_comet_tails",
+      "oma_warp_drive_red",
+      "zyggy",
+      "aurora_emissary_of_lightning",
+      "oma_standard_model_yellow",
+      "oma_volt_charge_yellow"
+    ]
+  },
+  {
+    "pack_id": 25,
+    "cards": [
+      "oma_photon_strike_blue",
+      "oma_energy_blade_blue",
+      "oma_vacuum_decay_yellow",
+      "oma_singularity_blue",
+      "zyggy",
+      "oma_arc_lightning_blue",
+      "scorpio_comet_tails",
+      "aphrodias",
+      "oma_spin_state_yellow",
+      "aurora_emissary_of_lightning",
+      "oma_spin_state_red",
+      "oma_warp_drive_red",
+      "oma_solar_burst_yellow"
+    ]
+  },
+  {
+    "pack_id": 26,
+    "cards": [
+      "oma_warp_drive_blue",
+      "oscilio_scion_of_the_third_age",
+      "aphrodias",
+      "oma_storm_call_red",
+      "oma_temporal_flux_red",
+      "oma_spin_state_blue",
+      "oma_comet_trail_blue",
+      "oma_energy_blade_blue",
+      "scorpio_comet_tails",
+      "oma_heat_death_yellow",
+      "oma_big_freeze_blue",
+      "oma_thunder_clap_blue",
+      "aurora_emissary_of_lightning"
+    ]
+  },
+  {
+    "pack_id": 27,
+    "cards": [
+      "oma_big_freeze_yellow",
+      "oma_dimensional_rift_blue",
+      "oscilio_scion_of_the_third_age",
+      "oma_arc_lightning_red",
+      "oma_storm_call_yellow",
+      "scorpio_comet_tails",
+      "volzar_meteor_storm",
+      "oma_volt_charge_yellow",
+      "oma_solar_burst_blue",
+      "oma_big_freeze_blue",
+      "oma_arc_lightning_yellow",
+      "zyggy",
+      "oma_spin_state_red"
+    ]
+  },
+  {
+    "pack_id": 28,
+    "cards": [
+      "oma_standard_model_blue",
+      "oma_plasma_jet_yellow",
+      "oma_time_skip_blue",
+      "oma_meteor_shower_blue",
+      "oma_grand_unified_yellow",
+      "oma_lightning_strike_yellow",
+      "oma_space_fold_yellow",
+      "oma_temporal_flux_yellow",
+      "aurora_emissary_of_lightning",
+      "oma_storm_call_red",
+      "zyggy",
+      "aphrodias",
+      "volzar_meteor_storm"
+    ]
+  },
+  {
+    "pack_id": 29,
+    "cards": [
+      "volzar_meteor_storm",
+      "oma_thunder_clap_red",
+      "oma_electric_aura_yellow",
+      "oma_energy_blade_red",
+      "oma_temporal_flux_yellow",
+      "oma_phase_shift_yellow",
+      "aurora_emissary_of_lightning",
+      "zyggy",
+      "scorpio_comet_tails",
+      "oma_nebula_burst_red",
+      "oma_time_skip_red",
+      "oma_star_fall_blue",
+      "oma_neutron_pulse_red"
+    ]
+  },
+  {
+    "pack_id": 30,
+    "cards": [
+      "oma_plasma_jet_blue",
+      "oma_dimensional_rift_blue",
+      "oma_particle_storm_blue",
+      "scorpio_comet_tails",
+      "oma_quark_split_red",
+      "oma_temporal_flux_blue",
+      "oma_comet_trail_yellow",
+      "oscilio_scion_of_the_third_age",
+      "oma_comet_trail_red",
+      "oma_tachyon_burst_red",
+      "oma_phase_shift_yellow",
+      "aphrodias",
+      "zyggy"
+    ]
+  },
+  {
+    "pack_id": 31,
+    "cards": [
+      "oma_comet_trail_yellow",
+      "oma_event_horizon_blue",
+      "oma_storm_call_yellow",
+      "oma_phase_shift_blue",
+      "volzar_meteor_storm",
+      "zyggy",
+      "scorpio_comet_tails",
+      "oma_flux_capacitor_red",
+      "oma_warp_drive_blue",
+      "oma_wave_function_yellow",
+      "oma_temporal_flux_blue",
+      "oma_temporal_flux_red",
+      "oscilio_scion_of_the_third_age"
+    ]
+  },
+  {
+    "pack_id": 32,
+    "cards": [
+      "oma_spin_state_blue",
+      "zyggy",
+      "oma_space_fold_blue",
+      "oma_singularity_red",
+      "oscilio_scion_of_the_third_age",
+      "oma_field_collapse_blue",
+      "oma_photon_strike_blue",
+      "oma_volt_charge_yellow",
+      "aphrodias",
+      "oma_dimensional_rift_red",
+      "oma_big_freeze_yellow",
+      "oma_photon_strike_yellow",
+      "scorpio_comet_tails"
+    ]
+  },
+  {
+    "pack_id": 33,
+    "cards": [
+      "oma_lightning_strike_red",
+      "zyggy",
+      "oma_phase_shift_blue",
+      "oma_warp_drive_yellow",
+      "aurora_emissary_of_lightning",
+      "aphrodias",
+      "oma_photon_strike_blue",
+      "oma_singularity_red",
+      "scorpio_comet_tails",
+      "oma_singularity_blue",
+      "oma_grand_unified_yellow",
+      "oma_meteor_shower_red",
+      "oma_arc_lightning_blue"
+    ]
+  },
+  {
+    "pack_id": 34,
+    "cards": [
+      "oma_gravity_well_blue",
+      "aphrodias",
+      "scorpio_comet_tails",
+      "aurora_emissary_of_lightning",
+      "oma_wave_function_yellow",
+      "oma_comet_trail_blue",
+      "oma_neutron_pulse_red",
+      "oma_chronal_gate_blue",
+      "oma_tachyon_burst_yellow",
+      "oma_vacuum_decay_blue",
+      "zyggy",
+      "oma_lightning_strike_red",
+      "oma_thunder_clap_blue"
+    ]
+  },
+  {
+    "pack_id": 35,
+    "cards": [
+      "oma_wave_function_yellow",
+      "oscilio_scion_of_the_third_age",
+      "oma_big_freeze_red",
+      "oma_solar_burst_blue",
+      "oma_comet_trail_yellow",
+      "aurora_emissary_of_lightning",
+      "oma_quark_split_yellow",
+      "scorpio_comet_tails",
+      "volzar_meteor_storm",
+      "oma_heat_death_red",
+      "oma_volt_charge_blue",
+      "oma_electric_aura_red",
+      "oma_dark_matter_blue"
+    ]
+  },
+  {
+    "pack_id": 36,
+    "cards": [
+      "oma_field_collapse_blue",
+      "aurora_emissary_of_lightning",
+      "oscilio_scion_of_the_third_age",
+      "scorpio_comet_tails",
+      "oma_electric_aura_blue",
+      "oma_dimensional_rift_red",
+      "oma_space_fold_red",
+      "aphrodias",
+      "oma_photon_strike_blue",
+      "oma_chronal_gate_red",
+      "oma_electric_aura_red",
+      "oma_volt_charge_blue",
+      "oma_singularity_blue"
+    ]
+  },
+  {
+    "pack_id": 37,
+    "cards": [
+      "scorpio_comet_tails",
+      "oma_lightning_strike_yellow",
+      "oma_temporal_flux_red",
+      "oma_solar_burst_red",
+      "oma_vacuum_decay_blue",
+      "oma_meteor_shower_red",
+      "aphrodias",
+      "aurora_emissary_of_lightning",
+      "oma_warp_drive_yellow",
+      "oma_chronal_gate_blue",
+      "oma_energy_blade_red",
+      "oscilio_scion_of_the_third_age",
+      "oma_thunder_clap_red"
+    ]
+  },
+  {
+    "pack_id": 38,
+    "cards": [
+      "oma_arc_lightning_yellow",
+      "scorpio_comet_tails",
+      "oscilio_scion_of_the_third_age",
+      "oma_plasma_jet_red",
+      "zyggy",
+      "oma_neutron_pulse_yellow",
+      "oma_star_fall_red",
+      "oma_time_skip_red",
+      "oma_singularity_yellow",
+      "aphrodias",
+      "oma_event_horizon_yellow",
+      "oma_dimensional_rift_blue",
+      "oma_chronal_gate_yellow"
+    ]
+  },
+  {
+    "pack_id": 39,
+    "cards": [
+      "oma_gluon_bond_red",
+      "oma_event_horizon_blue",
+      "oma_space_fold_red",
+      "oma_chronal_gate_yellow",
+      "oma_star_fall_yellow",
+      "oma_star_fall_blue",
+      "oma_spin_state_blue",
+      "scorpio_comet_tails",
+      "oscilio_scion_of_the_third_age",
+      "volzar_meteor_storm",
+      "oma_neutron_pulse_red",
+      "oma_meteor_shower_yellow",
+      "aurora_emissary_of_lightning"
+    ]
+  }
+]

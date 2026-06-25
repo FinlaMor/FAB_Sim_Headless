@@ -1,0 +1,241 @@
+{
+  "hero": "arakni_5lp3d_7hru_7h3_cr4x",
+  "comment": "Imported from fabrary: 'Slippy Calling Christchurch 2025' [Classic Constructed] deckId=01JKMFFEBXQW0BTTNR6XXAHRPZ",
+  "equipment": [
+    "flick_knives",
+    "fyendals_spring_tunic",
+    "hunters_klaive",
+    "hunters_klaive",
+    "mask_of_deceit",
+    "snapdragon_scalers"
+  ],
+  "deck": [
+    "art_of_desire_body_red",
+    "art_of_desire_body_red",
+    "art_of_desire_body_red",
+    "back_stab_red",
+    "back_stab_red",
+    "back_stab_red",
+    "bonds_of_agony_blue",
+    "bonds_of_agony_blue",
+    "bonds_of_agony_blue",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "infect_red",
+    "infect_red",
+    "infect_red",
+    "infiltrate_red",
+    "infiltrate_red",
+    "infiltrate_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "pick_to_pieces_red",
+    "pick_to_pieces_red",
+    "pick_to_pieces_red",
+    "razors_edge_red",
+    "razors_edge_red",
+    "razors_edge_red",
+    "shred_yellow",
+    "shred_yellow",
+    "shred_yellow",
+    "spike_with_bloodrot_red",
+    "spike_with_bloodrot_red",
+    "spike_with_bloodrot_red",
+    "take_up_the_mantle_yellow",
+    "take_up_the_mantle_yellow",
+    "take_up_the_mantle_yellow",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "toxicity_yellow",
+    "toxicity_yellow",
+    "toxicity_yellow"
+  ],
+  "sideboard": [
+    "art_of_desire_mind_blue",
+    "art_of_desire_mind_blue",
+    "art_of_desire_mind_blue",
+    "inertia_trap_red",
+    "just_a_nick_red",
+    "just_a_nick_red",
+    "just_a_nick_red",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "pick_up_the_point_red",
+    "pick_up_the_point_red",
+    "poison_the_well_blue",
+    "schism_of_chaos_blue",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red"
+  ],
+  "sideboard_equipment": [
+    "blacktek_whisperers",
+    "widow_back_abdomen",
+    "widow_veil_respirator",
+    "widow_web_crawler"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 54,
+  "matchups": [
+    {
+      "matchupId": "01JKMFFF51W0VZRJRS1SGD8882",
+      "heroes": [],
+      "name": "Cindy"
+    },
+    {
+      "matchupId": "01JKMFFFY7KV6J413J7K2CBM3J",
+      "heroes": [],
+      "name": "Zen"
+    },
+    {
+      "matchupId": "01JKMFFG8AB0Z448KGQD5J0F8K",
+      "heroes": [],
+      "name": "Enigma"
+    },
+    {
+      "matchupId": "01JKMFFH7ES6NMMM3P88EVTQVF",
+      "heroes": [],
+      "name": "Kano"
+    },
+    {
+      "matchupId": "01JKMFFHQN5T8R2BTTE73YMHXK",
+      "heroes": [],
+      "name": "Vis"
+    },
+    {
+      "matchupId": "01JKMFFJF6WBF3MZYJH3TQ73MH",
+      "heroes": [],
+      "name": "Nuu"
+    },
+    {
+      "matchupId": "01JKMFFKDCBMS8H1F53SH2P12N",
+      "heroes": [],
+      "name": "Aurora"
+    },
+    {
+      "matchupId": "01JKMFFM56FXRJ0JQKJ5TZH9VE",
+      "heroes": [],
+      "name": "Azalea"
+    },
+    {
+      "matchupId": "01JKMFFMZAZVTEM1MQRNBSEQJM",
+      "heroes": [],
+      "name": "Cayle"
+    }
+  ],
+  "matchup_quantities": {
+    "01JKMFFFY7KV6J413J7K2CBM3J": {
+      "art_of_desire_mind_blue": 3,
+      "fyendals_spring_tunic": 1,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 0,
+      "just_a_nick_red": 3,
+      "orb_weaver_spinneret_red": 2,
+      "persuasive_prognosis_blue": 3,
+      "pick_to_pieces_red": 2,
+      "schism_of_chaos_blue": 1,
+      "shred_yellow": 3
+    },
+    "01JKMFFG8AB0Z448KGQD5J0F8K": {
+      "art_of_desire_mind_blue": 3,
+      "inertia_trap_red": 0,
+      "just_a_nick_red": 3,
+      "persuasive_prognosis_blue": 3,
+      "pick_up_the_point_red": 2,
+      "poison_the_well_blue": 1,
+      "schism_of_chaos_blue": 1,
+      "toxicity_yellow": 1
+    },
+    "01JKMFFH7ES6NMMM3P88EVTQVF": {
+      "art_of_desire_mind_blue": 3,
+      "back_stab_red": 0,
+      "command_and_conquer_red": 2,
+      "fyendals_spring_tunic": 0,
+      "just_a_nick_red": 3,
+      "mask_of_deceit": 0,
+      "persuasive_prognosis_blue": 3,
+      "schism_of_chaos_blue": 1,
+      "snapdragon_scalers": 0,
+      "widow_back_abdomen": 1,
+      "widow_veil_respirator": 1,
+      "widow_web_crawler": 1
+    },
+    "01JKMFFHQN5T8R2BTTE73YMHXK": {
+      "art_of_desire_mind_blue": 3,
+      "fyendals_spring_tunic": 1,
+      "infiltrate_red": 0,
+      "just_a_nick_red": 2,
+      "mask_of_deceit": 0,
+      "persuasive_prognosis_blue": 3,
+      "schism_of_chaos_blue": 1,
+      "shelter_from_the_storm_red": 0,
+      "widow_veil_respirator": 1
+    },
+    "01JKMFFJF6WBF3MZYJH3TQ73MH": {
+      "art_of_desire_mind_blue": 3,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 0,
+      "just_a_nick_red": 3,
+      "orb_weaver_spinneret_red": 2,
+      "persuasive_prognosis_blue": 3,
+      "pick_to_pieces_red": 2,
+      "pick_up_the_point_red": 0,
+      "poison_the_well_blue": 0,
+      "schism_of_chaos_blue": 1,
+      "shelter_from_the_storm_red": 0
+    },
+    "01JKMFFMZAZVTEM1MQRNBSEQJM": {
+      "art_of_desire_mind_blue": 3,
+      "fyendals_spring_tunic": 1,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 3,
+      "just_a_nick_red": 3,
+      "persuasive_prognosis_blue": 3,
+      "pick_up_the_point_red": 2,
+      "poison_the_well_blue": 1,
+      "schism_of_chaos_blue": 1,
+      "shelter_from_the_storm_red": 2
+    },
+    "01JKMFFF51W0VZRJRS1SGD8882": {
+      "blacktek_whisperers": 1,
+      "fyendals_spring_tunic": 1,
+      "inertia_trap_red": 1,
+      "orb_weaver_spinneret_red": 3,
+      "persuasive_prognosis_blue": 3,
+      "shelter_from_the_storm_red": 2,
+      "snapdragon_scalers": 0
+    },
+    "01JKMFFKDCBMS8H1F53SH2P12N": {
+      "blacktek_whisperers": 1,
+      "fyendals_spring_tunic": 1,
+      "inertia_trap_red": 1,
+      "mask_of_deceit": 0,
+      "persuasive_prognosis_blue": 3,
+      "shelter_from_the_storm_red": 2,
+      "widow_veil_respirator": 1
+    },
+    "01JKMFFM56FXRJ0JQKJ5TZH9VE": {
+      "blacktek_whisperers": 1,
+      "fyendals_spring_tunic": 1,
+      "inertia_trap_red": 1,
+      "persuasive_prognosis_blue": 3,
+      "shelter_from_the_storm_red": 2,
+      "snapdragon_scalers": 0
+    }
+  }
+}

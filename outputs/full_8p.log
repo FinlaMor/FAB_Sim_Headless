@@ -1,0 +1,62 @@
+[rr] adapter ok: {'ok': True, 'service': 'fab-sim-headless-adapter', 'mode': 'real', 'php_version': '8.1.34', 'talishar_clone': 'present', 'time': 1780173025.163725}
+[rr] cube universe = 209 cards; building 24 packs
+  [t_c20260530_517486_pod000] A vs B: 7-5 (draws=0, games=12) -> A [win-by-2]
+  [t_c20260530_517486_pod000] A vs C: 4-5 (draws=1, games=10) -> C
+  [t_c20260530_517486_pod000] A vs D: 8-2 (draws=0, games=10) -> A
+  [t_c20260530_517486_pod000] A vs E: 9-1 (draws=0, games=10) -> A
+  [t_c20260530_517486_pod000] A vs F: 9-1 (draws=0, games=10) -> A
+  [t_c20260530_517486_pod000] A vs G: 9-1 (draws=0, games=10) -> A
+  [t_c20260530_517486_pod000] A vs H: 10-0 (draws=0, games=10) -> A
+  [t_c20260530_517486_pod000] B vs C: 2-8 (draws=0, games=10) -> C
+  [t_c20260530_517486_pod000] B vs D: 5-4 (draws=1, games=10) -> B
+  [t_c20260530_517486_pod000] B vs E: 5-6 (draws=1, games=12) -> E [win-by-2]
+  [t_c20260530_517486_pod000] B vs F: 9-1 (draws=0, games=10) -> B
+  [t_c20260530_517486_pod000] B vs G: 6-4 (draws=0, games=10) -> B
+  [t_c20260530_517486_pod000] B vs H: 9-1 (draws=0, games=10) -> B
+  [t_c20260530_517486_pod000] C vs D: 7-3 (draws=0, games=10) -> C
+  [t_c20260530_517486_pod000] C vs E: 7-2 (draws=1, games=10) -> C
+  [t_c20260530_517486_pod000] C vs F: 6-2 (draws=2, games=10) -> C
+  [t_c20260530_517486_pod000] C vs G: 8-2 (draws=0, games=10) -> C
+  [t_c20260530_517486_pod000] C vs H: 8-1 (draws=1, games=10) -> C
+  [t_c20260530_517486_pod000] D vs E: 4-6 (draws=0, games=10) -> E
+  [t_c20260530_517486_pod000] D vs F: 7-9 (draws=0, games=16) -> F [win-by-2]
+  [t_c20260530_517486_pod000] D vs G: 3-6 (draws=1, games=10) -> G
+  [t_c20260530_517486_pod000] D vs H: 6-3 (draws=1, games=10) -> D
+  [t_c20260530_517486_pod000] E vs F: 8-2 (draws=0, games=10) -> E
+  [t_c20260530_517486_pod000] E vs G: 7-3 (draws=0, games=10) -> E
+  [t_c20260530_517486_pod000] E vs H: 10-0 (draws=0, games=10) -> E
+  [t_c20260530_517486_pod000] F vs G: 3-7 (draws=0, games=10) -> G
+  [t_c20260530_517486_pod000] F vs H: 6-3 (draws=1, games=10) -> F
+  [t_c20260530_517486_pod000] G vs H: 8-1 (draws=1, games=10) -> G
+Round-robin t_c20260530_517486_pod000 (seed=355283318)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  C     c20260530_517486_pod000_aurora_e      7-0-0      49-16-5
+   2  A     c20260530_517486_pod000_oscilio_      6-1-0      56-15-1
+   3  E     c20260530_517486_pod000_zyggy_se      5-2-0      40-30-2
+   4  B     c20260530_517486_pod000_oscilio_      4-3-0      41-31-2
+   5  G     c20260530_517486_pod000_oscilio_      3-4-0      31-37-2
+   6  F     c20260530_517486_pod000_aurora_e      2-5-0      24-49-3
+   7  D     c20260530_517486_pod000_aurora_e      1-6-0      29-44-3
+   8  H     c20260530_517486_pod000_oscilio_      0-7-0       9-57-4
+
+[rr] cycle c20260530_517486 done in 10962.3s
+
+=== t_c20260530_517486_pod000 ===
+Round-robin t_c20260530_517486_pod000 (seed=355283318)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  C     c20260530_517486_pod000_aurora_e      7-0-0      49-16-5
+   2  A     c20260530_517486_pod000_oscilio_      6-1-0      56-15-1
+   3  E     c20260530_517486_pod000_zyggy_se      5-2-0      40-30-2
+   4  B     c20260530_517486_pod000_oscilio_      4-3-0      41-31-2
+   5  G     c20260530_517486_pod000_oscilio_      3-4-0      31-37-2
+   6  F     c20260530_517486_pod000_aurora_e      2-5-0      24-49-3
+   7  D     c20260530_517486_pod000_aurora_e      1-6-0      29-44-3
+   8  H     c20260530_517486_pod000_oscilio_      0-7-0       9-57-4
+champion: c20260530_517486_pod000_aurora_emissary_of_lightning_seat2
+games=290 decisive=279 life-tiebreaks=199
+
+artefacts:
+  decks: outputs\parquet\decks\1780173025-1f3b7d.parquet
+  games: outputs\parquet\games\1780183981-c7c9a191.parquet
+  tournaments: outputs\parquet\tournaments\1780183987-e8f9a3.parquet
+  drafts: outputs\parquet\drafts\1780183987-0fc5f052.parquet

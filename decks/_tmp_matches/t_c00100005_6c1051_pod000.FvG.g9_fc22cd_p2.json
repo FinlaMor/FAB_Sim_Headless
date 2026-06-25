@@ -1,0 +1,40 @@
+{
+  "hero": "zyggy",
+  "equipment": [
+    "aphrodias",
+    "robe_of_astral_sanctuary",
+    "seeker_s_mitts"
+  ],
+  "deck": [
+    "flowstate_embodiment_red",
+    "flowshard_elemental_red",
+    "flowshard_elemental_red",
+    "flittering_forcefield_yellow",
+    "nebulus_cycle_yellow",
+    "elliptical_conflux_yellow",
+    "holo_shield_yellow",
+    "shattering_flowtide_yellow",
+    "rift_breaker_yellow",
+    "ebbing_arcstride_yellow",
+    "chromatic_refinement_yellow",
+    "flittering_forcefield_yellow",
+    "flittering_spike_blue",
+    "holo_shield_blue",
+    "cosmic_duality_blue",
+    "flittering_spike_blue",
+    "electrolyze_blue",
+    "clear_conscience_blue",
+    "flittering_forcefield_blue",
+    "fleeing_starbreeze_blue",
+    "thunderous_retort_blue",
+    "conflicting_thoughts_yellow",
+    "electrolyze_blue",
+    "astral_assault_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

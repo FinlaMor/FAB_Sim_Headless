@@ -1,0 +1,219 @@
+{
+  "hero": "victor_goldmane_high_and_mighty",
+  "comment": "Imported from fabrary: 'Victor Goldmane CC' [Classic Constructed] deckId=01J4QZVSPQ25X5C3SYKSWB3FF5",
+  "equipment": [
+    "aurum_aegis",
+    "crown_of_providence",
+    "fyendals_spring_tunic",
+    "gauntlets_of_iron_will",
+    "quickdodge_flexors",
+    "titans_fist"
+  ],
+  "deck": [
+    "buckling_blow_blue",
+    "buckling_blow_blue",
+    "buckling_blow_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "chokeslam_red",
+    "chokeslam_red",
+    "chokeslam_red",
+    "clash_of_might_blue",
+    "clash_of_might_blue",
+    "clash_of_might_blue",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "debilitate_blue",
+    "debilitate_blue",
+    "debilitate_blue",
+    "disable_blue",
+    "disable_blue",
+    "disable_blue",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "riches_of_tropal_dhani_yellow",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "test_of_strength_red",
+    "test_of_strength_red",
+    "test_of_strength_red",
+    "the_golden_son_yellow",
+    "the_golden_son_yellow",
+    "the_golden_son_yellow",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunk_blue",
+    "thunk_blue",
+    "thunk_blue",
+    "trounce_red",
+    "trounce_red",
+    "trounce_red",
+    "visit_goldmane_estate_blue",
+    "visit_goldmane_estate_blue",
+    "visit_goldmane_estate_blue",
+    "wallop_blue",
+    "wallop_blue",
+    "wallop_blue"
+  ],
+  "sideboard": [
+    "crush_the_weak_red",
+    "crush_the_weak_red",
+    "erase_face_red",
+    "erase_face_red",
+    "midas_touch_yellow",
+    "midas_touch_yellow",
+    "midas_touch_yellow",
+    "oasis_respite_red",
+    "oasis_respite_red",
+    "pummel_red",
+    "pummel_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "zealous_belting_red",
+    "zealous_belting_red",
+    "zealous_belting_red"
+  ],
+  "sideboard_equipment": [
+    "nullrune_boots",
+    "nullrune_hood"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 55,
+  "matchups": [
+    {
+      "matchupId": "01J9A61SFFGW3PNM97XCP1W50G",
+      "heroes": [],
+      "name": "Florian"
+    },
+    {
+      "matchupId": "01J9G0VNYS0D81AGTKQB8Y13GA",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01JPXZE5HK5Y2RTM51HPH0CSQG",
+      "heroes": [],
+      "name": "Dash I/O"
+    },
+    {
+      "matchupId": "01JPXZTC28RNWYYZR3757KPDBG",
+      "heroes": [],
+      "name": "Verdance"
+    },
+    {
+      "matchupId": "01JPY00YT587F9GVGT12C9WVNT",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01JXDF10N5KHGN5GB2THAVQNES",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01JXDF8ZFZFJ3B0HYDHJCMKV7H",
+      "heroes": [],
+      "name": "Kano"
+    },
+    {
+      "matchupId": "01JXDFHW5H4QFZPWP60DRD6VJN",
+      "heroes": [],
+      "name": "Cindra"
+    }
+  ],
+  "matchup_quantities": {
+    "01JPXZTC28RNWYYZR3757KPDBG": {
+      "aurum_aegis": 1,
+      "crown_of_providence": 0,
+      "erase_face_red": 2,
+      "fyendals_spring_tunic": 1,
+      "gauntlets_of_iron_will": 1,
+      "nullrune_boots": 1,
+      "nullrune_hood": 1,
+      "oasis_respite_red": 2,
+      "pummel_red": 2,
+      "quickdodge_flexors": 0,
+      "test_of_strength_red": 3,
+      "titans_fist": 1,
+      "trounce_red": 1,
+      "zealous_belting_red": 3
+    },
+    "01JXDF10N5KHGN5GB2THAVQNES": {
+      "crown_of_providence": 1,
+      "crush_the_weak_red": 2,
+      "midas_touch_yellow": 3,
+      "pummel_red": 0,
+      "sink_below_red": 3,
+      "trounce_red": 0,
+      "zealous_belting_red": 2
+    },
+    "01JXDF8ZFZFJ3B0HYDHJCMKV7H": {
+      "crown_of_providence": 0,
+      "crush_the_weak_red": 2,
+      "erase_face_red": 2,
+      "gauntlets_of_iron_will": 1,
+      "nullrune_boots": 1,
+      "nullrune_hood": 1,
+      "oasis_respite_red": 2,
+      "pummel_red": 2,
+      "quickdodge_flexors": 0,
+      "test_of_strength_red": 0,
+      "trounce_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01JXDFHW5H4QFZPWP60DRD6VJN": {
+      "crush_the_weak_red": 2,
+      "erase_face_red": 2,
+      "fyendals_spring_tunic": 1,
+      "riches_of_tropal_dhani_yellow": 1,
+      "zealous_belting_red": 3
+    },
+    "01JPXZE5HK5Y2RTM51HPH0CSQG": {
+      "crush_the_weak_red": 2,
+      "erase_face_red": 2,
+      "fyendals_spring_tunic": 1,
+      "midas_touch_yellow": 0,
+      "riches_of_tropal_dhani_yellow": 0,
+      "sink_below_red": 3,
+      "zealous_belting_red": 0
+    },
+    "01J9G0VNYS0D81AGTKQB8Y13GA": {
+      "crush_the_weak_red": 2,
+      "erase_face_red": 2,
+      "fyendals_spring_tunic": 1,
+      "midas_touch_yellow": 2,
+      "nullrune_boots": 1,
+      "oasis_respite_red": 0,
+      "quickdodge_flexors": 0,
+      "sink_below_red": 3,
+      "trounce_red": 0,
+      "zealous_belting_red": 2
+    },
+    "01JPY00YT587F9GVGT12C9WVNT": {
+      "crush_the_weak_red": 2,
+      "midas_touch_yellow": 3,
+      "nullrune_boots": 1,
+      "quickdodge_flexors": 0,
+      "sink_below_red": 3,
+      "trounce_red": 0
+    },
+    "01J9A61SFFGW3PNM97XCP1W50G": {
+      "erase_face_red": 2,
+      "nullrune_boots": 1,
+      "quickdodge_flexors": 0,
+      "zealous_belting_red": 3
+    }
+  }
+}

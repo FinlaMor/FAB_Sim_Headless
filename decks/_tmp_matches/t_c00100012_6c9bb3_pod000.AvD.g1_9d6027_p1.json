@@ -1,0 +1,41 @@
+{
+  "hero": "aurora_emissary_of_lightning",
+  "equipment": [
+    "scorpio_comet_tail",
+    "robe_of_astral_sanctuary",
+    "gloves_of_astral_sanctuary",
+    "seeker_s_leggings"
+  ],
+  "deck": [
+    "haven_veil_red",
+    "haven_veil_red",
+    "flash_bolt_red",
+    "conflicting_thoughts_red",
+    "electrolyze_red",
+    "flittering_forcefield_red",
+    "visionary_of_orbits_red",
+    "brush_off_red",
+    "constella_flowslide_yellow",
+    "stormshatter_yellow",
+    "glide_through_starlight_yellow",
+    "lightning_overload_yellow",
+    "lightning_overload_yellow",
+    "nebula_duality_yellow",
+    "arc_ramp_yellow",
+    "comet_collision_blue",
+    "calmveil_of_volthaven_blue",
+    "spellbane_sigil_blue",
+    "calmveil_of_volthaven_blue",
+    "glide_through_starlight_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

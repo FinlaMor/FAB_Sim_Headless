@@ -1,0 +1,17 @@
+{
+  "name": "data_update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@flesh-and-blood/cards": "^4.0.7",
+    "@flesh-and-blood/types": "^4.0.4"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tool_name": "PowerShell",
+  "tool_input_preview": "{\"command\":\"Set-Location \\\"C:\\\\Users\\\\Joseph\\\\Desktop\\\\FAB_Sim_Headless\\\"\\n$env:PYTHONPATH = \\\"C:\\\\Users\\\\Joseph\\\\Desktop\\\\FAB_Sim_Headless\\\"\\npython -c \\\"\\nfrom python.examples.cc_gameplay_gate impor...",
+  "error": "Exit code 1\n  File \"<string>\", line 10\r\n    print(f'{tag}: loaded, net_present={getattr(b,\" _net\\,None)\r\n                                                  ^\r\nSyntaxError: unterminated string literal (detected at line 10)",
+  "timestamp": "2026-06-25T11:18:39.171Z",
+  "retry_count": 1
+}

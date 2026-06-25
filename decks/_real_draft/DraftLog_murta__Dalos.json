@@ -1,0 +1,41 @@
+{
+ "hero": "oscilio_scion_of_the_third_age",
+ "equipment": [
+  "volzar_meteor_storm",
+  "constella_tiara",
+  "seeker_s_gilet",
+  "seeker_s_leggings"
+ ],
+ "deck": [
+  "caress_of_the_reaper_red",
+  "stunning_swipe_red",
+  "rush_of_power_red",
+  "rush_of_power_red",
+  "lightning_form_red",
+  "calmveil_of_volthaven_red",
+  "rush_of_power_red",
+  "destructive_fleetfoot_red",
+  "destructive_fleetfoot_red",
+  "singeing_flowstride_red",
+  "mercurial_skies_red",
+  "electrolyze_red",
+  "stunning_swipe_yellow",
+  "path_of_same_ends_yellow",
+  "volatile_fluxor_yellow",
+  "electryn_joltstep_yellow",
+  "electrolyze_yellow",
+  "electrolyze_yellow",
+  "stunning_swipe_yellow",
+  "arcanic_cunning_yellow",
+  "voltbound_duality_yellow",
+  "voltbound_duality_blue",
+  "flittering_forcefield_blue",
+  "destructive_fleetfoot_blue",
+  "rush_of_power_blue",
+  "quick_succession_blue",
+  "astral_assault_blue",
+  "voltbound_duality_blue",
+  "destructive_fleetfoot_blue",
+  "singeing_flowstride_blue"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+  "hero": "oscilio_scion_of_the_third_age",
+  "equipment": [
+    "volzar_meteor_storm",
+    "constella_tiara",
+    "seeker_s_gilet",
+    "seeker_s_mitts",
+    "laced_lightning"
+  ],
+  "deck": [
+    "leech_renown_red",
+    "stunning_swipe_red",
+    "brush_off_red",
+    "beckoning_brilliance_red",
+    "conflicting_thoughts_red",
+    "rush_of_power_red",
+    "brush_off_red",
+    "rush_of_power_red",
+    "dashing_flashfoot_yellow",
+    "singeing_flowstride_yellow",
+    "dashing_flashfoot_yellow",
+    "destructive_fleetfoot_yellow",
+    "singeing_flowstride_yellow",
+    "chromatic_refinement_yellow",
+    "rush_of_power_yellow",
+    "prophetic_quickstep_yellow",
+    "flittering_spike_blue",
+    "chromatic_refinement_blue",
+    "stunning_swipe_blue",
+    "voltbound_duality_blue",
+    "rush_of_power_blue",
+    "mercurial_skies_blue",
+    "spellbane_sigil_blue",
+    "sigil_of_astral_flow_blue",
+    "arcanic_cunning_blue",
+    "path_of_same_ends_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

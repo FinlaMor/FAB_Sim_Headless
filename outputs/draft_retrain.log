@@ -1,0 +1,15 @@
+[iql-draft] 1176 pick transitions | |vocab|=197 | attn(emb=48,heads=4,layers=2) | window=all
+[iql-draft] card attributes ON (dim=22)
+  step      0 loss=41.3518 (v=0.5081 q=0.7183 pi=40.1254)
+  step    400 loss=1.5072 (v=0.0022 q=0.0203 pi=1.4846)
+  step    800 loss=0.4827 (v=0.0025 q=0.0079 pi=0.4723)
+  step   1200 loss=0.2063 (v=0.0014 q=0.0079 pi=0.1970)
+  step   1600 loss=0.0603 (v=0.0015 q=0.0128 pi=0.0460)
+  step   2000 loss=0.0294 (v=0.0013 q=0.0076 pi=0.0205)
+  step   2400 loss=0.0389 (v=0.0033 q=0.0045 pi=0.0310)
+  step   2800 loss=0.0250 (v=0.0013 q=0.0060 pi=0.0177)
+  step   3200 loss=0.0186 (v=0.0041 q=0.0045 pi=0.0101)
+  step   3600 loss=0.0251 (v=0.0015 q=0.0071 pi=0.0165)
+  step   3999 loss=0.0341 (v=0.0035 q=0.0031 pi=0.0275)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0341)
+done: attention+signal+attributes draft model -> latest.pt

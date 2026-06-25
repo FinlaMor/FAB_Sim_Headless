@@ -1,0 +1,41 @@
+{
+  "hero": "oscilio_scion_of_the_third_age",
+  "equipment": [
+    "volzar_meteor_storm",
+    "helm_of_astral_sanctuary",
+    "robe_of_astral_sanctuary",
+    "seeker_s_leggings"
+  ],
+  "deck": [
+    "leech_vitality_red",
+    "rush_of_power_red",
+    "destructive_fleetfoot_red",
+    "electryn_joltstep_red",
+    "flittering_spike_red",
+    "astral_assault_red",
+    "quick_succession_red",
+    "leech_renown_red",
+    "flowing_stormstrike_red",
+    "stinging_sprite_red",
+    "stormshard_red",
+    "singeing_flowstride_red",
+    "electryn_joltstep_yellow",
+    "singeing_flowstride_yellow",
+    "voltbound_duality_yellow",
+    "arcanic_cunning_yellow",
+    "mercurial_skies_yellow",
+    "singeing_flowstride_yellow",
+    "quick_succession_yellow",
+    "quick_succession_yellow",
+    "stunning_swipe_yellow",
+    "singeing_flowstride_blue",
+    "thunderous_retort_blue",
+    "electryn_joltstep_blue",
+    "rush_of_power_blue",
+    "quick_succession_blue",
+    "singeing_flowstride_blue",
+    "electryn_joltstep_blue",
+    "stunning_swipe_blue",
+    "voltbound_duality_blue"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "hero": "kayo_underhanded_cheat",
+  "comment": "Imported from fabrary: 'NOTHING TO BE DONE [Public]' [Classic Constructed] deckId=01KJRZ0XBW2CRDVMH5P2A1WE40",
+  "equipment": [
+    "fyendals_spring_tunic",
+    "savage_claw",
+    "scabskin_leathers",
+    "scowling_flesh_bag"
+  ],
+  "deck": [
+    "big_bully_red",
+    "big_bully_red",
+    "booze_blue",
+    "booze_blue",
+    "booze_blue",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "fiddlers_green_red",
+    "fiddlers_green_red",
+    "fiddlers_green_red",
+    "mocking_blow_blue",
+    "mocking_blow_blue",
+    "mocking_blow_blue",
+    "mocking_blow_red",
+    "mocking_blow_red",
+    "mocking_blow_yellow",
+    "mocking_blow_yellow",
+    "mocking_blow_yellow",
+    "outside_interference_blue",
+    "outside_interference_blue",
+    "outside_interference_blue",
+    "overcrowded_blue",
+    "reckless_arithmetic_blue",
+    "reckless_arithmetic_blue",
+    "reckless_arithmetic_blue",
+    "reckless_swing_blue",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "show_of_strength_red",
+    "show_of_strength_red",
+    "show_of_strength_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "steal_victory_blue",
+    "steal_victory_blue",
+    "steal_victory_blue",
+    "swing_big_red",
+    "swing_big_red",
+    "swing_big_red",
+    "wrecker_romp_blue",
+    "wrecker_romp_blue",
+    "wrecker_romp_blue"
+  ],
+  "sideboard": [
+    "big_bully_red",
+    "chain_of_brutality_red",
+    "chain_of_brutality_red",
+    "chain_of_brutality_red",
+    "cheaters_charm_yellow",
+    "cheaters_charm_yellow",
+    "cheaters_charm_yellow",
+    "insult_to_injury_red",
+    "looking_for_a_scrap_red",
+    "looking_for_a_scrap_red",
+    "looking_for_a_scrap_red",
+    "mocking_blow_red",
+    "remembrance_yellow",
+    "remembrance_yellow",
+    "remembrance_yellow",
+    "snarky_prick_red",
+    "snarky_prick_red",
+    "snarky_prick_red"
+  ],
+  "sideboard_equipment": [
+    "apex_bonebreaker",
+    "arcane_lantern",
+    "line_crossers",
+    "skullhorn"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 54,
+  "matchups": [
+    {
+      "matchupId": "01KQP56B8NA4SKC0Y75Y946K71",
+      "heroes": [],
+      "name": "Midrange"
+    },
+    {
+      "matchupId": "01KQP56JVNGTHV6P97WS0TWC54",
+      "heroes": [],
+      "name": "Aggro"
+    },
+    {
+      "matchupId": "01KSPE483ZMHY8C4VKMTY4K0SP",
+      "heroes": [],
+      "name": "Fatigue"
+    },
+    {
+      "matchupId": "01KSPF7R29NMCA4TXE6JHTEBJV",
+      "heroes": [
+        "vynnset_iron_maiden"
+      ],
+      "name": "Vynnset"
+    }
+  ],
+  "matchup_quantities": {
+    "01KSPE483ZMHY8C4VKMTY4K0SP": {
+      "apex_bonebreaker": 0,
+      "line_crossers": 1,
+      "looking_for_a_scrap_red": 3,
+      "remembrance_yellow": 3
+    },
+    "01KQP56JVNGTHV6P97WS0TWC54": {
+      "apex_bonebreaker": 1,
+      "chain_of_brutality_red": 3,
+      "snarky_prick_red": 3,
+      "steal_victory_blue": 3
+    },
+    "01KSPF7R29NMCA4TXE6JHTEBJV": {
+      "apex_bonebreaker": 1,
+      "arcane_lantern": 1,
+      "chain_of_brutality_red": 3,
+      "savage_claw": 0,
+      "snarky_prick_red": 3
+    },
+    "01KQP56B8NA4SKC0Y75Y946K71": {
+      "chain_of_brutality_red": 0,
+      "cheaters_charm_yellow": 3,
+      "line_crossers": 1,
+      "looking_for_a_scrap_red": 3,
+      "remembrance_yellow": 0,
+      "snarky_prick_red": 0,
+      "steal_victory_blue": 3
+    }
+  }
+}

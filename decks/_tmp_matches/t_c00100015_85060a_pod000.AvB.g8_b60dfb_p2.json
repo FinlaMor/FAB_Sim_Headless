@@ -1,0 +1,39 @@
+{
+  "hero": "oscilio_scion_of_the_third_age",
+  "equipment": [
+    "volzar_meteor_storm",
+    "laced_lightning"
+  ],
+  "deck": [
+    "flowstate_embodiment_red",
+    "stinging_sprite_red",
+    "stormshard_red",
+    "singeing_flowstride_red",
+    "flittering_forcefield_red",
+    "flowshard_elemental_red",
+    "singeing_flowstride_red",
+    "stunning_swipe_red",
+    "caress_of_the_reaper_red",
+    "stellar_glide_red",
+    "voltbound_duality_red",
+    "tempt_over_yellow",
+    "mercurial_skies_yellow",
+    "rush_of_power_yellow",
+    "brush_off_yellow",
+    "starlight_road_blue",
+    "quick_succession_blue",
+    "destructive_fleetfoot_blue",
+    "astral_assault_blue",
+    "rush_of_power_blue",
+    "thunderous_retort_blue",
+    "destructive_fleetfoot_blue",
+    "flittering_forcefield_blue",
+    "conflicting_thoughts_blue",
+    "stunning_swipe_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

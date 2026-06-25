@@ -1,0 +1,329 @@
+{
+  "hero": "jarl_vetreidi",
+  "comment": "Imported from fabrary: 'Rousing em' [Classic Constructed] deckId=01JTGMPXHQAMD4BMX0X45N58P3",
+  "equipment": [
+    "crown_of_providence",
+    "fyendals_spring_tunic",
+    "gauntlets_of_the_boreal_domain",
+    "quickdodge_flexors",
+    "stalagmite_bastion_of_isenloft",
+    "summit_the_unforgiving"
+  ],
+  "deck": [
+    "autumns_touch_blue",
+    "autumns_touch_blue",
+    "autumns_touch_blue",
+    "channel_lake_frigid_blue",
+    "channel_lake_frigid_blue",
+    "channel_lake_frigid_blue",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "crumble_to_eternity_blue",
+    "crumble_to_eternity_blue",
+    "crumble_to_eternity_blue",
+    "felling_of_the_crown_red",
+    "felling_of_the_crown_red",
+    "felling_of_the_crown_red",
+    "frozen_to_death_blue",
+    "frozen_to_death_blue",
+    "frozen_to_death_blue",
+    "fruits_of_the_forest_blue",
+    "fruits_of_the_forest_blue",
+    "fruits_of_the_forest_blue",
+    "glacial_footsteps_blue",
+    "glacial_footsteps_blue",
+    "glacial_footsteps_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "mangle_red",
+    "mangle_red",
+    "mangle_red",
+    "oaken_old_red",
+    "oaken_old_red",
+    "oaken_old_red",
+    "plow_under_yellow",
+    "plow_under_yellow",
+    "plow_under_yellow",
+    "pulse_of_isenloft_blue",
+    "pummel_red",
+    "pummel_red",
+    "pummel_red",
+    "rootbound_carapace_red",
+    "rootbound_carapace_red",
+    "rootbound_carapace_red",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "winters_bite_blue",
+    "winters_bite_blue",
+    "winters_bite_blue"
+  ],
+  "sideboard": [
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "ice_quake_red",
+    "ice_quake_red",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "seeds_of_tomorrow_blue",
+    "seeds_of_tomorrow_blue",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "unforgetting_unforgiving_red",
+    "unforgetting_unforgiving_red"
+  ],
+  "sideboard_equipment": [
+    "heart_of_ice",
+    "nullrune_boots",
+    "nullrune_hood",
+    "sledge_of_anvilheim",
+    "titans_fist"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 55,
+  "matchups": [
+    {
+      "matchupId": "01JTH4NPZ9T7J1XNJ28M04ZT23",
+      "heroes": [],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01JTH4S4NBTJS2MVQ8HCY91VYJ",
+      "heroes": [],
+      "name": "Prism "
+    },
+    {
+      "matchupId": "01JTNPA9B4KJYNF5H17K2QQTAG",
+      "heroes": [],
+      "name": "Kano "
+    },
+    {
+      "matchupId": "01JTNPQAXM5DV0C4ETWEZ0C6T5",
+      "heroes": [],
+      "name": "Mirror/D react Ira/Fatigue"
+    },
+    {
+      "matchupId": "01JTNSEN8WRMAEDVQPFJ1SQS7W",
+      "heroes": [],
+      "name": "Florian mid"
+    },
+    {
+      "matchupId": "01JTNSG6TZYWTN7EJSPSPZS4F8",
+      "heroes": [],
+      "name": "Florian stack "
+    },
+    {
+      "matchupId": "01JTNVAQ1CSS57R1FSNXHJV888",
+      "heroes": [],
+      "name": "Arakni"
+    },
+    {
+      "matchupId": "01JTNVR3CQ8B38MG1S65EQAAXH",
+      "heroes": [],
+      "name": "Kassai "
+    },
+    {
+      "matchupId": "01JTNVTJSFFBKQWCHX7AVNQWQ4",
+      "heroes": [],
+      "name": "Verdance "
+    },
+    {
+      "matchupId": "01JTP142N24PJT34DRTB4XYFSY",
+      "heroes": [],
+      "name": "Aggro ira"
+    },
+    {
+      "matchupId": "01JTP163WKM0E7ZSK5AGPJ02CA",
+      "heroes": [],
+      "name": "Vynnsett "
+    },
+    {
+      "matchupId": "01JTP18A5P391J6TF2E23ZR83P",
+      "heroes": [],
+      "name": "Fai "
+    },
+    {
+      "matchupId": "01JVJ3W6F1DDV6ZJEEYZGJFR5M",
+      "heroes": [],
+      "name": "Fang"
+    }
+  ],
+  "matchup_quantities": {
+    "01JTNPA9B4KJYNF5H17K2QQTAG": {
+      "crown_of_providence": 0,
+      "enlightened_strike_red": 2,
+      "fyendals_spring_tunic": 0,
+      "heart_of_ice": 1,
+      "ice_quake_red": 2,
+      "mangle_red": 3,
+      "nullrune_boots": 1,
+      "nullrune_hood": 1,
+      "plow_under_yellow": 2,
+      "quickdodge_flexors": 0,
+      "rootbound_carapace_red": 0,
+      "rouse_the_ancients_blue": 3,
+      "seeds_of_tomorrow_blue": 2,
+      "sledge_of_anvilheim": 1,
+      "stalagmite_bastion_of_isenloft": 0,
+      "summit_the_unforgiving": 0
+    },
+    "01JTNSG6TZYWTN7EJSPSPZS4F8": {
+      "crown_of_providence": 0,
+      "enlightened_strike_red": 2,
+      "fyendals_spring_tunic": 0,
+      "heart_of_ice": 1,
+      "ice_quake_red": 2,
+      "mangle_red": 3,
+      "nullrune_boots": 1,
+      "nullrune_hood": 1,
+      "quickdodge_flexors": 0,
+      "rootbound_carapace_red": 0,
+      "rouse_the_ancients_blue": 3,
+      "seeds_of_tomorrow_blue": 1,
+      "sledge_of_anvilheim": 1,
+      "stalagmite_bastion_of_isenloft": 0,
+      "summit_the_unforgiving": 0
+    },
+    "01JTNVTJSFFBKQWCHX7AVNQWQ4": {
+      "crown_of_providence": 0,
+      "enlightened_strike_red": 2,
+      "fyendals_spring_tunic": 0,
+      "heart_of_ice": 1,
+      "ice_quake_red": 2,
+      "mangle_red": 3,
+      "nullrune_boots": 1,
+      "nullrune_hood": 1,
+      "plow_under_yellow": 3,
+      "quickdodge_flexors": 0,
+      "rootbound_carapace_red": 0,
+      "rouse_the_ancients_blue": 3,
+      "seeds_of_tomorrow_blue": 2,
+      "sledge_of_anvilheim": 1,
+      "stalagmite_bastion_of_isenloft": 0,
+      "summit_the_unforgiving": 0
+    },
+    "01JTNPQAXM5DV0C4ETWEZ0C6T5": {
+      "enlightened_strike_red": 2,
+      "heart_of_ice": 0,
+      "ice_quake_red": 2,
+      "mangle_red": 3,
+      "rouse_the_ancients_blue": 3,
+      "seeds_of_tomorrow_blue": 2,
+      "sink_below_red": 3,
+      "sledge_of_anvilheim": 1,
+      "stalagmite_bastion_of_isenloft": 0,
+      "summit_the_unforgiving": 0,
+      "unforgetting_unforgiving_red": 2
+    },
+    "01JTNSEN8WRMAEDVQPFJ1SQS7W": {
+      "enlightened_strike_red": 2,
+      "heart_of_ice": 0,
+      "ice_quake_red": 2,
+      "mangle_red": 3,
+      "nullrune_boots": 1,
+      "nullrune_hood": 0,
+      "quickdodge_flexors": 0,
+      "rouse_the_ancients_blue": 3,
+      "seeds_of_tomorrow_blue": 2,
+      "sink_below_red": 3,
+      "sledge_of_anvilheim": 1,
+      "stalagmite_bastion_of_isenloft": 0,
+      "summit_the_unforgiving": 0,
+      "unforgetting_unforgiving_red": 2
+    },
+    "01JTNVAQ1CSS57R1FSNXHJV888": {
+      "enlightened_strike_red": 2,
+      "ice_quake_red": 2,
+      "mangle_red": 3,
+      "rouse_the_ancients_blue": 3,
+      "seeds_of_tomorrow_blue": 2,
+      "sink_below_red": 3,
+      "summit_the_unforgiving": 1,
+      "unforgetting_unforgiving_red": 2
+    },
+    "01JTNVR3CQ8B38MG1S65EQAAXH": {
+      "enlightened_strike_red": 2,
+      "ice_quake_red": 2,
+      "mangle_red": 3,
+      "rouse_the_ancients_blue": 3,
+      "seeds_of_tomorrow_blue": 2,
+      "sink_below_red": 3,
+      "summit_the_unforgiving": 0,
+      "titans_fist": 1,
+      "unforgetting_unforgiving_red": 2
+    },
+    "01JTP18A5P391J6TF2E23ZR83P": {
+      "enlightened_strike_red": 2,
+      "ice_quake_red": 2,
+      "macho_grande_blue": 3,
+      "mangle_red": 3,
+      "pummel_red": 1,
+      "seeds_of_tomorrow_blue": 0,
+      "sink_below_red": 3,
+      "summit_the_unforgiving": 1,
+      "thunder_quake_blue": 1,
+      "unforgetting_unforgiving_red": 2
+    },
+    "01JTH4S4NBTJS2MVQ8HCY91VYJ": {
+      "enlightened_strike_red": 2,
+      "mangle_red": 3,
+      "plow_under_yellow": 0,
+      "rouse_the_ancients_blue": 3,
+      "sink_below_red": 3,
+      "stalagmite_bastion_of_isenloft": 1,
+      "summit_the_unforgiving": 0,
+      "titans_fist": 1,
+      "unforgetting_unforgiving_red": 0
+    },
+    "01JTH4NPZ9T7J1XNJ28M04ZT23": {
+      "enlightened_strike_red": 2,
+      "ice_quake_red": 2,
+      "macho_grande_blue": 3,
+      "mangle_red": 3,
+      "pummel_red": 1,
+      "seeds_of_tomorrow_blue": 1,
+      "sink_below_red": 3,
+      "summit_the_unforgiving": 1,
+      "thunder_quake_blue": 0,
+      "unforgetting_unforgiving_red": 2
+    },
+    "01JTP142N24PJT34DRTB4XYFSY": {
+      "enlightened_strike_red": 2,
+      "ice_quake_red": 2,
+      "macho_grande_blue": 2,
+      "mangle_red": 3,
+      "pummel_red": 1,
+      "seeds_of_tomorrow_blue": 2,
+      "sink_below_red": 3,
+      "summit_the_unforgiving": 1,
+      "thunder_quake_blue": 0,
+      "unforgetting_unforgiving_red": 2
+    },
+    "01JVJ3W6F1DDV6ZJEEYZGJFR5M": {
+      "ice_quake_red": 2,
+      "pummel_red": 1,
+      "sink_below_red": 3,
+      "unforgetting_unforgiving_red": 2
+    },
+    "01JTP163WKM0E7ZSK5AGPJ02CA": {
+      "mangle_red": 0,
+      "nullrune_boots": 1,
+      "pummel_red": 1,
+      "quickdodge_flexors": 0,
+      "rouse_the_ancients_blue": 3,
+      "seeds_of_tomorrow_blue": 2,
+      "sink_below_red": 3,
+      "unforgetting_unforgiving_red": 2
+    }
+  }
+}

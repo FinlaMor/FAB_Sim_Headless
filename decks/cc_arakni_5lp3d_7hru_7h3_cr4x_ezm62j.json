@@ -1,0 +1,176 @@
+{
+  "hero": "arakni_5lp3d_7hru_7h3_cr4x",
+  "comment": "Imported from fabrary: 'Go Arakni!' [Classic Constructed] deckId=01JFYHCBPXDXQKYAPRR3EZM62J",
+  "equipment": [
+    "blood_splattered_vest",
+    "flick_knives",
+    "hunters_klaive",
+    "hunters_klaive",
+    "prey_spotters",
+    "snapdragon_scalers"
+  ],
+  "deck": [
+    "art_of_desire_body_red",
+    "art_of_desire_body_red",
+    "art_of_desire_body_red",
+    "art_of_desire_mind_blue",
+    "art_of_desire_mind_blue",
+    "art_of_desire_mind_blue",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "just_a_nick_red",
+    "just_a_nick_red",
+    "just_a_nick_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "lobotomy_red",
+    "lobotomy_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "meet_madness_red",
+    "meet_madness_red",
+    "meet_madness_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "pick_up_the_point_red",
+    "pick_up_the_point_red",
+    "pick_up_the_point_red",
+    "razors_edge_red",
+    "razors_edge_red",
+    "razors_edge_red",
+    "savor_bloodshed_red",
+    "savor_bloodshed_red",
+    "shred_yellow",
+    "shred_yellow",
+    "shred_yellow",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "spike_with_bloodrot_red",
+    "spike_with_bloodrot_red",
+    "spike_with_bloodrot_red",
+    "take_up_the_mantle_yellow",
+    "take_up_the_mantle_yellow",
+    "take_up_the_mantle_yellow",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "throw_dagger_blue",
+    "throw_dagger_blue",
+    "throw_dagger_blue"
+  ],
+  "sideboard": [
+    "battlefront_bastion_red",
+    "battlefront_bastion_red",
+    "battlefront_bastion_red",
+    "blanch_red",
+    "blanch_red",
+    "blanch_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "riddle_with_regret_red",
+    "riddle_with_regret_red"
+  ],
+  "sideboard_equipment": [
+    "crown_of_providence",
+    "orbitoclast",
+    "stalkers_steps"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 60,
+  "matchups": [
+    {
+      "matchupId": "01KR7QFFZGRYBQKS2CZ877NQM4",
+      "heroes": [],
+      "name": "Guardian"
+    },
+    {
+      "matchupId": "01KR7QHPPS0FNEYA4Y5M6KJWVV",
+      "heroes": [
+        "prism_awakener_of_sol"
+      ],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KR7QHPPWNTQY2XM996DE6ZAV",
+      "heroes": [
+        "cindra_dracai_of_retribution"
+      ],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01KR7QHPQ0K5DDPC6XW5D1H24C",
+      "heroes": [
+        "arakni_marionette"
+      ],
+      "name": "Arakni, Marionette"
+    },
+    {
+      "matchupId": "01KR7QHPQ47ZYM9KVR2PEZ6ZWG",
+      "heroes": [
+        "gravy_bones_shipwrecked_looter"
+      ],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KRG7Q67YJ10V48WGT9YHPRZB",
+      "heroes": [],
+      "name": "Runeblade"
+    },
+    {
+      "matchupId": "01KRX7EYB5C7JX0ZC8K8Z3KZ97",
+      "heroes": [
+        "fang_dracai_of_blades"
+      ],
+      "name": "Fang"
+    }
+  ],
+  "matchup_quantities": {
+    "01KR7QHPPWNTQY2XM996DE6ZAV": {
+      "art_of_desire_mind_blue": 0,
+      "battlefront_bastion_red": 0
+    },
+    "01KR7QHPPS0FNEYA4Y5M6KJWVV": {
+      "art_of_desire_mind_blue": 0,
+      "battlefront_bastion_red": 3,
+      "blanch_red": 3,
+      "just_a_nick_red": 0,
+      "persuasive_prognosis_blue": 0,
+      "riddle_with_regret_red": 1
+    },
+    "01KRX7EYB5C7JX0ZC8K8Z3KZ97": {
+      "art_of_desire_mind_blue": 0,
+      "riddle_with_regret_red": 1
+    },
+    "01KR7QHPQ0K5DDPC6XW5D1H24C": {
+      "art_of_desire_mind_blue": 0,
+      "crown_of_providence": 1,
+      "prey_spotters": 0
+    },
+    "01KR7QHPQ47ZYM9KVR2PEZ6ZWG": {
+      "blanch_red": 3,
+      "persuasive_prognosis_blue": 0,
+      "sink_below_red": 0
+    },
+    "01KRG7Q67YJ10V48WGT9YHPRZB": {
+      "crown_of_providence": 1,
+      "prey_spotters": 0,
+      "riddle_with_regret_red": 1,
+      "snapdragon_scalers": 0,
+      "stalkers_steps": 1
+    }
+  }
+}

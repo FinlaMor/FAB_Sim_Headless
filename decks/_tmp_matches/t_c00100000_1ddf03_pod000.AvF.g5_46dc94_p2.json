@@ -1,0 +1,41 @@
+{
+  "hero": "zyggy",
+  "equipment": [
+    "aphrodias",
+    "robe_of_astral_sanctuary",
+    "fingers_of_fragmentation",
+    "seeker_s_leggings"
+  ],
+  "deck": [
+    "conflicting_thoughts_red",
+    "stormshard_red",
+    "cosmic_duality_red",
+    "nebulus_cycle_yellow",
+    "glide_through_starlight_yellow",
+    "auric_shards_yellow",
+    "nebulus_cycle_yellow",
+    "auric_shards_yellow",
+    "brush_off_yellow",
+    "auric_shards_yellow",
+    "ebbing_arcstride_yellow",
+    "circular_flowtide_yellow",
+    "flow_through_blue",
+    "cosmic_duality_blue",
+    "flow_through_blue",
+    "fleeing_starbreeze_blue",
+    "volatile_fluxor_blue",
+    "crackle_from_afar_blue",
+    "stellar_glide_blue",
+    "pulsing_cardia_blue",
+    "nebulus_cycle_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

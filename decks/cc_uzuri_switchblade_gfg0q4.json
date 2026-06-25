@@ -1,0 +1,246 @@
+{
+  "hero": "uzuri_switchblade",
+  "comment": "Imported from fabrary: 'RTN W ONTARIO REDLINE' [Classic Constructed] deckId=01HFK0WW7EMM7QN98M43GFG0Q4",
+  "equipment": [
+    "crown_of_providence",
+    "flick_knives",
+    "fyendals_spring_tunic",
+    "hunters_klaive",
+    "nerve_scalpel"
+  ],
+  "deck": [
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "death_touch_red",
+    "death_touch_red",
+    "death_touch_red",
+    "infect_red",
+    "infect_red",
+    "infect_red",
+    "isolate_red",
+    "isolate_red",
+    "isolate_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "nimblism_red",
+    "nimblism_red",
+    "nimblism_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "savor_bloodshed_red",
+    "savor_bloodshed_red",
+    "savor_bloodshed_red",
+    "shake_down_red",
+    "shake_down_red",
+    "shake_down_red",
+    "stains_of_the_redback_red",
+    "stains_of_the_redback_red",
+    "stains_of_the_redback_red",
+    "surgical_extraction_blue",
+    "surgical_extraction_blue",
+    "surgical_extraction_blue",
+    "under_the_trap_door_blue",
+    "under_the_trap_door_blue",
+    "under_the_trap_door_blue"
+  ],
+  "sideboard": [
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "lair_of_the_spider_red",
+    "lair_of_the_spider_red",
+    "lair_of_the_spider_red",
+    "nimble_strike_red",
+    "shred_yellow",
+    "shred_yellow",
+    "shred_yellow",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red"
+  ],
+  "sideboard_equipment": [
+    "blacktek_whisperers",
+    "spiders_bite",
+    "starting_point",
+    "vambrace_of_determination",
+    "widow_veil_respirator"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 54,
+  "matchups": [
+    {
+      "matchupId": "01HFM845JACRB2K0FSCQBRS7QM",
+      "heroes": [],
+      "name": "ninja"
+    },
+    {
+      "matchupId": "01HFMZWNK3J9PYZCKMA2JY80KS",
+      "heroes": [],
+      "name": "dash"
+    },
+    {
+      "matchupId": "01HFTBSCMBNR4T12G3VPM1FZYX",
+      "heroes": [],
+      "name": "fai"
+    },
+    {
+      "matchupId": "01HFTBYPK9PCFGCVK6949EMTSG",
+      "heroes": [],
+      "name": "dash io"
+    },
+    {
+      "matchupId": "01HPJZJ53MR1ZGH94P5CK4W5HX",
+      "heroes": [],
+      "name": "kayo"
+    },
+    {
+      "matchupId": "01HPJZJP3J9T5KWRCMG7ET54YK",
+      "heroes": [],
+      "name": "rhinar"
+    },
+    {
+      "matchupId": "01HPJZM34G1FPV20R1BCYCG878",
+      "heroes": [],
+      "name": "prism"
+    },
+    {
+      "matchupId": "01HPJZMZDYWFQF2B3VMCHCJN3R",
+      "heroes": [],
+      "name": "kano(sorry but you dont win)"
+    },
+    {
+      "matchupId": "01HPK29SSFK03CZ1TPHSYCT4VD",
+      "heroes": [],
+      "name": "drmai"
+    },
+    {
+      "matchupId": "01HPK33CQJNWN51TYM7F7GJDT5",
+      "heroes": [],
+      "name": "bravo(fatigue? be careful)"
+    },
+    {
+      "matchupId": "01HPPVE0ZJQ08S7V31VJSF3NTX",
+      "heroes": [],
+      "name": "Aza"
+    },
+    {
+      "matchupId": "01HPPWDV5JMKRGR2B7PHZFF8FH",
+      "heroes": [],
+      "name": "kassai"
+    },
+    {
+      "matchupId": "01HPSD7PJ6NZZNZB08B3PEXJSR",
+      "heroes": [],
+      "name": "viktor"
+    },
+    {
+      "matchupId": "01HPSDAJHZHA9XYKWRRJYN0QA5",
+      "heroes": [],
+      "name": "dori"
+    },
+    {
+      "matchupId": "01HTGXRR2JJFF86TXRWSV2J04G",
+      "heroes": [],
+      "name": "teklo"
+    }
+  ],
+  "matchup_quantities": {
+    "01HFMZWNK3J9PYZCKMA2JY80KS": {
+      "blacktek_whisperers": 1,
+      "crown_of_providence": 1,
+      "shred_yellow": 2,
+      "sink_below_red": 0
+    },
+    "01HPJZMZDYWFQF2B3VMCHCJN3R": {
+      "blacktek_whisperers": 0,
+      "crown_of_providence": 0,
+      "spiders_bite": 0
+    },
+    "01HPPWDV5JMKRGR2B7PHZFF8FH": {
+      "crown_of_providence": 1,
+      "shred_yellow": 2,
+      "sink_below_red": 3,
+      "spiders_bite": 0
+    },
+    "01HPK29SSFK03CZ1TPHSYCT4VD": {
+      "crown_of_providence": 0,
+      "shred_yellow": 2
+    },
+    "01HPSD7PJ6NZZNZB08B3PEXJSR": {
+      "crown_of_providence": 1,
+      "nerve_scalpel": 0,
+      "shred_yellow": 2,
+      "sink_below_red": 3
+    },
+    "01HPK33CQJNWN51TYM7F7GJDT5": {
+      "crown_of_providence": 1,
+      "shred_yellow": 2,
+      "sink_below_red": 3
+    },
+    "01HTGXRR2JJFF86TXRWSV2J04G": {
+      "crown_of_providence": 1,
+      "shred_yellow": 2,
+      "sink_below_red": 3
+    },
+    "01HPPVE0ZJQ08S7V31VJSF3NTX": {
+      "crown_of_providence": 1,
+      "sink_below_red": 3
+    },
+    "01HFTBYPK9PCFGCVK6949EMTSG": {
+      "crown_of_providence": 1,
+      "shred_yellow": 2,
+      "sink_below_red": 3
+    },
+    "01HPSDAJHZHA9XYKWRRJYN0QA5": {
+      "crown_of_providence": 1,
+      "infect_red": 3,
+      "shred_yellow": 2,
+      "sink_below_red": 3,
+      "spiders_bite": 0
+    },
+    "01HPJZM34G1FPV20R1BCYCG878": {
+      "crown_of_providence": 1,
+      "shred_yellow": 2,
+      "sink_below_red": 3
+    },
+    "01HPJZJ53MR1ZGH94P5CK4W5HX": {
+      "nerve_scalpel": 0,
+      "sink_below_red": 3
+    },
+    "01HPJZJP3J9T5KWRCMG7ET54YK": {
+      "nerve_scalpel": 0,
+      "shred_yellow": 2,
+      "sink_below_red": 3
+    },
+    "01HFM845JACRB2K0FSCQBRS7QM": {
+      "sink_below_red": 3
+    },
+    "01HFTBSCMBNR4T12G3VPM1FZYX": {
+      "sink_below_red": 3
+    }
+  }
+}

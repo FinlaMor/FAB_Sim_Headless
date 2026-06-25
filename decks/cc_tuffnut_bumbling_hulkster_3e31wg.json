@@ -1,0 +1,425 @@
+{
+  "hero": "tuffnut_bumbling_hulkster",
+  "comment": "Imported from fabrary: 'Dwayne The Rok Johnson' [Classic Constructed] deckId=01KC278H2XYZ0KZT8XPT3E31WG",
+  "equipment": [
+    "boots_to_the_boards",
+    "fyendals_spring_tunic",
+    "gauntlets_of_tyrannical_rex",
+    "rok",
+    "scowling_flesh_bag"
+  ],
+  "deck": [
+    "agile_windup_yellow",
+    "agile_windup_yellow",
+    "agile_windup_yellow",
+    "buckwild_yellow",
+    "buckwild_yellow",
+    "buckwild_yellow",
+    "crowd_goes_wild_yellow",
+    "crowd_goes_wild_yellow",
+    "crowd_goes_wild_yellow",
+    "energetic_impact_blue",
+    "energetic_impact_blue",
+    "energetic_impact_blue",
+    "good_natured_brutality_yellow",
+    "good_natured_brutality_yellow",
+    "good_natured_brutality_yellow",
+    "jaws_of_victory_red",
+    "jaws_of_victory_red",
+    "jaws_of_victory_red",
+    "no_hero_stands_alone_yellow",
+    "no_hero_stands_alone_yellow",
+    "no_hero_stands_alone_yellow",
+    "send_packing_yellow",
+    "send_packing_yellow",
+    "send_packing_yellow",
+    "song_of_sinew_yellow",
+    "song_of_sinew_yellow",
+    "song_of_sinew_yellow",
+    "strongest_survive_yellow",
+    "strongest_survive_yellow",
+    "strongest_survive_yellow",
+    "thick_hide_hunter_yellow",
+    "thick_hide_hunter_yellow",
+    "thick_hide_hunter_yellow",
+    "tough_smashup_blue",
+    "tough_smashup_blue",
+    "tough_smashup_blue",
+    "tough_smashup_yellow",
+    "tough_smashup_yellow",
+    "tough_smashup_yellow",
+    "vigorous_smashup_blue",
+    "vigorous_smashup_blue",
+    "vigorous_smashup_blue",
+    "vigorous_smashup_yellow",
+    "vigorous_smashup_yellow",
+    "vigorous_smashup_yellow",
+    "wind_up_the_crowd_blue",
+    "wind_up_the_crowd_blue",
+    "wind_up_the_crowd_blue",
+    "wrecker_romp_blue",
+    "wrecker_romp_blue",
+    "wrecker_romp_blue"
+  ],
+  "sideboard": [
+    "argh_smash_yellow",
+    "battlefront_bastion_yellow",
+    "battlefront_bastion_yellow",
+    "battlefront_bastion_yellow",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "midas_touch_yellow",
+    "midas_touch_yellow",
+    "midas_touch_yellow",
+    "numbskull_charm_yellow",
+    "numbskull_charm_yellow",
+    "remembrance_yellow",
+    "show_of_strength_red",
+    "show_of_strength_red",
+    "strongest_survive_red",
+    "strongest_survive_red",
+    "strongest_survive_red",
+    "swing_big_red"
+  ],
+  "sideboard_equipment": [
+    "nullrune_boots",
+    "nullrune_gloves",
+    "romping_club",
+    "scabskin_leathers",
+    "skullhorn"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 51,
+  "matchups": [
+    {
+      "matchupId": "01KC278H7D0D7JTCR31G42K4TT",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KC835P8XS18MRE7YNRFXWC29",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KC83A6004NPMK1PBXMXSPTN8",
+      "heroes": [],
+      "name": "Arakni, Huntsman"
+    },
+    {
+      "matchupId": "01KC83GS9KN9FFXG70JW7K5NXR",
+      "heroes": [],
+      "name": "Lyath"
+    },
+    {
+      "matchupId": "01KC83QDHFCVA8XPBXEDMV9T2A",
+      "heroes": [],
+      "name": "Ninja"
+    },
+    {
+      "matchupId": "01KC842CWFMKATZAPYAV30ECF0",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01KC84874GCHN44C79D976Z6SD",
+      "heroes": [],
+      "name": "Mechanologist"
+    },
+    {
+      "matchupId": "01KC855BSQS4AMVWTNV7CB793J",
+      "heroes": [],
+      "name": "Jarl"
+    },
+    {
+      "matchupId": "01KC859DS0138G5GJ2DA5AP7N1",
+      "heroes": [],
+      "name": "Guardian"
+    },
+    {
+      "matchupId": "01KC86DSSKWQXFVGSDN4B7KX2C",
+      "heroes": [],
+      "name": "Warrior"
+    },
+    {
+      "matchupId": "01KC86PBRHTW1J28DY6EPYZC4D",
+      "heroes": [],
+      "name": "Kayo"
+    },
+    {
+      "matchupId": "01KC86WZKRV95BC0QXVEG7BGF7",
+      "heroes": [],
+      "name": "Pleiades"
+    },
+    {
+      "matchupId": "01KC8BM2MJJ7G3ZTCWWTHY6WN8",
+      "heroes": [],
+      "name": "Kassai"
+    },
+    {
+      "matchupId": "01KCQBBYY5N741RVYSCH9BWX06",
+      "heroes": [],
+      "name": "Verdance"
+    },
+    {
+      "matchupId": "01KCQBJ7CRS7ZZK5MV5Z4VSV2P",
+      "heroes": [],
+      "name": "Assassin"
+    },
+    {
+      "matchupId": "01KCS8G6YZ7CS8HNFW5YY26BQQ",
+      "heroes": [],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01KD7D9A5FAVRMMPYRP1FXTNWD",
+      "heroes": [],
+      "name": "Marlynn"
+    },
+    {
+      "matchupId": "01KDH61YG9SPQ8F8R3E2C2XVF3",
+      "heroes": [],
+      "name": "Teklovossen"
+    },
+    {
+      "matchupId": "01KEZHZ14E991NSZMJ3N0S8XTT",
+      "heroes": [],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01KEZJG1YZHK1NX5J826XW49WV",
+      "heroes": [],
+      "name": "Vynnset"
+    }
+  ],
+  "matchup_quantities": {
+    "01KC278H7D0D7JTCR31G42K4TT": {
+      "agile_windup_yellow": 3,
+      "battlefront_bastion_yellow": 3,
+      "boots_to_the_boards": 0,
+      "buckwild_yellow": 3,
+      "command_and_conquer_red": 3,
+      "energetic_impact_blue": 0,
+      "midas_touch_yellow": 3,
+      "no_hero_stands_alone_yellow": 3,
+      "rok": 0,
+      "romping_club": 1,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1,
+      "tough_smashup_blue": 0,
+      "vigorous_smashup_blue": 3,
+      "wind_up_the_crowd_blue": 3
+    },
+    "01KC835P8XS18MRE7YNRFXWC29": {
+      "agile_windup_yellow": 3,
+      "argh_smash_yellow": 0,
+      "battlefront_bastion_yellow": 0,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "good_natured_brutality_yellow": 2,
+      "midas_touch_yellow": 3,
+      "no_hero_stands_alone_yellow": 3,
+      "remembrance_yellow": 1,
+      "rok": 0,
+      "romping_club": 1,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 0,
+      "swing_big_red": 1,
+      "tough_smashup_blue": 3
+    },
+    "01KC842CWFMKATZAPYAV30ECF0": {
+      "agile_windup_yellow": 3,
+      "battlefront_bastion_yellow": 2,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "energetic_impact_blue": 2,
+      "gauntlets_of_tyrannical_rex": 0,
+      "good_natured_brutality_yellow": 3,
+      "nullrune_boots": 1,
+      "nullrune_gloves": 1,
+      "numbskull_charm_yellow": 2,
+      "scabskin_leathers": 0,
+      "scowling_flesh_bag": 0,
+      "show_of_strength_red": 0,
+      "skullhorn": 1,
+      "strongest_survive_red": 3,
+      "strongest_survive_yellow": 3,
+      "swing_big_red": 0
+    },
+    "01KC83A6004NPMK1PBXMXSPTN8": {
+      "argh_smash_yellow": 1,
+      "battlefront_bastion_yellow": 3,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "numbskull_charm_yellow": 2,
+      "remembrance_yellow": 1,
+      "rok": 0,
+      "romping_club": 1,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1
+    },
+    "01KC84874GCHN44C79D976Z6SD": {
+      "argh_smash_yellow": 1,
+      "battlefront_bastion_yellow": 3,
+      "command_and_conquer_red": 3,
+      "strongest_survive_red": 2
+    },
+    "01KCS8G6YZ7CS8HNFW5YY26BQQ": {
+      "argh_smash_yellow": 1,
+      "command_and_conquer_red": 3,
+      "show_of_strength_red": 1,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1
+    },
+    "01KD7D9A5FAVRMMPYRP1FXTNWD": {
+      "argh_smash_yellow": 1,
+      "command_and_conquer_red": 3,
+      "good_natured_brutality_yellow": 2,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1
+    },
+    "01KDH61YG9SPQ8F8R3E2C2XVF3": {
+      "argh_smash_yellow": 1,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "numbskull_charm_yellow": 2,
+      "remembrance_yellow": 1,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1
+    },
+    "01KC8BM2MJJ7G3ZTCWWTHY6WN8": {
+      "argh_smash_yellow": 0,
+      "battlefront_bastion_yellow": 0,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "energetic_impact_blue": 3,
+      "midas_touch_yellow": 2,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 2,
+      "swing_big_red": 0,
+      "tough_smashup_yellow": 3
+    },
+    "01KC83QDHFCVA8XPBXEDMV9T2A": {
+      "battlefront_bastion_yellow": 3,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "scabskin_leathers": 1,
+      "strongest_survive_red": 3
+    },
+    "01KC855BSQS4AMVWTNV7CB793J": {
+      "battlefront_bastion_yellow": 3,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "numbskull_charm_yellow": 2,
+      "remembrance_yellow": 1,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1
+    },
+    "01KC86PBRHTW1J28DY6EPYZC4D": {
+      "battlefront_bastion_yellow": 3,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "no_hero_stands_alone_yellow": 0,
+      "numbskull_charm_yellow": 2,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1,
+      "tough_smashup_blue": 3,
+      "tough_smashup_yellow": 3,
+      "vigorous_smashup_blue": 3,
+      "vigorous_smashup_yellow": 2,
+      "wind_up_the_crowd_blue": 2
+    },
+    "01KCQBJ7CRS7ZZK5MV5Z4VSV2P": {
+      "battlefront_bastion_yellow": 3,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "energetic_impact_blue": 1,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 2,
+      "swing_big_red": 1
+    },
+    "01KC86DSSKWQXFVGSDN4B7KX2C": {
+      "battlefront_bastion_yellow": 3,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "numbskull_charm_yellow": 0,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 2,
+      "swing_big_red": 0,
+      "tough_smashup_blue": 2
+    },
+    "01KEZJG1YZHK1NX5J826XW49WV": {
+      "battlefront_bastion_yellow": 3,
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "nullrune_boots": 1,
+      "strongest_survive_red": 3
+    },
+    "01KC86WZKRV95BC0QXVEG7BGF7": {
+      "battlefront_bastion_yellow": 3,
+      "command_and_conquer_red": 3,
+      "numbskull_charm_yellow": 2,
+      "remembrance_yellow": 1,
+      "rok": 0,
+      "romping_club": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1
+    },
+    "01KCQBBYY5N741RVYSCH9BWX06": {
+      "boots_to_the_boards": 0,
+      "command_and_conquer_red": 3,
+      "gauntlets_of_tyrannical_rex": 0,
+      "nullrune_boots": 1,
+      "nullrune_gloves": 1,
+      "numbskull_charm_yellow": 2,
+      "remembrance_yellow": 1,
+      "scabskin_leathers": 0,
+      "scowling_flesh_bag": 0,
+      "show_of_strength_red": 1,
+      "skullhorn": 1,
+      "strongest_survive_red": 3
+    },
+    "01KC83GS9KN9FFXG70JW7K5NXR": {
+      "command_and_conquer_red": 3,
+      "numbskull_charm_yellow": 2,
+      "remembrance_yellow": 1,
+      "show_of_strength_red": 1,
+      "strongest_survive_red": 3
+    },
+    "01KC859DS0138G5GJ2DA5AP7N1": {
+      "command_and_conquer_red": 3,
+      "good_natured_brutality_yellow": 3,
+      "numbskull_charm_yellow": 0,
+      "remembrance_yellow": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1
+    },
+    "01KEZHZ14E991NSZMJ3N0S8XTT": {
+      "command_and_conquer_red": 3,
+      "rok": 0,
+      "romping_club": 1,
+      "scabskin_leathers": 1,
+      "show_of_strength_red": 2,
+      "strongest_survive_red": 3,
+      "swing_big_red": 1
+    }
+  }
+}

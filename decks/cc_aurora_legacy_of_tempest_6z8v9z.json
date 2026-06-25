@@ -1,0 +1,537 @@
+{
+  "hero": "aurora_legacy_of_tempest",
+  "comment": "Imported from fabrary: 'Arurora \"No Blocks\" Legacy of Tempest' [Classic Constructed] deckId=01KSDBCN9FNQ8BBVD0ET6Z8V9Z",
+  "equipment": [
+    "crown_of_providence",
+    "dyadic_carapace",
+    "grasp_of_the_arknight",
+    "scorpio_comet_tail",
+    "snapdragon_scalers"
+  ],
+  "deck": [
+    "arc_lightning_yellow",
+    "arc_lightning_yellow",
+    "arc_lightning_yellow",
+    "burn_up__shock_red",
+    "burn_up__shock_red",
+    "burn_up__shock_red",
+    "current_funnel_blue",
+    "current_funnel_blue",
+    "current_funnel_blue",
+    "electrostatic_discharge_red",
+    "electrostatic_discharge_red",
+    "electrostatic_discharge_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "flittering_charge_red",
+    "flittering_charge_red",
+    "flittering_charge_red",
+    "fry_red",
+    "fry_red",
+    "fry_red",
+    "gone_in_a_flash_red",
+    "gone_in_a_flash_red",
+    "gone_in_a_flash_red",
+    "lightning_press_red",
+    "lightning_press_red",
+    "lightning_press_red",
+    "lightning_surge_red",
+    "lightning_surge_red",
+    "lightning_surge_red",
+    "path_of_same_ends_red",
+    "path_of_same_ends_red",
+    "path_of_same_ends_red",
+    "quick_succession_red",
+    "quick_succession_red",
+    "quick_succession_red",
+    "quick_succession_yellow",
+    "quick_succession_yellow",
+    "quick_succession_yellow",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "rush_of_power_red",
+    "rush_of_power_red",
+    "rush_of_power_red",
+    "scar_for_a_scar_red",
+    "scar_for_a_scar_red",
+    "scar_for_a_scar_red",
+    "second_strike_red",
+    "second_strike_red",
+    "second_strike_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "snatch_red",
+    "snatch_red",
+    "snatch_red"
+  ],
+  "sideboard": [
+    "nimblism_red",
+    "nimblism_red",
+    "nimblism_red",
+    "nimby_red",
+    "nimby_red",
+    "remembrance_yellow",
+    "remembrance_yellow",
+    "remembrance_yellow",
+    "sigil_of_suffering_red",
+    "sigil_of_suffering_red",
+    "sigil_of_suffering_red",
+    "vaporize__shock_yellow",
+    "vaporize__shock_yellow",
+    "vaporize__shock_yellow"
+  ],
+  "sideboard_equipment": [
+    "face_purgatory",
+    "fyendals_spring_tunic",
+    "lightning_greaves",
+    "shock_charmers"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 57,
+  "matchups": [
+    {
+      "matchupId": "01KVB9SYAJWESHP1E454BHX75P",
+      "heroes": [
+        "arakni_5lp3d_7hru_7h3_cr4x"
+      ],
+      "name": "Arakni, Slippy"
+    },
+    {
+      "matchupId": "01KVB9TP13K0EQDYASX33VMFX7",
+      "heroes": [
+        "arakni_huntsman"
+      ],
+      "name": "Arakni, Huntsman"
+    },
+    {
+      "matchupId": "01KVB9VYZ01932JVFC9JAY2H1Z",
+      "heroes": [
+        "arakni_marionette"
+      ],
+      "name": "Arakni, Marionette"
+    },
+    {
+      "matchupId": "01KVB9WTWZGP6B909P9Z5BRR68",
+      "heroes": [
+        "aurora_legacy_of_tempest"
+      ],
+      "name": "Aurora2"
+    },
+    {
+      "matchupId": "01KVB9XGV28PMCWJBW43PBA2NH",
+      "heroes": [
+        "betsy_skin_in_the_game"
+      ],
+      "name": "Betsy"
+    },
+    {
+      "matchupId": "01KVB9YNMN5MND34ZGXBY71201",
+      "heroes": [
+        "bravo_showstopper"
+      ],
+      "name": "Bravo"
+    },
+    {
+      "matchupId": "01KVB9ZRXR289XT5WR2F5AAEPB",
+      "heroes": [
+        "cindra_dracai_of_retribution"
+      ],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01KVBA0WJA3SXGWJJ5HCGD7TMC",
+      "heroes": [
+        "dash_io"
+      ],
+      "name": "Dash IO"
+    },
+    {
+      "matchupId": "01KVBA1EWGPY2NZCCZQKQV63NH",
+      "heroes": [
+        "dorinthea_ironsong"
+      ],
+      "name": "Dorinthea"
+    },
+    {
+      "matchupId": "01KVBA20FWY190EYYA3XY8HBRG",
+      "heroes": [
+        "fai_rising_rebellion"
+      ],
+      "name": "Fai"
+    },
+    {
+      "matchupId": "01KVBA2Z0KWAXCCENTJXGWF2PD",
+      "heroes": [
+        "fang_dracai_of_blades"
+      ],
+      "name": "Fang"
+    },
+    {
+      "matchupId": "01KVBA6KF31E0JDZFE515GGV9E",
+      "heroes": [
+        "gravy_bones_shipwrecked_looter"
+      ],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KVBA7AE8ZNMCP871M481NVG2",
+      "heroes": [
+        "hala_bladesaint_of_the_vow"
+      ],
+      "name": "Hala"
+    },
+    {
+      "matchupId": "01KVBA8CMPGTQES5AV6KNHM203",
+      "heroes": [
+        "ira_scarlet_revenger"
+      ],
+      "name": "Ira"
+    },
+    {
+      "matchupId": "01KVBA95S7F2SBWV1DCJ509M66",
+      "heroes": [
+        "jarl_vetreidi"
+      ],
+      "name": "Jarl"
+    },
+    {
+      "matchupId": "01KVDZBTB900Y7WBCZBFMCNRAQ",
+      "heroes": [
+        "kassai_of_the_golden_sand"
+      ],
+      "name": "Kassai"
+    },
+    {
+      "matchupId": "01KVDZEQ2HPJF8QX2RFQD5GRZD",
+      "heroes": [
+        "katsu_the_wanderer"
+      ],
+      "name": "Katsu"
+    },
+    {
+      "matchupId": "01KVDZF9CGF6BZPFJ1VSMNH8PN",
+      "heroes": [
+        "kayo_underhanded_cheat"
+      ],
+      "name": "Kayo, RKO"
+    },
+    {
+      "matchupId": "01KVDZFXFSN64EP9YKJDNKP9CC",
+      "heroes": [
+        "levia_shadowborn_abomination"
+      ],
+      "name": "Levia"
+    },
+    {
+      "matchupId": "01KVDZGK7KSH1T60P0KG1M3WGT",
+      "heroes": [
+        "lyath_goldmane_vile_savant"
+      ],
+      "name": "Lyath"
+    },
+    {
+      "matchupId": "01KVDZHH2FZ6YP2CC26BK2R767",
+      "heroes": [
+        "marlynn_treasure_hunter"
+      ],
+      "name": "Marlynn"
+    },
+    {
+      "matchupId": "01KVDZJ1YD7PPRHRM42FJX1875",
+      "heroes": [
+        "maxx_the_hype_nitro"
+      ],
+      "name": "Maxx"
+    },
+    {
+      "matchupId": "01KVDZJJKR27YPTDPRA0GVD4WR",
+      "heroes": [
+        "olympia_prized_fighter"
+      ],
+      "name": "Olympia"
+    },
+    {
+      "matchupId": "01KVDZK92AC4YJ6PC0MZXMQEJF",
+      "heroes": [
+        "oscilio_constella_intelligence",
+        "oscilio_forked_continuum"
+      ],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01KVDZN89Y964HWH7ZF7XY0M3B",
+      "heroes": [
+        "pleiades_superstar"
+      ],
+      "name": "Pleiades"
+    },
+    {
+      "matchupId": "01KVDZNY0TQAX33WFMCV872FDF",
+      "heroes": [
+        "prism_awakener_of_sol"
+      ],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KVDZPNT5CA9WXV49XJPHNABA",
+      "heroes": [
+        "puffin_hightail"
+      ],
+      "name": "Puffin"
+    },
+    {
+      "matchupId": "01KVDZQD32XV7E226PK6QS83WJ",
+      "heroes": [
+        "rhinar_reckless_rampage"
+      ],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01KVDZR9S7RHPC47TA765QJVG1",
+      "heroes": [
+        "riptide_lurker_of_the_deep"
+      ],
+      "name": "Riptide"
+    },
+    {
+      "matchupId": "01KVDZRW33THB168CH9XA7649N",
+      "heroes": [
+        "ser_boltyn_breaker_of_dawn"
+      ],
+      "name": "Boltyn"
+    },
+    {
+      "matchupId": "01KVDZT3Q38RCT8HWMDQ5S0E0Y",
+      "heroes": [
+        "uzuri_switchblade"
+      ],
+      "name": "Uzuri"
+    },
+    {
+      "matchupId": "01KVDZV1Z788M2VPGKT7T1GY2C",
+      "heroes": [
+        "valda_seismic_impact"
+      ],
+      "name": "Valda"
+    },
+    {
+      "matchupId": "01KVDZX9NDVDBGASK089Y9E5TT",
+      "heroes": [
+        "victor_goldmane_high_and_mighty"
+      ],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01KVDZZ9RY8ZYWPQWGYSHHVRM3",
+      "heroes": [
+        "vynnset_iron_maiden"
+      ],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01KVE008H8TNNVCQR0M5WZ34W5",
+      "heroes": [
+        "zyggy_starlight"
+      ],
+      "name": "Zyggy"
+    }
+  ],
+  "matchup_quantities": {
+    "01KVB9WTWZGP6B909P9Z5BRR68": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "lightning_greaves": 1,
+      "sigil_of_suffering_red": 3,
+      "snapdragon_scalers": 0
+    },
+    "01KVB9ZRXR289XT5WR2F5AAEPB": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVBA0WJA3SXGWJJ5HCGD7TMC": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVBA1EWGPY2NZCCZQKQV63NH": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVBA20FWY190EYYA3XY8HBRG": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVBA2Z0KWAXCCENTJXGWF2PD": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_solace_red": 0,
+      "sigil_of_suffering_red": 3,
+      "vaporize__shock_yellow": 3
+    },
+    "01KVBA7AE8ZNMCP871M481NVG2": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZBTB900Y7WBCZBFMCNRAQ": {
+      "crown_of_providence": 0,
+      "dyadic_carapace": 0,
+      "face_purgatory": 1,
+      "fyendals_spring_tunic": 1,
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_suffering_red": 0
+    },
+    "01KVDZEQ2HPJF8QX2RFQD5GRZD": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZFXFSN64EP9YKJDNKP9CC": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZGK7KSH1T60P0KG1M3WGT": {
+      "crown_of_providence": 1,
+      "dyadic_carapace": 1,
+      "fyendals_spring_tunic": 1,
+      "grasp_of_the_arknight": 1,
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_solace_red": 0,
+      "sigil_of_suffering_red": 0
+    },
+    "01KVDZJ1YD7PPRHRM42FJX1875": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZNY0TQAX33WFMCV872FDF": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZPNT5CA9WXV49XJPHNABA": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZRW33THB168CH9XA7649N": {
+      "crown_of_providence": 0,
+      "face_purgatory": 1,
+      "sigil_of_suffering_red": 3
+    },
+    "01KVB9XGV28PMCWJBW43PBA2NH": {
+      "dyadic_carapace": 0,
+      "fyendals_spring_tunic": 1,
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_solace_red": 0
+    },
+    "01KVBA95S7F2SBWV1DCJ509M66": {
+      "dyadic_carapace": 0,
+      "fyendals_spring_tunic": 1,
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_solace_red": 0
+    },
+    "01KVDZJJKR27YPTDPRA0GVD4WR": {
+      "dyadic_carapace": 0,
+      "fyendals_spring_tunic": 1,
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_solace_red": 0
+    },
+    "01KVDZN89Y964HWH7ZF7XY0M3B": {
+      "dyadic_carapace": 0,
+      "fyendals_spring_tunic": 1,
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_solace_red": 0
+    },
+    "01KVDZX9NDVDBGASK089Y9E5TT": {
+      "dyadic_carapace": 0,
+      "fyendals_spring_tunic": 1,
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_solace_red": 0
+    },
+    "01KVE008H8TNNVCQR0M5WZ34W5": {
+      "dyadic_carapace": 0,
+      "fyendals_spring_tunic": 1,
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_solace_red": 0,
+      "vaporize__shock_yellow": 3
+    },
+    "01KVDZZ9RY8ZYWPQWGYSHHVRM3": {
+      "fyendals_spring_tunic": 0,
+      "lightning_greaves": 1,
+      "vaporize__shock_yellow": 3
+    },
+    "01KVDZK92AC4YJ6PC0MZXMQEJF": {
+      "grasp_of_the_arknight": 0,
+      "lightning_greaves": 0,
+      "nimblism_red": 3,
+      "shock_charmers": 1,
+      "snapdragon_scalers": 1
+    },
+    "01KVB9TP13K0EQDYASX33VMFX7": {
+      "nimblism_red": 3,
+      "nimby_red": 2,
+      "remembrance_yellow": 3,
+      "sigil_of_solace_red": 0,
+      "sigil_of_suffering_red": 0
+    },
+    "01KVDZV1Z788M2VPGKT7T1GY2C": {
+      "sigil_of_solace_red": 0,
+      "sigil_of_suffering_red": 3,
+      "vaporize__shock_yellow": 3
+    },
+    "01KVB9SYAJWESHP1E454BHX75P": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVB9VYZ01932JVFC9JAY2H1Z": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVB9YNMN5MND34ZGXBY71201": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVBA6KF31E0JDZFE515GGV9E": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVBA8CMPGTQES5AV6KNHM203": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZF9CGF6BZPFJ1VSMNH8PN": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZHH2FZ6YP2CC26BK2R767": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZQD32XV7E226PK6QS83WJ": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZR9S7RHPC47TA765QJVG1": {
+      "sigil_of_suffering_red": 3
+    },
+    "01KVDZT3Q38RCT8HWMDQ5S0E0Y": {
+      "sigil_of_suffering_red": 3
+    }
+  }
+}

@@ -1,0 +1,88 @@
+[warm-start] using existing models: gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt
+
+############ ITERATION 0 ############
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\transformer.py:409: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\NestedTensorImpl.cpp:180.)
+  output = torch._nested_tensor_from_mask(output, src_key_padding_mask.logical_not(), mask_check=False)
+  [t_c00082000_594d4f_pod000] A vs G: 2-4 (draws=4, games=10) -> G
+  [t_c00082000_594d4f_pod000] A vs E: 2-5 (draws=3, games=10) -> E
+  [t_c00082000_594d4f_pod000] A vs B: 1-3 (draws=6, games=10) -> B
+  [t_c00082000_594d4f_pod000] A vs C: 0-10 (draws=0, games=10) -> C
+  [t_c00082000_594d4f_pod000] A vs F: 1-8 (draws=1, games=10) -> F
+  [t_c00082000_594d4f_pod000] A vs H: 1-9 (draws=0, games=10) -> H
+  [t_c00082000_594d4f_pod000] B vs E: 1-4 (draws=5, games=10) -> E
+  [t_c00082000_594d4f_pod000] B vs C: 1-9 (draws=0, games=10) -> C
+  [t_c00082000_594d4f_pod000] B vs D: 3-6 (draws=1, games=10) -> D
+  [t_c00082000_594d4f_pod000] B vs F: 1-9 (draws=0, games=10) -> F
+  [t_c00082000_594d4f_pod000] B vs H: 2-7 (draws=1, games=10) -> H
+  [t_c00082000_594d4f_pod000] A vs D: 3-7 (draws=0, games=10) -> D
+  [t_c00082000_594d4f_pod000] B vs G: 2-3 (draws=11, games=16) -> G [win-by-2]
+  [t_c00082000_594d4f_pod000] C vs E: 7-2 (draws=1, games=10) -> C
+  [t_c00082000_594d4f_pod000] C vs D: 3-5 (draws=2, games=10) -> D
+  [t_c00082000_594d4f_pod000] D vs E: 6-3 (draws=1, games=10) -> D
+  [t_c00082000_594d4f_pod000] C vs F: 6-1 (draws=3, games=10) -> C
+  [t_c00082000_594d4f_pod000] C vs H: 3-5 (draws=2, games=10) -> H
+  [t_c00082000_594d4f_pod000] D vs F: 7-0 (draws=3, games=10) -> D
+  [t_c00082000_594d4f_pod000] D vs G: 7-0 (draws=3, games=10) -> D
+  [t_c00082000_594d4f_pod000] C vs G: 6-4 (draws=0, games=10) -> C
+  [t_c00082000_594d4f_pod000] E vs G: 3-1 (draws=6, games=10) -> E
+  [t_c00082000_594d4f_pod000] E vs H: 0-9 (draws=1, games=10) -> H
+  [t_c00082000_594d4f_pod000] E vs F: 6-4 (draws=2, games=12) -> E [win-by-2]
+  [t_c00082000_594d4f_pod000] G vs H: 3-7 (draws=0, games=10) -> H
+  [t_c00082000_594d4f_pod000] F vs H: 1-7 (draws=2, games=10) -> H
+  [t_c00082000_594d4f_pod000] F vs G: 5-4 (draws=1, games=10) -> F
+  [t_c00082000_594d4f_pod000] D vs H: 8-10 (draws=4, games=22) -> H [win-by-2]
+Round-robin t_c00082000_594d4f_pod000 (seed=34195456)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  H     c00082000_594d4f_pod000_aurora_e      7-0-0     54-18-10
+   2  D     c00082000_594d4f_pod000_zyggy_se      6-1-0     46-22-14
+   3  C     c00082000_594d4f_pod000_zyggy_se      5-2-0      44-18-8
+   4  E     c00082000_594d4f_pod000_oscilio_      4-3-0     23-30-19
+   5  F     c00082000_594d4f_pod000_aurora_e      3-4-0     28-32-12
+   6  G     c00082000_594d4f_pod000_oscilio_      2-5-0     19-32-25
+   7  B     c00082000_594d4f_pod000_oscilio_      1-6-0     13-39-24
+   8  A     c00082000_594d4f_pod000_oscilio_      0-7-0     10-46-14
+Round-robin t_c00082000_594d4f_pod000 (seed=34195456)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  H     c00082000_594d4f_pod000_aurora_e      7-0-0     54-18-10
+   2  D     c00082000_594d4f_pod000_zyggy_se      6-1-0     46-22-14
+   3  C     c00082000_594d4f_pod000_zyggy_se      5-2-0      44-18-8
+   4  E     c00082000_594d4f_pod000_oscilio_      4-3-0     23-30-19
+   5  F     c00082000_594d4f_pod000_aurora_e      3-4-0     28-32-12
+   6  G     c00082000_594d4f_pod000_oscilio_      2-5-0     19-32-25
+   7  B     c00082000_594d4f_pod000_oscilio_      1-6-0     13-39-24
+   8  A     c00082000_594d4f_pod000_oscilio_      0-7-0     10-46-14
+  champion: c00082000_594d4f_pod000_aurora_emissary_of_lightning_seat7
+
+--- training (window=all) after iter 0 ---
+[iql-gameplay] 225179 transitions | |vocab|=223 | shaped=True window=all
+[iql-gameplay] card attributes ON (dim=22)
+  step      0 loss=0.1979 (v=0.0029 q=0.0043 pi=0.1908)
+  step    400 loss=0.0813 (v=0.0000 q=0.0001 pi=0.0812)
+  step    800 loss=0.0704 (v=0.0000 q=0.0000 pi=0.0704)
+  step   1200 loss=0.0589 (v=0.0000 q=0.0001 pi=0.0588)
+  step   1600 loss=0.1045 (v=0.0000 q=0.0001 pi=0.1044)
+  step   2000 loss=0.0745 (v=0.0000 q=0.0000 pi=0.0745)
+  step   2400 loss=0.0786 (v=0.0000 q=0.0000 pi=0.0785)
+  step   2800 loss=0.0614 (v=0.0000 q=0.0000 pi=0.0613)
+  step   3200 loss=0.0346 (v=0.0000 q=0.0000 pi=0.0346)
+  step   3600 loss=0.1148 (v=0.0000 q=0.0000 pi=0.1148)
+  step   3999 loss=0.0524 (v=0.0000 q=0.0000 pi=0.0523)
+[iql-gameplay] saved -> outputs\models\_staging\iql_gameplay.pt (final loss 0.0524)
+[iql-draft] 672 pick transitions | |vocab|=193 | attn(emb=48,heads=4,layers=2) | window=all
+[iql-draft] card attributes ON (dim=22)
+  step      0 loss=1.3365 (v=0.1437 q=0.4853 pi=0.7075)
+  step    300 loss=1.0898 (v=0.0050 q=0.0360 pi=1.0488)
+  step    600 loss=0.3120 (v=0.0034 q=0.0119 pi=0.2967)
+  step    900 loss=0.1302 (v=0.0044 q=0.0069 pi=0.1189)
+  step   1200 loss=0.0697 (v=0.0012 q=0.0030 pi=0.0655)
+  step   1500 loss=0.0447 (v=0.0077 q=0.0022 pi=0.0348)
+  step   1800 loss=0.0330 (v=0.0041 q=0.0124 pi=0.0165)
+  step   2100 loss=0.0213 (v=0.0039 q=0.0009 pi=0.0165)
+  step   2400 loss=0.0052 (v=0.0034 q=0.0011 pi=0.0007)
+  step   2700 loss=0.0163 (v=0.0029 q=0.0015 pi=0.0119)
+  step   2999 loss=0.0224 (v=0.0035 q=0.0010 pi=0.0179)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0224)
+iteration 0 done in 7307s; gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt

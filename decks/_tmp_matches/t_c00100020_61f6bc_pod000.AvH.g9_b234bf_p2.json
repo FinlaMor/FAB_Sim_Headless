@@ -1,0 +1,41 @@
+{
+  "hero": "oscilio_scion_of_the_third_age",
+  "equipment": [
+    "volzar_meteor_storm",
+    "seeker_s_hood",
+    "gloves_of_astral_sanctuary",
+    "boots_of_astral_sanctuary"
+  ],
+  "deck": [
+    "destructive_fleetfoot_red",
+    "stunning_swipe_red",
+    "singeing_flowstride_red",
+    "path_of_same_ends_red",
+    "leech_renown_red",
+    "thunderous_retort_red",
+    "path_of_same_ends_red",
+    "arcanic_cunning_yellow",
+    "electrolyze_yellow",
+    "path_of_same_ends_yellow",
+    "quick_succession_yellow",
+    "rush_of_power_yellow",
+    "destructive_fleetfoot_yellow",
+    "stunning_swipe_yellow",
+    "dashing_flashfoot_yellow",
+    "voltbound_duality_yellow",
+    "stormwhirl_blue",
+    "singeing_flowstride_blue",
+    "path_of_same_ends_blue",
+    "rush_of_power_blue",
+    "thunderous_retort_blue",
+    "brush_off_blue",
+    "rush_of_power_blue",
+    "thunderous_retort_blue",
+    "singeing_flowstride_blue",
+    "astral_assault_blue",
+    "electrolyze_yellow",
+    "static_shelter_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

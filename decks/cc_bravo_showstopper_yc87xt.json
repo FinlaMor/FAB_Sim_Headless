@@ -1,0 +1,349 @@
+{
+  "hero": "bravo_showstopper",
+  "comment": "Imported from fabrary: 'Battle Hardened 1st place' [Classic Constructed] deckId=01GMZ3AMBGMVPAH372SNYC87XT",
+  "equipment": [
+    "anothos",
+    "crater_fist",
+    "crown_of_providence",
+    "ironrot_legs",
+    "nullrune_boots",
+    "nullrune_gloves",
+    "nullrune_hood",
+    "tectonic_plating"
+  ],
+  "deck": [
+    "buckle_blue",
+    "buckling_blow_blue",
+    "buckling_blow_blue",
+    "buckling_blow_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "crippling_crush_red",
+    "crippling_crush_red",
+    "crippling_crush_red",
+    "crush_the_weak_blue",
+    "debilitate_blue",
+    "debilitate_blue",
+    "debilitate_blue",
+    "disable_blue",
+    "disable_blue",
+    "disable_blue",
+    "grandeur_of_valahai_blue",
+    "imposing_visage_blue",
+    "imposing_visage_blue",
+    "imposing_visage_blue",
+    "lunging_press_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "macho_grande_blue",
+    "pummel_blue",
+    "pummel_blue",
+    "pummel_red",
+    "pummel_red",
+    "pummel_red",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "rouse_the_ancients_blue",
+    "show_time_blue",
+    "show_time_blue",
+    "show_time_blue",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "thunder_quake_blue",
+    "unmovable_blue"
+  ],
+  "sideboard": [
+    "chokeslam_red",
+    "chokeslam_red",
+    "chokeslam_red",
+    "crush_the_weak_red",
+    "crush_the_weak_red",
+    "fate_foreseen_red",
+    "oasis_respite_red",
+    "oasis_respite_red",
+    "pulverize_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "smashing_good_time_red",
+    "unmovable_red",
+    "zealous_belting_red",
+    "zealous_belting_red",
+    "zealous_belting_red"
+  ],
+  "sideboard_equipment": [],
+  "registered_total": 80,
+  "maindeck_count": 52,
+  "matchups": [
+    {
+      "matchupId": "01GT2VGG52M2YR26B945SN08EE",
+      "heroes": [],
+      "name": "Iyslander"
+    },
+    {
+      "matchupId": "01GT2VJYMVSVTMQ9YP2EE1TCDJ",
+      "heroes": [],
+      "name": "Oldhim"
+    },
+    {
+      "matchupId": "01GT2VNPRH852HXJV3ZD0DRPNJ",
+      "heroes": [],
+      "name": "Fai"
+    },
+    {
+      "matchupId": "01GT2VQ40PRK82PHQ9T0KE0BN3",
+      "heroes": [],
+      "name": "Dromai"
+    },
+    {
+      "matchupId": "01GT2VT8EYGP0B23N3REF4QHZW",
+      "heroes": [],
+      "name": "Briar"
+    },
+    {
+      "matchupId": "01GT2VVG8WBEC4R04KX1SGQB5F",
+      "heroes": [],
+      "name": "lexi"
+    },
+    {
+      "matchupId": "01GT2VYJ6Q9NBR8AVKRRTYG864",
+      "heroes": [],
+      "name": "Levia"
+    },
+    {
+      "matchupId": "01GT2W16R1212NNJY1GE2PR3GJ",
+      "heroes": [],
+      "name": "Boltyn"
+    },
+    {
+      "matchupId": "01GT2W36JPHEGB38JG4YYMNMH0",
+      "heroes": [],
+      "name": "Dash"
+    },
+    {
+      "matchupId": "01GT2W53JSFRHW3X7HYST2F8F9",
+      "heroes": [],
+      "name": "Viserai"
+    },
+    {
+      "matchupId": "01GT2W666SG2E5RCP2ZRKYNM2N",
+      "heroes": [],
+      "name": "Kano"
+    },
+    {
+      "matchupId": "01GT2W7AJWTVDHRWXHZHCKG1P3",
+      "heroes": [],
+      "name": "Azalea"
+    },
+    {
+      "matchupId": "01GT2W8RQ27H6MS44J5DS2H0WZ",
+      "heroes": [],
+      "name": "Dorinthea"
+    },
+    {
+      "matchupId": "01GT2WA77GBDM2E5827S6JP5FR",
+      "heroes": [],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01GT2WBCRX6K1YSS8PJZ1KS4W3",
+      "heroes": [],
+      "name": "Katsu"
+    },
+    {
+      "matchupId": "01GT2WCP8A66V6EXTP87P0MFEV",
+      "heroes": [],
+      "name": "Bravo"
+    },
+    {
+      "matchupId": "01GT9JXZHXKHCGDSX5BJXPGSYH",
+      "heroes": [],
+      "name": "basic"
+    }
+  ],
+  "matchup_quantities": {
+    "01GT2VJYMVSVTMQ9YP2EE1TCDJ": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 2,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sigil_of_solace_red": 3,
+      "sink_below_red": 3,
+      "unmovable_red": 1
+    },
+    "01GT2VNPRH852HXJV3ZD0DRPNJ": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 2,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "sink_below_red": 3,
+      "unmovable_blue": 0
+    },
+    "01GT2VQ40PRK82PHQ9T0KE0BN3": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 2,
+      "fate_foreseen_red": 0,
+      "ironrot_legs": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "unmovable_blue": 0,
+      "zealous_belting_red": 3
+    },
+    "01GT2VT8EYGP0B23N3REF4QHZW": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 1,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sink_below_red": 3,
+      "unmovable_blue": 0
+    },
+    "01GT2VVG8WBEC4R04KX1SGQB5F": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 2,
+      "fate_foreseen_red": 1,
+      "grandeur_of_valahai_blue": 0,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sink_below_red": 3,
+      "unmovable_blue": 0
+    },
+    "01GT2VYJ6Q9NBR8AVKRRTYG864": {
+      "chokeslam_red": 3,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sink_below_red": 3
+    },
+    "01GT2W16R1212NNJY1GE2PR3GJ": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sigil_of_solace_red": 0,
+      "zealous_belting_red": 3
+    },
+    "01GT2W36JPHEGB38JG4YYMNMH0": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 1,
+      "grandeur_of_valahai_blue": 0,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "smashing_good_time_red": 1,
+      "zealous_belting_red": 3
+    },
+    "01GT2W53JSFRHW3X7HYST2F8F9": {
+      "chokeslam_red": 3,
+      "fate_foreseen_red": 1,
+      "ironrot_legs": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sink_below_red": 3
+    },
+    "01GT2W7AJWTVDHRWXHZHCKG1P3": {
+      "chokeslam_red": 3,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "sink_below_red": 3,
+      "unmovable_red": 1
+    },
+    "01GT2W8RQ27H6MS44J5DS2H0WZ": {
+      "chokeslam_red": 3,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sigil_of_solace_red": 3,
+      "sink_below_red": 3,
+      "unmovable_red": 1
+    },
+    "01GT2WA77GBDM2E5827S6JP5FR": {
+      "chokeslam_red": 3,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sink_below_red": 3
+    },
+    "01GT2WBCRX6K1YSS8PJZ1KS4W3": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 2,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "sink_below_red": 3,
+      "unmovable_blue": 0
+    },
+    "01GT2WCP8A66V6EXTP87P0MFEV": {
+      "chokeslam_red": 3,
+      "crush_the_weak_red": 2,
+      "fate_foreseen_red": 1,
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "pulverize_red": 1,
+      "sigil_of_solace_red": 3,
+      "sink_below_red": 3,
+      "unmovable_red": 1
+    },
+    "01GT2W666SG2E5RCP2ZRKYNM2N": {
+      "crater_fist": 0,
+      "crown_of_providence": 0,
+      "ironrot_legs": 0,
+      "oasis_respite_red": 2,
+      "sigil_of_solace_red": 3,
+      "zealous_belting_red": 3
+    },
+    "01GT2VGG52M2YR26B945SN08EE": {
+      "ironrot_legs": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0,
+      "oasis_respite_red": 2,
+      "sigil_of_solace_red": 3,
+      "zealous_belting_red": 3
+    },
+    "01GT9JXZHXKHCGDSX5BJXPGSYH": {
+      "nullrune_boots": 0,
+      "nullrune_gloves": 0,
+      "nullrune_hood": 0
+    }
+  }
+}

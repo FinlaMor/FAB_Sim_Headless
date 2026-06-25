@@ -1,0 +1,39 @@
+{
+  "hero": "aurora_emissary_of_lightning",
+  "equipment": [
+    "scorpio_comet_tail",
+    "laced_lightning"
+  ],
+  "deck": [
+    "flash_bolt_red",
+    "flowstate_embodiment_red",
+    "tap_lessons_past_red",
+    "enion_surge_red",
+    "chromatic_refinement_red",
+    "stormshard_red",
+    "stellar_glide_red",
+    "cosmic_flare_red",
+    "cosmic_suture_red",
+    "flowshard_elemental_red",
+    "astral_bridge_red",
+    "calmveil_of_volthaven_yellow",
+    "enion_surge_yellow",
+    "constella_flowslide_yellow",
+    "enion_surge_yellow",
+    "constella_uplift_yellow",
+    "ominous_respite_yellow",
+    "starworld_warning_yellow",
+    "enion_surge_yellow",
+    "constella_uplift_yellow",
+    "chromatic_refinement_blue",
+    "stellar_glide_blue",
+    "chromatic_refinement_blue",
+    "chromatic_refinement_blue",
+    "meteoric_impact_blue",
+    "electrolyze_yellow",
+    "volatile_fluxor_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

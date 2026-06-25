@@ -1,0 +1,22 @@
+{
+  "hero": "bravo",
+  "comment": "Sample deck shell — replace with a real legal Bravo decklist before training. Card IDs follow Talishar's lowercase_underscored convention (see talishar/CardDictionaries).",
+  "equipment": [
+    "ironrot_legs",
+    "ironrot_plating",
+    "ironrot_helm",
+    "ironrot_gauntlet"
+  ],
+  "deck": [
+    "anothos",
+    "show_time_red", "show_time_red", "show_time_red",
+    "wrecker_romp_red", "wrecker_romp_red", "wrecker_romp_red",
+    "crippling_crush_red", "crippling_crush_red", "crippling_crush_red",
+    "spinal_crush_red", "spinal_crush_red", "spinal_crush_red",
+    "pummel_yellow", "pummel_yellow", "pummel_yellow",
+    "pummel_blue", "pummel_blue", "pummel_blue",
+    "rouse_the_ancients_blue", "rouse_the_ancients_blue", "rouse_the_ancients_blue",
+    "smashing_good_stuff_blue", "smashing_good_stuff_blue", "smashing_good_stuff_blue",
+    "show_and_tell_blue", "show_and_tell_blue", "show_and_tell_blue"
+  ]
+}

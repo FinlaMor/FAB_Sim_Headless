@@ -1,0 +1,40 @@
+{
+  "hero": "aurora_emissary_of_lightning",
+  "equipment": [
+    "scorpio_comet_tail",
+    "robe_of_astral_sanctuary",
+    "seeker_s_mitts"
+  ],
+  "deck": [
+    "comet_collision_red",
+    "tap_lessons_past_red",
+    "volatile_fluxor_red",
+    "thunderous_retort_red",
+    "comet_collision_red",
+    "flittering_spike_red",
+    "nucleus_aetherbolt_red",
+    "flittering_spike_red",
+    "stormshatter_yellow",
+    "meteoric_impact_yellow",
+    "lightning_overload_yellow",
+    "cosmic_suture_yellow",
+    "comet_collision_yellow",
+    "lightning_overload_yellow",
+    "constella_flowslide_yellow",
+    "astral_assault_yellow",
+    "volatile_fluxor_blue",
+    "brush_off_blue",
+    "tap_lessons_past_blue",
+    "comet_collision_blue",
+    "thunderous_retort_blue",
+    "meteoric_impact_blue",
+    "stormwhirl_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "hero": "zyggy",
+  "equipment": [
+    "aphrodias",
+    "helm_of_astral_sanctuary",
+    "gloves_of_astral_sanctuary",
+    "laced_lightning"
+  ],
+  "deck": [
+    "calmveil_of_volthaven_red",
+    "erode_authority_red",
+    "stellar_glide_red",
+    "astral_assault_yellow",
+    "glide_through_starlight_yellow",
+    "auric_shards_yellow",
+    "flittering_spike_yellow",
+    "volatile_fluxor_yellow",
+    "holo_shield_yellow",
+    "holo_shield_yellow",
+    "electrolyze_yellow",
+    "nebulus_cycle_yellow",
+    "erode_authority_blue",
+    "sigil_of_astral_flow_blue",
+    "electrolyze_blue",
+    "crackle_from_afar_blue",
+    "conflicting_thoughts_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

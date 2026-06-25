@@ -1,0 +1,168 @@
+{
+  "hero": "katsu_the_wanderer",
+  "comment": "Imported from fabrary: 'PT 3 Outsiders Surging Katsu' [Classic Constructed] deckId=01GTT65KGJE4Y3TKVF2N58P8EF",
+  "equipment": [
+    "breaking_scales",
+    "breeze_rider_boots",
+    "harmonized_kodachi",
+    "harmonized_kodachi",
+    "heartened_cross_strap",
+    "mask_of_momentum"
+  ],
+  "deck": [
+    "ancestral_empowerment_red",
+    "ancestral_empowerment_red",
+    "ancestral_empowerment_red",
+    "art_of_war_yellow",
+    "art_of_war_yellow",
+    "art_of_war_yellow",
+    "be_like_water_red",
+    "be_like_water_red",
+    "be_like_water_red",
+    "bonds_of_ancestry_red",
+    "bonds_of_ancestry_red",
+    "bonds_of_ancestry_red",
+    "bonds_of_ancestry_yellow",
+    "bonds_of_ancestry_yellow",
+    "descendent_gustwave_red",
+    "descendent_gustwave_red",
+    "descendent_gustwave_red",
+    "descendent_gustwave_yellow",
+    "descendent_gustwave_yellow",
+    "dishonor_blue",
+    "dishonor_blue",
+    "dishonor_blue",
+    "fluster_fist_blue",
+    "fluster_fist_blue",
+    "fluster_fist_blue",
+    "fluster_fist_red",
+    "fluster_fist_red",
+    "fluster_fist_red",
+    "hundred_winds_red",
+    "hundred_winds_red",
+    "hundred_winds_red",
+    "hundred_winds_yellow",
+    "hundred_winds_yellow",
+    "lord_of_wind_blue",
+    "lord_of_wind_blue",
+    "lord_of_wind_blue",
+    "spinning_wheel_kick_red",
+    "spinning_wheel_kick_red",
+    "spinning_wheel_kick_red",
+    "surging_strike_red",
+    "surging_strike_red",
+    "surging_strike_red",
+    "surging_strike_yellow",
+    "surging_strike_yellow",
+    "surging_strike_yellow",
+    "whelming_gustwave_blue",
+    "whelming_gustwave_blue",
+    "whelming_gustwave_blue",
+    "whelming_gustwave_red",
+    "whelming_gustwave_red",
+    "whelming_gustwave_red",
+    "winds_of_eternity_blue",
+    "winds_of_eternity_blue",
+    "winds_of_eternity_blue"
+  ],
+  "sideboard": [
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "cyclone_roundhouse_yellow",
+    "double_strike_red",
+    "double_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "flic_flak_red",
+    "flic_flak_red",
+    "flic_flak_red",
+    "mugenshi_release_yellow",
+    "mugenshi_release_yellow",
+    "timesnap_potion_blue",
+    "timesnap_potion_blue"
+  ],
+  "sideboard_equipment": [
+    "fyendals_spring_tunic",
+    "mask_of_many_faces",
+    "tide_flippers",
+    "vambrace_of_determination"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 54,
+  "matchups": [
+    {
+      "matchupId": "01GTT65KMF8PBW5P5CVQZT9ZN0",
+      "heroes": [],
+      "name": "Oldhim"
+    },
+    {
+      "matchupId": "01GTT65KQSPG3DZSTQRKDMSFCF",
+      "heroes": [],
+      "name": "Azalea"
+    },
+    {
+      "matchupId": "01GTT65KV9G9NDN41PWVAVWSBW",
+      "heroes": [],
+      "name": "Default"
+    },
+    {
+      "matchupId": "01GTT65KYYN8GP8ZXHE4B3GB7Y",
+      "heroes": [],
+      "name": "Iyslander"
+    },
+    {
+      "matchupId": "01GZ6CNE12EWR40GTPHTZNS5PA",
+      "heroes": [],
+      "name": "Lexi"
+    }
+  ],
+  "matchup_quantities": {
+    "01GTT65KYYN8GP8ZXHE4B3GB7Y": {
+      "ancestral_empowerment_red": 3,
+      "breeze_rider_boots": 0,
+      "double_strike_red": 2,
+      "enlightened_strike_red": 3,
+      "fyendals_spring_tunic": 1,
+      "heartened_cross_strap": 0,
+      "mugenshi_release_yellow": 1,
+      "surging_strike_yellow": 3,
+      "tide_flippers": 1
+    },
+    "01GTT65KV9G9NDN41PWVAVWSBW": {
+      "command_and_conquer_red": 3,
+      "double_strike_red": 2,
+      "fyendals_spring_tunic": 0,
+      "harmonized_kodachi": 2,
+      "mugenshi_release_yellow": 1,
+      "surging_strike_yellow": 3,
+      "tide_flippers": 0,
+      "vambrace_of_determination": 0
+    },
+    "01GTT65KQSPG3DZSTQRKDMSFCF": {
+      "command_and_conquer_red": 3,
+      "enlightened_strike_red": 3,
+      "fyendals_spring_tunic": 0,
+      "mugenshi_release_yellow": 0,
+      "surging_strike_yellow": 3,
+      "tide_flippers": 0
+    },
+    "01GZ6CNE12EWR40GTPHTZNS5PA": {
+      "command_and_conquer_red": 3,
+      "flic_flak_red": 3
+    },
+    "01GTT65KMF8PBW5P5CVQZT9ZN0": {
+      "double_strike_red": 2,
+      "enlightened_strike_red": 3,
+      "fyendals_spring_tunic": 1,
+      "heartened_cross_strap": 0,
+      "mask_of_many_faces": 1,
+      "mask_of_momentum": 0,
+      "mugenshi_release_yellow": 2,
+      "tide_flippers": 0,
+      "timesnap_potion_blue": 2,
+      "vambrace_of_determination": 1
+    }
+  }
+}

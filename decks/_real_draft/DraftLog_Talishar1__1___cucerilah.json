@@ -1,0 +1,41 @@
+{
+ "hero": "oscilio_scion_of_the_third_age",
+ "equipment": [
+  "volzar_meteor_storm",
+  "helm_of_astral_sanctuary",
+  "snap_fingers",
+  "laced_lightning"
+ ],
+ "deck": [
+  "destructive_fleetfoot_red",
+  "volatile_fluxor_red",
+  "electryn_joltstep_red",
+  "arcanic_cunning_red",
+  "conflicting_thoughts_red",
+  "destructive_fleetfoot_red",
+  "step_between_red",
+  "voltic_impact_red",
+  "path_of_same_ends_red",
+  "leech_renown_red",
+  "electrolyze_yellow",
+  "destructive_fleetfoot_yellow",
+  "electryn_joltstep_yellow",
+  "thunderous_retort_yellow",
+  "stunning_swipe_yellow",
+  "thunderous_retort_yellow",
+  "volatile_fluxor_yellow",
+  "flittering_forcefield_yellow",
+  "astral_assault_yellow",
+  "path_of_same_ends_blue",
+  "quick_succession_blue",
+  "electryn_joltstep_blue",
+  "spellbane_sigil_blue",
+  "conflicting_thoughts_blue",
+  "calmveil_of_volthaven_blue",
+  "astral_assault_blue",
+  "brush_off_blue",
+  "destructive_fleetfoot_blue",
+  "electryn_joltstep_yellow",
+  "path_of_same_ends_blue"
+ ]
+}

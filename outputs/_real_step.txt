@@ -1,0 +1,49 @@
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.4550726529078483E+20 to int loses precision in <b>/srv/adapter/lib/RngHook.php</b> on line <b>39</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 2.4550726529078483E+20 to int loses precision in <b>/srv/adapter/lib/RngHook.php</b> on line <b>39</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.8619933502515995E+28 to int loses precision in <b>/srv/adapter/lib/RngHook.php</b> on line <b>41</b><br />
+<br />
+<b>Deprecated</b>:  Implicit conversion from float 1.8619933502515995E+28 to int loses precision in <b>/srv/adapter/lib/RngHook.php</b> on line <b>41</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/CardGetters.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/Libraries/PlayerSettings.php</b> on line <b>279</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/Libraries/PlayerSettings.php</b> on line <b>279</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/Libraries/NetworkingLibraries.php</b> on line <b>3168</b><br />
+<br />
+<b>Deprecated</b>:  str_contains(): Passing null to parameter #1 ($haystack) of type string is deprecated in <b>/srv/talishar/Libraries/NetworkingLibraries.php</b> on line <b>3169</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/GameLogic.php</b> on line <b>1924</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/GameLogic.php</b> on line <b>1930</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/Libraries/PlayerSettings.php</b> on line <b>279</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "" in <b>/srv/talishar/Libraries/PlayerSettings.php</b> on line <b>279</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $playerHealths in <b>/srv/talishar/WriteGamestate.php</b> on line <b>20</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /srv/adapter/lib/RngHook.php:39) in <b>/srv/adapter/bootstrap.php</b> on line <b>61</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /srv/adapter/lib/RngHook.php:39) in <b>/srv/adapter/bootstrap.php</b> on line <b>62</b><br />
+{"error":"implode(): Argument #1 ($array) must be of type array, string given","type":"TypeError","file":"/srv/talishar/WriteGamestate.php","line":20,"trace":["#0 /srv/talishar/WriteGamestate.php(20): implode(' ', NULL)","#1 /srv/adapter/lib/TalisharBoot.php(368): require('/srv/talishar/W...')","#2 /srv/adapter/GameAdapter.php(118): TalisharBoot::applyAction('42721726959', Array)","#3 /srv/adapter/routes/step.php(15): GameAdapter->step('42721726959', 1)","#4 /srv/adapter/api.php(56): require('/srv/adapter/ro...')","#5 {main}"]}

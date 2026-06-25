@@ -1,0 +1,105 @@
+[warm-start] using existing models: gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt
+
+############ ITERATION 0 ############
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+  [t_c00070000_fdc851_pod000] A vs G: 6-4 (draws=0, games=10) -> A
+  [t_c00070000_fdc851_pod000] A vs H: 6-0 (draws=4, games=10) -> A
+  [t_c00070000_fdc851_pod000] A vs B: 2-8 (draws=0, games=10) -> B
+  [t_c00070000_fdc851_pod000] A vs E: 7-2 (draws=1, games=10) -> A
+  [t_c00070000_fdc851_pod000] B vs C: 6-4 (draws=0, games=10) -> B
+  [t_c00070000_fdc851_pod000] A vs F: 5-3 (draws=2, games=10) -> A
+  [t_c00070000_fdc851_pod000] A vs C: 4-6 (draws=2, games=12) -> C [win-by-2]
+  [t_c00070000_fdc851_pod000] A vs D: 4-5 (draws=5, games=14) -> D [win-by-2]
+  [t_c00070000_fdc851_pod000] B vs E: 8-0 (draws=2, games=10) -> B
+  [t_c00070000_fdc851_pod000] B vs G: 10-0 (draws=0, games=10) -> B
+  [t_c00070000_fdc851_pod000] B vs F: 7-3 (draws=0, games=10) -> B
+  [t_c00070000_fdc851_pod000] C vs E: 6-2 (draws=2, games=10) -> C
+  [t_c00070000_fdc851_pod000] B vs H: 6-3 (draws=1, games=10) -> B
+  [t_c00070000_fdc851_pod000] C vs F: 7-3 (draws=0, games=10) -> C
+  [t_c00070000_fdc851_pod000] C vs D: 8-1 (draws=1, games=10) -> C
+  [t_c00070000_fdc851_pod000] C vs G: 7-3 (draws=0, games=10) -> C
+  [t_c00070000_fdc851_pod000] B vs D: 6-4 (draws=0, games=10) -> B
+  [t_c00070000_fdc851_pod000] C vs H: 3-7 (draws=0, games=10) -> H
+  [t_c00070000_fdc851_pod000] D vs E: 9-1 (draws=0, games=10) -> D
+  [t_c00070000_fdc851_pod000] D vs G: 6-4 (draws=0, games=10) -> D
+  [t_c00070000_fdc851_pod000] E vs F: 0-8 (draws=2, games=10) -> F
+  [t_c00070000_fdc851_pod000] E vs G: 4-5 (draws=5, games=14) -> G [win-by-2]
+  [t_c00070000_fdc851_pod000] D vs F: 6-4 (draws=4, games=14) -> D [win-by-2]
+  [t_c00070000_fdc851_pod000] E vs H: 2-8 (draws=0, games=10) -> H
+  [t_c00070000_fdc851_pod000] D vs H: 5-4 (draws=1, games=10) -> D
+  [t_c00070000_fdc851_pod000] G vs H: 2-7 (draws=1, games=10) -> H
+  [t_c00070000_fdc851_pod000] F vs H: 3-6 (draws=1, games=10) -> H
+  [t_c00070000_fdc851_pod000] F vs G: 8-6 (draws=0, games=14) -> F [win-by-2]
+Round-robin t_c00070000_fdc851_pod000 (seed=1200084300)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  B     c00070000_fdc851_pod000_zyggy_se      7-0-0      51-16-3
+   2  C     c00070000_fdc851_pod000_zyggy_se      5-2-0      41-26-5
+   3  D     c00070000_fdc851_pod000_zyggy_se      5-2-0     36-31-11
+   4  H     c00070000_fdc851_pod000_aurora_e      4-3-0      35-27-8
+   5  A     c00070000_fdc851_pod000_aurora_e      4-3-0     34-28-14
+   6  F     c00070000_fdc851_pod000_aurora_e      2-5-0      32-37-9
+   7  G     c00070000_fdc851_pod000_oscilio_      1-6-0      24-48-6
+   8  E     c00070000_fdc851_pod000_oscilio_      0-7-0     11-51-12
+Round-robin t_c00070000_fdc851_pod000 (seed=1200084300)
+rank  label player                            pairW-L-D    gameW-L-D
+   1  B     c00070000_fdc851_pod000_zyggy_se      7-0-0      51-16-3
+   2  C     c00070000_fdc851_pod000_zyggy_se      5-2-0      41-26-5
+   3  D     c00070000_fdc851_pod000_zyggy_se      5-2-0     36-31-11
+   4  H     c00070000_fdc851_pod000_aurora_e      4-3-0      35-27-8
+   5  A     c00070000_fdc851_pod000_aurora_e      4-3-0     34-28-14
+   6  F     c00070000_fdc851_pod000_aurora_e      2-5-0      32-37-9
+   7  G     c00070000_fdc851_pod000_oscilio_      1-6-0      24-48-6
+   8  E     c00070000_fdc851_pod000_oscilio_      0-7-0     11-51-12
+  champion: c00070000_fdc851_pod000_zyggy_seat1
+
+--- training (window=2) after iter 0 ---
+[iql-gameplay] 219184 transitions | |vocab|=202 | shaped=True window=2
+  step      0 loss=0.3939 (v=0.0325 q=0.0560 pi=0.3054)
+  step    400 loss=0.1074 (v=0.0004 q=0.0030 pi=0.1040)
+  step    800 loss=0.0830 (v=0.0004 q=0.0014 pi=0.0813)
+  step   1200 loss=0.0535 (v=0.0001 q=0.0004 pi=0.0530)
+  step   1600 loss=0.0525 (v=0.0004 q=0.0005 pi=0.0516)
+  step   2000 loss=0.0680 (v=0.0001 q=0.0003 pi=0.0676)
+  step   2400 loss=0.0660 (v=0.0002 q=0.0003 pi=0.0655)
+  step   2800 loss=0.0739 (v=0.0001 q=0.0001 pi=0.0737)
+  step   3200 loss=0.0749 (v=0.0000 q=0.0001 pi=0.0748)
+  step   3600 loss=0.0694 (v=0.0001 q=0.0001 pi=0.0692)
+  step   3999 loss=0.0696 (v=0.0001 q=0.0001 pi=0.0694)
+[iql-gameplay] saved -> outputs\models\_staging\iql_gameplay.pt (final loss 0.0696)
+[iql-draft] 672 pick transitions | |vocab|=187 | window=2
+  step      0 loss=1.3333 (v=0.0061 q=0.0317 pi=1.2955)
+  step    300 loss=1.1615 (v=0.0005 q=0.0017 pi=1.1593)
+  step    600 loss=0.4791 (v=0.0009 q=0.0012 pi=0.4770)
+  step    900 loss=0.1680 (v=0.0012 q=0.0005 pi=0.1662)
+  step   1200 loss=0.0554 (v=0.0007 q=0.0004 pi=0.0542)
+  step   1500 loss=0.0373 (v=0.0002 q=0.0001 pi=0.0370)
+  step   1800 loss=0.0307 (v=0.0003 q=0.0001 pi=0.0303)
+  step   2100 loss=0.0245 (v=0.0002 q=0.0001 pi=0.0243)
+  step   2400 loss=0.0406 (v=0.0002 q=0.0001 pi=0.0404)
+  step   2700 loss=0.0305 (v=0.0002 q=0.0001 pi=0.0302)
+  step   2999 loss=0.0192 (v=0.0002 q=0.0001 pi=0.0189)
+[iql-draft] saved -> outputs\models\_staging\iql_draft.pt (final loss 0.0192)
+iteration 0 done in 3281s; gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt
+
+############ ITERATION 1 ############
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+  [t_c00070001_253355_pod000] A vs H: 3-5 (draws=2, games=10) -> H
+  [t_c00070001_253355_pod000] A vs F: 7-3 (draws=0, games=10) -> A
+  [t_c00070001_253355_pod000] A vs D: 4-5 (draws=1, games=10) -> D
+  [t_c00070001_253355_pod000] A vs G: 7-1 (draws=2, games=10) -> A
+  [t_c00070001_253355_pod000] A vs B: 7-2 (draws=1, games=10) -> A
+  [t_c00070001_253355_pod000] B vs D: 1-7 (draws=2, games=10) -> D
+  [t_c00070001_253355_pod000] B vs H: 1-8 (draws=1, games=10) -> H
+  [t_c00070001_253355_pod000] B vs G: 4-3 (draws=3, games=10) -> B
+  [t_c00070001_253355_pod000] C vs D: 3-4 (draws=3, games=10) -> D
+  [t_c00070001_253355_pod000] B vs F: 7-2 (draws=1, games=10) -> B
+  [t_c00070001_253355_pod000] B vs C: 2-5 (draws=3, games=10) -> C
+  [t_c00070001_253355_pod000] D vs F: 8-1 (draws=1, games=10) -> D
+  [t_c00070001_253355_pod000] C vs H: 0-10 (draws=0, games=10) -> H
+  [t_c00070001_253355_pod000] C vs G: 2-6 (draws=2, games=10) -> G
+  [t_c00070001_253355_pod000] D vs E: 6-2 (draws=2, games=10) -> D
+  [t_c00070001_253355_pod000] C vs E: 5-3 (draws=2, games=10) -> C

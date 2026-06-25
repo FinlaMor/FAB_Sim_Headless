@@ -1,0 +1,143 @@
+[warm-start] using existing models: gameplay=outputs\models\gameplay\latest.pt draft=outputs\models\draft\latest.pt
+
+############ ITERATION 0 ############
+  parallel workers: 8 -> ['http://localhost:8000', 'http://localhost:8001', 'http://localhost:8002', 'http://localhost:8003', 'http://localhost:8004', 'http://localhost:8005', 'http://localhost:8006', 'http://localhost:8007']
+  gameplay bot: IQL @ outputs\models\gameplay\latest.pt (epsilon=0.15 temp=0.5)
+  draft bot: IQL @ outputs\models\draft\latest.pt
+C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\nn\modules\transformer.py:409: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\NestedTensorImpl.cpp:180.)
+  output = torch._nested_tensor_from_mask(output, src_key_padding_mask.logical_not(), mask_check=False)
+  [t_c00081000_2e4dd8_pod000] A vs G: 8-1 (draws=1, games=10) -> A
+  [t_c00081000_2e4dd8_pod000] A vs F: 4-5 (draws=1, games=10) -> F
+  [t_c00081000_2e4dd8_pod000] A vs D: 5-6 (draws=3, games=14) -> D [win-by-2]
+  [t_c00081000_2e4dd8_pod000] A vs E: 3-6 (draws=1, games=10) -> E
+  [t_c00081000_2e4dd8_pod000] B vs C: 7-3 (draws=0, games=10) -> B
+  [t_c00081000_2e4dd8_pod000] A vs C: 7-1 (draws=2, games=10) -> A
+  [t_c00081000_2e4dd8_pod000] B vs D: 3-5 (draws=2, games=10) -> D
+  [t_c00081000_2e4dd8_pod000] B vs F: 4-5 (draws=1, games=10) -> F
+  [t_c00081000_2e4dd8_pod000] A vs H: 4-5 (draws=1, games=10) -> H
+  [t_c00081000_2e4dd8_pod000] B vs E: 4-5 (draws=1, games=10) -> E
+  [t_c00081000_2e4dd8_pod000] C vs D: 3-4 (draws=3, games=10) -> D
+  [t_c00081000_2e4dd8_pod000] C vs E: 1-7 (draws=2, games=10) -> E
+  [t_c00081000_2e4dd8_pod000] C vs G: 7-3 (draws=0, games=10) -> C
+  [t_c00081000_2e4dd8_pod000] C vs F: 5-3 (draws=2, games=10) -> C
+  [t_c00081000_2e4dd8_pod000] D vs E: 2-6 (draws=2, games=10) -> E
+  [t_c00081000_2e4dd8_pod000] D vs G: 8-1 (draws=1, games=10) -> D
+  [t_c00081000_2e4dd8_pod000] C vs H: 1-7 (draws=2, games=10) -> H
+  [t_c00081000_2e4dd8_pod000] E vs G: 9-1 (draws=0, games=10) -> E
+  [t_c00081000_2e4dd8_pod000] E vs F: 5-4 (draws=1, games=10) -> E
+  [t_c00081000_2e4dd8_pod000] D vs H: 7-8 (draws=1, games=16) -> H [win-by-2]
+  [t_c00081000_2e4dd8_pod000] F vs G: 8-1 (draws=1, games=10) -> F
+  [t_c00081000_2e4dd8_pod000] F vs H: 6-3 (draws=1, games=10) -> F
+  [t_c00081000_2e4dd8_pod000] G vs H: 0-10 (draws=0, games=10) -> H
+  [t_c00081000_2e4dd8_pod000] E vs H: 6-4 (draws=0, games=10) -> E
+Traceback (most recent call last):
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=5.0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /step (Caused by ReadTimeoutError("HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=5.0)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\examples\self_play_loop.py", line 166, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\examples\self_play_loop.py", line 157, in main
+    run_one_cycle(args, it, cube, gp_ckpt, dr_ckpt)
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\examples\self_play_loop.py", line 69, in run_one_cycle
+    result = LimitedPipeline(cfg).run_cycle()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\pipeline.py", line 331, in run_cycle
+    tour = runner.run()
+           ^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\parallel_round_robin.py", line 85, in run
+    pair, matches = fut.result()
+                    ^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\parallel_round_robin.py", line 76, in work
+    return self._play_pair(env, pa, pb)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\parallel_round_robin.py", line 147, in _play_pair
+    play_game(g)
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\parallel_round_robin.py", line 134, in play_game
+    m = run_match(
+        ^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\tournament\match.py", line 149, in run_match
+    result = env.step(decision.action_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\gameplay\env.py", line 168, in step
+    resp = self._post("/step", {"game_id": self.game_id, "action_id": int(action_id)})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\Desktop\FAB_Sim_Headless\python\gameplay\env.py", line 231, in _post
+    r = self._session.post(url, json=body, timeout=self.timeout)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joseph\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapters.py", line 677, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /step (Caused by ReadTimeoutError("HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=5.0)"))

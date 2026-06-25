@@ -1,0 +1,14 @@
+[cc-selfplay] sideboard model: outputs/models/sideboard/sideboard_bc.pt
+[cc-selfplay] gameplay policy (acting bot): outputs/models/cc_warm3/iql_gameplay.pt (argmax, eps=0) -- overrides --bot=heuristic
+[cc-selfplay] 200 matchups x 2 games across 8 workers | step_cap=800 | draw_report=ON
+[selfplay] game 0000/2 seed=300100 winner=1 steps=165 dt=342.55s
+[selfplay] game 0000/2 seed=300200 winner=1 steps=251 dt=586.95s
+[selfplay] game 0000/2 seed=300000 winner=1 steps=356 dt=664.73s
+[selfplay] game 0000/2 seed=300500 winner=0 steps=800 dt=668.14s
+DRAW lyath_goldmane_vile_savant vs prism_awakener_of_sol | steps=800 | life P1=40 P2=24 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 75, 'M': 25}
+  last100 action-types: {'PASS': 75, 'PLAY_FROM_ARSENAL': 25}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 50), (('INSTANT', 'PLAY_FROM_ARSENAL', 'arc_light_sentinel_yellow'), 25), (('M', 'PASS', None), 25)]
+[selfplay] game 0001/2 seed=300101 winner=1 steps=153 dt=353.92s
+[selfplay] flushed batch -> datasets\cc\parquet\games\1782296526-9dbe06de.parquet
+[cc-selfplay] bravo_showstopper vs vynnset_iron_maiden: 2 games

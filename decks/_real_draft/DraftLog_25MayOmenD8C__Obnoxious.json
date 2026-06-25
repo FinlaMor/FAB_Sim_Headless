@@ -1,0 +1,41 @@
+{
+ "hero": "oscilio_scion_of_the_third_age",
+ "equipment": [
+  "volzar_meteor_storm",
+  "constella_tiara",
+  "robe_of_astral_sanctuary",
+  "gloves_of_astral_sanctuary"
+ ],
+ "deck": [
+  "voltbound_duality_red",
+  "stunning_swipe_red",
+  "flittering_spike_red",
+  "brush_off_red",
+  "visionary_of_orbits_red",
+  "stellar_glide_red",
+  "voltbound_duality_red",
+  "electryn_joltstep_red",
+  "flowing_stormstrike_red",
+  "flowstate_embodiment_red",
+  "livewire_press_red",
+  "rift_breaker_yellow",
+  "astral_assault_yellow",
+  "flittering_spike_yellow",
+  "electryn_joltstep_yellow",
+  "stunning_swipe_yellow",
+  "conflicting_thoughts_yellow",
+  "quick_succession_yellow",
+  "brush_off_yellow",
+  "volatile_fluxor_yellow",
+  "arcanic_reproach_blue",
+  "destructive_fleetfoot_blue",
+  "rush_of_power_blue",
+  "astral_assault_blue",
+  "starlight_road_blue",
+  "electrolyze_blue",
+  "stormwhirl_blue",
+  "path_of_same_ends_blue",
+  "singeing_flowstride_blue",
+  "rush_of_power_yellow"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+  "hero": "oscilio_scion_of_the_third_age",
+  "equipment": [
+    "volzar_meteor_storm",
+    "seeker_s_mitts"
+  ],
+  "deck": [
+    "cosmic_flare_red",
+    "arcanic_cunning_red",
+    "leech_vitality_red",
+    "brush_off_red",
+    "conflicting_thoughts_red",
+    "chromatic_refinement_red",
+    "volatile_fluxor_red",
+    "mercurial_skies_red",
+    "livewire_press_red",
+    "static_shelter_yellow",
+    "chromatic_refinement_yellow",
+    "rush_of_power_yellow",
+    "flittering_forcefield_yellow",
+    "stellar_glide_yellow",
+    "dashing_flashfoot_yellow",
+    "brush_off_yellow",
+    "dashing_flashfoot_yellow",
+    "chromatic_refinement_blue",
+    "thunderous_retort_blue",
+    "path_of_same_ends_blue",
+    "destructive_fleetfoot_blue",
+    "stormwhirl_blue",
+    "electrolyze_blue",
+    "calmveil_of_volthaven_blue",
+    "destructive_fleetfoot_blue",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow",
+    "cracked_bauble_yellow"
+  ]
+}

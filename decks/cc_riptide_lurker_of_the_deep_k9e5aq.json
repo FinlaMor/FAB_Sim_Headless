@@ -1,0 +1,229 @@
+{
+  "hero": "riptide_lurker_of_the_deep",
+  "comment": "Imported from fabrary: 'PENultimate Riptide Deck (YouTube)' [Classic Constructed] deckId=01KJTQ4VNPWF16YQX4G0K9E5AQ",
+  "equipment": [
+    "barbed_castaway",
+    "driftwood_quiver",
+    "fyendals_spring_tunic",
+    "new_horizon",
+    "perch_grapplers",
+    "sharp_shooters"
+  ],
+  "deck": [
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "courageous_crossing_blue",
+    "courageous_crossing_blue",
+    "courageous_crossing_blue",
+    "dead_eye_yellow",
+    "dead_eye_yellow",
+    "dead_eye_yellow",
+    "drill_shot_blue",
+    "drill_shot_blue",
+    "drill_shot_blue",
+    "endless_arrow_red",
+    "endless_arrow_red",
+    "endless_arrow_red",
+    "heat_seeker_red",
+    "heat_seeker_red",
+    "heat_seeker_red",
+    "lace_with_bloodrot_red",
+    "lace_with_bloodrot_red",
+    "lace_with_bloodrot_red",
+    "line_it_up_yellow",
+    "line_it_up_yellow",
+    "line_it_up_yellow",
+    "murky_water_red",
+    "murky_water_red",
+    "murky_water_red",
+    "premeditate_red",
+    "premeditate_red",
+    "premeditate_red",
+    "quickening_sand_blue",
+    "quickening_sand_blue",
+    "quickening_sand_blue",
+    "seek_and_destroy_red",
+    "seek_and_destroy_red",
+    "seek_and_destroy_red",
+    "stone_rain_red",
+    "stone_rain_red",
+    "stone_rain_red"
+  ],
+  "sideboard": [
+    "battering_bolt_red",
+    "battering_bolt_red",
+    "battering_bolt_red",
+    "buzzsaw_trap_blue",
+    "chain_reaction_yellow",
+    "chain_reaction_yellow",
+    "chain_reaction_yellow",
+    "collapsing_trap_blue",
+    "drill_shot_red",
+    "drill_shot_red",
+    "drill_shot_red",
+    "falcon_wing_red",
+    "falcon_wing_red",
+    "falcon_wing_red",
+    "feign_death_yellow",
+    "feign_death_yellow",
+    "hamstring_shot_red",
+    "hamstring_shot_red",
+    "hamstring_shot_red",
+    "immobilizing_shot_red",
+    "immobilizing_shot_red",
+    "immobilizing_shot_red",
+    "release_the_tension_red",
+    "release_the_tension_red",
+    "release_the_tension_red",
+    "rune_snare_red",
+    "rune_snare_red",
+    "rune_snare_red",
+    "tarpit_trap_yellow",
+    "tarpit_trap_yellow",
+    "tarpit_trap_yellow",
+    "three_of_a_kind_red",
+    "three_of_a_kind_red",
+    "three_of_a_kind_red"
+  ],
+  "sideboard_equipment": [
+    "nullrune_boots"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 39,
+  "matchups": [
+    {
+      "matchupId": "01KJTQ4W05QEK937NP0M0A80D2",
+      "heroes": [],
+      "name": "Arakni, Marionette"
+    },
+    {
+      "matchupId": "01KJTQ4WB0HCBS0RZCZGJRB4RN",
+      "heroes": [],
+      "name": "Dash IO"
+    },
+    {
+      "matchupId": "01KJTQ6MFX2GHBHBZ3HD5TYWMD",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KJTQ6MFXHRCA17ZE9X1MZ0TQ",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01KJTQ6MG06761XF93K8AFM708",
+      "heroes": [],
+      "name": "Verdance"
+    },
+    {
+      "matchupId": "01KJTQ6MG5PMB4AVEFPSCBWGT0",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01KJTQ6MGC55TXYZ313MM3MZGP",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KJTQ6MGEJVNT6NYGFSDY3GZX",
+      "heroes": [],
+      "name": "Kayo"
+    }
+  ],
+  "matchup_quantities": {
+    "01KJTQ4W05QEK937NP0M0A80D2": {
+      "battering_bolt_red": 3,
+      "buzzsaw_trap_blue": 1,
+      "chain_reaction_yellow": 3,
+      "collapsing_trap_blue": 1,
+      "drill_shot_red": 1,
+      "hamstring_shot_red": 3,
+      "release_the_tension_red": 0,
+      "rune_snare_red": 3,
+      "tarpit_trap_yellow": 3,
+      "three_of_a_kind_red": 3
+    },
+    "01KJTQ6MG5PMB4AVEFPSCBWGT0": {
+      "battering_bolt_red": 3,
+      "collapsing_trap_blue": 1,
+      "feign_death_yellow": 2,
+      "hamstring_shot_red": 3,
+      "immobilizing_shot_red": 3,
+      "release_the_tension_red": 3,
+      "rune_snare_red": 3,
+      "three_of_a_kind_red": 3
+    },
+    "01KJTQ6MGC55TXYZ313MM3MZGP": {
+      "battering_bolt_red": 3,
+      "buzzsaw_trap_blue": 1,
+      "chain_reaction_yellow": 3,
+      "collapsing_trap_blue": 1,
+      "drill_shot_red": 3,
+      "falcon_wing_red": 1,
+      "rune_snare_red": 3,
+      "tarpit_trap_yellow": 3,
+      "three_of_a_kind_red": 3
+    },
+    "01KJTQ6MG06761XF93K8AFM708": {
+      "battering_bolt_red": 1,
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "drill_shot_red": 3,
+      "falcon_wing_red": 3,
+      "hamstring_shot_red": 3,
+      "release_the_tension_red": 3,
+      "rune_snare_red": 3,
+      "three_of_a_kind_red": 3
+    },
+    "01KJTQ6MFXHRCA17ZE9X1MZ0TQ": {
+      "battering_bolt_red": 0,
+      "buzzsaw_trap_blue": 1,
+      "chain_reaction_yellow": 2,
+      "collapsing_trap_blue": 1,
+      "feign_death_yellow": 2,
+      "hamstring_shot_red": 3,
+      "nullrune_boots": 1,
+      "perch_grapplers": 0,
+      "release_the_tension_red": 3,
+      "rune_snare_red": 3,
+      "tarpit_trap_yellow": 3,
+      "three_of_a_kind_red": 3
+    },
+    "01KJTQ4WB0HCBS0RZCZGJRB4RN": {
+      "buzzsaw_trap_blue": 1,
+      "chain_reaction_yellow": 3,
+      "collapsing_trap_blue": 1,
+      "drill_shot_red": 3,
+      "feign_death_yellow": 2,
+      "hamstring_shot_red": 3,
+      "immobilizing_shot_red": 3,
+      "lace_with_bloodrot_red": 3,
+      "tarpit_trap_yellow": 3,
+      "three_of_a_kind_red": 2
+    },
+    "01KJTQ6MGEJVNT6NYGFSDY3GZX": {
+      "buzzsaw_trap_blue": 1,
+      "chain_reaction_yellow": 3,
+      "collapsing_trap_blue": 1,
+      "drill_shot_red": 3,
+      "feign_death_yellow": 2,
+      "immobilizing_shot_red": 2,
+      "rune_snare_red": 3,
+      "tarpit_trap_yellow": 3,
+      "three_of_a_kind_red": 3
+    },
+    "01KJTQ6MFX2GHBHBZ3HD5TYWMD": {
+      "chain_reaction_yellow": 2,
+      "collapsing_trap_blue": 1,
+      "falcon_wing_red": 3,
+      "immobilizing_shot_red": 3,
+      "release_the_tension_red": 3,
+      "rune_snare_red": 3,
+      "tarpit_trap_yellow": 3,
+      "three_of_a_kind_red": 3
+    }
+  }
+}

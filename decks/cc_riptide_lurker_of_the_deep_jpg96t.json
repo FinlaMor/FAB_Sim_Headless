@@ -1,0 +1,398 @@
+{
+  "hero": "riptide_lurker_of_the_deep",
+  "comment": "Imported from fabrary: 'Riptide and The Lost Prince \"CC\"' [Classic Constructed] deckId=01HAJDTSFQ41BFYV9NV2JPG96T",
+  "equipment": [
+    "skullbone_crosswrap",
+    "snapdragon_scalers",
+    "talishar_the_lost_prince",
+    "toxic_tips",
+    "trench_of_sunken_treasure"
+  ],
+  "deck": [
+    "buzzsaw_trap_blue",
+    "censor_red",
+    "censor_red",
+    "censor_red",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_inertia_yellow",
+    "codex_of_inertia_yellow",
+    "collapsing_trap_blue",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "command_and_conquer_red",
+    "death_touch_red",
+    "death_touch_red",
+    "death_touch_red",
+    "down_and_dirty_red",
+    "down_and_dirty_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "lunging_press_blue",
+    "lunging_press_blue",
+    "lunging_press_blue",
+    "nimblism_red",
+    "nimblism_red",
+    "nimblism_red",
+    "oasis_respite_red",
+    "oasis_respite_red",
+    "oasis_respite_red",
+    "premeditate_red",
+    "premeditate_red",
+    "premeditate_red",
+    "pursuit_of_knowledge_blue",
+    "pursuit_of_knowledge_blue",
+    "pursuit_of_knowledge_blue",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "razor_reflex_red",
+    "razor_reflex_red",
+    "razor_reflex_red",
+    "scout_the_periphery_red",
+    "scout_the_periphery_red",
+    "scout_the_periphery_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "snatch_red",
+    "snatch_red",
+    "snatch_red",
+    "spike_pit_trap_blue",
+    "standing_order_red",
+    "standing_order_red",
+    "standing_order_red",
+    "virulent_touch_red",
+    "virulent_touch_red",
+    "virulent_touch_red"
+  ],
+  "sideboard": [
+    "nimble_strike_red",
+    "pitfall_trap_yellow",
+    "pitfall_trap_yellow",
+    "pitfall_trap_yellow",
+    "remembrance_yellow",
+    "remembrance_yellow",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "take_cover_red",
+    "take_cover_red",
+    "take_cover_red",
+    "tripwire_trap_red",
+    "tripwire_trap_red",
+    "tripwire_trap_red"
+  ],
+  "sideboard_equipment": [
+    "balance_of_justice",
+    "crown_of_providence"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 58,
+  "matchups": [
+    {
+      "matchupId": "01HAS0SC2GS8WXFZXQEBMW7GG7",
+      "heroes": [],
+      "name": "Iyslander, Stormbind"
+    },
+    {
+      "matchupId": "01HAS0Z4FFYXZX5GDSB80MRSFP",
+      "heroes": [],
+      "name": "Uzuri, Switchblade"
+    },
+    {
+      "matchupId": "01HAS11G47VE60MATN8CBSR632",
+      "heroes": [],
+      "name": "Azalea, Ace in the Hole"
+    },
+    {
+      "matchupId": "01HAS14MDKEYQ227K1644GGMMC",
+      "heroes": [],
+      "name": "Bravo, Showstopper"
+    },
+    {
+      "matchupId": "01HAS190M5CCQXNWKNJMEDE8J8",
+      "heroes": [],
+      "name": "Dromai, Ash Artist"
+    },
+    {
+      "matchupId": "01HD9R2SE3PY8MVSKY8N07EEZ3",
+      "heroes": [],
+      "name": "Arakni, Huntsman"
+    },
+    {
+      "matchupId": "01HD9R4DNPFZQ480FFQ20TDQE5",
+      "heroes": [],
+      "name": "Dash I/O"
+    },
+    {
+      "matchupId": "01HD9RB381Q75C1ND0150AX1TM",
+      "heroes": [],
+      "name": "Dash, Inventor Extraordinaire"
+    },
+    {
+      "matchupId": "01HD9RDR21RGM4H5XWGE5CWXBS",
+      "heroes": [],
+      "name": "Dorinthea Ironsong"
+    },
+    {
+      "matchupId": "01HD9RFKDWS73VJTM9EWFT2BEC",
+      "heroes": [],
+      "name": "Fai, Rising Rebellion"
+    },
+    {
+      "matchupId": "01HD9RJ9PD46W2FQ03HTZKKDT7",
+      "heroes": [],
+      "name": "Kano, Dracai of Aether"
+    },
+    {
+      "matchupId": "01HD9RNJWNA37411ZFGJ00SH3W",
+      "heroes": [],
+      "name": "Katsu, the Wanderer"
+    },
+    {
+      "matchupId": "01HDNYXXCMFPGZQK822VWBKCJG",
+      "heroes": [],
+      "name": "Levia, Shadowborn Abomination"
+    },
+    {
+      "matchupId": "01HDNYYP2HEYR6FNC1FM3YHMX9",
+      "heroes": [],
+      "name": "Lexi, Livewire"
+    },
+    {
+      "matchupId": "01HDP146CBK3TX7JM8ZR9WN60Z",
+      "heroes": [],
+      "name": "Maxx 'The Hype' Nitro"
+    },
+    {
+      "matchupId": "01HDP1DXEBBK1JC4WPPPWVCSFX",
+      "heroes": [],
+      "name": "Prism, Awakener of Sol"
+    },
+    {
+      "matchupId": "01HDP1EWXPQKNEJ9RDJCEPWJZ6",
+      "heroes": [],
+      "name": "Rhinar, Reckless Rampage"
+    },
+    {
+      "matchupId": "01HDP52NAA4SV1WWADJG40SG76",
+      "heroes": [],
+      "name": "Riptide, Lurker of the Deep"
+    },
+    {
+      "matchupId": "01HDP5QVVSZHV05DDJWJCWMJW1",
+      "heroes": [],
+      "name": "Ser Boltyn, Breaker of Dawn"
+    },
+    {
+      "matchupId": "01HE89E2YVJSDX4M0A15KERVS1",
+      "heroes": [],
+      "name": "Teklovossen, Esteemed Magnate"
+    },
+    {
+      "matchupId": "01HE89F17T0NRM7Q73BXCJFHEF",
+      "heroes": [],
+      "name": "Viserai, Rune Blood"
+    },
+    {
+      "matchupId": "01HE89FS1P5B5DRJRPQC6RW2TV",
+      "heroes": [],
+      "name": "Vynnset, Iron Maiden"
+    }
+  ],
+  "matchup_quantities": {
+    "01HD9R2SE3PY8MVSKY8N07EEZ3": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3,
+      "virulent_touch_red": 3
+    },
+    "01HAS11G47VE60MATN8CBSR632": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HAS14MDKEYQ227K1644GGMMC": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "sink_below_red": 3,
+      "skullbone_crosswrap": 1,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HD9R4DNPFZQ480FFQ20TDQE5": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HD9RB381Q75C1ND0150AX1TM": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HD9RDR21RGM4H5XWGE5CWXBS": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HAS190M5CCQXNWKNJMEDE8J8": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HD9RFKDWS73VJTM9EWFT2BEC": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HAS0SC2GS8WXFZXQEBMW7GG7": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 0
+    },
+    "01HD9RJ9PD46W2FQ03HTZKKDT7": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 0
+    },
+    "01HD9RNJWNA37411ZFGJ00SH3W": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HDNYXXCMFPGZQK822VWBKCJG": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HDNYYP2HEYR6FNC1FM3YHMX9": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HDP146CBK3TX7JM8ZR9WN60Z": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HDP1DXEBBK1JC4WPPPWVCSFX": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HDP1EWXPQKNEJ9RDJCEPWJZ6": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HDP52NAA4SV1WWADJG40SG76": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HDP5QVVSZHV05DDJWJCWMJW1": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HE89E2YVJSDX4M0A15KERVS1": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HAS0Z4FFYXZX5GDSB80MRSFP": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "skullbone_crosswrap": 1,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HE89F17T0NRM7Q73BXCJFHEF": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "oasis_respite_red": 3,
+      "ravenous_rabble_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3
+    },
+    "01HE89FS1P5B5DRJRPQC6RW2TV": {
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "nimble_strike_red": 0,
+      "nimblism_red": 0,
+      "oasis_respite_red": 3,
+      "sink_below_red": 3,
+      "spike_pit_trap_blue": 1,
+      "take_cover_red": 3,
+      "virulent_touch_red": 3
+    }
+  }
+}

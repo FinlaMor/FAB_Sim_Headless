@@ -1,0 +1,375 @@
+{
+  "hero": "valda_seismic_impact",
+  "comment": "Imported from fabrary: 'PQ Winning Valda' [Classic Constructed] deckId=01KKG6G8RHCGY19KCJ89ARJX7M",
+  "equipment": [
+    "basalt_boots",
+    "crown_of_providence",
+    "ironfist_revelation",
+    "shield_beater",
+    "tectonic_plating",
+    "testament_of_valahai"
+  ],
+  "deck": [
+    "aftershock_blue",
+    "aftershock_blue",
+    "aftershock_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "chokeslam_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "cranial_crush_blue",
+    "disable_blue",
+    "disable_blue",
+    "disable_blue",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "grandeur_of_valahai_blue",
+    "headbutt_blue",
+    "headbutt_blue",
+    "headbutt_blue",
+    "ley_line_of_the_old_ones_blue",
+    "overcrowded_blue",
+    "overcrowded_blue",
+    "promising_terrain_blue",
+    "promising_terrain_blue",
+    "promising_terrain_blue",
+    "pummel_red",
+    "pummel_red",
+    "pummel_red",
+    "put_em_in_their_place_red",
+    "put_em_in_their_place_red",
+    "put_em_in_their_place_red",
+    "seismic_eruption_yellow",
+    "seismic_eruption_yellow",
+    "seismic_eruption_yellow",
+    "solid_ground_blue",
+    "solid_ground_blue",
+    "solid_ground_blue",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "spinal_crush_red",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "tear_asunder_blue",
+    "tectonic_instability_blue",
+    "tectonic_instability_blue",
+    "tectonic_instability_blue",
+    "warmongers_diplomacy_blue"
+  ],
+  "sideboard": [
+    "boulder_drop_red",
+    "boulder_drop_red",
+    "boulder_drop_red",
+    "chokeslam_red",
+    "chokeslam_red",
+    "chokeslam_red",
+    "disable_red",
+    "disable_red",
+    "disenchantment_of_the_old_ones_red",
+    "disenchantment_of_the_old_ones_red",
+    "midas_touch_yellow",
+    "midas_touch_yellow",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "staunch_response_red",
+    "staunch_response_red",
+    "valahai_riven_yellow",
+    "valahai_riven_yellow",
+    "valahai_riven_yellow",
+    "warmongers_diplomacy_blue"
+  ],
+  "sideboard_equipment": [
+    "arcane_lantern",
+    "quickdodge_flexors",
+    "titans_fist"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 47,
+  "matchups": [
+    {
+      "matchupId": "01KKG6G913C0F09BYW0DKYNT8V",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01KKG6G99WCCB004NM35WJQ2N7",
+      "heroes": [],
+      "name": "Arakni, Marionette and Slippy"
+    },
+    {
+      "matchupId": "01KKG6G9EPZJSZ38Y6YHQDSD23",
+      "heroes": [],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01KKG6G9J1GX1B15AHDTYE575A",
+      "heroes": [],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01KKG6G9PDWJQVFHH28MKWYXZ7",
+      "heroes": [],
+      "name": "Teklovossen"
+    },
+    {
+      "matchupId": "01KKG6G9THRG6J98QA1KQWV3RQ",
+      "heroes": [],
+      "name": "Fatigue"
+    },
+    {
+      "matchupId": "01KKG6G9YMF578HEFDBHRB4AWC",
+      "heroes": [],
+      "name": "Tuffnut"
+    },
+    {
+      "matchupId": "01KKG6GA3Q9GK5K79MFCKAGYMX",
+      "heroes": [],
+      "name": "Arakni, Huntsman"
+    },
+    {
+      "matchupId": "01KKG6GACQW1N1Y89474PYWJQ6",
+      "heroes": [],
+      "name": "Pleiades"
+    },
+    {
+      "matchupId": "01KKG6GAHXPP00C2N1Z23HCC02",
+      "heroes": [],
+      "name": "Riptide"
+    },
+    {
+      "matchupId": "01KKG6GAQ1W724WXSNYQDHJ5Y3",
+      "heroes": [],
+      "name": "Kayo, RKO"
+    },
+    {
+      "matchupId": "01KMRBAPB1KBZGD34RJAYANQGN",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01KMRBDY0MQ1H6AFM77R47SPDH",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KMRBGSY089EAZKS8WRX2SN0K",
+      "heroes": [],
+      "name": "Jarl"
+    },
+    {
+      "matchupId": "01KMRBNT3M53X217PZ72RFT6RE",
+      "heroes": [],
+      "name": "Dash IO"
+    },
+    {
+      "matchupId": "01KMRBV0ADTKS4F4FCT6T9YEMB",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KMRBYJ2MF02Q3JD3C2GGXJ2M",
+      "heroes": [],
+      "name": "Marlynn"
+    },
+    {
+      "matchupId": "01KMRC1X642C17T76RRRS7S8JH",
+      "heroes": [],
+      "name": "Kassai"
+    },
+    {
+      "matchupId": "01KMRC3D4XB0KZZM2H5FNN3QSA",
+      "heroes": [],
+      "name": "Ninja"
+    },
+    {
+      "matchupId": "01KMRC5AJF8QYXEGS2R5PJBPDX",
+      "heroes": [],
+      "name": "Dorinthea"
+    }
+  ],
+  "matchup_quantities": {
+    "01KKG6G913C0F09BYW0DKYNT8V": {
+      "arcane_lantern": 1,
+      "basalt_boots": 0,
+      "boulder_drop_red": 3,
+      "chokeslam_red": 2,
+      "crown_of_providence": 1,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 0,
+      "quickdodge_flexors": 1,
+      "shelter_from_the_storm_red": 0,
+      "sink_below_red": 3,
+      "testament_of_valahai": 0,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6GA3Q9GK5K79MFCKAGYMX": {
+      "arcane_lantern": 0,
+      "basalt_boots": 0,
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "quickdodge_flexors": 1,
+      "sink_below_red": 3,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6G9THRG6J98QA1KQWV3RQ": {
+      "arcane_lantern": 0,
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "sink_below_red": 3,
+      "valahai_riven_yellow": 3
+    },
+    "01KMRBV0ADTKS4F4FCT6T9YEMB": {
+      "arcane_lantern": 1,
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "shield_beater": 0,
+      "testament_of_valahai": 0,
+      "titans_fist": 1,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6G99WCCB004NM35WJQ2N7": {
+      "basalt_boots": 0,
+      "boulder_drop_red": 3,
+      "chokeslam_red": 0,
+      "quickdodge_flexors": 1,
+      "shelter_from_the_storm_red": 3,
+      "shield_beater": 0,
+      "sink_below_red": 3,
+      "staunch_response_red": 2,
+      "titans_fist": 1,
+      "valahai_riven_yellow": 2,
+      "warmongers_diplomacy_blue": 1
+    },
+    "01KMRBNT3M53X217PZ72RFT6RE": {
+      "basalt_boots": 0,
+      "boulder_drop_red": 3,
+      "chokeslam_red": 2,
+      "disable_red": 2,
+      "grandeur_of_valahai_blue": 0,
+      "ley_line_of_the_old_ones_blue": 0,
+      "quickdodge_flexors": 1,
+      "shelter_from_the_storm_red": 3,
+      "shield_beater": 0,
+      "sink_below_red": 3,
+      "titans_fist": 1,
+      "valahai_riven_yellow": 3
+    },
+    "01KMRC3D4XB0KZZM2H5FNN3QSA": {
+      "basalt_boots": 0,
+      "boulder_drop_red": 3,
+      "chokeslam_red": 1,
+      "disable_red": 2,
+      "quickdodge_flexors": 1,
+      "sink_below_red": 3,
+      "valahai_riven_yellow": 3
+    },
+    "01KMRC5AJF8QYXEGS2R5PJBPDX": {
+      "basalt_boots": 0,
+      "boulder_drop_red": 3,
+      "disable_red": 2,
+      "quickdodge_flexors": 1,
+      "sink_below_red": 3,
+      "staunch_response_red": 2,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6G9EPZJSZ38Y6YHQDSD23": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6G9J1GX1B15AHDTYE575A": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "sink_below_red": 3
+    },
+    "01KKG6G9PDWJQVFHH28MKWYXZ7": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disenchantment_of_the_old_ones_red": 2,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6G9YMF578HEFDBHRB4AWC": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6GAQ1W724WXSNYQDHJ5Y3": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "sink_below_red": 3,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6GACQW1N1Y89474PYWJQ6": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "sink_below_red": 3,
+      "valahai_riven_yellow": 3
+    },
+    "01KKG6GAHXPP00C2N1Z23HCC02": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "valahai_riven_yellow": 3
+    },
+    "01KMRBAPB1KBZGD34RJAYANQGN": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 2,
+      "disable_red": 2,
+      "sink_below_red": 2,
+      "valahai_riven_yellow": 3,
+      "warmongers_diplomacy_blue": 2
+    },
+    "01KMRBDY0MQ1H6AFM77R47SPDH": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 3,
+      "disable_red": 2,
+      "midas_touch_yellow": 2,
+      "valahai_riven_yellow": 3
+    },
+    "01KMRBGSY089EAZKS8WRX2SN0K": {
+      "boulder_drop_red": 3,
+      "chokeslam_red": 1,
+      "disable_red": 2,
+      "disenchantment_of_the_old_ones_red": 2,
+      "staunch_response_red": 2,
+      "valahai_riven_yellow": 3
+    },
+    "01KMRC1X642C17T76RRRS7S8JH": {
+      "boulder_drop_red": 3,
+      "midas_touch_yellow": 2,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 3,
+      "valahai_riven_yellow": 3
+    },
+    "01KMRBYJ2MF02Q3JD3C2GGXJ2M": {
+      "disable_red": 2,
+      "shelter_from_the_storm_red": 3,
+      "sink_below_red": 3,
+      "staunch_response_red": 2,
+      "valahai_riven_yellow": 3
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# PHP
+vendor/
+
+# Adapter outputs
+datasets/games/
+datasets/parquet/
+datasets/msgpack/
+datasets/npz/
+
+# Talishar upstream clone — pin via README instead of vendoring.
+# Comment this out if you prefer to commit a pinned snapshot.
+talishar/

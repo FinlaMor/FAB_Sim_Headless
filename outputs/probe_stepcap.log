@@ -1,0 +1,4 @@
+decks: zyggy vs oscilio_scion_of_the_third_age | ckpt=outputs/models/gameplay/latest.pt | 10 games/cap
+
+cap= 400: lethal=0/10 (0%)  tiebreak=10 (100%)  draw=0  | median steps=400  median wall=38.6s  mean wall=57.5s
+cap=1000: lethal=2/10 (20%)  tiebreak=8 (80%)  draw=0  | median steps=1000  median wall=75.5s  mean wall=97.2s

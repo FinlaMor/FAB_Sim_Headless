@@ -1,0 +1,134 @@
+{
+  "hero": "hala_bladesaint_of_the_vow",
+  "comment": "Imported from fabrary: 'Hala Budget Upgrade (YouTube) V1' [Classic Constructed] deckId=01KNRJSZ6A7XRQ6VT5NEG0TFH1",
+  "equipment": [
+    "anticipating_gaze",
+    "paragon_plate",
+    "reverent_rerebrace",
+    "silverstride_dodgers",
+    "zenith_blade"
+  ],
+  "deck": [
+    "backside_of_the_blade_blue",
+    "backside_of_the_blade_blue",
+    "brimming_blade_red",
+    "brimming_blade_red",
+    "brimming_blade_red",
+    "deadly_display_blue",
+    "deadly_display_blue",
+    "deadly_display_blue",
+    "deadly_display_red",
+    "deadly_display_red",
+    "deadly_display_red",
+    "dusk_path_pilgrimage_blue",
+    "dusk_path_pilgrimage_blue",
+    "dusk_path_pilgrimage_blue",
+    "dusk_path_pilgrimage_red",
+    "dusk_path_pilgrimage_red",
+    "dusk_path_pilgrimage_red",
+    "edict_of_steel_blue",
+    "edict_of_steel_blue",
+    "edict_of_steel_blue",
+    "edict_of_steel_red",
+    "edict_of_steel_red",
+    "edict_of_steel_red",
+    "edict_of_steel_yellow",
+    "edict_of_steel_yellow",
+    "edict_of_steel_yellow",
+    "hit_and_run_blue",
+    "hit_and_run_blue",
+    "hit_and_run_blue",
+    "indefensibly_honed_blue",
+    "nourishing_emptiness_red",
+    "ole_blue",
+    "ole_blue",
+    "ole_blue",
+    "provoke_blue",
+    "provoke_blue",
+    "shuck_blue",
+    "shuck_blue",
+    "swordmasters_path_blue",
+    "swordmasters_path_blue",
+    "swordmasters_path_blue",
+    "swordmasters_path_red",
+    "swordmasters_path_red",
+    "swordmasters_path_red",
+    "swordmasters_shine_red",
+    "swordmasters_shine_red",
+    "swordmasters_shine_red",
+    "toe_the_line_red",
+    "toe_the_line_red",
+    "toe_the_line_red",
+    "visit_the_dawnsmith_blue",
+    "visit_the_dawnsmith_blue"
+  ],
+  "sideboard": [
+    "amulet_of_echoes_blue",
+    "amulet_of_echoes_blue",
+    "cut_n_carve_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "gleam_of_the_blade_red",
+    "gleam_of_the_blade_red",
+    "gleam_of_the_blade_red",
+    "polished_blade_red",
+    "polished_blade_red",
+    "polished_blade_red",
+    "rout_red",
+    "sharp_incline_red",
+    "sharp_incline_red",
+    "sharp_incline_red",
+    "silverdrop_downpour_red",
+    "silverdrop_downpour_red",
+    "silverdrop_downpour_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red"
+  ],
+  "sideboard_equipment": [
+    "nullrune_hood"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 52,
+  "matchups": [
+    {
+      "matchupId": "01KNRJSZSVABC6APCE0NDDJRVQ",
+      "heroes": [],
+      "name": "We block a lot"
+    },
+    {
+      "matchupId": "01KNRJT0DH6NXZEGCWHHGPR1YK",
+      "heroes": [],
+      "name": "They block a lot"
+    },
+    {
+      "matchupId": "01KNRJT0NETA1A8M010ZT2VY2P",
+      "heroes": [],
+      "name": "Oscilio"
+    }
+  ],
+  "matchup_quantities": {
+    "01KNRJT0NETA1A8M010ZT2VY2P": {
+      "amulet_of_echoes_blue": 2,
+      "sharp_incline_red": 3,
+      "silverdrop_downpour_red": 3,
+      "sink_below_red": 2,
+      "visit_the_dawnsmith_blue": 0
+    },
+    "01KNRJT0DH6NXZEGCWHHGPR1YK": {
+      "cut_n_carve_red": 1,
+      "gleam_of_the_blade_red": 3,
+      "polished_blade_red": 3,
+      "rout_red": 1,
+      "silverdrop_downpour_red": 3,
+      "toe_the_line_red": 0
+    },
+    "01KNRJSZSVABC6APCE0NDDJRVQ": {
+      "deadly_display_red": 2,
+      "fate_foreseen_red": 3,
+      "sharp_incline_red": 3,
+      "sink_below_red": 3
+    }
+  }
+}

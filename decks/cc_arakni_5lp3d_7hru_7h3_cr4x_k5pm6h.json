@@ -1,0 +1,279 @@
+{
+  "hero": "arakni_5lp3d_7hru_7h3_cr4x",
+  "comment": "Imported from fabrary: 'Winner RTN Bordeaux 11/01/26' [Classic Constructed] deckId=01KES6G4SE56F3RJKAJDK5PM6H",
+  "equipment": [
+    "blacktek_whisperers",
+    "crown_of_providence",
+    "flick_knives",
+    "fyendals_spring_tunic",
+    "hunters_klaive",
+    "hunters_klaive"
+  ],
+  "deck": [
+    "art_of_desire_body_red",
+    "art_of_desire_body_red",
+    "art_of_desire_body_red",
+    "bonds_of_attraction_red",
+    "bonds_of_attraction_red",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "infect_red",
+    "infect_red",
+    "infect_red",
+    "infiltrate_red",
+    "infiltrate_red",
+    "infiltrate_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "meet_madness_red",
+    "meet_madness_red",
+    "meet_madness_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "pick_up_the_point_red",
+    "pick_up_the_point_red",
+    "razors_edge_red",
+    "razors_edge_red",
+    "razors_edge_red",
+    "shred_yellow",
+    "shred_yellow",
+    "spike_with_bloodrot_red",
+    "spike_with_bloodrot_red",
+    "spike_with_bloodrot_red",
+    "stains_of_the_redback_red",
+    "stains_of_the_redback_red",
+    "stains_of_the_redback_red",
+    "take_up_the_mantle_yellow",
+    "take_up_the_mantle_yellow",
+    "take_up_the_mantle_yellow"
+  ],
+  "sideboard": [
+    "codex_of_bloodrot_yellow",
+    "codex_of_bloodrot_yellow",
+    "codex_of_inertia_yellow",
+    "codex_of_inertia_yellow",
+    "death_touch_red",
+    "fate_foreseen_red",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "shelter_from_the_storm_red",
+    "shelter_from_the_storm_red",
+    "sigil_of_solace_red",
+    "sigil_of_solace_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "toxicity_yellow",
+    "toxicity_yellow",
+    "toxicity_yellow",
+    "warmongers_diplomacy_blue",
+    "warmongers_diplomacy_blue"
+  ],
+  "sideboard_equipment": [
+    "balance_of_justice",
+    "prey_spotters",
+    "stalkers_steps"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 47,
+  "matchups": [
+    {
+      "matchupId": "01KES6G5A245E1ES236EBMMKAK",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KES6G62VDA9JG3MVW9ABPTMM",
+      "heroes": [],
+      "name": "Gravy"
+    },
+    {
+      "matchupId": "01KES6G6GF7DBPJ7SZ8A253HKX",
+      "heroes": [],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01KES6G6W8BFRF4QWQVGBRCDRR",
+      "heroes": [],
+      "name": "Dash I/O ou Puffin"
+    },
+    {
+      "matchupId": "01KES6G79R7WPDE2G6EYRR6MGP",
+      "heroes": [],
+      "name": "Dorinthea"
+    },
+    {
+      "matchupId": "01KES6G7TVECQRTTEH77Z6NRK2",
+      "heroes": [],
+      "name": "Fang"
+    },
+    {
+      "matchupId": "01KES6G89K9HGTQ15WS3E08RTT",
+      "heroes": [],
+      "name": "Florian"
+    },
+    {
+      "matchupId": "01KES6GA6M1J40TT2SE8T39HK7",
+      "heroes": [],
+      "name": "Kassa\u00ef"
+    },
+    {
+      "matchupId": "01KES6GANH9JDKH8FZ5R2NM8F3",
+      "heroes": [],
+      "name": "Verdance"
+    },
+    {
+      "matchupId": "01KES6GBK1V2VCYSK51H3786RV",
+      "heroes": [],
+      "name": "Mario"
+    },
+    {
+      "matchupId": "01KES6GBVT51FMBY6VGB1NA3TK",
+      "heroes": [],
+      "name": "Oscilio"
+    }
+  ],
+  "matchup_quantities": {
+    "01KES6GBVT51FMBY6VGB1NA3TK": {
+      "balance_of_justice": 1,
+      "blacktek_whisperers": 0,
+      "codex_of_bloodrot_yellow": 2,
+      "codex_of_inertia_yellow": 2,
+      "crown_of_providence": 0,
+      "fyendals_spring_tunic": 1,
+      "pain_in_the_backside_red": 3,
+      "shelter_from_the_storm_red": 0,
+      "sink_below_red": 3,
+      "stalkers_steps": 1,
+      "tarantula_toxin_red": 3
+    },
+    "01KES6G5A245E1ES236EBMMKAK": {
+      "balance_of_justice": 1,
+      "codex_of_bloodrot_yellow": 2,
+      "crown_of_providence": 0,
+      "death_touch_red": 1,
+      "fate_foreseen_red": 1,
+      "pain_in_the_backside_red": 3,
+      "shelter_from_the_storm_red": 2,
+      "sink_below_red": 3,
+      "tarantula_toxin_red": 1
+    },
+    "01KES6GANH9JDKH8FZ5R2NM8F3": {
+      "blacktek_whisperers": 0,
+      "codex_of_bloodrot_yellow": 2,
+      "codex_of_inertia_yellow": 2,
+      "crown_of_providence": 0,
+      "death_touch_red": 1,
+      "pain_in_the_backside_red": 0,
+      "pick_up_the_point_red": 2,
+      "prey_spotters": 1,
+      "sigil_of_solace_red": 2,
+      "stalkers_steps": 1,
+      "tarantula_toxin_red": 3,
+      "toxicity_yellow": 3
+    },
+    "01KES6G89K9HGTQ15WS3E08RTT": {
+      "blacktek_whisperers": 0,
+      "codex_of_bloodrot_yellow": 2,
+      "codex_of_inertia_yellow": 2,
+      "crown_of_providence": 0,
+      "death_touch_red": 1,
+      "pain_in_the_backside_red": 2,
+      "prey_spotters": 1,
+      "stalkers_steps": 1,
+      "tarantula_toxin_red": 3,
+      "toxicity_yellow": 3
+    },
+    "01KES6G62VDA9JG3MVW9ABPTMM": {
+      "blacktek_whisperers": 0,
+      "codex_of_bloodrot_yellow": 2,
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 1,
+      "fate_foreseen_red": 1,
+      "pain_in_the_backside_red": 3,
+      "shelter_from_the_storm_red": 2,
+      "sink_below_red": 3,
+      "stalkers_steps": 1,
+      "tarantula_toxin_red": 3,
+      "toxicity_yellow": 3,
+      "warmongers_diplomacy_blue": 2
+    },
+    "01KES6GA6M1J40TT2SE8T39HK7": {
+      "codex_of_bloodrot_yellow": 2,
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 1,
+      "fate_foreseen_red": 1,
+      "pain_in_the_backside_red": 3,
+      "shelter_from_the_storm_red": 2,
+      "sink_below_red": 3,
+      "tarantula_toxin_red": 3,
+      "toxicity_yellow": 3,
+      "warmongers_diplomacy_blue": 2
+    },
+    "01KES6G6W8BFRF4QWQVGBRCDRR": {
+      "codex_of_bloodrot_yellow": 2,
+      "codex_of_inertia_yellow": 2,
+      "crown_of_providence": 1,
+      "fate_foreseen_red": 1,
+      "pick_up_the_point_red": 0,
+      "shelter_from_the_storm_red": 2,
+      "sink_below_red": 3,
+      "tarantula_toxin_red": 3,
+      "warmongers_diplomacy_blue": 2
+    },
+    "01KES6G7TVECQRTTEH77Z6NRK2": {
+      "codex_of_bloodrot_yellow": 2,
+      "death_touch_red": 1,
+      "fate_foreseen_red": 1,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 0,
+      "shelter_from_the_storm_red": 2,
+      "sink_below_red": 3,
+      "tarantula_toxin_red": 3
+    },
+    "01KES6GBK1V2VCYSK51H3786RV": {
+      "codex_of_bloodrot_yellow": 1,
+      "crown_of_providence": 1,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 0,
+      "shelter_from_the_storm_red": 2,
+      "sink_below_red": 3,
+      "tarantula_toxin_red": 3,
+      "toxicity_yellow": 3
+    },
+    "01KES6G6GF7DBPJ7SZ8A253HKX": {
+      "codex_of_bloodrot_yellow": 1,
+      "crown_of_providence": 1,
+      "fate_foreseen_red": 1,
+      "pain_in_the_backside_red": 3,
+      "shelter_from_the_storm_red": 2,
+      "sink_below_red": 3,
+      "tarantula_toxin_red": 3,
+      "warmongers_diplomacy_blue": 0
+    },
+    "01KES6G79R7WPDE2G6EYRR6MGP": {
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 1,
+      "fate_foreseen_red": 1,
+      "pain_in_the_backside_red": 1,
+      "shelter_from_the_storm_red": 2,
+      "sink_below_red": 3,
+      "tarantula_toxin_red": 3
+    }
+  }
+}

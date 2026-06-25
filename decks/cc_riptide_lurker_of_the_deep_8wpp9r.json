@@ -1,0 +1,252 @@
+{
+  "hero": "riptide_lurker_of_the_deep",
+  "comment": "Imported from fabrary: 'Manta Riptide for Super Slam (YouTube)' [Classic Constructed] deckId=01K5Y1E1PQB4XR2CT34K8WPP9R",
+  "equipment": [
+    "driftwood_quiver",
+    "fyendals_spring_tunic",
+    "longdraw_half_glove",
+    "new_horizon",
+    "redspine_manta",
+    "snapdragon_scalers"
+  ],
+  "deck": [
+    "boltn_shot_red",
+    "boltn_shot_red",
+    "boltn_shot_red",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "drill_shot_red",
+    "drill_shot_red",
+    "drill_shot_red",
+    "endless_arrow_red",
+    "endless_arrow_red",
+    "endless_arrow_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "enlightened_strike_red",
+    "falcon_wing_red",
+    "falcon_wing_red",
+    "falcon_wing_red",
+    "heat_seeker_red",
+    "heat_seeker_red",
+    "heat_seeker_red",
+    "lace_with_bloodrot_red",
+    "lace_with_bloodrot_red",
+    "lace_with_bloodrot_red",
+    "point_the_tip_red",
+    "point_the_tip_red",
+    "premeditate_red",
+    "premeditate_red",
+    "premeditate_red",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "ravenous_rabble_red",
+    "searing_shot_red",
+    "searing_shot_red",
+    "searing_shot_red",
+    "seek_and_destroy_red",
+    "seek_and_destroy_red",
+    "seek_and_destroy_red",
+    "stone_rain_red",
+    "stone_rain_red",
+    "stone_rain_red",
+    "swift_shot_red",
+    "swift_shot_red",
+    "swift_shot_red"
+  ],
+  "sideboard": [
+    "boltn_shot_yellow",
+    "boltn_shot_yellow",
+    "boltn_shot_yellow",
+    "boulder_trap_yellow",
+    "boulder_trap_yellow",
+    "boulder_trap_yellow",
+    "buzzsaw_trap_blue",
+    "collapsing_trap_blue",
+    "feign_death_yellow",
+    "feign_death_yellow",
+    "inertia_trap_red",
+    "inertia_trap_red",
+    "inertia_trap_red",
+    "mage_hunter_arrow_red",
+    "mage_hunter_arrow_red",
+    "rain_razors_yellow",
+    "rain_razors_yellow",
+    "rain_razors_yellow",
+    "return_fire_red",
+    "return_fire_red",
+    "return_fire_red",
+    "sink_below_red",
+    "sink_below_red",
+    "sink_below_red",
+    "tarpit_trap_yellow",
+    "tarpit_trap_yellow",
+    "tarpit_trap_yellow"
+  ],
+  "sideboard_equipment": [
+    "dreadbore",
+    "enchanted_quiver",
+    "trench_of_sunken_treasure"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 44,
+  "matchups": [
+    {
+      "matchupId": "01K62X5WKDNRH6Q5R0X4YK1GV1",
+      "heroes": [],
+      "name": "Florian"
+    },
+    {
+      "matchupId": "01K62X8NYXVMCEMBZKQEZC31C7",
+      "heroes": [],
+      "name": "Verdance"
+    },
+    {
+      "matchupId": "01K62XDH0FDNM12Q4BNTBRR3Y5",
+      "heroes": [],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01K62XESSH2T03ZPHG48V5M27T",
+      "heroes": [],
+      "name": "Dash"
+    },
+    {
+      "matchupId": "01K62XFSMC60VBRKPZSGMX798W",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01K62XHDJW7FEWHPZ3P1EEDE52",
+      "heroes": [],
+      "name": "Kayo"
+    },
+    {
+      "matchupId": "01K62XJNB1AXJ6X434X4VVQBHN",
+      "heroes": [],
+      "name": "Pleiades"
+    },
+    {
+      "matchupId": "01K62XJNB26M04JSWXFWAPXEX4",
+      "heroes": [],
+      "name": "Lyath"
+    },
+    {
+      "matchupId": "01K62XN426SPMQBC2MA04RF7AV",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01K62XV57AFX1EZQ0N6FV8B7E9",
+      "heroes": [],
+      "name": "Tuffnut"
+    }
+  ],
+  "matchup_quantities": {
+    "01K62X5WKDNRH6Q5R0X4YK1GV1": {
+      "boltn_shot_yellow": 3,
+      "boulder_trap_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "dreadbore": 1,
+      "driftwood_quiver": 0,
+      "enchanted_quiver": 1,
+      "fyendals_spring_tunic": 0,
+      "inertia_trap_red": 3,
+      "rain_razors_yellow": 3,
+      "redspine_manta": 0,
+      "return_fire_red": 2,
+      "trench_of_sunken_treasure": 1
+    },
+    "01K62X8NYXVMCEMBZKQEZC31C7": {
+      "boltn_shot_yellow": 3,
+      "boulder_trap_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "dreadbore": 1,
+      "driftwood_quiver": 0,
+      "enchanted_quiver": 1,
+      "feign_death_yellow": 2,
+      "fyendals_spring_tunic": 0,
+      "inertia_trap_red": 2,
+      "mage_hunter_arrow_red": 2,
+      "rain_razors_yellow": 3,
+      "redspine_manta": 0,
+      "trench_of_sunken_treasure": 1
+    },
+    "01K62XFSMC60VBRKPZSGMX798W": {
+      "boltn_shot_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "enchanted_quiver": 1,
+      "feign_death_yellow": 2,
+      "inertia_trap_red": 2,
+      "mage_hunter_arrow_red": 2,
+      "rain_razors_yellow": 3,
+      "return_fire_red": 2
+    },
+    "01K62XJNB26M04JSWXFWAPXEX4": {
+      "boltn_shot_yellow": 3,
+      "boulder_trap_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "enchanted_quiver": 0,
+      "feign_death_yellow": 0,
+      "inertia_trap_red": 3,
+      "rain_razors_yellow": 3,
+      "return_fire_red": 3
+    },
+    "01K62XJNB1AXJ6X434X4VVQBHN": {
+      "boltn_shot_yellow": 3,
+      "boulder_trap_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "dreadbore": 0,
+      "inertia_trap_red": 3,
+      "rain_razors_yellow": 3,
+      "return_fire_red": 3
+    },
+    "01K62XN426SPMQBC2MA04RF7AV": {
+      "boltn_shot_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "rain_razors_yellow": 3,
+      "return_fire_red": 3,
+      "sink_below_red": 2,
+      "tarpit_trap_yellow": 3
+    },
+    "01K62XV57AFX1EZQ0N6FV8B7E9": {
+      "boltn_shot_yellow": 3,
+      "boulder_trap_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "inertia_trap_red": 3,
+      "rain_razors_yellow": 3,
+      "return_fire_red": 3
+    },
+    "01K62XDH0FDNM12Q4BNTBRR3Y5": {
+      "boulder_trap_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "inertia_trap_red": 2,
+      "return_fire_red": 3,
+      "sink_below_red": 3,
+      "tarpit_trap_yellow": 3
+    },
+    "01K62XESSH2T03ZPHG48V5M27T": {
+      "boulder_trap_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "inertia_trap_red": 2,
+      "return_fire_red": 3,
+      "sink_below_red": 3,
+      "tarpit_trap_yellow": 3
+    },
+    "01K62XHDJW7FEWHPZ3P1EEDE52": {
+      "boulder_trap_yellow": 3,
+      "buzzsaw_trap_blue": 1,
+      "collapsing_trap_blue": 1,
+      "feign_death_yellow": 2,
+      "inertia_trap_red": 3,
+      "return_fire_red": 3,
+      "sink_below_red": 3
+    }
+  }
+}

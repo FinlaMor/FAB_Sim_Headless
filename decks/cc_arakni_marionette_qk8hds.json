@@ -1,0 +1,468 @@
+{
+  "hero": "arakni_marionette",
+  "comment": "Imported from fabrary: 'Eevee v6' [Classic Constructed] deckId=01KGFENBA50PY1JK8W53QK8HDS",
+  "equipment": [
+    "blacktek_whisperers",
+    "flick_knives",
+    "fyendals_spring_tunic",
+    "hunters_klaive",
+    "hunters_klaive",
+    "mask_of_deceit"
+  ],
+  "deck": [
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "codex_of_frailty_yellow",
+    "cut_from_the_same_cloth_red",
+    "cut_from_the_same_cloth_red",
+    "cut_from_the_same_cloth_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "kiss_of_death_red",
+    "knives_out_blue",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "leave_no_witnesses_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "mark_of_the_black_widow_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "orb_weaver_spinneret_red",
+    "overcrowded_blue",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "pain_in_the_backside_red",
+    "persuasive_prognosis_blue",
+    "persuasive_prognosis_blue",
+    "reapers_call_blue",
+    "relentless_pursuit_blue",
+    "savor_bloodshed_red",
+    "savor_bloodshed_red",
+    "savor_bloodshed_red",
+    "shred_blue",
+    "stains_of_the_redback_blue",
+    "stains_of_the_redback_red",
+    "stains_of_the_redback_red",
+    "stains_of_the_redback_red",
+    "take_up_the_mantle_yellow",
+    "take_up_the_mantle_yellow",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "tarantula_toxin_red",
+    "to_the_point_red",
+    "to_the_point_red",
+    "to_the_point_red",
+    "under_the_trap_door_blue",
+    "under_the_trap_door_blue",
+    "up_sticks_and_run_red",
+    "up_sticks_and_run_red",
+    "up_sticks_and_run_red",
+    "whittle_from_bone_blue",
+    "whittle_from_bone_blue",
+    "whittle_from_bone_blue"
+  ],
+  "sideboard": [
+    "amulet_of_echoes_blue",
+    "amulet_of_echoes_blue",
+    "codex_of_inertia_yellow",
+    "codex_of_inertia_yellow",
+    "death_touch_red",
+    "den_of_the_spider_red",
+    "fate_foreseen_red",
+    "fate_foreseen_red",
+    "incision_red",
+    "incision_red",
+    "incision_red",
+    "inertia_trap_red",
+    "infiltrate_red",
+    "infiltrate_red",
+    "lair_of_the_spider_red",
+    "meet_madness_red",
+    "meet_madness_red",
+    "pick_up_the_point_red",
+    "scar_tissue_red",
+    "scar_tissue_red",
+    "scar_tissue_red",
+    "shelter_from_the_storm_red"
+  ],
+  "sideboard_equipment": [
+    "stalkers_steps"
+  ],
+  "registered_total": 80,
+  "maindeck_count": 51,
+  "matchups": [
+    {
+      "matchupId": "01KGFENC1HP543DT8QG6DSJAT9",
+      "heroes": [],
+      "name": "Gravy Bones"
+    },
+    {
+      "matchupId": "01KGFENDFZTRMZD79MCBCVYFYG",
+      "heroes": [],
+      "name": "Arakni, Mario (Mirror)"
+    },
+    {
+      "matchupId": "01KGFENE7MSE5Q9PJRAMGEXAEQ",
+      "heroes": [],
+      "name": "Kassai"
+    },
+    {
+      "matchupId": "01KGFENEG7W26ERMQ11CE16DWW",
+      "heroes": [],
+      "name": "Vynnset"
+    },
+    {
+      "matchupId": "01KGFENF7GVA8YE6KKG58XDGDS",
+      "heroes": [],
+      "name": "Cindra"
+    },
+    {
+      "matchupId": "01KGFENGN9T3MSC3QHXDAJW5C5",
+      "heroes": [],
+      "name": "Rhinar"
+    },
+    {
+      "matchupId": "01KGFENGXSB9KA1V978K3RQGSA",
+      "heroes": [],
+      "name": "Prism"
+    },
+    {
+      "matchupId": "01KGFENHMQGMQJ10DWBEFKNQ5E",
+      "heroes": [],
+      "name": "Oscilio"
+    },
+    {
+      "matchupId": "01KGFENHXCAD8J7MHS2EXSHTCF",
+      "heroes": [],
+      "name": "Arakni, Slippy"
+    },
+    {
+      "matchupId": "01KGFENKBQ47SVKH61TJ91Y35X",
+      "heroes": [],
+      "name": "Fang"
+    },
+    {
+      "matchupId": "01KGFENM2GS344B3F9374M952M",
+      "heroes": [],
+      "name": "Dash I/O"
+    },
+    {
+      "matchupId": "01KGFENMSCJCZ6GVQ2Q1CRQBXH",
+      "heroes": [],
+      "name": "RKO"
+    },
+    {
+      "matchupId": "01KGFENP7Z5PZ6X4V7K4DDWX73",
+      "heroes": [],
+      "name": "Marlynn"
+    },
+    {
+      "matchupId": "01KJED4BM8P63HZHJ4N2HH2QK5",
+      "heroes": [],
+      "name": "Arakni, Huntsman"
+    },
+    {
+      "matchupId": "01KJFA33R6M01NBTP5AZGZRXGV",
+      "heroes": [],
+      "name": "Katsu"
+    },
+    {
+      "matchupId": "01KJFD006CFKD5ZBRDA3BT9XRP",
+      "heroes": [],
+      "name": "Fai"
+    },
+    {
+      "matchupId": "01KJWGQERS22Z78R6QVWW4C1GJ",
+      "heroes": [],
+      "name": "Valda"
+    },
+    {
+      "matchupId": "01KMVQXYPXWBG55J5ZF6334WZK",
+      "heroes": [],
+      "name": "Victor"
+    },
+    {
+      "matchupId": "01KMVS8Z16F9ZNNBKNX8807RXF",
+      "heroes": [],
+      "name": "00 Default"
+    },
+    {
+      "matchupId": "01KMVS966AYZDDBHTJXA4NXE9E",
+      "heroes": [],
+      "name": "01 Fatigue"
+    }
+  ],
+  "matchup_quantities": {
+    "01KGFENHMQGMQJ10DWBEFKNQ5E": {
+      "amulet_of_echoes_blue": 2,
+      "blacktek_whisperers": 0,
+      "codex_of_inertia_yellow": 2,
+      "inertia_trap_red": 0,
+      "infiltrate_red": 2,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pick_up_the_point_red": 1,
+      "shelter_from_the_storm_red": 1,
+      "shred_blue": 1,
+      "stalkers_steps": 1
+    },
+    "01KGFENDFZTRMZD79MCBCVYFYG": {
+      "blacktek_whisperers": 1,
+      "codex_of_inertia_yellow": 0,
+      "fate_foreseen_red": 2,
+      "fyendals_spring_tunic": 1,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 2,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 0,
+      "scar_tissue_red": 0,
+      "shelter_from_the_storm_red": 1,
+      "stains_of_the_redback_blue": 1,
+      "to_the_point_red": 3,
+      "up_sticks_and_run_red": 3
+    },
+    "01KGFENF7GVA8YE6KKG58XDGDS": {
+      "blacktek_whisperers": 1,
+      "codex_of_inertia_yellow": 0,
+      "den_of_the_spider_red": 1,
+      "fate_foreseen_red": 2,
+      "fyendals_spring_tunic": 1,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 2,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 0,
+      "scar_tissue_red": 0,
+      "shelter_from_the_storm_red": 1,
+      "to_the_point_red": 0,
+      "up_sticks_and_run_red": 3
+    },
+    "01KGFENC1HP543DT8QG6DSJAT9": {
+      "blacktek_whisperers": 0,
+      "codex_of_inertia_yellow": 0,
+      "cut_from_the_same_cloth_red": 3,
+      "death_touch_red": 1,
+      "den_of_the_spider_red": 1,
+      "fate_foreseen_red": 2,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "mask_of_deceit": 1,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 1,
+      "shelter_from_the_storm_red": 1,
+      "stalkers_steps": 1,
+      "to_the_point_red": 0,
+      "up_sticks_and_run_red": 3
+    },
+    "01KGFENEG7W26ERMQ11CE16DWW": {
+      "blacktek_whisperers": 0,
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 0,
+      "fate_foreseen_red": 2,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "lair_of_the_spider_red": 0,
+      "mark_of_the_black_widow_red": 3,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 0,
+      "shelter_from_the_storm_red": 1,
+      "stalkers_steps": 1,
+      "up_sticks_and_run_red": 3
+    },
+    "01KGFENE7MSE5Q9PJRAMGEXAEQ": {
+      "blacktek_whisperers": 0,
+      "codex_of_inertia_yellow": 0,
+      "death_touch_red": 0,
+      "fate_foreseen_red": 2,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 0,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3,
+      "shelter_from_the_storm_red": 0,
+      "stalkers_steps": 1,
+      "up_sticks_and_run_red": 3
+    },
+    "01KGFENGN9T3MSC3QHXDAJW5C5": {
+      "codex_of_inertia_yellow": 0,
+      "death_touch_red": 0,
+      "fate_foreseen_red": 0,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pain_in_the_backside_red": 3,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3
+    },
+    "01KGFENGXSB9KA1V978K3RQGSA": {
+      "codex_of_inertia_yellow": 0,
+      "death_touch_red": 1,
+      "den_of_the_spider_red": 0,
+      "fate_foreseen_red": 2,
+      "inertia_trap_red": 0,
+      "infiltrate_red": 0,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3,
+      "shelter_from_the_storm_red": 0,
+      "shred_blue": 1,
+      "to_the_point_red": 3,
+      "under_the_trap_door_blue": 2
+    },
+    "01KGFENHXCAD8J7MHS2EXSHTCF": {
+      "codex_of_inertia_yellow": 0,
+      "den_of_the_spider_red": 0,
+      "fate_foreseen_red": 2,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 2,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "shelter_from_the_storm_red": 1,
+      "to_the_point_red": 0
+    },
+    "01KGFENKBQ47SVKH61TJ91Y35X": {
+      "codex_of_inertia_yellow": 0,
+      "fate_foreseen_red": 2,
+      "inertia_trap_red": 1,
+      "mark_of_the_black_widow_red": 2,
+      "pick_up_the_point_red": 0,
+      "shelter_from_the_storm_red": 1,
+      "shred_blue": 0
+    },
+    "01KGFENM2GS344B3F9374M952M": {
+      "codex_of_inertia_yellow": 2,
+      "den_of_the_spider_red": 1,
+      "fate_foreseen_red": 2,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 0,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "scar_tissue_red": 0,
+      "shelter_from_the_storm_red": 1,
+      "to_the_point_red": 0
+    },
+    "01KGFENMSCJCZ6GVQ2Q1CRQBXH": {
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 1,
+      "den_of_the_spider_red": 1,
+      "fate_foreseen_red": 0,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "mark_of_the_black_widow_red": 0,
+      "meet_madness_red": 0,
+      "overcrowded_blue": 0,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3,
+      "shelter_from_the_storm_red": 1,
+      "stalkers_steps": 0
+    },
+    "01KGFENP7Z5PZ6X4V7K4DDWX73": {
+      "codex_of_inertia_yellow": 2,
+      "den_of_the_spider_red": 1,
+      "fate_foreseen_red": 2,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "lair_of_the_spider_red": 0,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "pick_up_the_point_red": 0,
+      "shelter_from_the_storm_red": 1,
+      "to_the_point_red": 0
+    },
+    "01KJED4BM8P63HZHJ4N2HH2QK5": {
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 1,
+      "fate_foreseen_red": 0,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 2,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3,
+      "shelter_from_the_storm_red": 0
+    },
+    "01KJWGQERS22Z78R6QVWW4C1GJ": {
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 0,
+      "den_of_the_spider_red": 1,
+      "fate_foreseen_red": 2,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "overcrowded_blue": 0,
+      "pick_up_the_point_red": 0,
+      "shelter_from_the_storm_red": 1
+    },
+    "01KMVS966AYZDDBHTJXA4NXE9E": {
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 1,
+      "incision_red": 3,
+      "overcrowded_blue": 0,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3
+    },
+    "01KMVQXYPXWBG55J5ZF6334WZK": {
+      "codex_of_inertia_yellow": 2,
+      "death_touch_red": 1,
+      "den_of_the_spider_red": 1,
+      "incision_red": 3,
+      "inertia_trap_red": 1,
+      "overcrowded_blue": 0,
+      "pick_up_the_point_red": 1,
+      "scar_tissue_red": 3,
+      "take_up_the_mantle_yellow": 0
+    },
+    "01KJFD006CFKD5ZBRDA3BT9XRP": {
+      "den_of_the_spider_red": 0,
+      "fate_foreseen_red": 2,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 2,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pick_up_the_point_red": 1,
+      "shelter_from_the_storm_red": 1,
+      "to_the_point_red": 3
+    },
+    "01KJFA33R6M01NBTP5AZGZRXGV": {
+      "den_of_the_spider_red": 1,
+      "fate_foreseen_red": 2,
+      "inertia_trap_red": 1,
+      "infiltrate_red": 2,
+      "lair_of_the_spider_red": 1,
+      "mark_of_the_black_widow_red": 3,
+      "meet_madness_red": 2,
+      "overcrowded_blue": 0,
+      "pick_up_the_point_red": 0,
+      "shelter_from_the_storm_red": 1
+    }
+  }
+}
