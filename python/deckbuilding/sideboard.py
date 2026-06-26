@@ -32,6 +32,12 @@ MAX_COPIES = 3
 _REPO = Path(__file__).resolve().parents[2]
 _SLUG_INDEX = _REPO / "slug_index.json"
 _ARMOR_SLOTS = ("Head", "Chest", "Arms", "Legs", "Off-Hand", "Quiver")
+# Body-armor slots: independent, <=1 piece each. Off-Hand/Quiver are deliberately
+# NOT here -- they consume a HAND, so they share the weapon hand-budget below
+# instead of occupying a free body slot (a hero can't hold an off-hand while
+# wielding two 1H weapons).
+_BODY_SLOTS = ("Head", "Chest", "Arms", "Legs")
+_HAND_BUDGET = 2   # two hands: a 2H weapon costs 2; a 1H weapon / Off-Hand / Quiver costs 1.
 _idx_cache: dict | None = None
 
 
@@ -98,6 +104,16 @@ def _slot(slug: str) -> str | None:
     return None
 
 
+def _hand_cost(slug: str) -> int:
+    """Hands a weapon/off-hand piece consumes: 2 for a two-handed weapon, else 1."""
+    return 2 if "2H" in set(_meta(slug).get("subtypes") or []) else 1
+
+
+def _is_bow(slug: str) -> bool:
+    """True for a Bow weapon (a Quiver may only be equipped alongside a bow)."""
+    return "Bow" in set(_meta(slug).get("subtypes") or [])
+
+
 def _is_unlimited(slug: str) -> bool:
     """Cards with the 'Unlimited' designation are exempt from the 3-copy rule
     (e.g. Copper Cog), so a legal deck can run any number of them."""
@@ -144,23 +160,63 @@ def pick_matchup(pool: dict, opp_hero: str | None) -> str | None:
 
 
 def _select_equipment(candidates: list[str]) -> list[str]:
-    """Legal loadout from starting-equipment candidates: <=1 per recognized
-    armor slot, up to 2 weapons, unknown-slot pieces kept; de-duped by slug."""
+    """Build a CC-legal starting loadout from preference-ordered candidates:
+
+      * at most ONE piece per body-armor slot (Head/Chest/Arms/Legs), so weapons
+        can never crowd armor out of the loadout;
+      * weapons + Off-Hand/Quiver share a 2-HAND budget (a 2H weapon costs both
+        hands; a 1H weapon / Off-Hand / Quiver costs one) -- so we never emit an
+        illegal 3-hand loadout like two 1H weapons PLUS an off-hand;
+      * unknown-slot pieces are kept unconstrained.
+
+    De-duped by slug; earlier candidates win their slot, so the caller orders the
+    matchup-preferred pieces first (see resolve).
+
+    Two passes so a 2H signature weapon is never starved of a hand by an off-hand
+    that merely came earlier in the candidate order:
+      PASS 1 -- body armor (<=1 per slot) + weapons (claim hands first);
+      PASS 2 -- Off-Hand (<=1, occupies the remaining hand) then Quiver (<=1,
+                worn so no hand, but ONLY legal alongside a Bow weapon)."""
     equipment: list[str] = []
-    used_slots: set[str] = set()
-    weapons = 0
+    used_slots: set[str] = set()   # single-occupancy slots: body armor + Off-Hand + Quiver
+    hands = 0
+
+    # PASS 1: armor + weapons.
     for slug in candidates:
         if slug in equipment:
             continue
         slot = _slot(slug)
-        if slot in _ARMOR_SLOTS:
+        if slot in _BODY_SLOTS:
             if slot in used_slots:
                 continue
             used_slots.add(slot)
+            equipment.append(slug)
         elif slot == "Weapon":
-            if weapons >= 2:
+            cost = _hand_cost(slug)
+            if hands + cost > _HAND_BUDGET:
                 continue
-            weapons += 1
+            hands += cost
+            equipment.append(slug)
+
+    have_bow = any(_slot(s) == "Weapon" and _is_bow(s) for s in equipment)
+
+    # PASS 2: hand-held / worn extras + any unknown-slot pieces.
+    for slug in candidates:
+        if slug in equipment:
+            continue
+        slot = _slot(slug)
+        if slot in _BODY_SLOTS or slot == "Weapon":
+            continue                 # already settled in pass 1 (or slot taken)
+        if slot == "Off-Hand":
+            if "Off-Hand" in used_slots or hands + 1 > _HAND_BUDGET:
+                continue
+            used_slots.add("Off-Hand")
+            hands += 1
+        elif slot == "Quiver":
+            if "Quiver" in used_slots or not have_bow:
+                continue             # a quiver is only legal with a bow equipped
+            used_slots.add("Quiver")
+        # else: unknown slot -> keep, no constraint
         equipment.append(slug)
     return equipment
 
@@ -187,33 +243,37 @@ def resolve(pool: dict, target: int = CC_MIN_DECK, opp_hero: str | None = None,
     for slug, qty in overrides.items():
         counts[slug] = int(qty)        # override (0 = cut for this matchup)
 
-    # Split into starting-equipment candidates vs maindeck cards (Evo/instant
-    # "equipment" is not pure Equipment/Weapon -> falls into the deck).
+    # Maindeck: every NON-(starting-equipment) card at its (overridden) count.
+    # Starting equipment is a SLOT decision, not a maindeck quantity, so it is
+    # handled separately below and never enters the deck. (Evo/instant "equipment"
+    # is also a playable type, so _is_starting_equipment is false and it stays a
+    # deck card.)
     deck: list[str] = []
-    start_candidates: list[str] = []
     for slug, c in counts.items():
-        if c <= 0:
+        if c <= 0 or _is_starting_equipment(slug):
             continue
-        if _is_starting_equipment(slug):
-            start_candidates.append(slug)   # 1 per slot anyway; expanded copies irrelevant
-        else:
-            deck.extend([slug] * c)
+        deck.extend([slug] * c)
 
-    equipment = _select_equipment(start_candidates)
-    if not equipment:
-        # No starting loadout, two real causes -> "no equipment" illegal:
-        #  (a) overrides cut every equipment slug — the BC sideboard model
-        #      predicts maindeck-style quantities and can wrongly zero equipment;
-        #  (b) the author registered ALL equipment as SIDEBOARD (sideboardQuantity,
-        #      maindeck quantity 0) — flexible armor picked per matchup — so the
-        #      base `equipment` list is empty.
-        # Equipment is a starting SLOT, not a maindeck count, so fall back to the
-        # pool's full registered equipment (maindeck + sideboard); _select_equipment
-        # then builds a legal <=1-per-slot loadout. If the pool truly registers no
-        # equipment at all, it stays [] and cc_legal_issues flags it.
-        base_eq = [s for s in ((pool.get("equipment") or []) + (pool.get("sideboard_equipment") or []))
-                   if _is_starting_equipment(s)]
-        equipment = _select_equipment(base_eq)
+    # Equipment loadout. Build from the pool's FULL registered equipment
+    # (maindeck equipment + sideboard equipment + anything in counts), NOT from
+    # the override-filtered counts. WHY: the sideboard model scores equipment like
+    # 0..3 maindeck cards and can ZERO a hero's only Head/Chest/Legs piece, which
+    # used to leave that armor slot empty while weapons filled the loadout (the
+    # "weapons crowd out armor" bug). Equipment is a slot, not a count -- so an
+    # override only expresses a PREFERENCE: kept pieces (count>0) are ordered first
+    # so they win their slot for matchup-aware swaps, but every slot still fills
+    # from any registered candidate, so a hero is never sent out missing armor it
+    # owns. _select_equipment then enforces <=1 per body slot + the 2-hand budget.
+    registered_eq = [s for s in dict.fromkeys(
+        (pool.get("equipment") or [])
+        + (pool.get("sideboard_equipment") or [])
+        + list(counts.keys()))
+        if _is_starting_equipment(s)]
+    eq_candidates = ([s for s in registered_eq if counts.get(s, 0) > 0]
+                     + [s for s in registered_eq if counts.get(s, 0) <= 0])
+    equipment = _select_equipment(eq_candidates)
+    # If the pool genuinely registers no equipment at all, equipment stays [] and
+    # cc_legal_issues flags it (real under-registration, not an override artifact).
 
     # Top the maindeck up to target from the sideboard (3-per-slug, Unlimited-exempt).
     if len(deck) < target:
@@ -262,11 +322,24 @@ def cc_legal_issues(deck: dict) -> list[str]:
             if c > MAX_COPIES and not _is_unlimited(s)]
     if over:
         issues.append(f"over copy limit: {over}")
-    slot_counts = Counter(s for s in (_slot(x) for x in deck.get("equipment") or [])
-                          if s in _ARMOR_SLOTS)
+    eq = deck.get("equipment") or []
+    slot_counts = Counter(s for s in (_slot(x) for x in eq) if s in _ARMOR_SLOTS)
     dup_slots = [f"{sl} x{c}" for sl, c in slot_counts.items() if c > 1]
     if dup_slots:
         issues.append(f"duplicate equipment slots: {dup_slots}")
+    # Hand budget: weapons + off-hand can't exceed two hands (a 2H weapon takes
+    # both). Talishar's headless game-start does NOT validate decks (createGame
+    # trusts the pre-built deck files — the web deck-submission validator is
+    # bypassed), so THIS is the only thing standing between an illegal loadout
+    # and a played game. Keep it in lockstep with _select_equipment.
+    hands = sum(_hand_cost(s) if _slot(s) == "Weapon" else (1 if _slot(s) == "Off-Hand" else 0)
+                for s in eq)
+    if hands > _HAND_BUDGET:
+        issues.append(f"loadout needs {hands} hands (max {_HAND_BUDGET})")
+    # A quiver is only legal alongside a bow.
+    if any(_slot(s) == "Quiver" for s in eq) and not any(
+            _slot(s) == "Weapon" and _is_bow(s) for s in eq):
+        issues.append("quiver without a bow")
     return issues
 
 

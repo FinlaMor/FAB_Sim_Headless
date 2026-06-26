@@ -2099,3 +2099,77 @@ DRAW maxx_the_hype_nitro vs riptide_lurker_of_the_deep | steps=800 | life P1=15 
   last100 action-types: {'ACTIVATE_HERO_OR_EQUIP': 35, 'PLAY_FROM_HAND': 22, 'DECISION': 15, 'PASS': 12, 'PLAY_FROM_ARSENAL': 8, 'CHOOSE_PDECK': 7, 'ARSENAL_FROM_HAND': 1}
   most-repeated (phase,type,card): [(('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'barbed_castaway'), 21), (('BUTTONINPUT', 'DECISION', None), 15), (('M', 'PASS', None), 8), (('M', 'PLAY_FROM_ARSENAL', 'crankshaft_blue'), 8)]
 ----------------------------------------------------------------------
+DRAW dorinthea_ironsong vs oscilio_constella_intelligence | steps=800 | life P1=34 P2=20 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 50, 'M': 50}
+  last100 action-types: {'PLAY_FROM_ARSENAL': 50, 'PASS': 50}
+  most-repeated (phase,type,card): [(('INSTANT', 'PLAY_FROM_ARSENAL', 'comet_storm__shock_red'), 50), (('M', 'PASS', None), 50)]
+----------------------------------------------------------------------
+DRAW levia_shadowborn_abomination vs prism_awakener_of_sol | steps=800 | life P1=40 P2=29 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 50, 'INSTANT': 50}
+  last100 action-types: {'PLAY_FROM_HAND': 100}
+  most-repeated (phase,type,card): [(('M', 'PLAY_FROM_HAND', 'clash_of_agility_blue'), 50), (('INSTANT', 'PLAY_FROM_HAND', 'merciful_retribution_yellow'), 50)]
+----------------------------------------------------------------------
+DRAW valda_seismic_impact vs zyggy_starlight | steps=800 | life P1=37 P2=9 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 100}
+  last100 action-types: {'PASS': 50, 'PLAY_FROM_HAND': 50}
+  most-repeated (phase,type,card): [(('M', 'PASS', None), 50), (('M', 'PLAY_FROM_HAND', 'macho_grande_blue'), 50)]
+----------------------------------------------------------------------
+DRAW kassai_of_the_golden_sand vs prism_awakener_of_sol | steps=800 | life P1=40 P2=26 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 50, 'M': 50}
+  last100 action-types: {'PLAY_FROM_HAND': 50, 'PASS': 50}
+  most-repeated (phase,type,card): [(('INSTANT', 'PLAY_FROM_HAND', 'figment_of_ravages_yellow'), 50), (('M', 'PASS', None), 50)]
+----------------------------------------------------------------------
+DRAW gravy_bones_shipwrecked_looter vs valda_seismic_impact | steps=800 | life P1=38 P2=40 | STUCK no-life-change/last100 | hit step_cap  <<GRAVY BONES>>
+  last100 phases: {'INSTANT': 40, 'M': 30, 'CHOOSEMULTIZONE': 20, 'OK': 10}
+  last100 action-types: {'PASS': 40, 'PLAY_FROM_HAND': 30, 'CHOOSE_CHOOSEMULTIZONE': 20, 'ACTIVATE_HERO_OR_EQUIP': 10}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 30), (('M', 'PLAY_FROM_HAND', 'macho_grande_blue'), 20), (('M', 'PLAY_FROM_HAND', 'wailer_humperdinck_yellow'), 10), (('CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), 10)]
+  [gravy P1] end zones: {'graveyard': 14, 'soul': 0, 'banished': 0, 'pitch': 0, 'arsenal': 1, 'hand': 4}
+  [gravy] last 12 actions: [(788, 'P1', 'INSTANT', 'PASS', None), (789, 'P1', 'OK', 'PASS', None), (790, 'P1', 'INSTANT', 'PASS', None), (791, 'P2', 'M', 'PLAY_FROM_HAND', 'macho_grande_blue'), (792, 'P2', 'CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRALLY-0'), (793, 'P1', 'INSTANT', 'PASS', None), (794, 'P1', 'M', 'PLAY_FROM_HAND', 'wailer_humperdinck_yellow'), (795, 'P2', 'M', 'PLAY_FROM_HAND', 'macho_grande_blue'), (796, 'P2', 'CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), (797, 'P1', 'INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), (798, 'P1', 'INSTANT', 'PASS', None), (799, 'P1', 'OK', 'PASS', None)]
+----------------------------------------------------------------------
+DRAW tuffnut_bumbling_hulkster vs victor_goldmane_high_and_mighty | steps=800 | life P1=33 P2=35 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 75, 'INSTANT': 25}
+  last100 action-types: {'PASS': 50, 'PLAY_FROM_HAND': 25, 'ACTIVATE_HERO_OR_EQUIP': 25}
+  most-repeated (phase,type,card): [(('M', 'PASS', None), 50), (('M', 'PLAY_FROM_HAND', 'tough_smashup_yellow'), 25), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'tuffnut_bumbling_hulkster'), 25)]
+----------------------------------------------------------------------
+DRAW cindra_dracai_of_retribution vs fai_rising_rebellion | steps=800 | life P1=24 P2=39 | life moving | hit step_cap
+  last100 phases: {'INSTANT': 36, 'P': 17, 'M': 14, 'B': 12, 'PDECK': 11, 'A': 5, 'D': 5}
+  last100 action-types: {'PASS': 47, 'PLAY_FROM_HAND': 24, 'CHOOSE_PDECK': 11, 'PLAY_FROM_ARSENAL': 8, 'ACTIVATE_HERO_OR_EQUIP': 6, 'BLOCK_WITH_EQUIP': 4}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 30), (('M', 'PLAY_FROM_ARSENAL', 'breaking_point_red'), 6), (('B', 'PASS', None), 5), (('A', 'PASS', None), 5)]
+----------------------------------------------------------------------
+DRAW cindra_dracai_of_retribution vs fai_rising_rebellion | steps=800 | life P1=33 P2=32 | life moving | hit step_cap
+  last100 phases: {'INSTANT': 41, 'P': 15, 'M': 13, 'B': 12, 'PDECK': 8, 'A': 6, 'D': 5}
+  last100 action-types: {'PASS': 57, 'PLAY_FROM_HAND': 23, 'CHOOSE_PDECK': 8, 'ACTIVATE_HERO_OR_EQUIP': 5, 'PLAY_FROM_ARSENAL': 4, 'BLOCK_WITH_EQUIP': 3}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 37), (('B', 'PASS', None), 6), (('A', 'PASS', None), 5), (('D', 'PASS', None), 5)]
+----------------------------------------------------------------------
+DRAW betsy_skin_in_the_game vs oscilio_forked_continuum | steps=800 | life P1=27 P2=27 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 34, 'M': 33, 'DYNPITCH': 33}
+  last100 action-types: {'PLAY_FROM_HAND': 67, 'DECISION': 33}
+  most-repeated (phase,type,card): [(('INSTANT', 'PLAY_FROM_HAND', 'nebula_duality_blue'), 34), (('M', 'PLAY_FROM_HAND', 'roiling_fissure_blue'), 33), (('DYNPITCH', 'DECISION', None), 33)]
+----------------------------------------------------------------------
+DRAW gravy_bones_shipwrecked_looter vs valda_seismic_impact | steps=800 | life P1=19 P2=41 | life moving | hit step_cap  <<GRAVY BONES>>
+  last100 phases: {'INSTANT': 39, 'M': 17, 'P': 11, 'B': 9, 'CHOOSEMULTIZONE': 7, 'OK': 5, 'PDECK': 4, 'A': 3, 'D': 3, 'ORDERTRIGGERS': 1, 'MULTICHOOSEHAND': 1}
+  last100 action-types: {'PASS': 51, 'PLAY_FROM_HAND': 25, 'ACTIVATE_HERO_OR_EQUIP': 9, 'CHOOSE_CHOOSEMULTIZONE': 7, 'CHOOSE_PDECK': 4, 'PLAY_FROM_ARSENAL': 2, 'BLOCK_WITH_EQUIP': 1, 'DECISION': 1}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 33), (('CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), 5), (('INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), 5), (('OK', 'PASS', None), 5)]
+  [gravy P1] end zones: {'graveyard': 55, 'soul': 0, 'banished': 0, 'pitch': 0, 'arsenal': 1, 'hand': 4}
+  [gravy] last 12 actions: [(788, 'P1', 'M', 'PASS', None), (789, 'P1', 'INSTANT', 'PASS', None), (790, 'P1', 'PDECK', 'CHOOSE_PDECK', 'shelly_hardened_traveler_yellow'), (791, 'P2', 'M', 'PLAY_FROM_HAND', 'debilitate_blue'), (792, 'P2', 'CHOOSEMULTIZONE', 'CHOOSE_CHOOSEMULTIZONE', 'THEIRCHAR-0'), (793, 'P2', 'P', 'PLAY_FROM_HAND', 'sink_below_red'), (794, 'P2', 'P', 'PLAY_FROM_HAND', 'macho_grande_blue'), (795, 'P1', 'INSTANT', 'ACTIVATE_HERO_OR_EQUIP', 'compass_of_sunken_depths'), (796, 'P1', 'INSTANT', 'PASS', None), (797, 'P1', 'OK', 'PASS', None), (798, 'P1', 'INSTANT', 'PASS', None), (799, 'P1', 'B', 'ACTIVATE_HERO_OR_EQUIP', 'mage_master_boots')]
+----------------------------------------------------------------------
+DRAW arakni_huntsman vs bravo_showstopper | steps=800 | life P1=49 P2=10 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 100}
+  last100 action-types: {'PLAY_FROM_ARSENAL': 50, 'PASS': 50}
+  most-repeated (phase,type,card): [(('M', 'PLAY_FROM_ARSENAL', 'cranial_crush_blue'), 50), (('M', 'PASS', None), 50)]
+----------------------------------------------------------------------
+DRAW katsu_the_wanderer vs prism_awakener_of_sol | steps=800 | life P1=33 P2=4 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 50, 'M': 50}
+  last100 action-types: {'PLAY_FROM_HAND': 100}
+  most-repeated (phase,type,card): [(('INSTANT', 'PLAY_FROM_HAND', 'figment_of_triumph_yellow'), 50), (('M', 'PLAY_FROM_HAND', 'surging_strike_red'), 50)]
+----------------------------------------------------------------------
+DRAW lyath_goldmane_vile_savant vs prism_awakener_of_sol | steps=800 | life P1=38 P2=16 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'INSTANT': 75, 'M': 25}
+  last100 action-types: {'PASS': 75, 'PLAY_FROM_HAND': 25}
+  most-repeated (phase,type,card): [(('INSTANT', 'PASS', None), 50), (('INSTANT', 'PLAY_FROM_HAND', 'arc_light_sentinel_yellow'), 25), (('M', 'PASS', None), 25)]
+----------------------------------------------------------------------
+DRAW betsy_skin_in_the_game vs prism_awakener_of_sol | steps=800 | life P1=40 P2=32 | STUCK no-life-change/last100 | hit step_cap
+  last100 phases: {'M': 50, 'INSTANT': 50}
+  last100 action-types: {'PLAY_FROM_ARSENAL': 50, 'PLAY_FROM_HAND': 50}
+  most-repeated (phase,type,card): [(('M', 'PLAY_FROM_ARSENAL', 'bet_big_red'), 50), (('INSTANT', 'PLAY_FROM_HAND', 'figment_of_protection_yellow'), 50)]
+----------------------------------------------------------------------

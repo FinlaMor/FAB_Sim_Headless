@@ -1,11 +1,8 @@
 {
   "hero": "prism_awakener_of_sol",
-  "comment": "CC game deck: prism_awakener_of_sol vs lyath_goldmane_vile_savant (matchup=model)",
+  "comment": "CC game deck: prism_awakener_of_sol vs katsu_the_wanderer (matchup=model)",
   "equipment": [
-    "dream_weavers",
-    "empyrean_rapture",
-    "halo_of_illumination",
-    "luminaris_angels_glow",
+    "calming_gesture",
     "phantasmal_footsteps"
   ],
   "deck": [
@@ -81,9 +78,6 @@
     "merciful_retribution_yellow",
     "merciful_retribution_yellow",
     "merciful_retribution_yellow",
-    "passing_mirage_blue",
-    "passing_mirage_blue",
-    "passing_mirage_blue",
     "soul_shield_yellow",
     "soul_shield_yellow",
     "soul_shield_yellow",

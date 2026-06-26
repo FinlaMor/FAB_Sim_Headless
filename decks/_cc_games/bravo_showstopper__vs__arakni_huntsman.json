@@ -2,11 +2,11 @@
   "hero": "bravo_showstopper",
   "comment": "CC game deck: bravo_showstopper vs arakni_huntsman (matchup=model)",
   "equipment": [
+    "civic_steps",
     "crown_of_providence",
     "fyendals_spring_tunic",
-    "nullrune_boots",
-    "nullrune_gloves",
-    "steelbraid_buckler",
+    "gauntlets_of_iron_will",
+    "anothos",
     "titans_fist"
   ],
   "deck": [
@@ -73,6 +73,9 @@
     "oasis_respite_red",
     "oasis_respite_red",
     "oasis_respite_red",
+    "remembrance_yellow",
+    "remembrance_yellow",
+    "remembrance_yellow",
     "sink_below_red",
     "sink_below_red",
     "sink_below_red",

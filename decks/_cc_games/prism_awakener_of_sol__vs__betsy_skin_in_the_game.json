@@ -1,12 +1,8 @@
 {
   "hero": "prism_awakener_of_sol",
-  "comment": "CC game deck: prism_awakener_of_sol vs lyath_goldmane_vile_savant (matchup=model)",
+  "comment": "CC game deck: prism_awakener_of_sol vs betsy_skin_in_the_game (matchup=model)",
   "equipment": [
-    "dream_weavers",
-    "empyrean_rapture",
-    "halo_of_illumination",
-    "luminaris_angels_glow",
-    "phantasmal_footsteps"
+    "calming_gesture"
   ],
   "deck": [
     "angelic_attendant_yellow",
@@ -78,6 +74,9 @@
     "herald_of_victoria_yellow",
     "herald_of_victoria_yellow",
     "herald_of_victoria_yellow",
+    "light_of_sol_yellow",
+    "light_of_sol_yellow",
+    "light_of_sol_yellow",
     "merciful_retribution_yellow",
     "merciful_retribution_yellow",
     "merciful_retribution_yellow",

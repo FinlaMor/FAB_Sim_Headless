@@ -2,10 +2,11 @@
   "hero": "fang_dracai_of_blades",
   "comment": "CC game deck: fang_dracai_of_blades vs hala_bladesaint_of_the_vow (matchup=model)",
   "equipment": [
-    "braveforge_bracers",
     "obsidian_fire_vein",
+    "valiant_dynamo",
     "arcanite_fortress",
-    "arcanite_skullcap"
+    "arcanite_skullcap",
+    "nullrune_gloves"
   ],
   "deck": [
     "affirm_loyalty_red",
